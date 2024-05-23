@@ -1,5 +1,5 @@
 '''BA organizes its minor league free agent list by team. This file provides a Python list to systematically
-scrape BA's webpaget.'''
+scrape BA's webpage.'''
 
 teams_pre_23 = [
     'Arizona Diamondbacks',
