@@ -20,37 +20,29 @@ for s in article_body:
     free_agents_by_team = [x for x in free_agents_by_team if x != '']
 
 free_agents_by_team = free_agents_by_team[6:]
-#print(re.findall('\w*:', free_agents_by_team[8]))
-find_teams = regex.search(r'^\w+\.?\s\w+\s(Royals|Dodgers|Angels|Mets|Yankees|Padres|Giants|Cardinals|Jays)?', free_agents_by_team[20])
-
-#print(len(players))
-#print(type(players[1]))
-#print(players)
-
-'''for team in free_agents_by_team:
-    found_team = regex.search(r'^\w+\.?\s\w+\s(Royals|Dodgers|Angels|Mets|Yankees|Padres|Giants|Cardinals|Jays|Rays|Sox)?', team)
-    print(found_team.group(0))'''
 
 # Define the regex pattern
-player_by_position = r"([A-Z0-9]+):\s*([^:]+?(?=\s*[A-Z0-9]+:|\s*$))"
-find_player = r'\w+\s\w+.\w+\s\(\w+\s?\w?\)'
+find_teams = r'^\w+\.?\s\w+\s(Royals|Dodgers|Angels|Mets|Yankees|Padres|Giants|Cardinals|Jays)?'
+find_players_by_position = r'([A-Z0-9]+):\s*([^:]+?(?=\s*[A-Z0-9]+:|\s*$))'
+find_player = r'(.+?)\s*\((.+?)\)'
 
-# Find all matches
-matches = regex.findall(player_by_position, free_agents_by_team[2])
+player_dict = {}
 
-# Convert matches to the desired list format
-result = [f"{position}: {players}" for position, players in matches]
+for team in free_agents_by_team:
+    matches = regex.findall(find_players_by_position, team)
+    result = [f"{position}: {players}" for position, players in matches]
+    team_name = regex.search(find_teams, team)
+    for position, players in matches:
+        player_list = players.split(", ")
+        for player in player_list:
+            match = regex.match(find_player, player)
+            if match:
+                player_name = match.group(1).strip()
+                player_level = match.group(2).strip()
+                player_dict[player_name] = (team_name.group(0), position, player_level)
 
-for group in result:
-    position = r'([A-Z0-9]+):'
-    level = r'\(\w+\s?\w?\)'
 
-
-'''Baltimore Orioles RHP: Jesse Beal (Hi A), Pedro Beato (AAA), Bobby Bundy (AA), Matt Buschmann (AAA), Terry Doyle (AAA), Eddie Gamboa (AAA), 
-Matt Hobgood (AA), Kenn Kasparek (AA), Williams Louico (Lo A), Jose Mateo (AA), Mikey O’Brien (Hi A), Marcel Prado (AA), Andrew Robinson (AA), 
-Jason Stoffel (AA), Elih Villanueva (AAA) LHP: Mike Belfiore (AAA), Sean Bierman (Hi A), Pat McCoy (AAA), Andy Oliver (AAA), Ronan Pacheco (Hi A), 
-Jhonathan Ramos (AA), Cody Wheeler (Hi A) C: Zach Booker (AAA), Shawn McGill (AA), Pedro Perez (Hi A), Rossmel Perez (AAA), Joel Polanco (AA) 
-1B: Brandon Snyder (AA) 2B: Derrik Gibson (AAA), Sharlon Schoop (AAA) OF: Julio Borbon (AAA), Sean Halton (AAA), Anthony Hewitt (Hi A)'''
+print(len(player_dict))
 
 '''
 Goal is to return dictionary with the following format:
