@@ -10,6 +10,7 @@ The code returns a dictionary with the following format:
 import requests
 from bs4 import BeautifulSoup
 import regex
+import polars as pl
 
 # Define the regex patterns 
 find_teams = r'^\w+\.?\s\w+\s(Royals|Dodgers|Angels|Mets|Yankees|Padres|Giants|Cardinals|Jays|Sox|Rays)?'
@@ -17,7 +18,7 @@ find_players_by_position = r'([A-Z0-9]+):\s*([^:]+?(?=\s*[A-Z0-9]+:|\s*$))'
 find_player = r'(.+?)\s*\((.+?)\)'
 
 #Create empty dictionary
-player_dict = {}
+all_players = []
 
 #List of webpages
 webpages = [
@@ -25,6 +26,8 @@ webpages = [
     'https://web.archive.org/web/20141110163331/https://www.baseballamerica.com/minors/minor-league-free-agents-2014/',
     'https://web.archive.org/web/20151114021021/https://www.baseballamerica.com/minors/minor-league-free-agents-2015/'
 ]
+
+fa_class = 2013
 
 #Scrape webpage to isolate a list of Minor League Free Agents for each team
 for webpage in webpages:
@@ -52,8 +55,11 @@ for webpage in webpages:
                     player_team = team_name.group(0).strip()
                     player_name = match.group(1).strip()
                     player_level = match.group(2).strip()
-                    player_dict[player_name] = (player_team, position, player_level)
+                    all_players.append({'player_name': player_name, 'team': player_team, 'fa_class': fa_class, 
+                                        'position': position, 'minor_league_level': player_level})
+    
+    fa_class += 1
 
 
-print(player_dict)
-
+df = pl.DataFrame(data=all_players)
+df.write_csv('../files/fas_13_15.csv')
