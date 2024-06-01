@@ -33,11 +33,8 @@ def get_id(players_list):
 
     return players
 
-df = get_id(ben_2015)
-print(df)
+#df = get_id(ben_2015)
+#print(df)
 
 
-batting_15 = pl.DataFrame(pitching_stats(2015, qual=0))
-axford_df = batting_15.filter(pl.col('IDfg') == 9059)
-print(axford_df)
 
