@@ -1,0 +1,1701 @@
+player_name,team,fa_class,position,minor_league_level,first_name_lower,last_name_lower,normed_position
+Nate Adcock,Arizona Diamondbacks,2013,RHP,AAA,nate,adcock,pitcher
+Shawn Camp,Arizona Diamondbacks,2013,RHP,AAA,shawn,camp,pitcher
+Matt Wright,Arizona Diamondbacks,2013,RHP,AAA,matt,wright,pitcher
+Steve Garrison,Arizona Diamondbacks,2013,LHP,AA,steve,garrison,pitcher
+Mike Brenly,Arizona Diamondbacks,2013,C,AAA,mike,brenly,batter
+Ed Easley,Arizona Diamondbacks,2013,C,AAA,ed,easley,batter
+Rossmel Perez,Arizona Diamondbacks,2013,C,AA,rossmel,perez,batter
+Jake Fox,Arizona Diamondbacks,2013,1B,AAA,jake,fox,batter
+Taylor Harbin,Arizona Diamondbacks,2013,2B,AAA,taylor,harbin,batter
+Sawyer Carroll,Arizona Diamondbacks,2013,OF,AA,sawyer,carroll,batter
+Dustin Martin,Arizona Diamondbacks,2013,OF,AA,dustin,martin,batter
+Juan Rivera,Arizona Diamondbacks,2013,OF,AAA,juan,rivera,batter
+Brad Snyder,Arizona Diamondbacks,2013,OF,AAA,brad,snyder,batter
+Brett Cammons*,Atlanta Braves,2013,RHP,AA,brett,cammons*,pitcher
+Pat Egan,Atlanta Braves,2013,RHP,AA,pat,egan,pitcher
+Gary Moran,Atlanta Braves,2013,RHP,AA,gary,moran,pitcher
+Omar Poveda,Atlanta Braves,2013,RHP,AAA,omar,poveda,pitcher
+Benino Pruneda*,Atlanta Braves,2013,RHP,AA,benino,pruneda*,pitcher
+Joe Beimel,Atlanta Braves,2013,LHP,AAA,joe,beimel,pitcher
+Juan Cedeno,Atlanta Braves,2013,LHP,AAA,juan,cedeno,pitcher
+Yohan Flande,Atlanta Braves,2013,LHP,AAA,yohan,flande,pitcher
+Jose Lugo,Atlanta Braves,2013,LHP,Hi A,jose,lugo,pitcher
+Shawn McGill,Atlanta Braves,2013,C,Hi A,shawn,mcgill,batter
+Jose Yepez,Atlanta Braves,2013,C,AAA,jose,yepez,batter
+Alden Carrithers,Atlanta Braves,2013,2B,AAA,alden,carrithers,batter
+Jaime Pedroza,Atlanta Braves,2013,SS,AA,jaime,pedroza,batter
+Stefan Gartrell,Atlanta Braves,2013,OF,AAA,stefan,gartrell,batter
+Greg Golson,Atlanta Braves,2013,OF,AA,greg,golson,batter
+Christian Marrero,Atlanta Braves,2013,OF,AA,christian,marrero,batter
+Jose Martinez,Atlanta Braves,2013,OF,AA,jose,martinez,batter
+Tim Alderson,Baltimore Orioles,2013,RHP,AAA,tim,alderson,pitcher
+Tim Bascom,Baltimore Orioles,2013,RHP,AA,tim,bascom,pitcher
+Eric Beaulac,Baltimore Orioles,2013,RHP,AAA,eric,beaulac,pitcher
+Zach Clark,Baltimore Orioles,2013,RHP,Hi A,zach,clark,pitcher
+Manny Delcarmen,Baltimore Orioles,2013,RHP,AAA,manny,delcarmen,pitcher
+Daniel McCutchen,Baltimore Orioles,2013,RHP,AA,daniel,mccutchen,pitcher
+Jose Nivar,Baltimore Orioles,2013,RHP,Lo A,jose,nivar,pitcher
+Stu Pomeranz*,Baltimore Orioles,2013,RHP,AA,stu,pomeranz*,pitcher
+Adam Russell,Baltimore Orioles,2013,RHP,AAA,adam,russell,pitcher
+Zech Zinicola,Baltimore Orioles,2013,RHP,AA,zech,zinicola,pitcher
+Mark Hendrickson,Baltimore Orioles,2013,LHP,AAA,mark,hendrickson,pitcher
+Daniel Schlereth,Baltimore Orioles,2013,LHP,AAA,daniel,schlereth,pitcher
+Allan de San Miguel,Baltimore Orioles,2013,C,Hi A,allan,de san miguel,batter
+Luis Exposito,Baltimore Orioles,2013,C,AAA,luis,exposito,batter
+Luis Martinez,Baltimore Orioles,2013,C,AA,luis,martinez,batter
+Seth Loman,Baltimore Orioles,2013,1B,AA,seth,loman,batter
+Travis Adair,Baltimore Orioles,2013,2B,AA,travis,adair,batter
+Josh Horton,Baltimore Orioles,2013,2B,AA,josh,horton,batter
+Alex Liddi,Baltimore Orioles,2013,3B,AAA,alex,liddi,batter
+Brandon Waring,Baltimore Orioles,2013,3B,AA,brandon,waring,batter
+Zelous Wheeler,Baltimore Orioles,2013,3B,AAA,zelous,wheeler,batter
+Yamaico Navarro,Baltimore Orioles,2013,SS,AAA,yamaico,navarro,batter
+Niuman Romero,Baltimore Orioles,2013,SS,AA,niuman,romero,batter
+George Barber,Baltimore Orioles,2013,OF,Lo A,george,barber,batter
+Scott Beerer,Baltimore Orioles,2013,OF,AAA,scott,beerer,batter
+Kyle Hudson,Baltimore Orioles,2013,OF,AA,kyle,hudson,batter
+Trayvon Robinson,Baltimore Orioles,2013,OF,AA,trayvon,robinson,batter
+Anthony Carter,Boston Red Sox,2013,RHP,AAA,anthony,carter,pitcher
+Miguel Celestino,Boston Red Sox,2013,RHP,AA,miguel,celestino,pitcher
+Terry Doyle,Boston Red Sox,2013,RHP,AAA,terry,doyle,pitcher
+Marco Duarte,Boston Red Sox,2013,RHP,AAA,marco,duarte,pitcher
+Charlie Haeger,Boston Red Sox,2013,RHP,AAA,charlie,haeger,pitcher
+Brock Huntzinger,Boston Red Sox,2013,RHP,AAA,brock,huntzinger,pitcher
+Bobby Lanigan,Boston Red Sox,2013,RHP,AA,bobby,lanigan,pitcher
+Gerardo Olivares,Boston Red Sox,2013,RHP,Lo A,gerardo,olivares,pitcher
+Nate Striz,Boston Red Sox,2013,RHP,Hi A,nate,striz,pitcher
+Will Latimer,Boston Red Sox,2013,LHP,AAA,will,latimer,pitcher
+Matt Maloney,Boston Red Sox,2013,LHP,AA,matt,maloney,pitcher
+Jack McGeary,Boston Red Sox,2013,LHP,Lo A,jack,mcgeary,pitcher
+Eric Niesen,Boston Red Sox,2013,LHP,AA,eric,niesen,pitcher
+Rafael Perez,Boston Red Sox,2013,LHP,AA,rafael,perez,pitcher
+Manny Rivera,Boston Red Sox,2013,LHP,Lo A,manny,rivera,pitcher
+Ryan Rowland-Smith,Boston Red Sox,2013,LHP,AAA,ryan,rowland-smith,pitcher
+Alberto Rosario,Boston Red Sox,2013,C,AA,alberto,rosario,batter
+Matt Spring,Boston Red Sox,2013,C,AA,matt,spring,batter
+Mark Hamilton,Boston Red Sox,2013,1B,AAA,mark,hamilton,batter
+Brandon Snyder,Boston Red Sox,2013,1B,AAA,brandon,snyder,batter
+Ryan Dent,Boston Red Sox,2013,2B,AA,ryan,dent,batter
+Justin Henry,Boston Red Sox,2013,2B,AAA,justin,henry,batter
+Drew Sutton,Boston Red Sox,2013,2B,AAA,drew,sutton,batter
+Tony Thomas,Boston Red Sox,2013,2B,AAA,tony,thomas,batter
+Mario Martinez,Boston Red Sox,2013,3B,Lo A,mario,martinez,batter
+Jonathan Diaz,Boston Red Sox,2013,SS,AAA,jonathan,diaz,batter
+Vladimir Frias,Boston Red Sox,2013,SS,Hi A,vladimir,frias,batter
+Ronald Bermudez,Boston Red Sox,2013,OF,AA,ronald,bermudez,batter
+Quintin Berry,Boston Red Sox,2013,OF,AAA,quintin,berry,batter
+Mitch Maier,Boston Red Sox,2013,OF,AAA,mitch,maier,batter
+Alex Burnett,Chicago Cubs,2013,RHP,AAA,alex,burnett,pitcher
+Yeiper Castillo,Chicago Cubs,2013,RHP,AA,yeiper,castillo,pitcher
+Jaye Chapman,Chicago Cubs,2013,RHP,AAA,jaye,chapman,pitcher
+Johermyn Chavez,Chicago Cubs,2013,RHP,R,johermyn,chavez,pitcher
+Rafael Dolis,Chicago Cubs,2013,RHP,AAA,rafael,dolis,pitcher
+Zach Putnam,Chicago Cubs,2013,RHP,AAA,zach,putnam,pitcher
+Henry Rodriguez,Chicago Cubs,2013,RHP,AAA,henry,rodriguez,pitcher
+Casey Weathers*,Chicago Cubs,2013,RHP,AA,casey,weathers*,pitcher
+Jeffry Antigua,Chicago Cubs,2013,LHP,AAA,jeffry,antigua,pitcher
+Kyler Burke,Chicago Cubs,2013,LHP,HI A,kyler,burke,pitcher
+Nathan Maldonado,Chicago Cubs,2013,C,Lo A,nathan,maldonado,batter
+Brad Nelson,Chicago Cubs,2013,1B,AAA,brad,nelson,batter
+Nate Samson,Chicago Cubs,2013,2B,AA,nate,samson,batter
+Edwin Maysonet,Chicago Cubs,2013,SS,AAA,edwin,maysonet,batter
+Tim Torres,Chicago Cubs,2013,SS,AAA,tim,torres,batter
+Cole Gillespie,Chicago Cubs,2013,OF,AAA,cole,gillespie,batter
+Ty Wright,Chicago Cubs,2013,OF,AAA,ty,wright,batter
+Jason Berken,Chicago White Sox,2013,RHP,AAA,jason,berken,pitcher
+Scott Carroll,Chicago White Sox,2013,RHP,AA,scott,carroll,pitcher
+Simon Castro,Chicago White Sox,2013,RHP,AAA,simon,castro,pitcher
+Johansel Delgado,Chicago White Sox,2013,RHP,DSL,johansel,delgado,pitcher
+Jhan Marinez,Chicago White Sox,2013,RHP,AAA,jhan,marinez,pitcher
+Travis Ishikawa,Chicago White Sox,2013,1B,AAA,travis,ishikawa,batter
+Steve Tolleson,Chicago White Sox,2013,SS,AAA,steve,tolleson,batter
+Jimmy Gallagher,Chicago White Sox,2013,OF,AAA,jimmy,gallagher,batter
+Trevor Bell,Cincinnati Reds,2013,RHP,AAA,trevor,bell,pitcher
+Parker Frazier,Cincinnati Reds,2013,RHP,AA,parker,frazier,pitcher
+Yohan Pino,Cincinnati Reds,2013,RHP,AAA,yohan,pino,pitcher
+Kanekoa Texeira,Cincinnati Reds,2013,RHP,AAA,kanekoa,texeira,pitcher
+Loek Van Mil,Cincinnati Reds,2013,RHP,AAA,loek,van mil,pitcher
+Kevin Whelan,Cincinnati Reds,2013,RHP,AAA,kevin,whelan,pitcher
+Lee Hyde,Cincinnati Reds,2013,LHP,AA,lee,hyde,pitcher
+Nevin Ashley,Cincinnati Reds,2013,C,AAA,nevin,ashley,batter
+Matt Kennelly,Cincinnati Reds,2013,C,AAA,matt,kennelly,batter
+Mike Hessman,Cincinnati Reds,2013,1B,AAA,mike,hessman,batter
+Jason Donald,Cincinnati Reds,2013,2B,AAA,jason,donald,batter
+Corey Wimberly,Cincinnati Reds,2013,2B,AA,corey,wimberly,batter
+Emmanuel Burriss,Cincinnati Reds,2013,SS,AAA,emmanuel,burriss,batter
+Denis Phipps,Cincinnati Reds,2013,OF,AAA,denis,phipps,batter
+Brandon Short,Cincinnati Reds,2013,OF,AA,brandon,short,batter
+Rob Bryson,Cleveland Indians,2013,RHP,AA,rob,bryson,pitcher
+Paolo Espino,Cleveland Indians,2013,RHP,AAA,paolo,espino,pitcher
+Jose Flores,Cleveland Indians,2013,RHP,AA,jose,flores,pitcher
+Jerry Gil,Cleveland Indians,2013,RHP,AAA,jerry,gil,pitcher
+Francisco Jimenez,Cleveland Indians,2013,LHP,AA,francisco,jimenez,pitcher
+J.C. Romero,Cleveland Indians,2013,LHP,AAA,j.c.,romero,pitcher
+Matt Colantonio,Cleveland Indians,2013,C,AAA,matt,colantonio,batter
+Matt LaPorta,Cleveland Indians,2013,1B,AAA,matt,laporta,batter
+Luis Hernandez,Cleveland Indians,2013,2B,AAA,luis,hernandez,batter
+Nate Spears,Cleveland Indians,2013,2B,AAA,nate,spears,batter
+Juan Diaz,Cleveland Indians,2013,SS,AAA,juan,diaz,batter
+Ezequiel Carrera,Cleveland Indians,2013,OF,AAA,ezequiel,carrera,batter
+Bo Greenwell,Cleveland Indians,2013,OF,Hi A,bo,greenwell,batter
+Jeremy Hermida,Cleveland Indians,2013,OF,AAA,jeremy,hermida,batter
+Cedric Hunter,Cleveland Indians,2013,OF,AA,cedric,hunter,batter
+Bobby Cassevah,Colorado Rockies,2013,RHP,AAA,bobby,cassevah,pitcher
+Roman Colon,Colorado Rockies,2013,RHP,AAA,roman,colon,pitcher
+Edgmer Escalona,Colorado Rockies,2013,RHP,AAA,edgmer,escalona,pitcher
+Armando Galarraga,Colorado Rockies,2013,RHP,AAA,armando,galarraga,pitcher
+Sean Gallagher,Colorado Rockies,2013,RHP,AAA,sean,gallagher,pitcher
+Juan Gonzalez,Colorado Rockies,2013,RHP,AA,juan,gonzalez,pitcher
+Tim Gustafson,Colorado Rockies,2013,RHP,AA,tim,gustafson,pitcher
+Michael Marbry,Colorado Rockies,2013,RHP,AA,michael,marbry,pitcher
+Vianney Mayo,Colorado Rockies,2013,RHP,SS,vianney,mayo,pitcher
+Mike McClendon,Colorado Rockies,2013,RHP,AAA,mike,mcclendon,pitcher
+Cory Riordan,Colorado Rockies,2013,RHP,AAA,cory,riordan,pitcher
+Mike Solbach,Colorado Rockies,2013,RHP,AA,mike,solbach,pitcher
+Isaiah Froneberger,Colorado Rockies,2013,LHP,AA,isaiah,froneberger,pitcher
+Nick Schmidt,Colorado Rockies,2013,LHP,AAA,nick,schmidt,pitcher
+Jonathan Vargas,Colorado Rockies,2013,LHP,SS,jonathan,vargas,pitcher
+Lars Davis,Colorado Rockies,2013,C,AAA,lars,davis,batter
+Jose Gonzalez,Colorado Rockies,2013,C,AAA,jose,gonzalez,batter
+Matt McBride,Colorado Rockies,2013,C,AAA,matt,mcbride,batter
+Michael Ramirez,Colorado Rockies,2013,C,Lo A,michael,ramirez,batter
+Henry Wrigley,Colorado Rockies,2013,1B,AA,henry,wrigley,batter
+Niko Gallego,Colorado Rockies,2013,2B,Hi A,niko,gallego,batter
+Hernan Iribarren,Colorado Rockies,2013,2B,AAA,hernan,iribarren,batter
+Reid Brignac,Colorado Rockies,2013,SS,AAA,reid,brignac,batter
+Juan Crousset,Colorado Rockies,2013,OF,AA,juan,crousset,batter
+Xavier Nady,Colorado Rockies,2013,OF,AAA,xavier,nady,batter
+Shawn Hill,Detroit Tigers,2013,RHP,AAA,shawn,hill,pitcher
+Jair Jurrjens,Detroit Tigers,2013,RHP,AAA,jair,jurrjens,pitcher
+David Kopp,Detroit Tigers,2013,RHP,AA,david,kopp,pitcher
+Victor Larez,Detroit Tigers,2013,RHP,AA,victor,larez,pitcher
+Jon Link,Detroit Tigers,2013,RHP,AAA,jon,link,pitcher
+Kelvin Perez,Detroit Tigers,2013,RHP,AA,kelvin,perez,pitcher
+Justin Souza,Detroit Tigers,2013,RHP,AA,justin,souza,pitcher
+Jess Todd,Detroit Tigers,2013,RHP,AAA,jess,todd,pitcher
+Michael Torrealba,Detroit Tigers,2013,RHP,Hi A,michael,torrealba,pitcher
+Ramon Garcia,Detroit Tigers,2013,LHP,AA,ramon,garcia,pitcher
+Jesus Guzman,Detroit Tigers,2013,LHP,DSL,jesus,guzman,pitcher
+Matt Hoffman,Detroit Tigers,2013,LHP,AAA,matt,hoffman,pitcher
+Pat Misch,Detroit Tigers,2013,LHP,AAA,pat,misch,pitcher
+Will Startup,Detroit Tigers,2013,LHP,AA,will,startup,pitcher
+Ronny Paulino,Detroit Tigers,2013,C,AAA,ronny,paulino,batter
+Lance Durham,Detroit Tigers,2013,1B,Lo A,lance,durham,batter
+Marcus Lemon,Detroit Tigers,2013,2B,AA,marcus,lemon,batter
+Kevin Russo,Detroit Tigers,2013,2B,AAA,kevin,russo,batter
+Mike Cervenak,Detroit Tigers,2013,3B,AAA,mike,cervenak,batter
+Argenis Diaz,Detroit Tigers,2013,SS,AAA,argenis,diaz,batter
+Luis Castillo,Detroit Tigers,2013,OF,AA,luis,castillo,batter
+Danny Dorn,Detroit Tigers,2013,OF,AAA,danny,dorn,batter
+Murilo Gouvea,Houston Astros,2013,RHP,Hi A,murilo,gouvea,pitcher
+Cameron Lamb,Houston Astros,2013,RHP,Hi A,cameron,lamb,pitcher
+Carlos Quevedo,Houston Astros,2013,RHP,Hi A,carlos,quevedo,pitcher
+Sergio Escalona,Houston Astros,2013,LHP,Hi A,sergio,escalona,pitcher
+Luis Alvarez,Houston Astros,2013,C,Hi A,luis,alvarez,batter
+Cody Clark,Houston Astros,2013,C,AAA,cody,clark,batter
+Jose Martinez,Houston Astros,2013,2B,AAA,jose,martinez,batter
+Michael Burgess,Houston Astros,2013,OF,Hi A,michael,burgess,batter
+Che-Hsuan Lin,Houston Astros,2013,OF,AAA,che-hsuan,lin,batter
+Jason Bergmann,Kansas City Royals,2013,RHP,AA,jason,bergmann,pitcher
+Santiago Garrido,Kansas City Royals,2013,RHP,AA,santiago,garrido,pitcher
+Devon Lowery*,Kansas City Royals,2013,RHP,AA,devon,lowery*,pitcher
+Clayton Mortensen,Kansas City Royals,2013,RHP,AAA,clayton,mortensen,pitcher
+Julio Rodriguez,Kansas City Royals,2013,RHP,R,julio,rodriguez,pitcher
+Sam Runion,Kansas City Royals,2013,RHP,AA,sam,runion,pitcher
+Brian Sanches,Kansas City Royals,2013,RHP,AAA,brian,sanches,pitcher
+Leonel Santiago,Kansas City Royals,2013,RHP,Hi A,leonel,santiago,pitcher
+Zach Jackson,Kansas City Royals,2013,LHP,AAA,zach,jackson,pitcher
+Mitch Canham,Kansas City Royals,2013,C,AAA,mitch,canham,batter
+Manny Pina,Kansas City Royals,2013,C,AAA,manny,pina,batter
+Max Ramirez,Kansas City Royals,2013,C,AAA,max,ramirez,batter
+Ben Broussard,Kansas City Royals,2013,1B,AAA,ben,broussard,batter
+Chase Lambin,Kansas City Royals,2013,2B,AAA,chase,lambin,batter
+Rey Navarro,Kansas City Royals,2013,2B,AAA,rey,navarro,batter
+Lewis Urena,Kansas City Royals,2013,2B,R,lewis,urena,batter
+Anthony Seratelli,Kansas City Royals,2013,3B,AAA,anthony,seratelli,batter
+Sharlon Schoop*,Kansas City Royals,2013,SS,AA,sharlon,schoop*,batter
+Gorkys Hernandez,Kansas City Royals,2013,OF,AA,gorkys,hernandez,batter
+Charles Thomas*,Kansas City Royals,2013,OF,Hi A,charles,thomas*,batter
+Edinson Rincon,Kansas City Royals,2013,OF,AA,edinson,rincon,batter
+Orangel Arenas,Los Angeles Angels,2013,RHP,Hi A,orangel,arenas,pitcher
+Lay Batista,Los Angeles Angels,2013,RHP,AA,lay,batista,pitcher
+Fernando Cabrera,Los Angeles Angels,2013,RHP,AAA,fernando,cabrera,pitcher
+Chad Cordero,Los Angeles Angels,2013,RHP,AAA,chad,cordero,pitcher
+Manuarys Correa,Los Angeles Angels,2013,RHP,AA,manuarys,correa,pitcher
+Rob Delaney,Los Angeles Angels,2013,RHP,AAA,rob,delaney,pitcher
+Barry Enright,Los Angeles Angels,2013,RHP,AAA,barry,enright,pitcher
+Brandon Hynick,Los Angeles Angels,2013,RHP,AA,brandon,hynick,pitcher
+Josh Judy,Los Angeles Angels,2013,RHP,AA,josh,judy,pitcher
+Jason Urquidez,Los Angeles Angels,2013,RHP,AAA,jason,urquidez,pitcher
+Dustin Richardson,Los Angeles Angels,2013,LHP,AAA,dustin,richardson,pitcher
+Dontrelle Willis,Los Angeles Angels,2013,LHP,AAA,dontrelle,willis,pitcher
+Luke Carlin,Los Angeles Angels,2013,C,AAA,luke,carlin,batter
+Luis Rodriguez,Los Angeles Angels,2013,2B,AAA,luis,rodriguez,batter
+Rusty Ryal,Los Angeles Angels,2013,2B,AAA,rusty,ryal,batter
+Andy Marte,Los Angeles Angels,2013,3B,AAA,andy,marte,batter
+Jimmy Swift,Los Angeles Angels,2013,SS,AA,jimmy,swift,batter
+Julio Concepcion,Los Angeles Angels,2013,OF,Lo A,julio,concepcion,batter
+Cyle Hankerd,Los Angeles Angels,2013,OF,AA,cyle,hankerd,batter
+Lou Montanez,Los Angeles Angels,2013,OF,AA,lou,montanez,batter
+Trent Oeltjen,Los Angeles Angels,2013,OF,AAA,trent,oeltjen,batter
+Robbie Widlansky,Los Angeles Angels,2013,OF,AA,robbie,widlansky,batter
+Juan Abreu*,Los Angeles Dodgers,2013,RHP,AAA,juan,abreu*,pitcher
+Angel Castro,Los Angeles Dodgers,2013,RHP,AAA,angel,castro,pitcher
+Kyle Cofield,Los Angeles Dodgers,2013,RHP,AAA,kyle,cofield,pitcher
+Blake Johnson,Los Angeles Dodgers,2013,RHP,AAA,blake,johnson,pitcher
+Anthony Ortega,Los Angeles Dodgers,2013,RHP,AAA,anthony,ortega,pitcher
+Matt Palmer,Los Angeles Dodgers,2013,RHP,AAA,matt,palmer,pitcher
+Mario Santiago*,Los Angeles Dodgers,2013,RHP,AAA,mario,santiago*,pitcher
+Daniel Tamares,Los Angeles Dodgers,2013,RHP,Lo A,daniel,tamares,pitcher
+Luis Vasquez,Los Angeles Dodgers,2013,RHP,AAA,luis,vasquez,pitcher
+Sean White,Los Angeles Dodgers,2013,RHP,AAA,sean,white,pitcher
+Kelvin de la Cruz,Los Angeles Dodgers,2013,LHP,AAA,kelvin,de la cruz,pitcher
+Thomas Melgarejo,Los Angeles Dodgers,2013,LHP,AA,thomas,melgarejo,pitcher
+Jonathan Sanchez,Los Angeles Dodgers,2013,LHP,AAA,jonathan,sanchez,pitcher
+Eliezer Alfonzo,Los Angeles Dodgers,2013,C,AAA,eliezer,alfonzo,batter
+Damaso Espino,Los Angeles Dodgers,2013,C,AAA,damaso,espino,batter
+J.R. Towles,Los Angeles Dodgers,2013,C,AAA,j.r.,towles,batter
+Matt Wallach,Los Angeles Dodgers,2013,C,AA,matt,wallach,batter
+Sean Burroughs,Los Angeles Dodgers,2013,1B,AAA,sean,burroughs,batter
+Rafael Ynoa,Los Angeles Dodgers,2013,2B,AA,rafael,ynoa,batter
+Brian Barden,Los Angeles Dodgers,2013,3B,AAA,brian,barden,batter
+Pedro Guerrero,Los Angeles Dodgers,2013,3B,AA,pedro,guerrero,batter
+Ryan Mount,Los Angeles Dodgers,2013,3B,AA,ryan,mount,batter
+Matt Angle,Los Angeles Dodgers,2013,OF,AAA,matt,angle,batter
+Tony Gwynn Jr.,Los Angeles Dodgers,2013,OF,AAA,tony,gwynn jr.,batter
+Jeremy Moore,Los Angeles Dodgers,2013,OF,AAA,jeremy,moore,batter
+Jonathan Albaladejo,Miami Marlins,2013,RHP,AAA,jonathan,albaladejo,pitcher
+Jose Ceda,Miami Marlins,2013,RHP,AAA,jose,ceda,pitcher
+Jay Jackson,Miami Marlins,2013,RHP,AAA,jay,jackson,pitcher
+Adam Reifer,Miami Marlins,2013,RHP,AAA,adam,reifer,pitcher
+Rob Waite,Miami Marlins,2013,RHP,AAA,rob,waite,pitcher
+Ramon Benjamin*,Miami Marlins,2013,LHP,AA,ramon,benjamin*,pitcher
+Jose Ceballos*,Miami Marlins,2013,C,Hi A,jose,ceballos*,batter
+Ben Lasater,Miami Marlins,2013,1B,AAA,ben,lasater,batter
+Joe Mahoney,Miami Marlins,2013,1B,AAA,joe,mahoney,batter
+Kevin Kouzmanoff,Miami Marlins,2013,3B,AAA,kevin,kouzmanoff,batter
+Audy Ciriaco,Miami Marlins,2013,SS,AA,audy,ciriaco,batter
+Chris Gutierrez,Miami Marlins,2013,SS,AA,chris,gutierrez,batter
+Rony Peralta,Miami Marlins,2013,SS,Hi A,rony,peralta,batter
+Michael Main,Miami Marlins,2013,OF,AA,michael,main,batter
+Jake Smolinski,Miami Marlins,2013,OF,AAA,jake,smolinski,batter
+Frankie de la Cruz,Milwaukee Brewers,2013,RHP,AA,frankie,de la cruz,pitcher
+Tim Dillard,Milwaukee Brewers,2013,RHP,AAA,tim,dillard,pitcher
+Johnnie Lowe,Milwaukee Brewers,2013,RHP,AAA,johnnie,lowe,pitcher
+Santo Manzanillo,Milwaukee Brewers,2013,RHP,AAA,santo,manzanillo,pitcher
+Josh Ravin,Milwaukee Brewers,2013,RHP,AAA,josh,ravin,pitcher
+Mark Rogers,Milwaukee Brewers,2013,RHP,Hi A,mark,rogers,pitcher
+Jesus Sanchez,Milwaukee Brewers,2013,RHP,AAA,jesus,sanchez,pitcher
+R.J. Seidel,Milwaukee Brewers,2013,RHP,AAA,r.j.,seidel,pitcher
+Zach Kroenke,Milwaukee Brewers,2013,LHP,AAA,zach,kroenke,pitcher
+Aaron Laffey,Milwaukee Brewers,2013,LHP,AAA,aaron,laffey,pitcher
+Travis Webb,Milwaukee Brewers,2013,LHP,AAA,travis,webb,pitcher
+Anderson de la Rosa,Milwaukee Brewers,2013,C,AAA,anderson,de la rosa,batter
+Ozzie Chavez,Milwaukee Brewers,2013,SS,AAA,ozzie,chavez,batter
+Blake Davis,Milwaukee Brewers,2013,SS,AAA,blake,davis,batter
+Brock Kjeldgaard,Milwaukee Brewers,2013,OF,AA,brock,kjeldgaard,batter
+Micah Owings,Milwaukee Brewers,2013,OF,AA,micah,owings,batter
+Rene Tosoni,Milwaukee Brewers,2013,OF,AA,rene,tosoni,batter
+Nick Blackburn,Minnesota Twins,2013,RHP,AAA,nick,blackburn,pitcher
+Kyle Davies,Minnesota Twins,2013,RHP,AA,kyle,davies,pitcher
+Cole DeVries,Minnesota Twins,2013,RHP,AAA,cole,devries,pitcher
+Deolis Guerra*,Minnesota Twins,2013,RHP,AAA,deolis,guerra*,pitcher
+Miguel Munoz,Minnesota Twins,2013,RHP,Hi A,miguel,munoz,pitcher
+Dan Sattler,Minnesota Twins,2013,RHP,AA,dan,sattler,pitcher
+Manuel Soliman,Minnesota Twins,2013,RHP,Hi A,manuel,soliman,pitcher
+Tom Stuifbergen,Minnesota Twins,2013,RHP,AA,tom,stuifbergen,pitcher
+Dan Turpen,Minnesota Twins,2013,RHP,AA,dan,turpen,pitcher
+Nelvin Fuentes,Minnesota Twins,2013,LHP,Hi A,nelvin,fuentes,pitcher
+Pedro Hernandez,Minnesota Twins,2013,LHP,AAA,pedro,hernandez,pitcher
+Jeff Clement,Minnesota Twins,2013,1B,AAA,jeff,clement,batter
+Eric Farris,Minnesota Twins,2013,2B,AAA,eric,farris,batter
+Ray Olmedo,Minnesota Twins,2013,SS,AAA,ray,olmedo,batter
+Brian Dinkelman,Minnesota Twins,2013,OF,AAA,brian,dinkelman,batter
+Jhonathan Goncalves,Minnesota Twins,2013,OF,Hi A,jhonathan,goncalves,batter
+Angel Morales,Minnesota Twins,2013,OF,AA,angel,morales,batter
+Jordan Parraz,Minnesota Twins,2013,OF,AA,jordan,parraz,batter
+Antoan Richardson,Minnesota Twins,2013,OF,AAA,antoan,richardson,batter
+Giancarlo Alvarado,New York Mets,2013,RHP,AAA,giancarlo,alvarado,pitcher
+Greg Burke,New York Mets,2013,RHP,AAA,greg,burke,pitcher
+Matt Fox,New York Mets,2013,RHP,AAA,matt,fox,pitcher
+D.J. Mitchell,New York Mets,2013,RHP,AAA,d.j.,mitchell,pitcher
+Dylan Owen,New York Mets,2013,RHP,AA,dylan,owen,pitcher
+Armando Rodriguez,New York Mets,2013,RHP,AA,armando,rodriguez,pitcher
+Daryl Thompson,New York Mets,2013,RHP,AAA,daryl,thompson,pitcher
+Cory Wade,New York Mets,2013,RHP,AAA,cory,wade,pitcher
+Justin Hampson,New York Mets,2013,LHP,AAA,justin,hampson,pitcher
+Jeyckol De Leon,New York Mets,2013,C,SS,jeyckol,de leon,batter
+Francisco Pena,New York Mets,2013,C,AAA,francisco,pena,batter
+Rhyne Hughes,New York Mets,2013,1B,AA,rhyne,hughes,batter
+Richard Lucas,New York Mets,2013,3B,AA,richard,lucas,batter
+Brian Bixler,New York Mets,2013,SS,AAA,brian,bixler,batter
+Brandon Hicks,New York Mets,2013,SS,AAA,brandon,hicks,batter
+Josh Rodriguez,New York Mets,2013,SS,AA,josh,rodriguez,batter
+Jamie Hoffmann,New York Mets,2013,OF,AAA,jamie,hoffmann,batter
+Cory Arbiso,New York Yankees,2013,RHP,AA,cory,arbiso,pitcher
+Sam Demel,New York Yankees,2013,RHP,AAA,sam,demel,pitcher
+Yoshinori Tateyama,New York Yankees,2013,RHP,AAA,yoshinori,tateyama,pitcher
+Bobby Wilson,New York Yankees,2013,C,AAA,bobby,wilson,batter
+Andrew Clark,New York Yankees,2013,1B,AA,andrew,clark,batter
+Randy Ruiz,New York Yankees,2013,1B,AAA,randy,ruiz,batter
+Reegie Corona,New York Yankees,2013,2B,AA,reegie,corona,batter
+Walter Ibarra,New York Yankees,2013,SS,AAA,walter,ibarra,batter
+Fernando Martinez,New York Yankees,2013,OF,AAA,fernando,martinez,batter
+Corey Patterson,New York Yankees,2013,OF,AAA,corey,patterson,batter
+Travis Banwart,Oakland Athletics,2013,RHP,AAA,travis,banwart,pitcher
+Bruce Billings,Oakland Athletics,2013,RHP,AAA,bruce,billings,pitcher
+Darren Byrd,Oakland Athletics,2013,RHP,Hi A,darren,byrd,pitcher
+Andrew Carignan*,Oakland Athletics,2013,RHP,AAA,andrew,carignan*,pitcher
+Drew Carpenter,Oakland Athletics,2013,RHP,AA,drew,carpenter,pitcher
+Mike DeMark,Oakland Athletics,2013,RHP,AA,mike,demark,pitcher
+Brian Gordon,Oakland Athletics,2013,RHP,AAA,brian,gordon,pitcher
+David Mota,Oakland Athletics,2013,RHP,Hi A,david,mota,pitcher
+Kyler Newby,Oakland Athletics,2013,RHP,AAA,kyler,newby,pitcher
+James Simmons,Oakland Athletics,2013,RHP,Hi A,james,simmons,pitcher
+Pedro Vidal,Oakland Athletics,2013,RHP,AA,pedro,vidal,pitcher
+Shaeffer Hall,Oakland Athletics,2013,LHP,Hi A,shaeffer,hall,pitcher
+Carlos Hernandez,Oakland Athletics,2013,LHP,AAA,carlos,hernandez,pitcher
+Julio Ramos*,Oakland Athletics,2013,LHP,Hi A,julio,ramos*,pitcher
+Pedro Viola,Oakland Athletics,2013,LHP,AA,pedro,viola,pitcher
+Diomedes Lopez,Oakland Athletics,2013,C,AA,diomedes,lopez,batter
+Gabriel Arias,Philadelphia Phillies,2013,RHP,Hi A,gabriel,arias,pitcher
+Justin Friend,Philadelphia Phillies,2013,RHP,AAA,justin,friend,pitcher
+Mike MacDougal,Philadelphia Phillies,2013,RHP,AAA,mike,macdougal,pitcher
+Juan Sosa,Philadelphia Phillies,2013,RHP,AA,juan,sosa,pitcher
+Bobby Bramhall,Philadelphia Phillies,2013,LHP,AA,bobby,bramhall,pitcher
+Tom Cochran,Philadelphia Phillies,2013,LHP,AAA,tom,cochran,pitcher
+Mauricio Robles,Philadelphia Phillies,2013,LHP,AAA,mauricio,robles,pitcher
+Greg Smith,Philadelphia Phillies,2013,LHP,AAA,greg,smith,pitcher
+John Suomi,Philadelphia Phillies,2013,C,AAA,john,suomi,batter
+Shawn Williams*,Philadelphia Phillies,2013,C,AA,shawn,williams*,batter
+Matt Tolbert,Philadelphia Phillies,2013,2B,AA,matt,tolbert,batter
+Josh Fields,Philadelphia Phillies,2013,3B,AAA,josh,fields,batter
+Miguel Abreu,Philadelphia Phillies,2013,SS,AAA,miguel,abreu,batter
+Andres Blanco*,Philadelphia Phillies,2013,SS,AAA,andres,blanco*,batter
+Derrick Mitchell,Philadelphia Phillies,2013,OF,AAA,derrick,mitchell,batter
+David Bromberg,Pittsburgh Pirates,2013,RHP,AA,david,bromberg,pitcher
+Brooks Brown,Pittsburgh Pirates,2013,RHP,AAA,brooks,brown,pitcher
+Erik Cordier,Pittsburgh Pirates,2013,RHP,AAA,erik,cordier,pitcher
+Jason Erickson,Pittsburgh Pirates,2013,RHP,Hi A,jason,erickson,pitcher
+Graham Godfrey,Pittsburgh Pirates,2013,RHP,AAA,graham,godfrey,pitcher
+Doug Mathis,Pittsburgh Pirates,2013,RHP,AAA,doug,mathis,pitcher
+Luis Sanz,Pittsburgh Pirates,2013,RHP,AA,luis,sanz,pitcher
+Kyle Waldrop,Pittsburgh Pirates,2013,RHP,AAA,kyle,waldrop,pitcher
+Kurt Yacko,Pittsburgh Pirates,2013,RHP,R,kurt,yacko,pitcher
+Dan Cevette,Pittsburgh Pirates,2013,LHP,AA,dan,cevette,pitcher
+Jhonathan Ramos,Pittsburgh Pirates,2013,LHP,AA,jhonathan,ramos,pitcher
+Atahualpa Severino,Pittsburgh Pirates,2013,LHP,AAA,atahualpa,severino,pitcher
+Francisco Diaz,Pittsburgh Pirates,2013,C,Lo A,francisco,diaz,batter
+Devin Ivany,Pittsburgh Pirates,2013,C,Hi A,devin,ivany,batter
+Lucas May,Pittsburgh Pirates,2013,C,AAA,lucas,may,batter
+Miguel Perez,Pittsburgh Pirates,2013,C,AA,miguel,perez,batter
+Ali Solis,Pittsburgh Pirates,2013,C,AA,ali,solis,batter
+Russ Canzler,Pittsburgh Pirates,2013,1B,AAA,russ,canzler,batter
+Ivan De Jesus Jr.,Pittsburgh Pirates,2013,2B,AAA,ivan,de jesus jr.,batter
+Oscar Tejeda,Pittsburgh Pirates,2013,2B,AA,oscar,tejeda,batter
+Jared Goedert,Pittsburgh Pirates,2013,3B,AAA,jared,goedert,batter
+Brian Bocock,Pittsburgh Pirates,2013,SS,AAA,brian,bocock,batter
+Brett Carroll,Pittsburgh Pirates,2013,OF,AAA,brett,carroll,batter
+Miles Durham*,Pittsburgh Pirates,2013,OF,Lo A,miles,durham*,batter
+Darren Ford,Pittsburgh Pirates,2013,OF,AAA,darren,ford,batter
+Anthony Norman*,Pittsburgh Pirates,2013,OF,Hi A,anthony,norman*,batter
+Richard Castillo,St. Louis Cardinals,2013,RHP,AAA,richard,castillo,pitcher
+Ramon Delgado,St. Louis Cardinals,2013,RHP,AAA,ramon,delgado,pitcher
+Deryk Hooker,St. Louis Cardinals,2013,RHP,AAA,deryk,hooker,pitcher
+Zach Russell,St. Louis Cardinals,2013,RHP,AA,zach,russell,pitcher
+Nick Additon,St. Louis Cardinals,2013,LHP,AAA,nick,additon,pitcher
+Jay Voss,St. Louis Cardinals,2013,LHP,Lo A,jay,voss,pitcher
+Rob Johnson,St. Louis Cardinals,2013,C,AAA,rob,johnson,batter
+Brock Peterson,St. Louis Cardinals,2013,1B,AAA,brock,peterson,batter
+Ruben Gotay,St. Louis Cardinals,2013,3B,AA,ruben,gotay,batter
+Adron Chambers,St. Louis Cardinals,2013,OF,AAA,adron,chambers,batter
+Chad Huffman,St. Louis Cardinals,2013,OF,AAA,chad,huffman,batter
+Jamie Romak,St. Louis Cardinals,2013,OF,AAA,jamie,romak,batter
+Eddie Bonine,San Diego Padres,2013,RHP,AA,eddie,bonine,pitcher
+Wilfredo Boscan,San Diego Padres,2013,RHP,AA,wilfredo,boscan,pitcher
+Dan Cortes,San Diego Padres,2013,RHP,AAA,dan,cortes,pitcher
+Fautino de los Santos,San Diego Padres,2013,RHP,AA,fautino,de los santos,pitcher
+Josh Geer,San Diego Padres,2013,RHP,AA,josh,geer,pitcher
+Trevor Holder,San Diego Padres,2013,RHP,Hi A,trevor,holder,pitcher
+Ryan Kelly,San Diego Padres,2013,RHP,AA,ryan,kelly,pitcher
+Jeremy McBryde,San Diego Padres,2013,RHP,AA,jeremy,mcbryde,pitcher
+Jason Ray,San Diego Padres,2013,RHP,AAA,jason,ray,pitcher
+Tommy Layne,San Diego Padres,2013,LHP,AAA,tommy,layne,pitcher
+Clay Zavada,San Diego Padres,2013,LHP,AA,clay,zavada,pitcher
+Chris Robinson,San Diego Padres,2013,C,AAA,chris,robinson,batter
+Eddy Rodriguez,San Diego Padres,2013,C,AAA,eddy,rodriguez,batter
+Brandon Allen,San Diego Padres,2013,1B,AAA,brandon,allen,batter
+Jake Blackwood,San Diego Padres,2013,3B,AA,jake,blackwood,batter
+Jesus Merchan,San Diego Padres,2013,3B,AAA,jesus,merchan,batter
+Scott Moore,San Diego Padres,2013,3B,AAA,scott,moore,batter
+Gregorio Petit,San Diego Padres,2013,SS,AAA,gregorio,petit,batter
+Jeudy Valdez,San Diego Padres,2013,SS,AA,jeudy,valdez,batter
+Travis Buck,San Diego Padres,2013,OF,AAA,travis,buck,batter
+Ben Francisco,San Diego Padres,2013,OF,AAA,ben,francisco,batter
+Johan Limonta,San Diego Padres,2013,OF,AA,johan,limonta,batter
+Mike Wilson,San Diego Padres,2013,OF,AAA,mike,wilson,batter
+Fabio Castillo,San Francisco Giants,2013,RHP,AAA,fabio,castillo,pitcher
+Edward Concepcion,San Francisco Giants,2013,RHP,Lo A,edward,concepcion,pitcher
+Steve Edlefsen,San Francisco Giants,2013,RHP,AAA,steve,edlefsen,pitcher
+Daryl Maday,San Francisco Giants,2013,RHP,AAA,daryl,maday,pitcher
+Jon Meloan*,San Francisco Giants,2013,RHP,AAA,jon,meloan*,pitcher
+Ryan Sadowski*,San Francisco Giants,2013,RHP,AAA,ryan,sadowski*,pitcher
+Mason Tobin,San Francisco Giants,2013,RHP,AAA,mason,tobin,pitcher
+Tyler LaTorre,San Francisco Giants,2013,C,AA,tyler,latorre,batter
+Mark Wagner,San Francisco Giants,2013,C,AAA,mark,wagner,batter
+Jackson Williams,San Francisco Giants,2013,C,AAA,jackson,williams,batter
+Todd Linden,San Francisco Giants,2013,1B,AAA,todd,linden,batter
+Brock Bond,San Francisco Giants,2013,2B,Hi A,brock,bond,batter
+Skyler Stromsmoe,San Francisco Giants,2013,2B,AA,skyler,stromsmoe,batter
+Jonathan Arias,Seattle Mariners,2013,RHP,AAA,jonathan,arias,pitcher
+Moises Hernandez,Seattle Mariners,2013,RHP,AA,moises,hernandez,pitcher
+Brent Johnson*,Seattle Mariners,2013,RHP,AA,brent,johnson*,pitcher
+Stephen Shackleford,Seattle Mariners,2013,RHP,AA,stephen,shackleford,pitcher
+Brian Sweeney,Seattle Mariners,2013,RHP,AAA,brian,sweeney,pitcher
+Pedro Reyes,Seattle Mariners,2013,LHP,DSL,pedro,reyes,pitcher
+Jason Jaramillo,Seattle Mariners,2013,C,AAA,jason,jaramillo,batter
+Leury Bonilla,Seattle Mariners,2013,3B,AAA,leury,bonilla,batter
+Anthony Phillips,Seattle Mariners,2013,SS,Hi A,anthony,phillips,batter
+Denny Almonte,Seattle Mariners,2013,OF,AA,denny,almonte,batter
+Joe Dunigan,Seattle Mariners,2013,OF,AAA,joe,dunigan,batter
+Matt Buschmann,Tampa Bay Rays,2013,RHP,AAA,matt,buschmann,pitcher
+Carlos Fisher,Tampa Bay Rays,2013,RHP,AA,carlos,fisher,pitcher
+Erik Hamren,Tampa Bay Rays,2013,RHP,AA,erik,hamren,pitcher
+Victor Mateo,Tampa Bay Rays,2013,RHP,AA,victor,mateo,pitcher
+Matt Nevarez,Tampa Bay Rays,2013,RHP,AA,matt,nevarez,pitcher
+Eduar Quinonez,Tampa Bay Rays,2013,RHP,Lo A,eduar,quinonez,pitcher
+Wilking Rodriguez*,Tampa Bay Rays,2013,RHP,Hi A,wilking,rodriguez*,pitcher
+Juan Sandoval,Tampa Bay Rays,2013,RHP,AAA,juan,sandoval,pitcher
+Albert Suarez,Tampa Bay Rays,2013,RHP,AA,albert,suarez,pitcher
+Joe Van Meter,Tampa Bay Rays,2013,RHP,AA,joe,van meter,pitcher
+Mayobanex Acosta,Tampa Bay Rays,2013,C,AA,mayobanex,acosta,batter
+Craig Albernaz,Tampa Bay Rays,2013,C,AAA,craig,albernaz,batter
+Jesus Flores,Tampa Bay Rays,2013,C,AAA,jesus,flores,batter
+Mark Thomas,Tampa Bay Rays,2013,C,AA,mark,thomas,batter
+Mike Fontenot,Tampa Bay Rays,2013,2B,AAA,mike,fontenot,batter
+Robi Estrada,Tampa Bay Rays,2013,SS,AA,robi,estrada,batter
+Shawn O’Malley,Tampa Bay Rays,2013,SS,AAA,shawn,o’malley,batter
+Evan Frey,Tampa Bay Rays,2013,OF,AAA,evan,frey,batter
+Freddy Guzman,Tampa Bay Rays,2013,OF,AAA,freddy,guzman,batter
+K.D. Kang,Tampa Bay Rays,2013,OF,AA,k.d.,kang,batter
+Rich Thompson,Tampa Bay Rays,2013,OF,AAA,rich,thompson,batter
+Collin Balester,Texas Rangers,2013,RHP,AAA,collin,balester,pitcher
+Jake Brigham,Texas Rangers,2013,RHP,AAA,jake,brigham,pitcher
+Evan Meek,Texas Rangers,2013,RHP,AAA,evan,meek,pitcher
+Carlos Pimentel,Texas Rangers,2013,RHP,AAA,carlos,pimentel,pitcher
+Scott Richmond,Texas Rangers,2013,RHP,AAA,scott,richmond,pitcher
+Ross Wolf,Texas Rangers,2013,RHP,AAA,ross,wolf,pitcher
+Johan Yan,Texas Rangers,2013,RHP,AAA,johan,yan,pitcher
+Travis Blackley,Texas Rangers,2013,LHP,AAA,travis,blackley,pitcher
+Ryan Feierabend,Texas Rangers,2013,LHP,AAA,ryan,feierabend,pitcher
+Nate Robertson,Texas Rangers,2013,LHP,AAA,nate,robertson,pitcher
+Alejandro Selen,Texas Rangers,2013,2B,Lo A,alejandro,selen,batter
+Yangervis Solarte,Texas Rangers,2013,2B,AAA,yangervis,solarte,batter
+Taylor Wrenn,Texas Rangers,2013,2B,R,taylor,wrenn,batter
+Brendan Harris,Texas Rangers,2013,3B,AAA,brendan,harris,batter
+Joe Benson,Texas Rangers,2013,OF,AAA,joe,benson,batter
+Chih-Hsien Chiang,Texas Rangers,2013,OF,AA,chih-hsien,chiang,batter
+Aaron Cunningham,Texas Rangers,2013,OF,AAA,aaron,cunningham,batter
+Kalian Sams,Texas Rangers,2013,OF,AA,kalian,sams,batter
+Chad Beck,Toronto Blue Jays,2013,RHP,AA,chad,beck,pitcher
+Tyson Brummett,Toronto Blue Jays,2013,RHP,AA,tyson,brummett,pitcher
+Buddy Carlyle,Toronto Blue Jays,2013,RHP,AAA,buddy,carlyle,pitcher
+Joel Carreno,Toronto Blue Jays,2013,RHP,AAA,joel,carreno,pitcher
+Alan Farina,Toronto Blue Jays,2013,RHP,AA,alan,farina,pitcher
+Marcus Walden,Toronto Blue Jays,2013,RHP,AA,marcus,walden,pitcher
+Willie Collazo*,Toronto Blue Jays,2013,LHP,AA,willie,collazo*,pitcher
+Juan Perez,Toronto Blue Jays,2013,LHP,AAA,juan,perez,pitcher
+Brian Compton,Toronto Blue Jays,2013,C,Lo A,brian,compton,batter
+Luis A. Jimenez,Toronto Blue Jays,2013,1B,AAA,luis,a. jimenez,batter
+Clint Robinson,Toronto Blue Jays,2013,1B,AAA,clint,robinson,batter
+Jon Talley,Toronto Blue Jays,2013,1B,AA,jon,talley,batter
+Daniel Arcila,Toronto Blue Jays,2013,2B,SS,daniel,arcila,batter
+Oliver Dominguez,Toronto Blue Jays,2013,2B,Hi A,oliver,dominguez,batter
+Jim Negrych,Toronto Blue Jays,2013,2B,AAA,jim,negrych,batter
+John Tolisano,Toronto Blue Jays,2013,2B,AA,john,tolisano,batter
+Lance Zawadzki,Toronto Blue Jays,2013,2B,AA,lance,zawadzki,batter
+Kevin Ahrens,Toronto Blue Jays,2013,3B,AA,kevin,ahrens,batter
+Mike McCoy,Toronto Blue Jays,2013,SS,AAA,mike,mccoy,batter
+Amadeo Zazueta,Toronto Blue Jays,2013,SS,AA,amadeo,zazueta,batter
+Blake Gailen,Toronto Blue Jays,2013,OF,AAA,blake,gailen,batter
+Adam Loewen,Toronto Blue Jays,2013,OF,AA,adam,loewen,batter
+Ricardo Nanita,Toronto Blue Jays,2013,OF,AAA,ricardo,nanita,batter
+Mike Broadway,Washington Nationals,2013,RHP,AAA,mike,broadway,pitcher
+Brian Broderick,Washington Nationals,2013,RHP,Hi A,brian,broderick,pitcher
+Caleb Clay,Washington Nationals,2013,RHP,AAA,caleb,clay,pitcher
+Mike Crotta,Washington Nationals,2013,RHP,AAA,mike,crotta,pitcher
+Cole Kimball,Washington Nationals,2013,RHP,AAA,cole,kimball,pitcher
+Jeff Mandel,Washington Nationals,2013,RHP,AAA,jeff,mandel,pitcher
+Ryan Tatusko,Washington Nationals,2013,RHP,AAA,ryan,tatusko,pitcher
+Chris Young,Washington Nationals,2013,RHP,AAA,chris,young,pitcher
+Bill Bray,Washington Nationals,2013,LHP,AA,bill,bray,pitcher
+Patrick McCoy,Washington Nationals,2013,LHP,AA,patrick,mccoy,pitcher
+Josh Smoker*,Washington Nationals,2013,LHP,Hi A,josh,smoker*,pitcher
+Brian Jeroloman,Washington Nationals,2013,C,AA,brian,jeroloman,batter
+Carlos Maldonado,Washington Nationals,2013,C,AAA,carlos,maldonado,batter
+Sean McCauley*,Washington Nationals,2013,C,Hi A,sean,mccauley*,batter
+Beau Seabury*,Washington Nationals,2013,C,Hi A,beau,seabury*,batter
+Chris Marrero,Washington Nationals,2013,1B,AAA,chris,marrero,batter
+Jimmy VanOstrand,Washington Nationals,2013,1B,AAA,jimmy,vanostrand,batter
+Michael Gilmartin,Washington Nationals,2013,2B,Hi A,michael,gilmartin,batter
+Will Rhymes,Washington Nationals,2013,2B,AAA,will,rhymes,batter
+Carlos Alvarez,Washington Nationals,2013,3B,Lo A,carlos,alvarez,batter
+Melvin Dorta*,Washington Nationals,2013,3B,AA,melvin,dorta*,batter
+Carlos Rivero,Washington Nationals,2013,3B,AA,carlos,rivero,batter
+Josh R. Johnson,Washington Nationals,2013,SS,AAA,josh,r. johnson,batter
+Jerad Head,Washington Nationals,2013,OF,AA,jerad,head,batter
+Jason Michaels*,Washington Nationals,2013,OF,AAA,jason,michaels*,batter
+Chris Rahl,Washington Nationals,2013,OF,AAA,chris,rahl,batter
+Eric Brooks,Arizona Diamondbacks,2014,RHP,SS,eric,brooks,pitcher
+Graham Godfrey,Arizona Diamondbacks,2014,RHP,AA,graham,godfrey,pitcher
+Kameron Loe,Arizona Diamondbacks,2014,RHP,AAA,kameron,loe,pitcher
+Mark Serrano,Arizona Diamondbacks,2014,RHP,AAA,mark,serrano,pitcher
+Jess Todd,Arizona Diamondbacks,2014,RHP,AAA,jess,todd,pitcher
+Bryan Woodall,Arizona Diamondbacks,2014,RHP,AA,bryan,woodall,pitcher
+Kyle Anderson,Arizona Diamondbacks,2014,LHP,SS,kyle,anderson,pitcher
+Spencer Arroyo,Arizona Diamondbacks,2014,LHP,Hi A,spencer,arroyo,pitcher
+Jose Jose,Arizona Diamondbacks,2014,LHP,Lo A,jose,jose,pitcher
+Joe Paterson,Arizona Diamondbacks,2014,LHP,AAA,joe,paterson,pitcher
+Clayton Richard,Arizona Diamondbacks,2014,LHP,AA,clayton,richard,pitcher
+Santos Rodriguez,Arizona Diamondbacks,2014,LHP,AA,santos,rodriguez,pitcher
+Blake Lalli,Arizona Diamondbacks,2014,C,AAA,blake,lalli,batter
+Dallas Tarleton,Arizona Diamondbacks,2014,C,AA,dallas,tarleton,batter
+Mike Jacobs,Arizona Diamondbacks,2014,1B,AAA,mike,jacobs,batter
+Gerson Montilla,Arizona Diamondbacks,2014,2B,AA,gerson,montilla,batter
+Argenis Diaz,Arizona Diamondbacks,2014,SS,AAA,argenis,diaz,batter
+Aaron Cunningham,Arizona Diamondbacks,2014,OF,AAA,aaron,cunningham,batter
+Dustin Martin,Arizona Diamondbacks,2014,OF,AA,dustin,martin,batter
+Mitch Atkins,Atlanta Braves,2014,RHP,AA,mitch,atkins,pitcher
+Terry Doyle,Atlanta Braves,2014,RHP,AAA,terry,doyle,pitcher
+Zach Stewart,Atlanta Braves,2014,RHP,AAA,zach,stewart,pitcher
+Ryan Buchter,Atlanta Braves,2014,LHP,AAA,ryan,buchter,pitcher
+Atahualpa Severino,Atlanta Braves,2014,LHP,AAA,atahualpa,severino,pitcher
+Steve Lerud,Atlanta Braves,2014,C,AAA,steve,lerud,batter
+Anthony Nunez,Atlanta Braves,2014,C,Hi A,anthony,nunez,batter
+Rich Poythress,Atlanta Braves,2014,1B,AA,rich,poythress,batter
+Donnie Murphy,Atlanta Braves,2014,2B,AAA,donnie,murphy,batter
+Sean Kazmar,Atlanta Braves,2014,SS,AAA,sean,kazmar,batter
+Ozzie Martinez,Atlanta Braves,2014,SS,AAA,ozzie,martinez,batter
+Gustavo Nunez,Atlanta Braves,2014,SS,AA,gustavo,nunez,batter
+Brandon Boggs,Atlanta Braves,2014,OF,AAA,brandon,boggs,batter
+Jose Martinez,Atlanta Braves,2014,OF,Hi A,jose,martinez,batter
+Jesse Beal,Baltimore Orioles,2014,RHP,Hi A,jesse,beal,pitcher
+Matt Bischoff,Baltimore Orioles,2014,RHP,AAA,matt,bischoff,pitcher
+Robert Coello,Baltimore Orioles,2014,RHP,AAA,robert,coello,pitcher
+Oliver Drake,Baltimore Orioles,2014,RHP,AA,oliver,drake,pitcher
+Eddie Gamboa,Baltimore Orioles,2014,RHP,AA,eddie,gamboa,pitcher
+Steven Hensley,Baltimore Orioles,2014,RHP,AA,steven,hensley,pitcher
+Brock Huntzinger,Baltimore Orioles,2014,RHP,AAA,brock,huntzinger,pitcher
+Steve Johnson,Baltimore Orioles,2014,RHP,AAA,steve,johnson,pitcher
+Evan Meek,Baltimore Orioles,2014,RHP,AAA,evan,meek,pitcher
+Ramon Ramirez,Baltimore Orioles,2014,RHP,AAA,ramon,ramirez,pitcher
+Nick Additon,Baltimore Orioles,2014,LHP,AA,nick,additon,pitcher
+Jason Gurka,Baltimore Orioles,2014,LHP,AA,jason,gurka,pitcher
+Chris Jones,Baltimore Orioles,2014,LHP,AAA,chris,jones,pitcher
+Jorge Rivera,Baltimore Orioles,2014,LHP,Lo A,jorge,rivera,pitcher
+Anthony Vasquez,Baltimore Orioles,2014,LHP,AA,anthony,vasquez,pitcher
+Chris Marrero,Baltimore Orioles,2014,1B,AA,chris,marrero,batter
+Buck Britton,Baltimore Orioles,2014,2B,AA,buck,britton,batter
+Tom DiBenedetto,Baltimore Orioles,2014,2B,AA,tom,dibenedetto,batter
+David Adams,Baltimore Orioles,2014,3B,AA,david,adams,batter
+Michael Almanzar,Baltimore Orioles,2014,3B,AAA,michael,almanzar,batter
+Niuman Romero,Baltimore Orioles,2014,SS,AA,niuman,romero,batter
+Sharlon Schoop,Baltimore Orioles,2014,SS,AA,sharlon,schoop,batter
+Ronald Bermudez,Baltimore Orioles,2014,OF,AA,ronald,bermudez,batter
+Julio Borbon,Baltimore Orioles,2014,OF,AAA,julio,borbon,batter
+Chih-Hsien Chiang,Baltimore Orioles,2014,OF,Hi A,chih-hsien,chiang,batter
+K.D. Kang,Baltimore Orioles,2014,OF,AA,k.d.,kang,batter
+Francisco Peguero,Baltimore Orioles,2014,OF,AAA,francisco,peguero,batter
+Wilfredo Boscan,Boston Red Sox,2014,RHP,AA,wilfredo,boscan,pitcher
+John Ely,Boston Red Sox,2014,RHP,AA,john,ely,pitcher
+Pete Ruiz,Boston Red Sox,2014,RHP,AA,pete,ruiz,pitcher
+Jose Valdez,Boston Red Sox,2014,RHP,AAA,jose,valdez,pitcher
+Raynel Velette,Boston Red Sox,2014,RHP,Lo A,raynel,velette,pitcher
+Brayan Villarreal,Boston Red Sox,2014,RHP,AAA,brayan,villarreal,pitcher
+Ryan Verdugo,Boston Red Sox,2014,LHP,AAA,ryan,verdugo,pitcher
+Carson Blair,Boston Red Sox,2014,C,AA,carson,blair,batter
+Leonel Escobar,Boston Red Sox,2014,C,Hi A,leonel,escobar,batter
+Eddy Rodriguez,Boston Red Sox,2014,C,Hi A,eddy,rodriguez,batter
+Brandon Snyder,Boston Red Sox,2014,1B,AAA,brandon,snyder,batter
+Stefan Welch,Boston Red Sox,2014,1B,AA,stefan,welch,batter
+Justin Henry,Boston Red Sox,2014,2B,AAA,justin,henry,batter
+Mario Martinez,Boston Red Sox,2014,3B,Hi A,mario,martinez,batter
+Ivan De Jesus Jr.,Boston Red Sox,2014,SS,AAA,ivan,de jesus jr.,batter
+Ryan Dent,Boston Red Sox,2014,SS,AA,ryan,dent,batter
+Derrik Gibson,Boston Red Sox,2014,SS,AAA,derrik,gibson,batter
+Jonathan Herrera,Boston Red Sox,2014,SS,AAA,jonathan,herrera,batter
+Mike McCoy,Boston Red Sox,2014,SS,AAA,mike,mccoy,batter
+Heiker Meneses,Boston Red Sox,2014,SS,AA,heiker,meneses,batter
+Pete Hissey,Boston Red Sox,2014,OF,AA,pete,hissey,batter
+Alberto Cabrera,Chicago Cubs,2014,RHP,AAA,alberto,cabrera,pitcher
+Lendy Castillo,Chicago Cubs,2014,RHP,AA,lendy,castillo,pitcher
+Eduardo Figueroa,Chicago Cubs,2014,RHP,Hi A,eduardo,figueroa,pitcher
+Marcus Hatley,Chicago Cubs,2014,RHP,AAA,marcus,hatley,pitcher
+Marcos Mateo,Chicago Cubs,2014,RHP,AAA,marcos,mateo,pitcher
+Carlos Pimentel,Chicago Cubs,2014,RHP,AAA,carlos,pimentel,pitcher
+Dae-Eun Rhee,Chicago Cubs,2014,RHP,AAA,dae-eun,rhee,pitcher
+Charlie Cutler,Chicago Cubs,2014,C,AA,charlie,cutler,batter
+Nathan Maldonado,Chicago Cubs,2014,C,Hi A,nathan,maldonado,batter
+Lars Anderson,Chicago Cubs,2014,1B,AA,lars,anderson,batter
+Edgar Gonzalez,Chicago Cubs,2014,2B,AAA,edgar,gonzalez,batter
+Jonathan Mota,Chicago Cubs,2014,2B,AAA,jonathan,mota,batter
+Chris Valaika,Chicago Cubs,2014,2B,AAA,chris,valaika,batter
+Manny Ramirez,Chicago Cubs,2014,OF,AAA,manny,ramirez,batter
+Josh Vitters,Chicago Cubs,2014,OF,AAA,josh,vitters,batter
+David Cales,Chicago White Sox,2014,RHP,AA,david,cales,pitcher
+Parker Frazier,Chicago White Sox,2014,RHP,AA,parker,frazier,pitcher
+Tommy Hanson,Chicago White Sox,2014,RHP,AAA,tommy,hanson,pitcher
+Terance Marin,Chicago White Sox,2014,RHP,AA,terance,marin,pitcher
+Daniel McCutchen,Chicago White Sox,2014,RHP,AAA,daniel,mccutchen,pitcher
+Nestor Molina,Chicago White Sox,2014,RHP,AA,nestor,molina,pitcher
+Chien-Ming Wang,Chicago White Sox,2014,RHP,AAA,chien-ming,wang,pitcher
+Matt Zaleski,Chicago White Sox,2014,RHP,AAA,matt,zaleski,pitcher
+Frank de los Santos,Chicago White Sox,2014,LHP,AAA,frank,de los santos,pitcher
+Nelvin Fuentes,Chicago White Sox,2014,LHP,AA,nelvin,fuentes,pitcher
+Mauricio Robles,Chicago White Sox,2014,LHP,AAA,mauricio,robles,pitcher
+Juan Rodriguez,Chicago White Sox,2014,LHP,DSL,juan,rodriguez,pitcher
+Donnie Veal,Chicago White Sox,2014,LHP,AAA,donnie,veal,pitcher
+Miguel Gonzalez,Chicago White Sox,2014,C,AAA,miguel,gonzalez,batter
+Christian Marrero,Chicago White Sox,2014,OF,AA,christian,marrero,batter
+Matt Tuiasosopo,Chicago White Sox,2014,OF,AAA,matt,tuiasosopo,batter
+Fabio Castillo,Cincinnati Reds,2014,RHP,AAA,fabio,castillo,pitcher
+Shane Dyer,Cincinnati Reds,2014,RHP,AA,shane,dyer,pitcher
+Justin Freeman,Cincinnati Reds,2014,RHP,AAA,justin,freeman,pitcher
+Edgar Gonzalez,Cincinnati Reds,2014,RHP,AAA,edgar,gonzalez,pitcher
+Brett Marshall,Cincinnati Reds,2014,RHP,AAA,brett,marshall,pitcher
+Mikey O’Brien,Cincinnati Reds,2014,RHP,AA,mikey,o’brien,pitcher
+Radhames Quezada,Cincinnati Reds,2014,RHP,AA,radhames,quezada,pitcher
+Scott Diamond,Cincinnati Reds,2014,LHP,AAA,scott,diamond,pitcher
+Fabian Williamson,Cincinnati Reds,2014,LHP,AA,fabian,williamson,pitcher
+Lou Marson,Cincinnati Reds,2014,C,AA,lou,marson,batter
+Corky Miller,Cincinnati Reds,2014,C,AAA,corky,miller,batter
+Rossmel Perez,Cincinnati Reds,2014,C,AAA,rossmel,perez,batter
+Mike Costanzo,Cincinnati Reds,2014,1B,AAA,mike,costanzo,batter
+Travis Mattair,Cincinnati Reds,2014,1B,AA,travis,mattair,batter
+Ray Chang,Cincinnati Reds,2014,2B,AA,ray,chang,batter
+Jake Elmore,Cincinnati Reds,2014,2B,AAA,jake,elmore,batter
+Ruben Gotay,Cincinnati Reds,2014,2B,AAA,ruben,gotay,batter
+Hernan Iribarren,Cincinnati Reds,2014,2B,AAA,hernan,iribarren,batter
+Juan Silverio,Cincinnati Reds,2014,3B,AA,juan,silverio,batter
+Marquez Smith,Cincinnati Reds,2014,3B,Hi A,marquez,smith,batter
+Neftali Soto,Cincinnati Reds,2014,3B,AAA,neftali,soto,batter
+Rey Navarro,Cincinnati Reds,2014,SS,AAA,rey,navarro,batter
+Thomas Neal,Cincinnati Reds,2014,OF,AAA,thomas,neal,batter
+Gabriel Arias,Cleveland Indians,2014,RHP,AA,gabriel,arias,pitcher
+Matt Capps,Cleveland Indians,2014,RHP,AAA,matt,capps,pitcher
+Kyle Davies,Cleveland Indians,2014,RHP,AAA,kyle,davies,pitcher
+Shaun Marcum,Cleveland Indians,2014,RHP,AAA,shaun,marcum,pitcher
+Adam Miller,Cleveland Indians,2014,RHP,AAA,adam,miller,pitcher
+J.C. Ramirez,Cleveland Indians,2014,RHP,AAA,j.c.,ramirez,pitcher
+Elvis Araujo,Cleveland Indians,2014,LHP,AA,elvis,araujo,pitcher
+Dusty Brown,Cleveland Indians,2014,C,AAA,dusty,brown,batter
+Luke Carlin,Cleveland Indians,2014,C,AAA,luke,carlin,batter
+Matt Colantonio,Cleveland Indians,2014,C,AAA,matt,colantonio,batter
+Chris Gimenez,Cleveland Indians,2014,C,AAA,chris,gimenez,batter
+Adam Abraham,Cleveland Indians,2014,1B,AA,adam,abraham,batter
+Russell Branyan,Cleveland Indians,2014,1B,AAA,russell,branyan,batter
+David Cooper,Cleveland Indians,2014,1B,AAA,david,cooper,batter
+Bryan LaHair,Cleveland Indians,2014,1B,AA,bryan,lahair,batter
+Ryan Rohlinger,Cleveland Indians,2014,2B,AAA,ryan,rohlinger,batter
+Audy Ciriaco,Cleveland Indians,2014,SS,AAA,audy,ciriaco,batter
+Jaime Pedroza,Cleveland Indians,2014,SS,AA,jaime,pedroza,batter
+Matt Carson,Cleveland Indians,2014,OF,AAA,matt,carson,batter
+Tim Fedroff,Cleveland Indians,2014,OF,AAA,tim,fedroff,batter
+Rafael Betancourt,Colorado Rockies,2014,RHP,AAA,rafael,betancourt,pitcher
+Greg Burke,Colorado Rockies,2014,RHP,AAA,greg,burke,pitcher
+Leuris Gomez,Colorado Rockies,2014,RHP,AAA,leuris,gomez,pitcher
+Jefri Hernandez,Colorado Rockies,2014,RHP,Lo A,jefri,hernandez,pitcher
+Dan Houston,Colorado Rockies,2014,RHP,AAA,dan,houston,pitcher
+Mike McClendon,Colorado Rockies,2014,RHP,AAA,mike,mcclendon,pitcher
+Josh Roenicke,Colorado Rockies,2014,RHP,AAA,josh,roenicke,pitcher
+R.J. Seidel,Colorado Rockies,2014,RHP,AAA,r.j.,seidel,pitcher
+Brett Tomko,Colorado Rockies,2014,RHP,AAA,brett,tomko,pitcher
+Brian Burres,Colorado Rockies,2014,LHP,AAA,brian,burres,pitcher
+James Houser,Colorado Rockies,2014,LHP,AAA,james,houser,pitcher
+Jose Gonzalez,Colorado Rockies,2014,C,AAA,jose,gonzalez,batter
+Michael Ramirez,Colorado Rockies,2014,C,Hi A,michael,ramirez,batter
+Drew Garcia,Colorado Rockies,2014,2B,AAA,drew,garcia,batter
+Angelys Nina,Colorado Rockies,2014,2B,AAA,angelys,nina,batter
+Delta Cleary,Colorado Rockies,2014,OF,AA,delta,cleary,batter
+Francisco Sosa,Colorado Rockies,2014,OF,Hi A,francisco,sosa,batter
+Bryan Augenstein,Detroit Tigers,2014,RHP,AA,bryan,augenstein,pitcher
+Kevin Eichhorn,Detroit Tigers,2014,RHP,Hi A,kevin,eichhorn,pitcher
+Derek Hankins,Detroit Tigers,2014,RHP,AAA,derek,hankins,pitcher
+Shawn Hill,Detroit Tigers,2014,RHP,AAA,shawn,hill,pitcher
+Justin Miller,Detroit Tigers,2014,RHP,AAA,justin,miller,pitcher
+Jose Ortega,Detroit Tigers,2014,RHP,AAA,jose,ortega,pitcher
+Wilsen Palacios,Detroit Tigers,2014,RHP,AA,wilsen,palacios,pitcher
+Duane Below,Detroit Tigers,2014,LHP,AAA,duane,below,pitcher
+Casey Crosby,Detroit Tigers,2014,LHP,AAA,casey,crosby,pitcher
+Daniel Schlereth,Detroit Tigers,2014,LHP,AAA,daniel,schlereth,pitcher
+Will Startup,Detroit Tigers,2014,LHP,AA,will,startup,pitcher
+Jade Todd,Detroit Tigers,2014,LHP,Hi A,jade,todd,pitcher
+Craig Albernaz,Detroit Tigers,2014,C,AA,craig,albernaz,batter
+Moises Beltre,Detroit Tigers,2014,C,DSL,moises,beltre,batter
+Lance Durham,Detroit Tigers,2014,1B,Hi A,lance,durham,batter
+Jordan Lennerton,Detroit Tigers,2014,1B,AAA,jordan,lennerton,batter
+Brandon Douglas,Detroit Tigers,2014,2B,AAA,brandon,douglas,batter
+Marcus Lemon,Detroit Tigers,2014,2B,AAA,marcus,lemon,batter
+Francisco Martinez,Detroit Tigers,2014,3B,AA,francisco,martinez,batter
+Ben Guez,Detroit Tigers,2014,OF,AAA,ben,guez,batter
+Jose Cisnero,Houston Astros,2014,RHP,AAA,jose,cisnero,pitcher
+Paul Clemens,Houston Astros,2014,RHP,AAA,paul,clemens,pitcher
+Murilo Gouvea,Houston Astros,2014,RHP,Hi A,murilo,gouvea,pitcher
+David Martinez,Houston Astros,2014,RHP,AAA,david,martinez,pitcher
+Ross Seaton,Houston Astros,2014,RHP,AAA,ross,seaton,pitcher
+Rudy Owens,Houston Astros,2014,LHP,AAA,rudy,owens,pitcher
+Pat Urckfitz,Houston Astros,2014,LHP,AAA,pat,urckfitz,pitcher
+Rene Garcia,Houston Astros,2014,C,AA,rene,garcia,batter
+Carlos Perdomo,Houston Astros,2014,SS,AA,carlos,perdomo,batter
+Sugar Ray Marimon,Kansas City Royals,2014,RHP,AAA,sugar,ray marimon,pitcher
+Tim Melville,Kansas City Royals,2014,RHP,AA,tim,melville,pitcher
+Aroni Nina,Kansas City Royals,2014,RHP,AA,aroni,nina,pitcher
+Noel Arguelles,Kansas City Royals,2014,LHP,AA,noel,arguelles,pitcher
+Juan Graterol,Kansas City Royals,2014,C,AA,juan,graterol,batter
+Brett Hayes,Kansas City Royals,2014,C,AAA,brett,hayes,batter
+Brian Bocock,Kansas City Royals,2014,SS,AAA,brian,bocock,batter
+Angel Franco,Kansas City Royals,2014,SS,AA,angel,franco,batter
+Paul Janish,Kansas City Royals,2014,SS,AAA,paul,janish,batter
+Mitch Maier,Kansas City Royals,2014,OF,AA,mitch,maier,batter
+Edinson Rincon,Kansas City Royals,2014,OF,AA,edinson,rincon,batter
+Orangel Arenas,Los Angeles Angels,2014,RHP,AA,orangel,arenas,pitcher
+Ryan Brasier,Los Angeles Angels,2014,RHP,AAA,ryan,brasier,pitcher
+Ryan Chaffee,Los Angeles Angels,2014,RHP,AA,ryan,chaffee,pitcher
+Caleb Clay,Los Angeles Angels,2014,RHP,AAA,caleb,clay,pitcher
+Jarrett Grube,Los Angeles Angels,2014,RHP,AAA,jarrett,grube,pitcher
+Anthony Lerew,Los Angeles Angels,2014,RHP,AAA,anthony,lerew,pitcher
+Kyler Newby,Los Angeles Angels,2014,RHP,AAA,kyler,newby,pitcher
+Fernando Nieve,Los Angeles Angels,2014,RHP,AAA,fernando,nieve,pitcher
+Chris Volstad,Los Angeles Angels,2014,RHP,AAA,chris,volstad,pitcher
+Buddy Boshers,Los Angeles Angels,2014,LHP,AA,buddy,boshers,pitcher
+Danny Miranda,Los Angeles Angels,2014,LHP,Hi A,danny,miranda,pitcher
+Dustin Richardson,Los Angeles Angels,2014,LHP,AAA,dustin,richardson,pitcher
+Randy Wolf,Los Angeles Angels,2014,LHP,AAA,randy,wolf,pitcher
+Anderson de la Rosa,Los Angeles Angels,2014,C,AA,anderson,de la rosa,batter
+Zach Zaneski,Los Angeles Angels,2014,C,AA,zach,zaneski,batter
+Vance Albitz,Los Angeles Angels,2014,SS,AAA,vance,albitz,batter
+Maikol Gonzalez,Los Angeles Angels,2014,SS,AA,maikol,gonzalez,batter
+Mike Bianucci,Los Angeles Angels,2014,OF,AA,mike,bianucci,batter
+Tony Campana,Los Angeles Angels,2014,OF,AAA,tony,campana,batter
+Roberto Lopez,Los Angeles Angels,2014,OF,AAA,roberto,lopez,batter
+Adam Melker,Los Angeles Angels,2014,OF,AA,adam,melker,batter
+Jeff Bennett,Los Angeles Dodgers,2014,RHP,AAA,jeff,bennett,pitcher
+Bruce Billings,Los Angeles Dodgers,2014,RHP,AAA,bruce,billings,pitcher
+Drew Carpenter,Los Angeles Dodgers,2014,RHP,AAA,drew,carpenter,pitcher
+Sam Demel,Los Angeles Dodgers,2014,RHP,AAA,sam,demel,pitcher
+Stephen Fife,Los Angeles Dodgers,2014,RHP,AAA,stephen,fife,pitcher
+Bladimir Franco,Los Angeles Dodgers,2014,RHP,Hi A,bladimir,franco,pitcher
+Gustavo Gomez,Los Angeles Dodgers,2014,RHP,Hi A,gustavo,gomez,pitcher
+Yeuri Gonzalez,Los Angeles Dodgers,2014,RHP,R,yeuri,gonzalez,pitcher
+Josh Judy,Los Angeles Dodgers,2014,RHP,AAA,josh,judy,pitcher
+Danny Keller,Los Angeles Dodgers,2014,RHP,Hi A,danny,keller,pitcher
+Jhan Marinez,Los Angeles Dodgers,2014,RHP,AA,jhan,marinez,pitcher
+Mark Pope,Los Angeles Dodgers,2014,RHP,Lo A,mark,pope,pitcher
+Juan Rodriguez,Los Angeles Dodgers,2014,RHP,Hi A,juan,rodriguez,pitcher
+Andres Santiago,Los Angeles Dodgers,2014,RHP,AA,andres,santiago,pitcher
+Anthony Slama,Los Angeles Dodgers,2014,RHP,AA,anthony,slama,pitcher
+Javier Solano,Los Angeles Dodgers,2014,RHP,AA,javier,solano,pitcher
+Justin Souza,Los Angeles Dodgers,2014,RHP,AAA,justin,souza,pitcher
+Nick Struck,Los Angeles Dodgers,2014,RHP,AA,nick,struck,pitcher
+J.C. Boscan,Los Angeles Dodgers,2014,C,AA,j.c.,boscan,batter
+Gorman Erickson,Los Angeles Dodgers,2014,C,AAA,gorman,erickson,batter
+Johnny Monell,Los Angeles Dodgers,2014,C,AAA,johnny,monell,batter
+Alberto Rosario,Los Angeles Dodgers,2014,C,AA,alberto,rosario,batter
+Chris Jacobs,Los Angeles Dodgers,2014,1B,Hi A,chris,jacobs,batter
+Brock Peterson,Los Angeles Dodgers,2014,1B,AAA,brock,peterson,batter
+Alex Liddi,Los Angeles Dodgers,2014,3B,AA,alex,liddi,batter
+Daniel Mayora,Los Angeles Dodgers,2014,3B,AA,daniel,mayora,batter
+Jamie Romak,Los Angeles Dodgers,2014,3B,AAA,jamie,romak,batter
+Walter Ibarra,Los Angeles Dodgers,2014,SS,AAA,walter,ibarra,batter
+Angel Sanchez,Los Angeles Dodgers,2014,SS,AA,angel,sanchez,batter
+Carlos Triunfel,Los Angeles Dodgers,2014,SS,AAA,carlos,triunfel,batter
+Mike Baxter,Los Angeles Dodgers,2014,OF,AAA,mike,baxter,batter
+Trayvon Robinson,Los Angeles Dodgers,2014,OF,AAA,trayvon,robinson,batter
+Bryan Evans,Miami Marlins,2014,RHP,AAA,bryan,evans,pitcher
+Miguel Fermin,Miami Marlins,2014,RHP,Hi A,miguel,fermin,pitcher
+Dustin Moseley,Miami Marlins,2014,RHP,AA,dustin,moseley,pitcher
+Ramon Oviedo,Miami Marlins,2014,RHP,SS,ramon,oviedo,pitcher
+Micah Owings,Miami Marlins,2014,RHP,AA,micah,owings,pitcher
+Keivi Rojas,Miami Marlins,2014,RHP,R,keivi,rojas,pitcher
+Alex Sanabia,Miami Marlins,2014,RHP,AAA,alex,sanabia,pitcher
+Elih Villanueva,Miami Marlins,2014,RHP,AAA,elih,villanueva,pitcher
+Alexander Carreras,Miami Marlins,2014,LHP,SS,alexander,carreras,pitcher
+James Leverton,Miami Marlins,2014,LHP,AA,james,leverton,pitcher
+Jose Ceballos,Miami Marlins,2014,C,Lo A,jose,ceballos,batter
+Wilfredo Gimenez,Miami Marlins,2014,C,AA,wilfredo,gimenez,batter
+Luis Sanz,Miami Marlins,2014,C,Hi A,luis,sanz,batter
+Kyle Skipworth,Miami Marlins,2014,C,AAA,kyle,skipworth,batter
+Alex Burg,Miami Marlins,2014,3B,AA,alex,burg,batter
+Josh Rodriguez,Miami Marlins,2014,3B,AAA,josh,rodriguez,batter
+Juan Diaz,Miami Marlins,2014,SS,AAA,juan,diaz,batter
+Joe Benson,Miami Marlins,2014,OF,AA,joe,benson,batter
+Isaac Galloway,Miami Marlins,2014,OF,AA,isaac,galloway,batter
+Alfredo Silverio,Miami Marlins,2014,OF,Hi A,alfredo,silverio,batter
+Billy Buckner,Milwaukee Brewers,2014,RHP,AAA,billy,buckner,pitcher
+Jose de la Torre,Milwaukee Brewers,2014,RHP,AAA,jose,de la torre,pitcher
+Donovan Hand,Milwaukee Brewers,2014,RHP,AAA,donovan,hand,pitcher
+Jon Huizinga,Milwaukee Brewers,2014,RHP,Hi A,jon,huizinga,pitcher
+Jay Jackson,Milwaukee Brewers,2014,RHP,AAA,jay,jackson,pitcher
+Arcenio Leon,Milwaukee Brewers,2014,RHP,AAA,arcenio,leon,pitcher
+Johnnie Lowe,Milwaukee Brewers,2014,RHP,R,johnnie,lowe,pitcher
+Dustin Molleken,Milwaukee Brewers,2014,RHP,AAA,dustin,molleken,pitcher
+Brent Leach,Milwaukee Brewers,2014,LHP,AAA,brent,leach,pitcher
+Robinzon Diaz,Milwaukee Brewers,2014,C,AA,robinzon,diaz,batter
+Hector Gimenez,Milwaukee Brewers,2014,C,AA,hector,gimenez,batter
+Lucas May,Milwaukee Brewers,2014,C,AAA,lucas,may,batter
+Joey Paciorek,Milwaukee Brewers,2014,C,R,joey,paciorek,batter
+Pete Orr,Milwaukee Brewers,2014,2B,AAA,pete,orr,batter
+Hainley Statia,Milwaukee Brewers,2014,2B,AA,hainley,statia,batter
+Irving Falu,Milwaukee Brewers,2014,SS,AAA,irving,falu,batter
+Caleb Gindl,Milwaukee Brewers,2014,OF,AAA,caleb,gindl,batter
+Jeremy Hermida,Milwaukee Brewers,2014,OF,AAA,jeremy,hermida,batter
+Erik Komatsu,Milwaukee Brewers,2014,OF,AA,erik,komatsu,batter
+Eugenio Velez,Milwaukee Brewers,2014,OF,AAA,eugenio,velez,batter
+Deolis Guerra,Minnesota Twins,2014,RHP,AAA,deolis,guerra,pitcher
+B.J. Hermsen,Minnesota Twins,2014,RHP,AA,b.j.,hermsen,pitcher
+Yohan Pino,Minnesota Twins,2014,RHP,AAA,yohan,pino,pitcher
+Dan Turpen,Minnesota Twins,2014,RHP,AA,dan,turpen,pitcher
+Virgil Vasquez,Minnesota Twins,2014,RHP,AAA,virgil,vasquez,pitcher
+Jim Fuller,Minnesota Twins,2014,LHP,AA,jim,fuller,pitcher
+Edgar Ibarra,Minnesota Twins,2014,LHP,AAA,edgar,ibarra,pitcher
+Dan Rohlfing,Minnesota Twins,2014,C,AAA,dan,rohlfing,batter
+James Beresford,Minnesota Twins,2014,2B,AAA,james,beresford,batter
+Deibinson Romero,Minnesota Twins,2014,3B,AAA,deibinson,romero,batter
+Brandon Waring,Minnesota Twins,2014,3B,AA,brandon,waring,batter
+Eric Farris,Minnesota Twins,2014,OF,AAA,eric,farris,batter
+Chris Rahl,Minnesota Twins,2014,OF,AAA,chris,rahl,batter
+Wilkin Ramirez,Minnesota Twins,2014,OF,AAA,wilkin,ramirez,batter
+Corey Wimberly,Minnesota Twins,2014,OF,AA,corey,wimberly,batter
+Giancarlo Alvarado,New York Mets,2014,RHP,AAA,giancarlo,alvarado,pitcher
+Buddy Carlyle,New York Mets,2014,RHP,AAA,buddy,carlyle,pitcher
+Joel Carreno,New York Mets,2014,RHP,AAA,joel,carreno,pitcher
+Jeremy Hefner,New York Mets,2014,RHP,Hi A,jeremy,hefner,pitcher
+Ryan Reid,New York Mets,2014,RHP,AAA,ryan,reid,pitcher
+Miguel Socolovich,New York Mets,2014,RHP,AAA,miguel,socolovich,pitcher
+Ismael Tijerina,New York Mets,2014,RHP,Lo A,ismael,tijerina,pitcher
+Angel Cuan,New York Mets,2014,LHP,Hi A,angel,cuan,pitcher
+Dana Eveland,New York Mets,2014,LHP,AAA,dana,eveland,pitcher
+Scott Rice,New York Mets,2014,LHP,AAA,scott,rice,pitcher
+Kai Gronauer,New York Mets,2014,C,AAA,kai,gronauer,batter
+Brandon Allen,New York Mets,2014,1B,AAA,brandon,allen,batter
+Allan Dykstra,New York Mets,2014,1B,AAA,allan,dykstra,batter
+Anthony Seratelli,New York Mets,2014,2B,AAA,anthony,seratelli,batter
+Brian Burgamy,New York Mets,2014,3B,AA,brian,burgamy,batter
+Dimas Ponce,New York Mets,2014,SS,Lo A,dimas,ponce,batter
+Andrew Bailey,New York Yankees,2014,RHP,AAA,andrew,bailey,pitcher
+Jairo Heredia,New York Yankees,2014,RHP,AA,jairo,heredia,pitcher
+David Herndon,New York Yankees,2014,RHP,AAA,david,herndon,pitcher
+Pat Venditte,New York Yankees,2014,LHP,AAA,pat,venditte,pitcher
+Ramon Benjamin,New York Yankees,2014,LHP,Hi A,ramon,benjamin,pitcher
+Jeremy Bleich,New York Yankees,2014,LHP,AA,jeremy,bleich,pitcher
+Francisco Rondon,New York Yankees,2014,LHP,AA,francisco,rondon,pitcher
+Nik Turley,New York Yankees,2014,LHP,AAA,nik,turley,pitcher
+Jose Gil,New York Yankees,2014,C,AAA,jose,gil,batter
+Reymond Nunez,New York Yankees,2014,1B,Hi A,reymond,nunez,batter
+Jose Toussen,New York Yankees,2014,2B,AA,jose,toussen,batter
+Scott Sizemore,New York Yankees,2014,3B,AAA,scott,sizemore,batter
+Carmen Angelini,New York Yankees,2014,SS,AAA,carmen,angelini,batter
+Zoilo Almonte,New York Yankees,2014,OF,AAA,zoilo,almonte,batter
+Tim Alderson,Oakland Athletics,2014,RHP,Hi A,tim,alderson,pitcher
+Matt Buschmann,Oakland Athletics,2014,RHP,AAA,matt,buschmann,pitcher
+Manuarys Correa,Oakland Athletics,2014,RHP,Hi A,manuarys,correa,pitcher
+Fernand Cruzado,Oakland Athletics,2014,RHP,SS,fernand,cruzado,pitcher
+Jose Flores,Oakland Athletics,2014,RHP,AA,jose,flores,pitcher
+Shawn Haviland,Oakland Athletics,2014,RHP,AA,shawn,haviland,pitcher
+Deryk Hooker,Oakland Athletics,2014,RHP,AA,deryk,hooker,pitcher
+Phil Humber,Oakland Athletics,2014,RHP,AAA,phil,humber,pitcher
+Jonathan Joseph,Oakland Athletics,2014,RHP,Hi A,jonathan,joseph,pitcher
+Jeremy McBryde,Oakland Athletics,2014,RHP,AAA,jeremy,mcbryde,pitcher
+Tim Sexton,Oakland Athletics,2014,RHP,AA,tim,sexton,pitcher
+Marcus Walden,Oakland Athletics,2014,RHP,AA,marcus,walden,pitcher
+Omar Duran,Oakland Athletics,2014,LHP,AA,omar,duran,pitcher
+Frank Gailey,Oakland Athletics,2014,LHP,AA,frank,gailey,pitcher
+Joe Savery,Oakland Athletics,2014,LHP,AAA,joe,savery,pitcher
+Luis Martinez,Oakland Athletics,2014,C,AAA,luis,martinez,batter
+Luke Montz,Oakland Athletics,2014,C,AAA,luke,montz,batter
+Jose Martinez,Oakland Athletics,2014,2B,AAA,jose,martinez,batter
+Jefry Marte,Oakland Athletics,2014,3B,AA,jefry,marte,batter
+Luis Baez,Oakland Athletics,2014,SS,Lo A,luis,baez,batter
+Dusty Coleman,Oakland Athletics,2014,SS,AA,dusty,coleman,batter
+Darwin Perez,Oakland Athletics,2014,SS,AAA,darwin,perez,batter
+Jeremy Barfield,Oakland Athletics,2014,OF,AA,jeremy,barfield,batter
+Nick Buss,Oakland Athletics,2014,OF,AAA,nick,buss,batter
+D’Arby Myers,Oakland Athletics,2014,OF,AA,d’arby,myers,batter
+Kenny Wilson,Oakland Athletics,2014,OF,AA,kenny,wilson,batter
+Chris Bootcheck,Philadelphia Phillies,2014,RHP,AA,chris,bootcheck,pitcher
+Brad Lincoln,Philadelphia Phillies,2014,RHP,AAA,brad,lincoln,pitcher
+B.J. Rosenberg,Philadelphia Phillies,2014,RHP,AAA,b.j.,rosenberg,pitcher
+Matt Hoffman,Philadelphia Phillies,2014,LHP,AA,matt,hoffman,pitcher
+Greg Smith,Philadelphia Phillies,2014,LHP,AAA,greg,smith,pitcher
+Lars Davis,Philadelphia Phillies,2014,C,AAA,lars,davis,batter
+Raywilly Gomez,Philadelphia Phillies,2014,C,AA,raywilly,gomez,batter
+Koyie Hill,Philadelphia Phillies,2014,C,AAA,koyie,hill,batter
+Sebastian Valle,Philadelphia Phillies,2014,C,AAA,sebastian,valle,batter
+Jim Murphy,Philadelphia Phillies,2014,1B,AAA,jim,murphy,batter
+Albert Cartwright,Philadelphia Phillies,2014,2B,AA,albert,cartwright,batter
+Tyler Henson,Philadelphia Phillies,2014,2B,AAA,tyler,henson,batter
+Nate Spears,Philadelphia Phillies,2014,2B,AAA,nate,spears,batter
+Matt Tolbert,Philadelphia Phillies,2014,2B,AA,matt,tolbert,batter
+Leandro Castro,Philadelphia Phillies,2014,OF,AAA,leandro,castro,batter
+Zach Collier,Philadelphia Phillies,2014,OF,AA,zach,collier,batter
+Brandon Short,Philadelphia Phillies,2014,OF,Hi A,brandon,short,batter
+John Axford,Pittsburgh Pirates,2014,RHP,AAA,john,axford,pitcher
+Jake Brigham,Pittsburgh Pirates,2014,RHP,AAA,jake,brigham,pitcher
+Emmanuel De Leon,Pittsburgh Pirates,2014,RHP,AA,emmanuel,de leon,pitcher
+Jeanmar Gomez,Pittsburgh Pirates,2014,RHP,AAA,jeanmar,gomez,pitcher
+Kenn Kasparek,Pittsburgh Pirates,2014,RHP,AA,kenn,kasparek,pitcher
+Josh Kinney,Pittsburgh Pirates,2014,RHP,AAA,josh,kinney,pitcher
+Kyle McPherson,Pittsburgh Pirates,2014,RHP,AAA,kyle,mcpherson,pitcher
+Quinton Miller,Pittsburgh Pirates,2014,RHP,AA,quinton,miller,pitcher
+Wirfin Obispo,Pittsburgh Pirates,2014,RHP,AAA,wirfin,obispo,pitcher
+Josh Wall,Pittsburgh Pirates,2014,RHP,AAA,josh,wall,pitcher
+Rafael Perez,Pittsburgh Pirates,2014,LHP,AAA,rafael,perez,pitcher
+Jhonathan Ramos,Pittsburgh Pirates,2014,LHP,AA,jhonathan,ramos,pitcher
+Adam Wilk,Pittsburgh Pirates,2014,LHP,AAA,adam,wilk,pitcher
+Nevin Ashley,Pittsburgh Pirates,2014,C,AAA,nevin,ashley,batter
+Francisco Diaz,Pittsburgh Pirates,2014,C,Lo A,francisco,diaz,batter
+Ralph Henriquez,Pittsburgh Pirates,2014,C,AA,ralph,henriquez,batter
+Carlos Paulino,Pittsburgh Pirates,2014,C,AA,carlos,paulino,batter
+Rudy Pena,Pittsburgh Pirates,2014,C,AAA,rudy,pena,batter
+Miguel Perez,Pittsburgh Pirates,2014,C,Lo A,miguel,perez,batter
+Omir Santos,Pittsburgh Pirates,2014,C,AAA,omir,santos,batter
+Chase d’Arnaud,Pittsburgh Pirates,2014,2B,AAA,chase,d’arnaud,batter
+Blake Davis,Pittsburgh Pirates,2014,2B,AAA,blake,davis,batter
+Tommy Field,Pittsburgh Pirates,2014,2B,AAA,tommy,field,batter
+Jarek Cunningham,Pittsburgh Pirates,2014,3B,AA,jarek,cunningham,batter
+Robert Andino,Pittsburgh Pirates,2014,SS,AAA,robert,andino,batter
+Dean Anna,Pittsburgh Pirates,2014,SS,AAA,dean,anna,batter
+Greg Picart,Pittsburgh Pirates,2014,SS,Hi A,greg,picart,batter
+Miles Durham,Pittsburgh Pirates,2014,OF,AA,miles,durham,batter
+Austin McClune,Pittsburgh Pirates,2014,OF,Hi A,austin,mcclune,batter
+Anthony Norman,Pittsburgh Pirates,2014,OF,AA,anthony,norman,batter
+Andy Vasquez,Pittsburgh Pirates,2014,OF,AA,andy,vasquez,batter
+David Aardsma,St. Louis Cardinals,2014,RHP,AAA,david,aardsma,pitcher
+Jose Almarante,St. Louis Cardinals,2014,RHP,AAA,jose,almarante,pitcher
+Jeremy Berg,St. Louis Cardinals,2014,RHP,AA,jeremy,berg,pitcher
+Jesus Montero,St. Louis Cardinals,2014,C,Hi A,jesus,montero,batter
+Audry Perez,St. Louis Cardinals,2014,C,AAA,audry,perez,batter
+Curt Smith,St. Louis Cardinals,2014,1B,AA,curt,smith,batter
+Jermaine Curtis,St. Louis Cardinals,2014,3B,AAA,jermaine,curtis,batter
+Scott Moore,St. Louis Cardinals,2014,3B,AAA,scott,moore,batter
+Luis Mateo,St. Louis Cardinals,2014,SS,AAA,luis,mateo,batter
+Greg Miclat,St. Louis Cardinals,2014,SS,AAA,greg,miclat,batter
+Ildemaro Vargas,St. Louis Cardinals,2014,SS,AA,ildemaro,vargas,batter
+Josh Geer,San Diego Padres,2014,RHP,AA,josh,geer,pitcher
+Luis Hernandez,San Diego Padres,2014,RHP,R,luis,hernandez,pitcher
+Michael Nix,San Diego Padres,2014,RHP,AAA,michael,nix,pitcher
+Jason Lane,San Diego Padres,2014,LHP,AAA,jason,lane,pitcher
+Cody Overbeck,San Diego Padres,2014,1B,AA,cody,overbeck,batter
+Benji Gonzalez,San Diego Padres,2014,2B,Hi A,benji,gonzalez,batter
+Alex Castellanos,San Diego Padres,2014,3B,AAA,alex,castellanos,batter
+Jonathan Galvez,San Diego Padres,2014,3B,AAA,jonathan,galvez,batter
+Brian Bixler,San Diego Padres,2014,SS,AAA,brian,bixler,batter
+Niko Gallego,San Diego Padres,2014,SS,Hi A,niko,gallego,batter
+Tyler Greene,San Diego Padres,2014,SS,AAA,tyler,greene,batter
+Jeudy Valdez,San Diego Padres,2014,SS,Hi A,jeudy,valdez,batter
+Travis Buck,San Diego Padres,2014,OF,AAA,travis,buck,batter
+Jason Berken,San Francisco Giants,2014,RHP,AAA,jason,berken,pitcher
+Mitchell Boggs,San Francisco Giants,2014,RHP,AAA,mitchell,boggs,pitcher
+Mike Broadway,San Francisco Giants,2014,RHP,AAA,mike,broadway,pitcher
+Jorge Bucardo,San Francisco Giants,2014,RHP,Hi A,jorge,bucardo,pitcher
+Andrew Carignan,San Francisco Giants,2014,RHP,AAA,andrew,carignan,pitcher
+Jose Casilla,San Francisco Giants,2014,RHP,AA,jose,casilla,pitcher
+Shane Loux,San Francisco Giants,2014,RHP,AAA,shane,loux,pitcher
+Edwin Quirarte,San Francisco Giants,2014,RHP,AA,edwin,quirarte,pitcher
+Adam Reifer,San Francisco Giants,2014,RHP,AAA,adam,reifer,pitcher
+Sandy Rosario,San Francisco Giants,2014,RHP,AAA,sandy,rosario,pitcher
+Jose De Paula,San Francisco Giants,2014,LHP,AAA,jose,de paula,pitcher
+Tyler LaTorre,San Francisco Giants,2014,C,AA,tyler,latorre,batter
+Jesus Navarro,San Francisco Giants,2014,C,Hi A,jesus,navarro,batter
+Guillermo Quiroz,San Francisco Giants,2014,C,AAA,guillermo,quiroz,batter
+Eliezer Zambrano,San Francisco Giants,2014,C,AA,eliezer,zambrano,batter
+Mark Minicozzi,San Francisco Giants,2014,1B,AAA,mark,minicozzi,batter
+Skyler Stromsmoe,San Francisco Giants,2014,2B,AA,skyler,stromsmoe,batter
+Mario Lisson,San Francisco Giants,2014,3B,AA,mario,lisson,batter
+Nick Noonan,San Francisco Giants,2014,SS,AAA,nick,noonan,batter
+Tyler Graham,San Francisco Giants,2014,OF,AA,tyler,graham,batter
+Javier Herrera,San Francisco Giants,2014,OF,AAA,javier,herrera,batter
+Blake Beavan,Seattle Mariners,2014,RHP,AAA,blake,beavan,pitcher
+Moises Hernandez,Seattle Mariners,2014,RHP,AA,moises,hernandez,pitcher
+Luis Jimenez,Seattle Mariners,2014,RHP,DSL,luis,jimenez,pitcher
+Logan Kensing,Seattle Mariners,2014,RHP,AAA,logan,kensing,pitcher
+Ricardo Pereira,Seattle Mariners,2014,RHP,Lo A,ricardo,pereira,pitcher
+Stephen Shackleford,Seattle Mariners,2014,RHP,AA,stephen,shackleford,pitcher
+Joselito Cano,Seattle Mariners,2014,LHP,R,joselito,cano,pitcher
+Nick Hill,Seattle Mariners,2014,LHP,AA,nick,hill,pitcher
+Leury Bonilla,Seattle Mariners,2014,3B,AAA,leury,bonilla,batter
+Nate Tenbrink,Seattle Mariners,2014,3B,AAA,nate,tenbrink,batter
+Gabriel Noriega,Seattle Mariners,2014,SS,AAA,gabriel,noriega,batter
+Xavier Avery,Seattle Mariners,2014,OF,AAA,xavier,avery,batter
+Burt Reynolds,Seattle Mariners,2014,OF,Hi A,burt,reynolds,batter
+Mike Colla,Tampa Bay Rays,2014,RHP,AA,mike,colla,pitcher
+Santiago Garrido,Tampa Bay Rays,2014,RHP,AA,santiago,garrido,pitcher
+Josh Lueke,Tampa Bay Rays,2014,RHP,AAA,josh,lueke,pitcher
+Victor Mateo,Tampa Bay Rays,2014,RHP,AA,victor,mateo,pitcher
+Doug Mathis,Tampa Bay Rays,2014,RHP,AAA,doug,mathis,pitcher
+Eduar Quinonez,Tampa Bay Rays,2014,RHP,Lo A,eduar,quinonez,pitcher
+Bryce Stowell,Tampa Bay Rays,2014,RHP,AAA,bryce,stowell,pitcher
+Albert Suarez,Tampa Bay Rays,2014,RHP,AA,albert,suarez,pitcher
+Braulio Lara,Tampa Bay Rays,2014,LHP,AA,braulio,lara,pitcher
+Jose Molina,Tampa Bay Rays,2014,LHP,Hi A,jose,molina,pitcher
+Jordan Norberto,Tampa Bay Rays,2014,LHP,AA,jordan,norberto,pitcher
+Mayobanex Acosta,Tampa Bay Rays,2014,C,AA,mayobanex,acosta,batter
+Ali Solis,Tampa Bay Rays,2014,C,AAA,ali,solis,batter
+Wilson Betemit,Tampa Bay Rays,2014,1B,AAA,wilson,betemit,batter
+Alejandro Segovia,Tampa Bay Rays,2014,1B,AA,alejandro,segovia,batter
+Mike Fontenot,Tampa Bay Rays,2014,2B,AAA,mike,fontenot,batter
+Jonathan Quinonez,Tampa Bay Rays,2014,3B,Hi A,jonathan,quinonez,batter
+Ray Olmedo,Tampa Bay Rays,2014,SS,AAA,ray,olmedo,batter
+Justin Christian,Tampa Bay Rays,2014,OF,AAA,justin,christian,batter
+James Darnell,Tampa Bay Rays,2014,OF,AAA,james,darnell,batter
+Jeremy Moore,Tampa Bay Rays,2014,OF,AAA,jeremy,moore,batter
+Alfredo Figaro,Texas Rangers,2014,RHP,AAA,alfredo,figaro,pitcher
+Wilmer Font,Texas Rangers,2014,RHP,AAA,wilmer,font,pitcher
+Erik Hamren,Texas Rangers,2014,RHP,AA,erik,hamren,pitcher
+Kyle Lotzkar,Texas Rangers,2014,RHP,AA,kyle,lotzkar,pitcher
+Francisco Mendoza,Texas Rangers,2014,RHP,AA,francisco,mendoza,pitcher
+Scott Richmond,Texas Rangers,2014,RHP,AAA,scott,richmond,pitcher
+Zack Segovia,Texas Rangers,2014,RHP,AAA,zack,segovia,pitcher
+Pedro Figueroa,Texas Rangers,2014,LHP,AAA,pedro,figueroa,pitcher
+Chad James,Texas Rangers,2014,LHP,Hi A,chad,james,pitcher
+Kevin Torres,Texas Rangers,2014,C,Hi A,kevin,torres,batter
+J.R. Towles,Texas Rangers,2014,C,AAA,j.r.,towles,batter
+J.T. Wise,Texas Rangers,2014,C,AA,j.t.,wise,batter
+Jason Donald,Texas Rangers,2014,2B,AAA,jason,donald,batter
+Brent Lillibridge,Texas Rangers,2014,2B,AAA,brent,lillibridge,batter
+Alex Buchholz,Texas Rangers,2014,3B,AAA,alex,buchholz,batter
+Edwin Garcia,Texas Rangers,2014,SS,Hi A,edwin,garcia,batter
+Ed Lucas,Texas Rangers,2014,SS,AAA,ed,lucas,batter
+Guilder Rodriguez,Texas Rangers,2014,SS,AAA,guilder,rodriguez,batter
+Engel Beltre,Texas Rangers,2014,OF,AAA,engel,beltre,batter
+Cory Patton,Texas Rangers,2014,OF,AAA,cory,patton,batter
+Bryan Petersen,Texas Rangers,2014,OF,AAA,bryan,petersen,batter
+Austin Bibens-Dirkx,Toronto Blue Jays,2014,RHP,AA,austin,bibens-dirkx,pitcher
+Randy Boone,Toronto Blue Jays,2014,RHP,AA,randy,boone,pitcher
+Scott Copeland,Toronto Blue Jays,2014,RHP,AAA,scott,copeland,pitcher
+Scott Gracey,Toronto Blue Jays,2014,RHP,AA,scott,gracey,pitcher
+Justin Jackson,Toronto Blue Jays,2014,RHP,AA,justin,jackson,pitcher
+Mike Lee,Toronto Blue Jays,2014,RHP,AA,mike,lee,pitcher
+Radhames Liz,Toronto Blue Jays,2014,RHP,AAA,radhames,liz,pitcher
+Sergio Santos,Toronto Blue Jays,2014,RHP,AA,sergio,santos,pitcher
+Richard Bleier,Toronto Blue Jays,2014,LHP,AA,richard,bleier,pitcher
+Tony Davis,Toronto Blue Jays,2014,LHP,Hi A,tony,davis,pitcher
+Efrain Nieves,Toronto Blue Jays,2014,LHP,Hi A,efrain,nieves,pitcher
+Yusuf Carter,Toronto Blue Jays,2014,C,AA,yusuf,carter,batter
+Mike Nickeas,Toronto Blue Jays,2014,C,AAA,mike,nickeas,batter
+Mike McDade,Toronto Blue Jays,2014,1B,AA,mike,mcdade,batter
+Brett Wallace,Toronto Blue Jays,2014,1B,AAA,brett,wallace,batter
+Jared Goedert,Toronto Blue Jays,2014,3B,AAA,jared,goedert,batter
+Andy LaRoche,Toronto Blue Jays,2014,3B,AAA,andy,laroche,batter
+Cory Aldridge,Toronto Blue Jays,2014,OF,AA,cory,aldridge,batter
+Adron Chambers,Toronto Blue Jays,2014,OF,AAA,adron,chambers,batter
+Michael Crouse,Toronto Blue Jays,2014,OF,AA,michael,crouse,batter
+Melky Mesa,Toronto Blue Jays,2014,OF,AA,melky,mesa,batter
+Ricardo Nanita,Toronto Blue Jays,2014,OF,AAA,ricardo,nanita,batter
+Paul Demny,Washington Nationals,2014,RHP,AA,paul,demny,pitcher
+Tyler Herron,Washington Nationals,2014,RHP,AAA,tyler,herron,pitcher
+Mitch Lively,Washington Nationals,2014,RHP,AAA,mitch,lively,pitcher
+Omar Poveda,Washington Nationals,2014,RHP,AA,omar,poveda,pitcher
+Daniel Stange,Washington Nationals,2014,RHP,AAA,daniel,stange,pitcher
+Zach Kroenke,Washington Nationals,2014,LHP,AA,zach,kroenke,pitcher
+Aaron Laffey,Washington Nationals,2014,LHP,AAA,aaron,laffey,pitcher
+Tyler Robertson,Washington Nationals,2014,LHP,AAA,tyler,robertson,pitcher
+Mitch Canham,Washington Nationals,2014,C,AA,mitch,canham,batter
+Brian Jeroloman,Washington Nationals,2014,C,AA,brian,jeroloman,batter
+Alex Marquez,Washington Nationals,2014,C,Lo A,alex,marquez,batter
+Melvin Dorta,Washington Nationals,2014,2B,AA,melvin,dorta,batter
+Will Rhymes,Washington Nationals,2014,2B,AAA,will,rhymes,batter
+Brandon Laird,Washington Nationals,2014,3B,AAA,brandon,laird,batter
+Oscar Tejeda,Washington Nationals,2014,3B,AA,oscar,tejeda,batter
+Destin Hood,Washington Nationals,2014,OF,AAA,destin,hood,batter
+Quincy Latimore,Washington Nationals,2014,OF,AAA,quincy,latimore,batter
+Gabriel Arias,Arizona Diamondbacks,2015,RHP,AA,gabriel,arias,pitcher
+Caleb Clay,Arizona Diamondbacks,2015,RHP,AAA,caleb,clay,pitcher
+Edgar Garcia,Arizona Diamondbacks,2015,RHP,AA,edgar,garcia,pitcher
+Blayne Weller,Arizona Diamondbacks,2015,RHP,AAA,blayne,weller,pitcher
+Hector Hernandez,Arizona Diamondbacks,2015,LHP,Lo A,hector,hernandez,pitcher
+Justin Marks,Arizona Diamondbacks,2015,LHP,AAA,justin,marks,pitcher
+Blake Lalli,Arizona Diamondbacks,2015,C,AAA,blake,lalli,batter
+Matt Pagnozzi,Arizona Diamondbacks,2015,C,AAA,matt,pagnozzi,batter
+Nick Evans,Arizona Diamondbacks,2015,1B,AAA,nick,evans,batter
+Gerson Montilla,Arizona Diamondbacks,2015,2B,Hi A,gerson,montilla,batter
+Fidel Pena,Arizona Diamondbacks,2015,2B,Hi A,fidel,pena,batter
+Walter Ibarra,Arizona Diamondbacks,2015,SS,AAA,walter,ibarra,batter
+Raul Navarro,Arizona Diamondbacks,2015,SS,AA,raul,navarro,batter
+Cody Ransom,Arizona Diamondbacks,2015,SS,AAA,cody,ransom,batter
+Danny Worth,Arizona Diamondbacks,2015,SS,AAA,danny,worth,batter
+Nick Buss,Arizona Diamondbacks,2015,OF,AAA,nick,buss,batter
+Jake Brigham,Atlanta Braves,2015,RHP,AAA,jake,brigham,pitcher
+Carlos Fisher,Atlanta Braves,2015,RHP,AAA,carlos,fisher,pitcher
+Justin Jackson,Atlanta Braves,2015,RHP,Hi A,justin,jackson,pitcher
+Tyler Jones,Atlanta Braves,2015,RHP,AA,tyler,jones,pitcher
+Sugar Ray Marimon,Atlanta Braves,2015,RHP,AAA,sugar,ray marimon,pitcher
+Vin Mazzaro,Atlanta Braves,2015,RHP,AAA,vin,mazzaro,pitcher
+Jorge Reyes,Atlanta Braves,2015,RHP,AA,jorge,reyes,pitcher
+Greg Ross,Atlanta Braves,2015,RHP,AA,greg,ross,pitcher
+Andrew Barbosa,Atlanta Braves,2015,LHP,AA,andrew,barbosa,pitcher
+Greg Smith,Atlanta Braves,2015,LHP,AAA,greg,smith,pitcher
+Jose Yepez,Atlanta Braves,2015,C,AAA,jose,yepez,batter
+Kevin Ahrens,Atlanta Braves,2015,3B,AA,kevin,ahrens,batter
+Sean Kazmar,Atlanta Braves,2015,SS,AAA,sean,kazmar,batter
+Robby Hefflinger,Atlanta Braves,2015,OF,AA,robby,hefflinger,batter
+Cedric Hunter,Atlanta Braves,2015,OF,AAA,cedric,hunter,batter
+Mycal Jones,Atlanta Braves,2015,OF,AAA,mycal,jones,batter
+Jesse Beal,Baltimore Orioles,2015,RHP,Hi A,jesse,beal,pitcher
+Pedro Beato,Baltimore Orioles,2015,RHP,AAA,pedro,beato,pitcher
+Bobby Bundy,Baltimore Orioles,2015,RHP,AA,bobby,bundy,pitcher
+Matt Buschmann,Baltimore Orioles,2015,RHP,AAA,matt,buschmann,pitcher
+Terry Doyle,Baltimore Orioles,2015,RHP,AAA,terry,doyle,pitcher
+Eddie Gamboa,Baltimore Orioles,2015,RHP,AAA,eddie,gamboa,pitcher
+Matt Hobgood,Baltimore Orioles,2015,RHP,AA,matt,hobgood,pitcher
+Kenn Kasparek,Baltimore Orioles,2015,RHP,AA,kenn,kasparek,pitcher
+Williams Louico,Baltimore Orioles,2015,RHP,Lo A,williams,louico,pitcher
+Jose Mateo,Baltimore Orioles,2015,RHP,AA,jose,mateo,pitcher
+Mikey O’Brien,Baltimore Orioles,2015,RHP,Hi A,mikey,o’brien,pitcher
+Marcel Prado,Baltimore Orioles,2015,RHP,AA,marcel,prado,pitcher
+Andrew Robinson,Baltimore Orioles,2015,RHP,AA,andrew,robinson,pitcher
+Jason Stoffel,Baltimore Orioles,2015,RHP,AA,jason,stoffel,pitcher
+Elih Villanueva,Baltimore Orioles,2015,RHP,AAA,elih,villanueva,pitcher
+Mike Belfiore,Baltimore Orioles,2015,LHP,AAA,mike,belfiore,pitcher
+Sean Bierman,Baltimore Orioles,2015,LHP,Hi A,sean,bierman,pitcher
+Pat McCoy,Baltimore Orioles,2015,LHP,AAA,pat,mccoy,pitcher
+Andy Oliver,Baltimore Orioles,2015,LHP,AAA,andy,oliver,pitcher
+Ronan Pacheco,Baltimore Orioles,2015,LHP,Hi A,ronan,pacheco,pitcher
+Jhonathan Ramos,Baltimore Orioles,2015,LHP,AA,jhonathan,ramos,pitcher
+Cody Wheeler,Baltimore Orioles,2015,LHP,Hi A,cody,wheeler,pitcher
+Zach Booker,Baltimore Orioles,2015,C,AAA,zach,booker,batter
+Shawn McGill,Baltimore Orioles,2015,C,AA,shawn,mcgill,batter
+Pedro Perez,Baltimore Orioles,2015,C,Hi A,pedro,perez,batter
+Rossmel Perez,Baltimore Orioles,2015,C,AAA,rossmel,perez,batter
+Joel Polanco,Baltimore Orioles,2015,C,AA,joel,polanco,batter
+Brandon Snyder,Baltimore Orioles,2015,1B,AA,brandon,snyder,batter
+Derrik Gibson,Baltimore Orioles,2015,2B,AAA,derrik,gibson,batter
+Sharlon Schoop,Baltimore Orioles,2015,2B,AAA,sharlon,schoop,batter
+Julio Borbon,Baltimore Orioles,2015,OF,AAA,julio,borbon,batter
+Sean Halton,Baltimore Orioles,2015,OF,AAA,sean,halton,batter
+Anthony Hewitt,Baltimore Orioles,2015,OF,Hi A,anthony,hewitt,batter
+Dayan Diaz,Boston Red Sox,2015,RHP,AAA,dayan,diaz,pitcher
+Luis Diaz,Boston Red Sox,2015,RHP,AA,luis,diaz,pitcher
+Shawn Haviland,Boston Red Sox,2015,RHP,AAA,shawn,haviland,pitcher
+Kyle Kaminska,Boston Red Sox,2015,RHP,AA,kyle,kaminska,pitcher
+Jean Machi,Boston Red Sox,2015,RHP,AAA,jean,machi,pitcher
+Zeke Spruill,Boston Red Sox,2015,RHP,AAA,zeke,spruill,pitcher
+Jess Todd,Boston Red Sox,2015,RHP,AAA,jess,todd,pitcher
+Madison Younginer,Boston Red Sox,2015,RHP,AAA,madison,younginer,pitcher
+Luis Martinez,Boston Red Sox,2015,C,AAA,luis,martinez,batter
+Humberto Quintero,Boston Red Sox,2015,C,AAA,humberto,quintero,batter
+Matt Spring,Boston Red Sox,2015,C,AAA,matt,spring,batter
+Joe Thurston,Boston Red Sox,2015,2B,AA,joe,thurston,batter
+Dustin Lawley,Boston Red Sox,2015,3B,AA,dustin,lawley,batter
+Mario Martinez,Boston Red Sox,2015,3B,Hi A,mario,martinez,batter
+Carlos Rivero,Boston Red Sox,2015,3B,AAA,carlos,rivero,batter
+Oscar Tejeda,Boston Red Sox,2015,3B,AA,oscar,tejeda,batter
+Dreily Guerrero,Boston Red Sox,2015,SS,Hi A,dreily,guerrero,batter
+Keury de la Cruz,Boston Red Sox,2015,OF,AA,keury,de la cruz,batter
+Carlos Peguero,Boston Red Sox,2015,OF,AAA,carlos,peguero,batter
+Jonathan Roof,Boston Red Sox,2015,OF,AAA,jonathan,roof,batter
+Dave Sappelt,Boston Red Sox,2015,OF,AA,dave,sappelt,batter
+Blake Tekotte,Boston Red Sox,2015,OF,AA,blake,tekotte,batter
+Daniel Bard,Chicago Cubs,2015,RHP,AAA,daniel,bard,pitcher
+Fernando Cruz,Chicago Cubs,2015,RHP,AAA,fernando,cruz,pitcher
+Jae-Hoon Ha,Chicago Cubs,2015,RHP,SS,jae-hoon,ha,pitcher
+Blake Parker,Chicago Cubs,2015,RHP,AAA,blake,parker,pitcher
+Felipe Paulino,Chicago Cubs,2015,RHP,AAA,felipe,paulino,pitcher
+Carlos Pimentel,Chicago Cubs,2015,RHP,AAA,carlos,pimentel,pitcher
+Andres Santiago,Chicago Cubs,2015,RHP,AA,andres,santiago,pitcher
+Jeffry Antigua,Chicago Cubs,2015,LHP,AA,jeffry,antigua,pitcher
+Drake Britton,Chicago Cubs,2015,LHP,AAA,drake,britton,pitcher
+Ryan Buchter,Chicago Cubs,2015,LHP,AAA,ryan,buchter,pitcher
+Luke Carlin,Chicago Cubs,2015,C,AAA,luke,carlin,batter
+Emilio Bonifacio,Chicago Cubs,2015,2B,AAA,emilio,bonifacio,batter
+Jonathan Mota,Chicago Cubs,2015,2B,AA,jonathan,mota,batter
+Chris Valaika,Chicago Cubs,2015,2B,AAA,chris,valaika,batter
+Wes Darvill,Chicago Cubs,2015,SS,AA,wes,darvill,batter
+Adron Chambers,Chicago Cubs,2015,OF,AAA,adron,chambers,batter
+Tim Crabbe,Chicago White Sox,2015,RHP,AA,tim,crabbe,pitcher
+Jesse Crain,Chicago White Sox,2015,RHP,AAA,jesse,crain,pitcher
+Kyle Drabek,Chicago White Sox,2015,RHP,AAA,kyle,drabek,pitcher
+Raul Fernandez,Chicago White Sox,2015,RHP,AA,raul,fernandez,pitcher
+Arcenio Leon,Chicago White Sox,2015,RHP,AAA,arcenio,leon,pitcher
+Brad Penny,Chicago White Sox,2015,RHP,AAA,brad,penny,pitcher
+Adrian Nieto,Chicago White Sox,2015,C,AA,adrian,nieto,batter
+Dallas Tarleton,Chicago White Sox,2015,C,AA,dallas,tarleton,batter
+Chris Jacobs,Chicago White Sox,2015,1B,AA,chris,jacobs,batter
+Neftali Soto,Chicago White Sox,2015,1B,AAA,neftali,soto,batter
+Drew Garcia,Chicago White Sox,2015,2B,AAA,drew,garcia,batter
+Michael Johnson,Chicago White Sox,2015,2B,AA,michael,johnson,batter
+Tony Thomas,Chicago White Sox,2015,2B,AA,tony,thomas,batter
+Chris Curley,Chicago White Sox,2015,3B,AAA,chris,curley,batter
+Justin Sellers,Chicago White Sox,2015,SS,AAA,justin,sellers,batter
+Tyler Colvin,Chicago White Sox,2015,OF,AAA,tyler,colvin,batter
+Christian Marrero,Chicago White Sox,2015,OF,AA,christian,marrero,batter
+Matt Tuiasosopo,Chicago White Sox,2015,OF,AAA,matt,tuiasosopo,batter
+Dayan Viciedo,Chicago White Sox,2015,OF,AAA,dayan,viciedo,batter
+Nate Adcock,Cincinnati Reds,2015,RHP,AAA,nate,adcock,pitcher
+Miguel Celestino,Cincinnati Reds,2015,RHP,AAA,miguel,celestino,pitcher
+Jose Cisnero,Cincinnati Reds,2015,RHP,AA,jose,cisnero,pitcher
+Jose de la Torre,Cincinnati Reds,2015,RHP,AAA,jose,de la torre,pitcher
+Jacob Johnson,Cincinnati Reds,2015,RHP,AA,jacob,johnson,pitcher
+David Holmberg,Cincinnati Reds,2015,LHP,AAA,david,holmberg,pitcher
+Junior Morillo,Cincinnati Reds,2015,LHP,Lo A,junior,morillo,pitcher
+Patrick Schuster,Cincinnati Reds,2015,LHP,AA,patrick,schuster,pitcher
+Yovan Gonzalez,Cincinnati Reds,2015,C,AA,yovan,gonzalez,batter
+Ray Chang,Cincinnati Reds,2015,2B,AA,ray,chang,batter
+Sammy Diaz,Cincinnati Reds,2015,2B,Hi A,sammy,diaz,batter
+Irving Falu,Cincinnati Reds,2015,2B,AAA,irving,falu,batter
+Hernan Iribarren,Cincinnati Reds,2015,2B,AAA,hernan,iribarren,batter
+Jermaine Curtis,Cincinnati Reds,2015,3B,AAA,jermaine,curtis,batter
+Chris Dominguez,Cincinnati Reds,2015,3B,AAA,chris,dominguez,batter
+Marquez Smith,Cincinnati Reds,2015,3B,AA,marquez,smith,batter
+Kris Negron,Cincinnati Reds,2015,SS,AAA,kris,negron,batter
+Wendell Soto,Cincinnati Reds,2015,SS,Hi A,wendell,soto,batter
+Junior Arias,Cincinnati Reds,2015,OF,Hi A,junior,arias,batter
+Jason Bourgeois,Cincinnati Reds,2015,OF,AAA,jason,bourgeois,batter
+Juan Silva,Cincinnati Reds,2015,OF,AAA,juan,silva,batter
+Charles Brewer,Cleveland Indians,2015,RHP,AA,charles,brewer,pitcher
+Jarrett Grube,Cleveland Indians,2015,RHP,AAA,jarrett,grube,pitcher
+Trey Haley,Cleveland Indians,2015,RHP,AAA,trey,haley,pitcher
+Carlos Marmol,Cleveland Indians,2015,RHP,AAA,carlos,marmol,pitcher
+Dustin Molleken,Cleveland Indians,2015,RHP,AAA,dustin,molleken,pitcher
+Zach Nuding,Cleveland Indians,2015,RHP,AA,zach,nuding,pitcher
+Tyler Sturdevant,Cleveland Indians,2015,RHP,AAA,tyler,sturdevant,pitcher
+Casey Weathers,Cleveland Indians,2015,RHP,AA,casey,weathers,pitcher
+Martin Cervenka,Cleveland Indians,2015,C,Lo A,martin,cervenka,batter
+Alex Monsalve,Cleveland Indians,2015,C,Hi A,alex,monsalve,batter
+Adam Moore,Cleveland Indians,2015,C,AAA,adam,moore,batter
+Ryan Ortiz,Cleveland Indians,2015,C,AA,ryan,ortiz,batter
+Omir Santos,Cleveland Indians,2015,C,SS,omir,santos,batter
+Kevin Howard,Cleveland Indians,2015,2B,SS,kevin,howard,batter
+Ryan Rohlinger,Cleveland Indians,2015,3B,AAA,ryan,rohlinger,batter
+Justin Toole,Cleveland Indians,2015,3B,AA,justin,toole,batter
+Audy Ciriaco,Cleveland Indians,2015,SS,AAA,audy,ciriaco,batter
+Carlos Moncrief,Cleveland Indians,2015,OF,AA,carlos,moncrief,batter
+Huascar Brazoban,Colorado Rockies,2015,RHP,SS,huascar,brazoban,pitcher
+Richard Castillo,Colorado Rockies,2015,RHP,AA,richard,castillo,pitcher
+Bryan Evans,Colorado Rockies,2015,RHP,AA,bryan,evans,pitcher
+Leuris Gomez,Colorado Rockies,2015,RHP,AAA,leuris,gomez,pitcher
+Jose Ortega,Colorado Rockies,2015,RHP,AA,jose,ortega,pitcher
+Boone Whiting,Colorado Rockies,2015,RHP,AAA,boone,whiting,pitcher
+Julian Yan,Colorado Rockies,2015,RHP,R,julian,yan,pitcher
+Carlos Hernandez,Colorado Rockies,2015,LHP,AAA,carlos,hernandez,pitcher
+John Lannan,Colorado Rockies,2015,LHP,AAA,john,lannan,pitcher
+Rudy Owens,Colorado Rockies,2015,LHP,AAA,rudy,owens,pitcher
+Kraig Sitton,Colorado Rockies,2015,LHP,AA,kraig,sitton,pitcher
+Brock Bond,Colorado Rockies,2015,2B,AAA,brock,bond,batter
+Charlie Culberson,Colorado Rockies,2015,2B,AAA,charlie,culberson,batter
+Angelys Nina,Colorado Rockies,2015,2B,AAA,angelys,nina,batter
+Jose Rivera,Colorado Rockies,2015,2B,AAA,jose,rivera,batter
+Joey Wong,Colorado Rockies,2015,SS,AA,joey,wong,batter
+Jeremy Barfield,Colorado Rockies,2015,OF,AAA,jeremy,barfield,batter
+Roger Bernadina,Colorado Rockies,2015,OF,AAA,roger,bernadina,batter
+Tyler Massey,Colorado Rockies,2015,OF,AA,tyler,massey,batter
+Tim Wheeler,Colorado Rockies,2015,OF,AAA,tim,wheeler,batter
+Alberto Cabrera,Detroit Tigers,2015,RHP,AAA,alberto,cabrera,pitcher
+Juancito de la Cruz,Detroit Tigers,2015,RHP,DSL,juancito,de la cruz,pitcher
+Rafael Dolis,Detroit Tigers,2015,RHP,AAA,rafael,dolis,pitcher
+Derek Hankins,Detroit Tigers,2015,RHP,AA,derek,hankins,pitcher
+Tim Melville,Detroit Tigers,2015,RHP,AAA,tim,melville,pitcher
+Melvin Mercedes,Detroit Tigers,2015,RHP,AAA,melvin,mercedes,pitcher
+Ross Seaton,Detroit Tigers,2015,RHP,Lo A,ross,seaton,pitcher
+Miguel Vargas,Detroit Tigers,2015,RHP,VSL,miguel,vargas,pitcher
+Thad Weber,Detroit Tigers,2015,RHP,AAA,thad,weber,pitcher
+Josh Zeid,Detroit Tigers,2015,RHP,AAA,josh,zeid,pitcher
+John Murrian,Detroit Tigers,2015,C,AA,john,murrian,batter
+Mike Hessman,Detroit Tigers,2015,1B,AAA,mike,hessman,batter
+Alexi Casilla,Detroit Tigers,2015,2B,AAA,alexi,casilla,batter
+Wade Gaynor,Detroit Tigers,2015,3B,AA,wade,gaynor,batter
+Francisco Martinez,Detroit Tigers,2015,3B,Hi A,francisco,martinez,batter
+Alberto Gonzalez,Detroit Tigers,2015,SS,AAA,alberto,gonzalez,batter
+Jiwan James,Detroit Tigers,2015,OF,Hi A,jiwan,james,batter
+Trayvon Robinson,Detroit Tigers,2015,OF,AAA,trayvon,robinson,batter
+R.J. Alaniz,Houston Astros,2015,RHP,AA,r.j.,alaniz,pitcher
+Jio Mier,Houston Astros,2015,SS,AAA,jio,mier,batter
+Brian Broderick,Kansas City Royals,2015,RHP,AAA,brian,broderick,pitcher
+Paul Clemens,Kansas City Royals,2015,RHP,AA,paul,clemens,pitcher
+Roman Colon,Kansas City Royals,2015,RHP,AA,roman,colon,pitcher
+Clayton Mortensen,Kansas City Royals,2015,RHP,AAA,clayton,mortensen,pitcher
+Benino Pruneda,Kansas City Royals,2015,RHP,AA,benino,pruneda,pitcher
+Felix Santiago,Kansas City Royals,2015,RHP,DSL,felix,santiago,pitcher
+J.C. Sulbaran,Kansas City Royals,2015,RHP,AAA,j.c.,sulbaran,pitcher
+Robinson Yambati,Kansas City Royals,2015,RHP,Hi A,robinson,yambati,pitcher
+Buddy Baumann,Kansas City Royals,2015,LHP,AAA,buddy,baumann,pitcher
+Chris Dwyer,Kansas City Royals,2015,LHP,AAA,chris,dwyer,pitcher
+Troy Patton,Kansas City Royals,2015,LHP,AAA,troy,patton,pitcher
+J.C. Boscan,Kansas City Royals,2015,C,AAA,j.c.,boscan,batter
+Ryan Eigsti,Kansas City Royals,2015,C,AA,ryan,eigsti,batter
+Casey Kotchman,Kansas City Royals,2015,1B,AAA,casey,kotchman,batter
+Rafael Furcal,Kansas City Royals,2015,2B,AA,rafael,furcal,batter
+Alex Liddi,Kansas City Royals,2015,3B,AA,alex,liddi,batter
+Ramon A. Castro,Kansas City Royals,2015,SS,AAA,ramon,a. castro,batter
+Angel Franco,Kansas City Royals,2015,SS,AAA,angel,franco,batter
+Gabriel Noriega,Kansas City Royals,2015,SS,AAA,gabriel,noriega,batter
+Mitch Maier,Kansas City Royals,2015,OF,AAA,mitch,maier,batter
+Geovanny Acosta,Los Angeles Angels,2015,RHP,DSL,geovanny,acosta,pitcher
+Daniel Hurtado,Los Angeles Angels,2015,RHP,Lo A,daniel,hurtado,pitcher
+Jeremy McBryde,Los Angeles Angels,2015,RHP,AAA,jeremy,mcbryde,pitcher
+Cesar Melendez,Los Angeles Angels,2015,RHP,DSL,cesar,melendez,pitcher
+Drew Rucinski,Los Angeles Angels,2015,RHP,AAA,drew,rucinski,pitcher
+Alex Sanabia,Los Angeles Angels,2015,RHP,AAA,alex,sanabia,pitcher
+Eduard Santos,Los Angeles Angels,2015,RHP,AA,eduard,santos,pitcher
+Albert Suarez,Los Angeles Angels,2015,RHP,AA,albert,suarez,pitcher
+Mike Antonini,Los Angeles Angels,2015,LHP,AA,mike,antonini,pitcher
+Jeff Malm,Los Angeles Angels,2015,LHP,R,jeff,malm,pitcher
+Ryan Verdugo,Los Angeles Angels,2015,LHP,AAA,ryan,verdugo,pitcher
+Adam Wilk,Los Angeles Angels,2015,LHP,AAA,adam,wilk,pitcher
+Jose Gil,Los Angeles Angels,2015,C,AAA,jose,gil,batter
+Raywilly Gomez,Los Angeles Angels,2015,C,AA,raywilly,gomez,batter
+Zac Livingston,Los Angeles Angels,2015,C,AAA,zac,livingston,batter
+Luis Hernandez,Los Angeles Angels,2015,2B,AAA,luis,hernandez,batter
+Drew Maggi,Los Angeles Angels,2015,2B,AA,drew,maggi,batter
+Blake Gailen,Los Angeles Angels,2015,OF,AA,blake,gailen,batter
+Grant Green,Los Angeles Angels,2015,OF,AAA,grant,green,batter
+Roger Kieschnick,Los Angeles Angels,2015,OF,AAA,roger,kieschnick,batter
+Jared Mitchell,Los Angeles Angels,2015,OF,AAA,jared,mitchell,batter
+Daniel Corcino,Los Angeles Dodgers,2015,RHP,AA,daniel,corcino,pitcher
+Chad Gaudin,Los Angeles Dodgers,2015,RHP,AAA,chad,gaudin,pitcher
+Juan Gonzalez,Los Angeles Dodgers,2015,RHP,AAA,juan,gonzalez,pitcher
+Garrett Gould,Los Angeles Dodgers,2015,RHP,AA,garrett,gould,pitcher
+Jairo Heredia,Los Angeles Dodgers,2015,RHP,AA,jairo,heredia,pitcher
+Juan Jaime,Los Angeles Dodgers,2015,RHP,AAA,juan,jaime,pitcher
+Deck McGuire,Los Angeles Dodgers,2015,RHP,AAA,deck,mcguire,pitcher
+Luis Meza,Los Angeles Dodgers,2015,RHP,Hi A,luis,meza,pitcher
+Steve Smith,Los Angeles Dodgers,2015,RHP,AA,steve,smith,pitcher
+Daniel Tillman,Los Angeles Dodgers,2015,RHP,AA,daniel,tillman,pitcher
+Ramon Troncoso,Los Angeles Dodgers,2015,RHP,AAA,ramon,troncoso,pitcher
+Matt West,Los Angeles Dodgers,2015,RHP,AAA,matt,west,pitcher
+Ramon Benjamin,Los Angeles Dodgers,2015,LHP,AA,ramon,benjamin,pitcher
+Ryan Dennick,Los Angeles Dodgers,2015,LHP,AA,ryan,dennick,pitcher
+Jose Molina,Los Angeles Dodgers,2015,LHP,Hi A,jose,molina,pitcher
+Dustin Richardson,Los Angeles Dodgers,2015,LHP,AAA,dustin,richardson,pitcher
+Ralph Henriquez,Los Angeles Dodgers,2015,C,AAA,ralph,henriquez,batter
+Webster Rivas,Los Angeles Dodgers,2015,C,AA,webster,rivas,batter
+Ali Solis,Los Angeles Dodgers,2015,C,AAA,ali,solis,batter
+Shawn Zarraga,Los Angeles Dodgers,2015,C,AAA,shawn,zarraga,batter
+Elliot Johnson,Los Angeles Dodgers,2015,2B,AAA,elliot,johnson,batter
+Buck Britton,Los Angeles Dodgers,2015,3B,AAA,buck,britton,batter
+Jarek Cunningham,Los Angeles Dodgers,2015,3B,AA,jarek,cunningham,batter
+Daniel Mayora,Los Angeles Dodgers,2015,3B,AA,daniel,mayora,batter
+Faustino Oguisten,Los Angeles Dodgers,2015,SS,R,faustino,oguisten,batter
+Nate Samson,Los Angeles Dodgers,2015,SS,AAA,nate,samson,batter
+Brian Burgamy,Los Angeles Dodgers,2015,OF,AA,brian,burgamy,batter
+Kyle Jensen,Los Angeles Dodgers,2015,OF,AAA,kyle,jensen,batter
+Travis Witherspoon,Los Angeles Dodgers,2015,OF,Hi A,travis,witherspoon,batter
+Hunter Adkins,Miami Marlins,2015,RHP,Hi A,hunter,adkins,pitcher
+Lay Batista,Miami Marlins,2015,RHP,AA,lay,batista,pitcher
+Ryan Chaffee,Miami Marlins,2015,RHP,AAA,ryan,chaffee,pitcher
+Jorge De Leon,Miami Marlins,2015,RHP,AAA,jorge,de leon,pitcher
+Ryan Hafner,Miami Marlins,2015,RHP,Lo A,ryan,hafner,pitcher
+Josh Hodges,Miami Marlins,2015,RHP,AA,josh,hodges,pitcher
+Brandon Koch,Miami Marlins,2015,RHP,R,brandon,koch,pitcher
+Eduar Quinonez,Miami Marlins,2015,RHP,Lo A,eduar,quinonez,pitcher
+Ryan Reid,Miami Marlins,2015,RHP,AAA,ryan,reid,pitcher
+Travis Blackley,Miami Marlins,2015,LHP,AAA,travis,blackley,pitcher
+Tyler Robertson,Miami Marlins,2015,LHP,AAA,tyler,robertson,pitcher
+Pat Urckfitz,Miami Marlins,2015,LHP,AAA,pat,urckfitz,pitcher
+Fabian Williamson,Miami Marlins,2015,LHP,AA,fabian,williamson,pitcher
+Brandon Bantz,Miami Marlins,2015,C,AAA,brandon,bantz,batter
+Joel Jimenez,Miami Marlins,2015,C,Hi A,joel,jimenez,batter
+Chadd Krist,Miami Marlins,2015,C,AA,chadd,krist,batter
+Kila Ka’aihue,Miami Marlins,2015,1B,AAA,kila,ka’aihue,batter
+Felix Munoz,Miami Marlins,2015,1B,Hi A,felix,munoz,batter
+David Adams,Miami Marlins,2015,2B,AA,david,adams,batter
+Terrence Dayleg,Miami Marlins,2015,SS,AA,terrence,dayleg,batter
+Juan Diaz,Miami Marlins,2015,SS,AAA,juan,diaz,batter
+Eudy Pina,Miami Marlins,2015,OF,AA,eudy,pina,batter
+Vinny Rottino,Miami Marlins,2015,OF,AAA,vinny,rottino,batter
+Kenny Wilson,Miami Marlins,2015,OF,AA,kenny,wilson,batter
+Manny Barreda,Milwaukee Brewers,2015,RHP,AA,manny,barreda,pitcher
+Tim Dillard,Milwaukee Brewers,2015,RHP,AAA,tim,dillard,pitcher
+Preston Guilmet,Milwaukee Brewers,2015,RHP,AAA,preston,guilmet,pitcher
+Johnny Hellweg,Milwaukee Brewers,2015,RHP,AAA,johnny,hellweg,pitcher
+Jim Henderson,Milwaukee Brewers,2015,RHP,AAA,jim,henderson,pitcher
+Josh Roenicke,Milwaukee Brewers,2015,RHP,AAA,josh,roenicke,pitcher
+Rob Wooten,Milwaukee Brewers,2015,RHP,AAA,rob,wooten,pitcher
+Jeremy Horst,Milwaukee Brewers,2015,LHP,AAA,jeremy,horst,pitcher
+Jarret Martin,Milwaukee Brewers,2015,LHP,Lo A,jarret,martin,pitcher
+Juan Centeno,Milwaukee Brewers,2015,C,AAA,juan,centeno,batter
+Robinzon Diaz,Milwaukee Brewers,2015,C,AAA,robinzon,diaz,batter
+Sandy Martinez,Milwaukee Brewers,2015,C,DSL,sandy,martinez,batter
+Matt Clark,Milwaukee Brewers,2015,1B,AAA,matt,clark,batter
+Pete Orr,Milwaukee Brewers,2015,2B,AAA,pete,orr,batter
+Hainley Statia,Milwaukee Brewers,2015,2B,AAA,hainley,statia,batter
+Taylor Green,Milwaukee Brewers,2015,3B,Hi A,taylor,green,batter
+Hernan Perez,Milwaukee Brewers,2015,SS,AAA,hernan,perez,batter
+Josh Fellhauer,Milwaukee Brewers,2015,OF,AA,josh,fellhauer,batter
+Matt Long,Milwaukee Brewers,2015,OF,AAA,matt,long,batter
+Logan Schafer,Milwaukee Brewers,2015,OF,AAA,logan,schafer,batter
+Michael Bowden,Minnesota Twins,2015,RHP,AAA,michael,bowden,pitcher
+Mark Hamburger,Minnesota Twins,2015,RHP,AAA,mark,hamburger,pitcher
+B.J. Hermsen,Minnesota Twins,2015,RHP,AA,b.j.,hermsen,pitcher
+D.J. Johnson,Minnesota Twins,2015,RHP,AA,d.j.,johnson,pitcher
+Lester Oliveros,Minnesota Twins,2015,RHP,AAA,lester,oliveros,pitcher
+Adrian Salcedo,Minnesota Twins,2015,RHP,AA,adrian,salcedo,pitcher
+Allan de San Miguel,Minnesota Twins,2015,C,AAA,allan,de san miguel,batter
+James Beresford,Minnesota Twins,2015,2B,AAA,james,beresford,batter
+Jose Martinez,Minnesota Twins,2015,2B,AAA,jose,martinez,batter
+Argenis Diaz,Minnesota Twins,2015,SS,AAA,argenis,diaz,batter
+Xavier Avery,Minnesota Twins,2015,OF,AAA,xavier,avery,batter
+Eric Farris,Minnesota Twins,2015,OF,AAA,eric,farris,batter
+Danny Ortiz,Minnesota Twins,2015,OF,AAA,danny,ortiz,batter
+Wilkin Ramirez,Minnesota Twins,2015,OF,AAA,wilkin,ramirez,batter
+Shannon Wilkerson,Minnesota Twins,2015,OF,AA,shannon,wilkerson,batter
+Martires Arias,New York Mets,2015,RHP,Lo A,martires,arias,pitcher
+Vic Black,New York Mets,2015,RHP,AAA,vic,black,pitcher
+John Church,New York Mets,2015,RHP,AAA,john,church,pitcher
+Jake Kuebler,New York Mets,2015,RHP,Hi A,jake,kuebler,pitcher
+Cody Satterwhite,New York Mets,2015,RHP,AAA,cody,satterwhite,pitcher
+Jon Velasquez,New York Mets,2015,RHP,AA,jon,velasquez,pitcher
+Edioglis Villasmil,New York Mets,2015,RHP,SS,edioglis,villasmil,pitcher
+Darin Gorski,New York Mets,2015,LHP,AAA,darin,gorski,pitcher
+Scott Rice,New York Mets,2015,LHP,AAA,scott,rice,pitcher
+Alex Torres,New York Mets,2015,LHP,AAA,alex,torres,pitcher
+Albert Cordero,New York Mets,2015,C,AA,albert,cordero,batter
+Anthony Recker,New York Mets,2015,C,AAA,anthony,recker,batter
+Dan Rohlfing,New York Mets,2015,C,AAA,dan,rohlfing,batter
+Brandon Allen,New York Mets,2015,1B,AAA,brandon,allen,batter
+Vince Belnome,New York Mets,2015,1B,AA,vince,belnome,batter
+Zach Lutz,New York Mets,2015,1B,AAA,zach,lutz,batter
+Brock Peterson,New York Mets,2015,1B,AA,brock,peterson,batter
+Brooks Conrad,New York Mets,2015,2B,AAA,brooks,conrad,batter
+Jonathan Galvez,New York Mets,2015,3B,AA,jonathan,galvez,batter
+Josh Rodriguez,New York Mets,2015,3B,AA,josh,rodriguez,batter
+Wilfredo Tovar,New York Mets,2015,SS,AAA,wilfredo,tovar,batter
+Joe Benson,New York Mets,2015,OF,AA,joe,benson,batter
+Gilbert Gomez,New York Mets,2015,OF,AA,gilbert,gomez,batter
+Andury Acevedo,New York Yankees,2015,RHP,AAA,andury,acevedo,pitcher
+Scottie Allen,New York Yankees,2015,RHP,AA,scottie,allen,pitcher
+Joel de la Cruz,New York Yankees,2015,RHP,AAA,joel,de la cruz,pitcher
+Diego Moreno,New York Yankees,2015,RHP,AAA,diego,moreno,pitcher
+Wilking Rodriguez,New York Yankees,2015,RHP,AAA,wilking,rodriguez,pitcher
+Cesar Vargas,New York Yankees,2015,RHP,AAA,cesar,vargas,pitcher
+Jose De Paula,New York Yankees,2015,LHP,AAA,jose,de paula,pitcher
+Aaron Dott,New York Yankees,2015,LHP,AA,aaron,dott,pitcher
+Francisco Arcia,New York Yankees,2015,C,AA,francisco,arcia,batter
+Juan Graterol,New York Yankees,2015,C,AAA,juan,graterol,batter
+Kyle Higashioka,New York Yankees,2015,C,AAA,kyle,higashioka,batter
+Cole Figueroa,New York Yankees,2015,3B,AAA,cole,figueroa,batter
+Ali Castillo,New York Yankees,2015,SS,AAA,ali,castillo,batter
+Jose Rosario,New York Yankees,2015,SS,AA,jose,rosario,batter
+Ericson Leonora,New York Yankees,2015,OF,Hi A,ericson,leonora,batter
+Rico Noel,New York Yankees,2015,OF,AAA,rico,noel,batter
+Tim Atherton,Oakland Athletics,2015,RHP,AA,tim,atherton,pitcher
+Parker Frazier,Oakland Athletics,2015,RHP,AA,parker,frazier,pitcher
+Dawrin Frias,Oakland Athletics,2015,RHP,SS,dawrin,frias,pitcher
+Brock Huntzinger,Oakland Athletics,2015,RHP,AAA,brock,huntzinger,pitcher
+Jonathan Joseph,Oakland Athletics,2015,RHP,AA,jonathan,joseph,pitcher
+Nathan Long,Oakland Athletics,2015,RHP,AAA,nathan,long,pitcher
+Kevin Whelan,Oakland Athletics,2015,RHP,AAA,kevin,whelan,pitcher
+Omar Duran,Oakland Athletics,2015,LHP,SS,omar,duran,pitcher
+Jim Fuller,Oakland Athletics,2015,LHP,AAA,jim,fuller,pitcher
+Carson Blair,Oakland Athletics,2015,C,AAA,carson,blair,batter
+Anthony Aliotti,Oakland Athletics,2015,1B,AA,anthony,aliotti,batter
+Conner Crumbliss,Oakland Athletics,2015,2B,AA,conner,crumbliss,batter
+Ryan Roberts,Oakland Athletics,2015,2B,AAA,ryan,roberts,batter
+Alden Carrithers,Oakland Athletics,2015,3B,AAA,alden,carrithers,batter
+Brent Morel,Oakland Athletics,2015,3B,AAA,brent,morel,batter
+Gabriel Santana,Oakland Athletics,2015,SS,Lo A,gabriel,santana,batter
+Jason Berken,Philadelphia Phillies,2015,RHP,AAA,jason,berken,pitcher
+Steven Inch,Philadelphia Phillies,2015,RHP,Hi A,steven,inch,pitcher
+Colin Kleven,Philadelphia Phillies,2015,RHP,AA,colin,kleven,pitcher
+Ethan Martin,Philadelphia Phillies,2015,RHP,AA,ethan,martin,pitcher
+Jonathan Pettibone,Philadelphia Phillies,2015,RHP,AAA,jonathan,pettibone,pitcher
+Stephen Shackleford,Philadelphia Phillies,2015,RHP,AA,stephen,shackleford,pitcher
+Anthony Vasquez,Philadelphia Phillies,2015,LHP,AAA,anthony,vasquez,pitcher
+Willians Astudillo,Philadelphia Phillies,2015,C,Hi A,willians,astudillo,batter
+Rene Garcia,Philadelphia Phillies,2015,C,AA,rene,garcia,batter
+Koyie Hill,Philadelphia Phillies,2015,C,AA,koyie,hill,batter
+Brodie Greene,Philadelphia Phillies,2015,2B,AA,brodie,greene,batter
+Tyler Henson,Philadelphia Phillies,2015,2B,AAA,tyler,henson,batter
+Tyler Pastornicky,Philadelphia Phillies,2015,2B,AAA,tyler,pastornicky,batter
+Cord Phelps,Philadelphia Phillies,2015,2B,AAA,cord,phelps,batter
+Edgar Duran,Philadelphia Phillies,2015,SS,AAA,edgar,duran,batter
+Russ Canzler,Philadelphia Phillies,2015,OF,AAA,russ,canzler,batter
+Jordan Danks,Philadelphia Phillies,2015,OF,AAA,jordan,danks,batter
+Kelly Dugan,Philadelphia Phillies,2015,OF,AAA,kelly,dugan,batter
+Destin Hood,Philadelphia Phillies,2015,OF,AA,destin,hood,batter
+Felipe Gonzalez,Pittsburgh Pirates,2015,RHP,AA,felipe,gonzalez,pitcher
+Frank Herrmann,Pittsburgh Pirates,2015,RHP,AAA,frank,herrmann,pitcher
+Jeff Inman,Pittsburgh Pirates,2015,RHP,AAA,jeff,inman,pitcher
+Brad Lincoln,Pittsburgh Pirates,2015,RHP,AAA,brad,lincoln,pitcher
+Adam Miller,Pittsburgh Pirates,2015,RHP,AAA,adam,miller,pitcher
+A.J. Morris,Pittsburgh Pirates,2015,RHP,AAA,a.j.,morris,pitcher
+Clario Perez,Pittsburgh Pirates,2015,RHP,AA,clario,perez,pitcher
+Robert Stock,Pittsburgh Pirates,2015,RHP,R,robert,stock,pitcher
+Blake Wood,Pittsburgh Pirates,2015,RHP,AAA,blake,wood,pitcher
+Jeremy Bleich,Pittsburgh Pirates,2015,LHP,AAA,jeremy,bleich,pitcher
+Zack Dodson,Pittsburgh Pirates,2015,LHP,AAA,zack,dodson,pitcher
+Matt Ford,Pittsburgh Pirates,2015,LHP,AA,matt,ford,pitcher
+Charlie Leesman,Pittsburgh Pirates,2015,LHP,AAA,charlie,leesman,pitcher
+Wilkin Castillo,Pittsburgh Pirates,2015,C,AAA,wilkin,castillo,batter
+Francisco Diaz,Pittsburgh Pirates,2015,C,Lo A,francisco,diaz,batter
+Sebastian Valle,Pittsburgh Pirates,2015,C,AA,sebastian,valle,batter
+Andy Vasquez,Pittsburgh Pirates,2015,3B,AA,andy,vasquez,batter
+Gustavo Nunez,Pittsburgh Pirates,2015,SS,AAA,gustavo,nunez,batter
+John Bowker,Pittsburgh Pirates,2015,OF,AAA,john,bowker,batter
+Junior Sosa,Pittsburgh Pirates,2015,OF,Hi A,junior,sosa,batter
+Keith Butler,St. Louis Cardinals,2015,RHP,Hi A,keith,butler,pitcher
+Marcus Hatley,St. Louis Cardinals,2015,RHP,AAA,marcus,hatley,pitcher
+Nick Greenwood,St. Louis Cardinals,2015,LHP,AAA,nick,greenwood,pitcher
+Ed Easley,St. Louis Cardinals,2015,C,AAA,ed,easley,batter
+Jose Gonzalez,St. Louis Cardinals,2015,C,Hi A,jose,gonzalez,batter
+Travis Tartamella,St. Louis Cardinals,2015,C,AAA,travis,tartamella,batter
+Xavier Scruggs,St. Louis Cardinals,2015,1B,AAA,xavier,scruggs,batter
+Pete Kozma,St. Louis Cardinals,2015,SS,AAA,pete,kozma,batter
+Jeremy Hazelbaker,St. Louis Cardinals,2015,OF,AAA,jeremy,hazelbaker,batter
+Rafael Ortega,St. Louis Cardinals,2015,OF,AAA,rafael,ortega,batter
+Juan Arias,San Diego Padres,2015,RHP,DSL,juan,arias,pitcher
+Jordan Hershiser,San Diego Padres,2015,RHP,Hi A,jordan,hershiser,pitcher
+Daniel McCutchen,San Diego Padres,2015,RHP,AAA,daniel,mccutchen,pitcher
+James Needy,San Diego Padres,2015,RHP,AA,james,needy,pitcher
+Aaron Northcraft,San Diego Padres,2015,RHP,AAA,aaron,northcraft,pitcher
+Adys Portillo,San Diego Padres,2015,RHP,Hi A,adys,portillo,pitcher
+Chris Smith,San Diego Padres,2015,RHP,AAA,chris,smith,pitcher
+Jerry Sullivan,San Diego Padres,2015,RHP,AAA,jerry,sullivan,pitcher
+Cecil Tanner,San Diego Padres,2015,RHP,R,cecil,tanner,pitcher
+Eury de la Rosa,San Diego Padres,2015,LHP,AA,eury,de la rosa,pitcher
+Jason Lane,San Diego Padres,2015,LHP,AAA,jason,lane,pitcher
+Caleb Thielbar,San Diego Padres,2015,LHP,AAA,caleb,thielbar,pitcher
+Miguel Del Castillo,San Diego Padres,2015,C,Hi A,miguel,del castillo,batter
+Griff Erickson,San Diego Padres,2015,C,AA,griff,erickson,batter
+Tim Federowicz,San Diego Padres,2015,C,AAA,tim,federowicz,batter
+Adolfo Reina,San Diego Padres,2015,C,AA,adolfo,reina,batter
+Cody Decker,San Diego Padres,2015,1B,AAA,cody,decker,batter
+Benji Gonzalez,San Diego Padres,2015,2B,AAA,benji,gonzalez,batter
+Hector Gomez,San Diego Padres,2015,SS,AAA,hector,gomez,batter
+Mike McCoy,San Diego Padres,2015,SS,AAA,mike,mccoy,batter
+Ramiro Pena,San Diego Padres,2015,SS,AAA,ramiro,pena,batter
+Luis Domoromo,San Diego Padres,2015,OF,AA,luis,domoromo,batter
+Tyson Gillies,San Diego Padres,2015,OF,AA,tyson,gillies,batter
+Jake Goebbert,San Diego Padres,2015,OF,AAA,jake,goebbert,batter
+Donavan Tate,San Diego Padres,2015,OF,Hi A,donavan,tate,batter
+Alfredo Aceves,San Francisco Giants,2015,RHP,AAA,alfredo,aceves,pitcher
+Tommy Hanson,San Francisco Giants,2015,RHP,AAA,tommy,hanson,pitcher
+Raymundo Montero,San Francisco Giants,2015,RHP,Lo A,raymundo,montero,pitcher
+Armando Paniagua,San Francisco Giants,2015,RHP,SS,armando,paniagua,pitcher
+Curtis Partch,San Francisco Giants,2015,RHP,AAA,curtis,partch,pitcher
+Edwin Quirarte,San Francisco Giants,2015,RHP,AAA,edwin,quirarte,pitcher
+Kelvin Marte,San Francisco Giants,2015,LHP,AA,kelvin,marte,pitcher
+Clay Rapada,San Francisco Giants,2015,LHP,AAA,clay,rapada,pitcher
+Ricky Romero,San Francisco Giants,2015,LHP,AAA,ricky,romero,pitcher
+Nik Turley,San Francisco Giants,2015,LHP,AAA,nik,turley,pitcher
+Gabriel Cornier,San Francisco Giants,2015,C,Hi A,gabriel,cornier,batter
+Jackson Williams,San Francisco Giants,2015,C,AAA,jackson,williams,batter
+Brandon Hicks,San Francisco Giants,2015,2B,AAA,brandon,hicks,batter
+Skyler Stromsmoe,San Francisco Giants,2015,2B,AA,skyler,stromsmoe,batter
+Juan Ciriaco,San Francisco Giants,2015,SS,AA,juan,ciriaco,batter
+Carlos Triunfel,San Francisco Giants,2015,SS,AAA,carlos,triunfel,batter
+Ydwin Villegas,San Francisco Giants,2015,SS,AA,ydwin,villegas,batter
+Engel Beltre,San Francisco Giants,2015,OF,AA,engel,beltre,batter
+Darren Ford,San Francisco Giants,2015,OF,AAA,darren,ford,batter
+Jesus Galindo,San Francisco Giants,2015,OF,AA,jesus,galindo,batter
+Jeff Kobernus,San Francisco Giants,2015,OF,AAA,jeff,kobernus,batter
+Ryan Lollis,San Francisco Giants,2015,OF,AAA,ryan,lollis,batter
+Oliver Garcia,Seattle Mariners,2015,RHP,AA,oliver,garcia,pitcher
+Moises Hernandez,Seattle Mariners,2015,RHP,AA,moises,hernandez,pitcher
+Luis Jimenez,Seattle Mariners,2015,RHP,DSL,luis,jimenez,pitcher
+J.C. Ramirez,Seattle Mariners,2015,RHP,AAA,j.c.,ramirez,pitcher
+Kyle Schepel,Seattle Mariners,2015,RHP,AAA,kyle,schepel,pitcher
+Richard Vargas,Seattle Mariners,2015,RHP,AA,richard,vargas,pitcher
+Chien-Ming Wang,Seattle Mariners,2015,RHP,AAA,chien-ming,wang,pitcher
+Joselito Cano,Seattle Mariners,2015,LHP,SS,joselito,cano,pitcher
+Anthony Fernandez,Seattle Mariners,2015,LHP,AA,anthony,fernandez,pitcher
+Jimmy Gillheeney,Seattle Mariners,2015,LHP,AA,jimmy,gillheeney,pitcher
+Lucas Luetge,Seattle Mariners,2015,LHP,AAA,lucas,luetge,pitcher
+Carlton Tanabe,Seattle Mariners,2015,C,Hi A,carlton,tanabe,batter
+Ji-Man Choi,Seattle Mariners,2015,1B,AAA,ji-man,choi,batter
+Patrick Leyland,Seattle Mariners,2015,1B,Lo A,patrick,leyland,batter
+Aderlin Rodriguez,Seattle Mariners,2015,1B,AA,aderlin,rodriguez,batter
+Leury Bonilla,Seattle Mariners,2015,3B,AAA,leury,bonilla,batter
+Jordy Lara,Seattle Mariners,2015,3B,AA,jordy,lara,batter
+Arby Fields,Seattle Mariners,2015,OF,Lo A,arby,fields,batter
+Burt Reynolds,Seattle Mariners,2015,OF,Lo A,burt,reynolds,batter
+Jose Dominguez,Tampa Bay Rays,2015,RHP,AAA,jose,dominguez,pitcher
+Ely Echarry,Tampa Bay Rays,2015,RHP,SS,ely,echarry,pitcher
+Bradin Hagens,Tampa Bay Rays,2015,RHP,AAA,bradin,hagens,pitcher
+Matt Lollis,Tampa Bay Rays,2015,RHP,AA,matt,lollis,pitcher
+Jhan Marinez,Tampa Bay Rays,2015,RHP,AAA,jhan,marinez,pitcher
+Jim Miller,Tampa Bay Rays,2015,RHP,AAA,jim,miller,pitcher
+Jeff Beliveau,Tampa Bay Rays,2015,LHP,AAA,jeff,beliveau,pitcher
+Scott Diamond,Tampa Bay Rays,2015,LHP,AAA,scott,diamond,pitcher
+Robert Zarate,Tampa Bay Rays,2015,LHP,AAA,robert,zarate,pitcher
+Mayobanex Acosta,Tampa Bay Rays,2015,C,AAA,mayobanex,acosta,batter
+Wilmer Dominguez,Tampa Bay Rays,2015,C,AAA,wilmer,dominguez,batter
+Jake Elmore,Tampa Bay Rays,2015,2B,AAA,jake,elmore,batter
+Hector Guevara,Tampa Bay Rays,2015,2B,Hi A,hector,guevara,batter
+Hak-Ju Lee,Tampa Bay Rays,2015,SS,AAA,hak-ju,lee,batter
+Leonardo Reginatto,Tampa Bay Rays,2015,SS,AA,leonardo,reginatto,batter
+Corey Brown,Tampa Bay Rays,2015,OF,AAA,corey,brown,batter
+Jose Constanza,Tampa Bay Rays,2015,OF,AAA,jose,constanza,batter
+Robert Coello,Texas Rangers,2015,RHP,AAA,robert,coello,pitcher
+Jefri Hernandez,Texas Rangers,2015,RHP,AA,jefri,hernandez,pitcher
+Phil Irwin,Texas Rangers,2015,RHP,AAA,phil,irwin,pitcher
+Jason Knapp,Texas Rangers,2015,RHP,AA,jason,knapp,pitcher
+David Martinez,Texas Rangers,2015,RHP,AAA,david,martinez,pitcher
+Jose Monegro,Texas Rangers,2015,RHP,Hi A,jose,monegro,pitcher
+Eddy Morrobel,Texas Rangers,2015,RHP,DSL,eddy,morrobel,pitcher
+Stolmy Pimentel,Texas Rangers,2015,RHP,AAA,stolmy,pimentel,pitcher
+Chad Smith,Texas Rangers,2015,RHP,AAA,chad,smith,pitcher
+Dakota Watts,Texas Rangers,2015,RHP,Hi A,dakota,watts,pitcher
+Ross Wolf,Texas Rangers,2015,RHP,AAA,ross,wolf,pitcher
+Edwar Cabrera,Texas Rangers,2015,LHP,AAA,edwar,cabrera,pitcher
+Chad James,Texas Rangers,2015,LHP,AA,chad,james,pitcher
+Luis Parra,Texas Rangers,2015,LHP,AA,luis,parra,pitcher
+Cam Maron,Texas Rangers,2015,C,Hi A,cam,maron,batter
+Jonathan Meyer,Texas Rangers,2015,C,Lo A,jonathan,meyer,batter
+Kevin Torres,Texas Rangers,2015,C,Hi A,kevin,torres,batter
+J.T. Wise,Texas Rangers,2015,C,AA,j.t.,wise,batter
+Alex Burg,Texas Rangers,2015,3B,AAA,alex,burg,batter
+Ed Lucas,Texas Rangers,2015,3B,AAA,ed,lucas,batter
+Edwin Garcia,Texas Rangers,2015,SS,Lo A,edwin,garcia,batter
+Guilder Rodriguez,Texas Rangers,2015,SS,AA,guilder,rodriguez,batter
+Beamer Weems,Texas Rangers,2015,SS,AAA,beamer,weems,batter
+Dustin Antolin,Toronto Blue Jays,2015,RHP,AA,dustin,antolin,pitcher
+Austin Bibens-Dirkx,Toronto Blue Jays,2015,RHP,AA,austin,bibens-dirkx,pitcher
+Derek Blacksher,Toronto Blue Jays,2015,RHP,Hi A,derek,blacksher,pitcher
+Greg Burke,Toronto Blue Jays,2015,RHP,AAA,greg,burke,pitcher
+Cory Burns,Toronto Blue Jays,2015,RHP,AA,cory,burns,pitcher
+Lendy Castillo,Toronto Blue Jays,2015,RHP,Hi A,lendy,castillo,pitcher
+Scott Copeland,Toronto Blue Jays,2015,RHP,AAA,scott,copeland,pitcher
+Greg Infante,Toronto Blue Jays,2015,RHP,AA,greg,infante,pitcher
+Mike Lee,Toronto Blue Jays,2015,RHP,AA,mike,lee,pitcher
+Murphy Smith,Toronto Blue Jays,2015,RHP,Hi A,murphy,smith,pitcher
+Andrew Albers,Toronto Blue Jays,2015,LHP,AAA,andrew,albers,pitcher
+John Anderson,Toronto Blue Jays,2015,LHP,AAA,john,anderson,pitcher
+Scott Barnes,Toronto Blue Jays,2015,LHP,AA,scott,barnes,pitcher
+Colt Hynes,Toronto Blue Jays,2015,LHP,AAA,colt,hynes,pitcher
+Luis Perez,Toronto Blue Jays,2015,LHP,AA,luis,perez,pitcher
+Luis Hurtado,Toronto Blue Jays,2015,C,AA,luis,hurtado,batter
+George Kottaras,Toronto Blue Jays,2015,C,AAA,george,kottaras,batter
+Sean Ochinko,Toronto Blue Jays,2015,C,AAA,sean,ochinko,batter
+Ty Kelly,Toronto Blue Jays,2015,2B,AAA,ty,kelly,batter
+Ryan Schimpf,Toronto Blue Jays,2015,2B,AAA,ryan,schimpf,batter
+Kevin Nolan,Toronto Blue Jays,2015,SS,AA,kevin,nolan,batter
+Chris Dickerson,Toronto Blue Jays,2015,OF,AAA,chris,dickerson,batter
+Danny Dorn,Toronto Blue Jays,2015,OF,AAA,danny,dorn,batter
+Cole Garner,Toronto Blue Jays,2015,OF,AA,cole,garner,batter
+Caleb Gindl,Toronto Blue Jays,2015,OF,AAA,caleb,gindl,batter
+Brad Glenn,Toronto Blue Jays,2015,OF,AAA,brad,glenn,batter
+Alex Hassan,Toronto Blue Jays,2015,OF,AAA,alex,hassan,batter
+Melky Mesa,Toronto Blue Jays,2015,OF,AAA,melky,mesa,batter
+Tim Alderson,Washington Nationals,2015,RHP,AA,tim,alderson,pitcher
+Bruce Billings,Washington Nationals,2015,RHP,AAA,bruce,billings,pitcher
+Paul Demny,Washington Nationals,2015,RHP,AA,paul,demny,pitcher
+Rob Gilliam,Washington Nationals,2015,RHP,AA,rob,gilliam,pitcher
+Juan Gutierrez,Washington Nationals,2015,RHP,AAA,juan,gutierrez,pitcher
+Jeff Howell,Washington Nationals,2015,RHP,Hi A,jeff,howell,pitcher
+Connor Overton,Washington Nationals,2015,RHP,AAA,connor,overton,pitcher
+Kevin Perez,Washington Nationals,2015,RHP,Lo A,kevin,perez,pitcher
+Sam Runion,Washington Nationals,2015,RHP,AAA,sam,runion,pitcher
+Richard Bleier,Washington Nationals,2015,LHP,AAA,richard,bleier,pitcher
+Matt Purke,Washington Nationals,2015,LHP,AA,matt,purke,pitcher
+Dan Butler,Washington Nationals,2015,C,AAA,dan,butler,batter
+Brian Jeroloman,Washington Nationals,2015,C,AA,brian,jeroloman,batter
+Steve Lerud,Washington Nationals,2015,C,AAA,steve,lerud,batter
+Cutter Dykstra,Washington Nationals,2015,2B,AA,cutter,dykstra,batter
+Mario Lisson,Washington Nationals,2015,3B,AAA,mario,lisson,batter
+Scott Sizemore,Washington Nationals,2015,3B,AAA,scott,sizemore,batter
+Josh R. Johnson,Washington Nationals,2015,SS,AAA,josh,r. johnson,batter
+Tony Gwynn Jr.,Washington Nationals,2015,OF,AAA,tony,gwynn jr.,batter
+Darin Mastroianni,Washington Nationals,2015,OF,AAA,darin,mastroianni,batter
+Derrick Robinson,Washington Nationals,2015,OF,AA,derrick,robinson,batter

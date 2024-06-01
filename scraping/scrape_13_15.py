@@ -62,4 +62,4 @@ for webpage in webpages:
 
 
 df = pl.DataFrame(data=all_players)
-df.write_csv('../files/fas_13_15.csv')
+#df.write_csv('../files/fas_13_15.csv')
