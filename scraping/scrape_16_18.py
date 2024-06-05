@@ -20,20 +20,20 @@ find_player = r'(.+?)\s*\((.+?)\)'
 #Create empty list
 all_players = []
 
-#List of webpages
 webpages = [
-    'https://web.archive.org/web/20131108050307/https://www.baseballamerica.com/minors/minor-league-free-agents-2013/',
-    'https://web.archive.org/web/20141110163331/https://www.baseballamerica.com/minors/minor-league-free-agents-2014/',
-    'https://web.archive.org/web/20151114021021/https://www.baseballamerica.com/minors/minor-league-free-agents-2015/']
+    'https://www.baseballamerica.com/stories/minor-league-free-agents-2016/',
+    'https://www.baseballamerica.com/stories/minor-league-free-agents-2017/',
+    'https://www.baseballamerica.com/stories/minor-league-free-agents-2018/'
+    ]
 
-fa_class = 2014
+fa_class = 2017
 
 #Scrape webpage to isolate a list of Minor League Free Agents for each team
 for webpage in webpages:
     page = requests.get(webpage)
     content = page.content
     soup = BeautifulSoup(content, 'html.parser')
-    article_body = soup.find(class_="article-content").contents[1].contents
+    article_body = soup.find(class_="page-layout__main").contents
 
     #Create clean text string for each team and add to list
     free_agents_by_team = []
@@ -61,4 +61,6 @@ for webpage in webpages:
 
 
 df = pl.DataFrame(data=all_players)
-df.write_csv('../files/fas_13_15.csv')
+
+print(df.height)
+print(df.head(10))
