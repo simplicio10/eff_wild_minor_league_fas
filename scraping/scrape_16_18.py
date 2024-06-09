@@ -63,4 +63,4 @@ for webpage in webpages:
 df = pl.DataFrame(data=all_players)
 
 print(df.height)
-print(df['team'].unique(maintain_order=True))
+print(df.head(10))
