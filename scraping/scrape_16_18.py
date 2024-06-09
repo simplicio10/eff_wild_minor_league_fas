@@ -13,7 +13,7 @@ import regex
 import polars as pl
 
 # Define the regex patterns 
-find_teams = r'^\w+\.?\s\w+\s(Royals|Dodgers|Angels|Mets|Yankees|Padres|Giants|Cardinals|Jays|Sox|Rays)?'
+find_teams = r'^.+?\s.+?\s(Royals|Dodgers|Angels|Mets|Yankees|Padres|Giants|Cardinals|Jays|Sox|Rays)?'
 find_players_by_position = r'([A-Z0-9]+):\s*([^:]+?(?=\s*[A-Z0-9]+:|\s*$))'
 find_player = r'(.+?)\s*\((.+?)\)'
 
@@ -63,4 +63,4 @@ for webpage in webpages:
 df = pl.DataFrame(data=all_players)
 
 print(df.height)
-print(df.head(10))
+print(df['team'].unique(maintain_order=True))
