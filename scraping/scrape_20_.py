@@ -31,12 +31,6 @@ new_list = [line.get_text() for line in article_body]
 new_list = [line.replace('\xa0', ' ') for line in new_list]
 new_list = [x for x in new_list if x not in ['\n']]
 
-
-team_index = new_list.index('Baltimore Orioles')
-comb_string = ''.join(new_list[team_index:team_index + 2])
-
-#print(teams)
-
 list_of_idxs = []
 
 for i in new_list:
@@ -47,7 +41,7 @@ for i in new_list:
 list_of_comb_teams = []
 
 for team_idx in list_of_idxs:
-    full_string = ''.join(new_list[team_idx:team_idx + 2])
+    full_string = ' '.join(new_list[team_idx:team_idx + 2])
     list_of_comb_teams.append(full_string)
 
 for team in list_of_comb_teams:
@@ -62,7 +56,7 @@ for team in list_of_comb_teams:
                 player_team = team_name.group(0).strip()
                 player_name = match.group(1).strip()
                 player_level = match.group(2).strip()
-                all_players.append({'player_name': player_name, 'team': player_team, 'fa_class': 2019, 
+                all_players.append({'player_name': player_name, 'team': player_team, 'fa_class': 2020, 
                                     'position': position, 'minor_league_level': player_level})
                 
 df = pl.DataFrame(data = all_players)  
