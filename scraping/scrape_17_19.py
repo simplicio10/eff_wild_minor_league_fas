@@ -62,5 +62,4 @@ for webpage in webpages:
 
 df = pl.DataFrame(data=all_players)
 
-print(df.height)
-print(df.head(10))
+df.write_csv('../files/free_agents/fas_17_19.csv')

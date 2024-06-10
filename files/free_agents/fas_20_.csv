@@ -1,0 +1,508 @@
+player_name,team,fa_class,position,minor_league_level
+Bradin Hagens,Arizona Diamondbacks,2020,RHP,AAA
+Matt Koch,Arizona Diamondbacks,2020,RHP,AAA
+Michael Kohn,Arizona Diamondbacks,2020,RHP,AAA
+Joe Krehbiel,Arizona Diamondbacks,2020,RHP,AAA
+Sam Lewis,Arizona Diamondbacks,2020,RHP,AA
+Ricky Nolasco,Arizona Diamondbacks,2020,RHP,AAA
+Braden Shipley,Arizona Diamondbacks,2020,RHP,AAA
+Ben Taylor,Arizona Diamondbacks,2020,RHP,AAA
+Lucas Luetge,Arizona Diamondbacks,2020,LHP,AAA
+Robby Scott,Arizona Diamondbacks,2020,LHP,AAA
+Jose Queliz,Arizona Diamondbacks,2020,C,AAA
+Alberto Rosario,Arizona Diamondbacks,2020,C,AAA
+Cody Decker,Arizona Diamondbacks,2020,1B,AAA
+Carlos Asuaje,Arizona Diamondbacks,2020,2B,AAA
+Josh Prince,Arizona Diamondbacks,2020,2B,AAA
+Marty Herum,Arizona Diamondbacks,2020,3B,AAA
+Jeffrey Baez,Arizona Diamondbacks,2020,OF,AA
+Evan Marzilli,Arizona Diamondbacks,2020,OF,AA
+Travis Snider,Arizona Diamondbacks,2020,OF,AAA
+Matt Szczur,Arizona Diamondbacks,2020,OF,AAA
+Jamie Westbrook,Arizona Diamondbacks,2020,OF,AAA
+Jonathan Aro,Atlanta Braves,2020,RHP,AA
+Claudio Custodio,Atlanta Braves,2020,RHP,AA
+Rafael De Paula,Atlanta Braves,2020,RHP,AAA
+Jason Hursh,Atlanta Braves,2020,RHP,AA
+Lukas Young,Atlanta Braves,2020,RHP,HiA
+Jordan Harrison,Atlanta Braves,2020,LHP,AA
+Caleb Thielbar,Atlanta Braves,2020,LHP,AAA
+Andy Wilkins,Atlanta Braves,2020,1B,HiA
+Danny Lockhart,Atlanta Braves,2020,3B,AA
+Andres Blanco,Atlanta Braves,2020,SS,AAA
+Pedro Florimon,Atlanta Braves,2020,SS,AAA
+Luis Marte,Atlanta Braves,2020,SS,AAA
+Lane Adams,Atlanta Braves,2020,OF,AA
+Ray-Patrick Didder,Atlanta Braves,2020,OF,AAA
+Connor Lien,Atlanta Braves,2020,OF,AA
+Pedro Araujo,Baltimore Orioles,2020,RHP,AA
+Ryan Eades,Baltimore Orioles,2020,RHP,AAA
+Taylor Grover,Baltimore Orioles,2020,RHP,AA
+Kieran Lovegrove,Baltimore Orioles,2020,RHP,HiA
+Marcos Molina,Baltimore Orioles,2020,RHP,AA
+Tayler Scott,Baltimore Orioles,2020,RHP,AAA
+Jimmy Yacabonis,Baltimore Orioles,2020,RHP,AAA
+Gabriel Ynoa,Baltimore Orioles,2020,RHP,AAA
+Luis Gonzalez,Baltimore Orioles,2020,LHP,AA
+Carlos Perez,Baltimore Orioles,2020,C,AA
+Chris Bostick,Baltimore Orioles,2020,2B,AAA
+Anderson Feliz,Baltimore Orioles,2020,SS,AA
+Sean Miller,Baltimore Orioles,2020,SS,HiA
+Jack Reinheimer,Baltimore Orioles,2020,SS,AAA
+Engelb Vielma,Baltimore Orioles,2020,SS,AAA
+Zach Vincej,Baltimore Orioles,2020,SS,AAA
+Ademar Rifaela,Baltimore Orioles,2020,OF,AAA
+Anyelo Gomez,Boston Red Sox,2020,RHP,AA
+Daniel Gonzalez,Boston Red Sox,2020,RHP,HiA
+Robinson Leyer,Boston Red Sox,2020,RHP,AA
+Jenrry Mejia,Boston Red Sox,2020,RHP,AAA
+Zach Putnam,Boston Red Sox,2020,RHP,AAA
+Teddy Stankiewicz,Boston Red Sox,2020,RHP,AAA
+Jordan Weems,Boston Red Sox,2020,RHP,AA
+Dedgar Jimenez,Boston Red Sox,2020,LHP,AA
+Juan Centeno,Boston Red Sox,2020,C,AAA
+Jake Romanski,Boston Red Sox,2020,C,AAA
+Tony Renda,Boston Red Sox,2020,2B,AAA
+Cody Asche,Boston Red Sox,2020,3B,AA
+Victor Acosta,Boston Red Sox,2020,SS,HiA
+Deiner Lopez,Boston Red Sox,2020,SS,AAA
+Isaias Lucena,Boston Red Sox,2020,SS,AA
+Trey Ball,Boston Red Sox,2020,OF,LoA
+Bryce Brentz,Boston Red Sox,2020,OF,AAA
+Joey Curletta,Boston Red Sox,2020,OF,AA
+Joseph Monge,Boston Red Sox,2020,OF,HiA
+Trevor Clifton,Chicago Cubs,2020,RHP,AAA
+Enrique de los Rios,Chicago Cubs,2020,RHP,HiA
+Chih-Wei Hu,Chicago Cubs,2020,RHP,AA
+Erick Leal,Chicago Cubs,2020,RHP,AA
+Allen Webster,Chicago Cubs,2020,RHP,AAA
+Alex Wilson,Chicago Cubs,2020,RHP,AAA
+Manuel Rondon,Chicago Cubs,2020,LHP,AA
+Taylor Davis,Chicago Cubs,2020,C,AAA
+Will Remillard,Chicago Cubs,2020,C,AA
+Yasiel Balaguert,Chicago Cubs,2020,1B,AA
+Phillip Evans,Chicago Cubs,2020,2B,AAA
+Gioskar Amaya,Chicago Cubs,2020,3B,AA
+Dixon Machado,Chicago Cubs,2020,SS,AAA
+Johnny Field,Chicago Cubs,2020,OF,AAA
+Chris Pieters,Chicago Cubs,2020,OF,AA
+Mauricio Cabrera,Chicago White Sox,2020,RHP,AA
+Luis Martinez,Chicago White Sox,2020,RHP,AA
+Justin O’Conner,Chicago White Sox,2020,RHP,LoA
+Donn Roach,Chicago White Sox,2020,RHP,AAA
+Kevin Escorcia,Chicago White Sox,2020,LHP,HiA
+Justin Nicolino,Chicago White Sox,2020,LHP,AAA
+Colton Turner,Chicago White Sox,2020,LHP,AAA
+Tyler Watson,Chicago White Sox,2020,LHP,LoA
+Alfredo Gonzalez,Chicago White Sox,2020,C,AA
+Matthew Mercedes,Chicago White Sox,2020,1B,DSL
+Gerson Montilla,Chicago White Sox,2020,2B,AAA
+Trey Michalczewski,Chicago White Sox,2020,3B,AAA
+Ramon Torres,Chicago White Sox,2020,SS,AAA
+Luis Valenzuela,Chicago White Sox,2020,SS,AA
+Ryan Cordell,Chicago White Sox,2020,OF,AAA
+Brandon Guyer,Chicago White Sox,2020,OF,AAA
+Jose Adames,Cincinnati Reds,2020,RHP,AA
+Wendolyn Bautista,Cincinnati Reds,2020,RHP,AAA
+Jonathon Crawford,Cincinnati Reds,2020,RHP,HiA
+Justin Grimm,Cincinnati Reds,2020,RHP,AAA
+Johendi Jiminian,Cincinnati Reds,2020,RHP,AA
+Brad Markey,Cincinnati Reds,2020,RHP,AA
+Keury Mella,Cincinnati Reds,2020,RHP,AAA
+Jon Moscot,Cincinnati Reds,2020,RHP,AA
+Alex Powers,Cincinnati Reds,2020,RHP,AAA
+Clate Schmidt,Cincinnati Reds,2020,RHP,LoA
+Jackson Stephens,Cincinnati Reds,2020,RHP,AAA
+Cory Thompson,Cincinnati Reds,2020,RHP,AAA
+Raul Wallace,Cincinnati Reds,2020,RHP,R
+Ty Boyles,Cincinnati Reds,2020,LHP,AAA
+Alec Byrd,Cincinnati Reds,2020,LHP,R
+Tim Collins,Cincinnati Reds,2020,LHP,AAA
+Juan Martinez,Cincinnati Reds,2020,LHP,AA
+Eric Stout,Cincinnati Reds,2020,LHP,AAA
+Nick Ciuffo,Cincinnati Reds,2020,C,AAA
+Pabel Manzanero,Cincinnati Reds,2020,C,HiA
+Chadwick Tromp,Cincinnati Reds,2020,C,AAA
+Stuart Turner,Cincinnati Reds,2020,C,AAA
+Samir Duenez,Cincinnati Reds,2020,1B,AA
+Christian Colon,Cincinnati Reds,2020,2B,AAA
+Bryant Flete,Cincinnati Reds,2020,2B,HiA
+Mitch Nay,Cincinnati Reds,2020,3B,AAA
+Calten Daal,Cincinnati Reds,2020,SS,AA
+Luis Gonzalez,Cincinnati Reds,2020,SS,AAA
+Yonathan Mendoza,Cincinnati Reds,2020,SS,AA
+Nick Longhi,Cincinnati Reds,2020,OF,AAA
+Michael O’Neill,Cincinnati Reds,2020,OF,AA
+Luis Araujo,Cleveland Indians,2020,RHP,LoA
+Shao-Ching Chiang,Cleveland Indians,2020,RHP,AAA
+Jon Edwards,Cleveland Indians,2020,RHP,AAA
+Jake Paulson,Cleveland Indians,2020,RHP,AA
+Michael Peoples,Cleveland Indians,2020,RHP,AAA
+Matt Solter,Cleveland Indians,2020,RHP,HiA
+Mitch Talbot,Cleveland Indians,2020,RHP,AAA
+Yapson Gomez,Cleveland Indians,2020,LHP,HiA
+Hector Hernandez,Cleveland Indians,2020,LHP,AA
+Rob Kaminsky,Cleveland Indians,2020,LHP,AAA
+Juan de la Cruz,Cleveland Indians,2020,C,AA
+Ryan Lavarnway,Cleveland Indians,2020,C,AAA
+Sicnarf Loopstok,Cleveland Indians,2020,C,AA
+Robinson Ramos,Cleveland Indians,2020,C,DSL
+Nellie Rodriguez,Cleveland Indians,2020,1B,AA
+Max Moroff,Cleveland Indians,2020,2B,AAA
+Ordomar Valdez,Cleveland Indians,2020,2B,SS
+Jorma Rodriguez,Cleveland Indians,2020,SS,AA
+Adam Rosales,Cleveland Indians,2020,SS,AAA
+Eric Stamets,Cleveland Indians,2020,SS,AAA
+Jordan Smith,Cleveland Indians,2020,OF,HiA
+Rayan Gonzalez,Colorado Rockies,2020,RHP,AA
+Scott Griggs,Colorado Rockies,2020,RHP,AA
+Alexander Guillen,Colorado Rockies,2020,RHP,AA
+Salvador Justo,Colorado Rockies,2020,RHP,HiA
+Matt Pierpont,Colorado Rockies,2020,RHP,AAA
+Pat Dean,Colorado Rockies,2020,LHP,AAA
+Mitch Horacek,Colorado Rockies,2020,LHP,AA
+Nelson Molina,Colorado Rockies,2020,3B,AAA
+Luis Castro,Colorado Rockies,2020,SS,HiA
+Peter Mooney,Colorado Rockies,2020,SS,AAA
+Elliot Soto,Colorado Rockies,2020,SS,AAA
+Noel Cuevas,Colorado Rockies,2020,OF,AAA
+Tim Adleman,Detroit Tigers,2020,RHP,AAA
+Fernando Calderon,Detroit Tigers,2020,RHP,DSL
+Eduardo Jimenez,Detroit Tigers,2020,RHP,AAA
+Victor Medina,Detroit Tigers,2020,RHP,DSL
+Fernando Perez,Detroit Tigers,2020,RHP,AA
+Zac Reininger,Detroit Tigers,2020,RHP,AAA
+Jake Thompson,Detroit Tigers,2020,RHP,AAA
+Matt Wotherspoon,Detroit Tigers,2020,RHP,AAA
+Liarvis Breto,Detroit Tigers,2020,LHP,HiA
+Doug Domnarski,Detroit Tigers,2020,LHP,SS
+Jose Fernandez,Detroit Tigers,2020,LHP,AA
+Albert Valdez,Detroit Tigers,2020,LHP,DSL
+Kade Scivicque,Detroit Tigers,2020,C,AA
+Kody Eaves,Detroit Tigers,2020,2B,AA
+Pete Kozma,Detroit Tigers,2020,SS,AAA
+Mikie Mahtook,Detroit Tigers,2020,OF,AAA
+Dustin Peterson,Detroit Tigers,2020,OF,AAA
+Erasmo Pinales,Houston Astros,2020,RHP,AA
+Granden Goetzman,Houston Astros,2020,OF,AA
+Winston Abreu,Kansas City Royals,2020,RHP,AAA
+Bryan Brickhouse,Kansas City Royals,2020,RHP,AAA
+Andrew Ferguson,Kansas City Royals,2020,RHP,AA
+Luis Hernandez,Kansas City Royals,2020,RHP,AAA
+Nick Howard,Kansas City Royals,2020,RHP,AAA
+Zach Lovvorn,Kansas City Royals,2020,RHP,AA
+Andres Machado,Kansas City Royals,2020,RHP,AAA
+Jonathan Dziedzic,Kansas City Royals,2020,LHP,AAA
+Jesus Atencio,Kansas City Royals,2020,C,R
+Allan de San Miguel,Kansas City Royals,2020,C,HiA
+Xavier Fernandez,Kansas City Royals,2020,C,AAA
+Adam Moore,Kansas City Royals,2020,C,AAA
+Andrew Susac,Kansas City Royals,2020,C,AAA
+Jordan George,Kansas City Royals,2020,1B,AA
+Taylor Featherston,Kansas City Royals,2020,2B,AAA
+Angel Franco,Kansas City Royals,2020,2B,AA
+Jecksson Flores,Kansas City Royals,2020,3B,AAA
+Erich Weiss,Kansas City Royals,2020,3B,AAA
+Chase d’Arnaud,Kansas City Royals,2020,SS,AAA
+Elier Hernandez,Kansas City Royals,2020,OF,AAA
+Miguel Almonte,Los Angeles Angels,2020,RHP,AAA
+Dario Beltre,Los Angeles Angels,2020,RHP,AA
+Parker Bridwell,Los Angeles Angels,2020,RHP,AAA
+Jesus Castillo,Los Angeles Angels,2020,RHP,AA
+Eduardo Del Rosario,Los Angeles Angels,2020,RHP,LoA
+Drew Hutchison,Los Angeles Angels,2020,RHP,AAA
+Michael Santos,Los Angeles Angels,2020,RHP,AA
+Franklin Navarro,Los Angeles Angels,2020,C,R
+Roberto Pena,Los Angeles Angels,2020,C,AAA
+Mario Sanjur,Los Angeles Angels,2020,C,AA
+Ryan Scott,Los Angeles Angels,2020,C,^
+Josh Thole,Los Angeles Angels,2020,C,AAA
+Nick Franklin,Los Angeles Angels,2020,2B,AAA
+Jarrett Parker,Los Angeles Angels,2020,OF,AAA
+Jhoan Urena,Los Angeles Angels,2020,OF,AA
+Stetson Allie,Los Angeles Dodgers,2020,RHP,AA
+Logan Bawcom,Los Angeles Dodgers,2020,RHP,AAA
+Yordy Cabrera,Los Angeles Dodgers,2020,RHP,AA
+Daniel Corcino,Los Angeles Dodgers,2020,RHP,AAA
+Justin De Fratus,Los Angeles Dodgers,2020,RHP,AAA
+Louis Head,Los Angeles Dodgers,2020,RHP,AAA
+J.D. Martin,Los Angeles Dodgers,2020,RHP,AAA
+Kevin Quackenbush,Los Angeles Dodgers,2020,RHP,AAA
+Sven Schuller,Los Angeles Dodgers,2020,RHP,AAA
+Jaime Schultz,Los Angeles Dodgers,2020,RHP,AAA
+Layne Somsen,Los Angeles Dodgers,2020,RHP,AA
+Jesen Therrien,Los Angeles Dodgers,2020,RHP,AAA
+Tyler Thornburg,Los Angeles Dodgers,2020,RHP,AAA
+Chris Nunn,Los Angeles Dodgers,2020,LHP,AAA
+Edward Paredes,Los Angeles Dodgers,2020,LHP,AA
+Rob Zastryzny,Los Angeles Dodgers,2020,LHP,AAA
+Jose Lobaton,Los Angeles Dodgers,2020,C,AAA
+Jordan Procyshen,Los Angeles Dodgers,2020,C,AA
+Blake Gailen,Los Angeles Dodgers,2020,OF,AAA
+Jon Kemmer,Los Angeles Dodgers,2020,OF,AAA
+Ben Moore,Los Angeles Dodgers,2020,OF,AAA
+Chris Parmelee,Los Angeles Dodgers,2020,OF,AA
+Cameron Perkins,Los Angeles Dodgers,2020,OF,AAA
+Shane Peterson,Los Angeles Dodgers,2020,OF,AAA
+David Popkins,Los Angeles Dodgers,2020,OF,R
+R.J. Alvarez,Miami Marlins,2020,RHP,AAA
+Joe Gunkel,Miami Marlins,2020,RHP,AAA
+Jordan Milbrath,Miami Marlins,2020,RHP,AAA
+Mike Kickham,Miami Marlins,2020,LHP,AAA
+Tyler Heineman,Miami Marlins,2020,C,AAA
+Adrian Nieto,Miami Marlins,2020,C,AA
+Andres Sthormes,Miami Marlins,2020,C,HiA
+Rodrigo Vigil,Miami Marlins,2020,C,AA
+Matt Snyder,Miami Marlins,2020,1B,AAA
+Billy Fleming,Miami Marlins,2020,2B,AAA
+Zach Scott,Miami Marlins,2020,2B,HiA
+Gabriel Guerrero,Miami Marlins,2020,OF,AAA
+Rosell Herrera,Miami Marlins,2020,OF,AAA
+Anfernee Seymour,Miami Marlins,2020,OF,AA
+Kobie Taylor,Miami Marlins,2020,OF,SS
+Rodrigo Benoit,Milwaukee Brewers,2020,RHP,HiA
+Jorge Ortega,Milwaukee Brewers,2020,RHP,AA
+Tyler Spurlin,Milwaukee Brewers,2020,RHP,AA
+Tuffy Gosewisch,Milwaukee Brewers,2020,C,AAA
+Bruce Caldwell,Milwaukee Brewers,2020,2B,AA
+Tucker Neuhaus,Milwaukee Brewers,2020,2B,HiA
+Nate Orf,Milwaukee Brewers,2020,2B,AAA
+Luis Aviles,Milwaukee Brewers,2020,SS,AA
+Jake Hager,Milwaukee Brewers,2020,SS,AAA
+Wes Rogers,Milwaukee Brewers,2020,OF,HiA
+Dillon Thomas,Milwaukee Brewers,2020,OF,HiA
+Yancarlos Baez,Minnesota Twins,2020,RHP,R
+D.J. Baxendale,Minnesota Twins,2020,RHP,AAA
+Preston Guilmet,Minnesota Twins,2020,RHP,AAA
+Johan Quezada,Minnesota Twins,2020,RHP,HiA
+Kohl Stewart,Minnesota Twins,2020,RHP,AAA
+Anthony Vizcaya,Minnesota Twins,2020,RHP,AA
+Jeremy Bleich,Minnesota Twins,2020,LHP,AAA
+Ian Krol,Minnesota Twins,2020,LHP,AAA
+Gabriel Moya,Minnesota Twins,2020,LHP,AA
+Ryan O’Rourke,Minnesota Twins,2020,LHP,AAA
+Wynston Sawyer,Minnesota Twins,2020,C,AAA
+Wilin Rosario,Minnesota Twins,2020,1B,AAA
+Drew Maggi,Minnesota Twins,2020,2B,AAA
+Mike Miller,Minnesota Twins,2020,SS,AAA
+Brandon Barnes,Minnesota Twins,2020,OF,AAA
+Alejandro De Aza,Minnesota Twins,2020,OF,AAA
+OF Ian Miller,Minnesota Twins,2020,OF,AAA
+Mickey Jannis,New York Mets,2020,RHP,AA
+Zach Lee,New York Mets,2020,RHP,AA
+Ervin Santana,New York Mets,2020,RHP,AAA
+Joshua Torres,New York Mets,2020,RHP,AA
+Dustin Houle,New York Mets,2020,C,AA
+Colton Plaia,New York Mets,2020,C,AAA
+Walter Rasquin,New York Mets,2020,C,LoA
+Carlos Sanchez,New York Mets,2020,C,LoA
+Arismendy Alcantara,New York Mets,2020,2B,AAA
+Gavin Cecchini,New York Mets,2020,2B,AA
+Danny Espinosa,New York Mets,2020,SS,AAA
+Ruben Tejada,New York Mets,2020,SS,AAA
+Barrett Barnes,New York Mets,2020,OF,AA
+Gregor Blanco,New York Mets,2020,OF,AAA
+Rymer Liriano,New York Mets,2020,OF,AAA
+Travis Taijeron,New York Mets,2020,OF,AAA
+Jake Barrett,New York Yankees,2020,RHP,AAA
+Cale Coshow,New York Yankees,2020,RHP,AAA
+Adonis de la Cruz,New York Yankees,2020,RHP,LoA
+Randall Delgado,New York Yankees,2020,RHP,AAA
+Brady Lail,New York Yankees,2020,RHP,AAA
+Yoiber Marquina,New York Yankees,2020,RHP,R
+Trevor Rosenthal,New York Yankees,2020,RHP,AAA
+Rex Brothers,New York Yankees,2020,LHP,AAA
+Daniel Coulombe,New York Yankees,2020,LHP,AAA
+Joe Mantiply,New York Yankees,2020,LHP,AAA
+Francisco Arcia,New York Yankees,2020,C,AAA
+Kellin Deglan,New York Yankees,2020,C,AA
+Francisco Diaz,New York Yankees,2020,C,AA
+Erik Kratz,New York Yankees,2020,C,AAA
+Brian Navarreto,New York Yankees,2020,C,AA
+Jorge Saez,New York Yankees,2020,C,AA
+Jerry Seitz,New York Yankees,2020,C,SS
+Gosuke Katoh,New York Yankees,2020,2B,AAA
+Wendell Rijo,New York Yankees,2020,2B,AAA
+Billy Burns,New York Yankees,2020,OF,AAA
+Rashad Crawford,New York Yankees,2020,OF,AA
+Terrance Gore,New York Yankees,2020,OF,AAA
+Alexander Palma,New York Yankees,2020,OF,HiA
+Jacob Bray,Oakland Athletics,2020,RHP,HiA
+Angel Duno,Oakland Athletics,2020,RHP,HiA
+Kyle Finnegan,Oakland Athletics,2020,RHP,AAA
+Matt Harvey,Oakland Athletics,2020,RHP,AAA
+Trey McNutt,Oakland Athletics,2020,RHP,AAA
+Jeferson Mejia,Oakland Athletics,2020,RHP,SS
+Miguel Mercedes,Oakland Athletics,2020,RHP,R
+Logan Verrett,Oakland Athletics,2020,RHP,AA
+Tyler Alexander,Oakland Athletics,2020,LHP,AA
+Dean Kiekhefer,Oakland Athletics,2020,LHP,AAA
+Kyle Lobstein,Oakland Athletics,2020,LHP,AAA
+Robert Mullen,Oakland Athletics,2020,C,HiA
+Cameron Rupp,Oakland Athletics,2020,C,AAA
+Brallan Perez,Oakland Athletics,2020,2B,AA
+Dan Gamache,Oakland Athletics,2020,3B,AA
+Nico Giarratano,Oakland Athletics,2020,SS,HiA
+Taylor Motter,Oakland Athletics,2020,SS,AA
+Edubray Ramos,Philadelphia Phillies,2020,RHP,AAA
+Alexis Rivero,Philadelphia Phillies,2020,RHP,AAA
+Tyler Viza,Philadelphia Phillies,2020,RHP,AAA
+Matt McBride,Philadelphia Phillies,2020,1B,AAA
+Mitch Walding,Philadelphia Phillies,2020,3B,AAA
+Malquin Canelo,Philadelphia Phillies,2020,SS,AAA
+Ali Castillo,Philadelphia Phillies,2020,SS,AAA
+Andrew Romine,Philadelphia Phillies,2020,SS,AAA
+Jan Hernandez,Philadelphia Phillies,2020,OF,AAA
+Shane Robinson,Philadelphia Phillies,2020,OF,AAA
+Angel German,Pittsburgh Pirates,2020,RHP,AA
+Jesus Liranzo,Pittsburgh Pirates,2020,RHP,AAA
+Brandon Maurer,Pittsburgh Pirates,2020,RHP,AAA
+Yefry Ramirez,Pittsburgh Pirates,2020,RHP,AAA
+Alfredo Reyes,Pittsburgh Pirates,2020,RHP,LoA
+Sean Brady,Pittsburgh Pirates,2020,LHP,AA
+Elvis Escobar,Pittsburgh Pirates,2020,LHP,AAA
+Wei-Chung Wang,Pittsburgh Pirates,2020,LHP,AAA
+Darnell Sweeney,Pittsburgh Pirates,2020,2B,AAA
+Eric Wood,Pittsburgh Pirates,2020,3B,AAA
+Bralin Jackson,Pittsburgh Pirates,2020,OF,AA
+Trayvon Robinson,Pittsburgh Pirates,2020,OF,AAA
+Jonathan Schwind,Pittsburgh Pirates,2020,OF,AAA
+Kyle Lloyd,San Diego Padres,2020,RHP,AA
+Chris Rowley,San Diego Padres,2020,RHP,AAA
+Dietrich Enns,San Diego Padres,2020,LHP,AAA
+Dillon Overton,San Diego Padres,2020,LHP,AAA
+Paco Rodriguez,San Diego Padres,2020,LHP,AAA
+Aderlin Rodriguez,San Diego Padres,2020,1B,AAA
+Seth Mejias-Brean,San Diego Padres,2020,3B,AAA
+Rodrigo Orozco,San Diego Padres,2020,OF,AAA
+Boog Powell,San Diego Padres,2020,OF,AAA
+Jamie Callahan,San Francisco Giants,2020,RHP,AA
+Alfred Gutierrez,San Francisco Giants,2020,RHP,AA
+Chase Johnson,San Francisco Giants,2020,RHP,AAA
+Dillon McNamara,San Francisco Giants,2020,RHP,AAA
+Casey Meisner,San Francisco Giants,2020,RHP,HiA
+Olbis Parra,San Francisco Giants,2020,RHP,HiA
+Keyvius Sampson,San Francisco Giants,2020,RHP,AA
+William Simpson,San Francisco Giants,2020,RHP,AA
+Sam Moll,San Francisco Giants,2020,LHP,AAA
+Steven Okert,San Francisco Giants,2020,LHP,AAA
+Ronnie Freeman,San Francisco Giants,2020,C,AAA
+Jin-De Jhang,San Francisco Giants,2020,C,AA
+Hamlet Marte,San Francisco Giants,2020,C,HiA
+Francisco Pena,San Francisco Giants,2020,C,AAA
+Brock Stassi,San Francisco Giants,2020,1B,AAA
+Levi Michael,San Francisco Giants,2020,2B,AAA
+Ryder Jones,San Francisco Giants,2020,3B,AA
+Johneshwy Fargas,San Francisco Giants,2020,OF,AA
+Anthony Garcia,San Francisco Giants,2020,OF,AAA
+Courtney Hawkins,San Francisco Giants,2020,OF,AAA
+Michael Reed,San Francisco Giants,2020,OF,AAA
+Chasen Bradford,Seattle Mariners,2020,RHP,AAA
+Matt Carasiti,Seattle Mariners,2020,RHP,AAA
+Nabil Crismatt,Seattle Mariners,2020,RHP,AAA
+Brian Ellington,Seattle Mariners,2020,RHP,AAA
+Aaron Northcraft,Seattle Mariners,2020,RHP,AAA
+Pablo Santana,Seattle Mariners,2020,RHP,DSL
+Elniery Garcia,Seattle Mariners,2020,LHP,AAA
+Sean Nolin,Seattle Mariners,2020,LHP,AAA
+Matt Tenuta,Seattle Mariners,2020,LHP,AA
+Alexander Capriata,Seattle Mariners,2020,C,AAA
+Brennon Kaleiwahea,Seattle Mariners,2020,C,SS
+Jordan Pacheco,Seattle Mariners,2020,C,AAA
+Kelby Tomlinson,Seattle Mariners,2020,2B,AAA
+Mike Ahmed,Seattle Mariners,2020,3B,AA
+Orlando Calixte,Seattle Mariners,2020,SS,AAA
+Daniel Castro,Seattle Mariners,2020,SS,AAA
+Ryan Court,Seattle Mariners,2020,SS,AAA
+John Andreoli,Seattle Mariners,2020,OF,AAA
+Jaycob Brugman,Seattle Mariners,2020,OF,AAA
+Aaron Knapp,Seattle Mariners,2020,OF,AAA
+Ariel Sandoval,Seattle Mariners,2020,OF,HiA
+Jose Disla,Tampa Bay Rays,2020,RHP,AA
+Jason Garcia,Tampa Bay Rays,2020,RHP,AAA
+Ian Gardeck,Tampa Bay Rays,2020,RHP,AAA
+Jose Mujica,Tampa Bay Rays,2020,RHP,AAA
+Artie Reyes,Tampa Bay Rays,2020,RHP,AAA
+Luis Santos,Tampa Bay Rays,2020,RHP,AAA
+Ryan Merritt,Tampa Bay Rays,2020,LHP,AAA
+Vidal Nuno,Tampa Bay Rays,2020,LHP,AAA
+Rocky Gale,Tampa Bay Rays,2020,C,AAA
+Dashenko Ricardo,Tampa Bay Rays,2020,C,AAA
+David Rodriguez,Tampa Bay Rays,2020,C,AA
+Emilio Bonifacio,Tampa Bay Rays,2020,2B,AAA
+Jason Coats,Tampa Bay Rays,2020,OF,AAA
+Johnny Davis,Tampa Bay Rays,2020,OF,AAA
+Thomas Milone,Tampa Bay Rays,2020,OF,AA
+Matt Bush,Texas Rangers,2020,RHP,AA
+Tim Dillard,Texas Rangers,2020,RHP,AAA
+Yoel Espinal,Texas Rangers,2020,RHP,AA
+Ronald Herrera,Texas Rangers,2020,RHP,AA
+Werner Leal,Texas Rangers,2020,RHP,SS
+Seth Maness,Texas Rangers,2020,RHP,AAA
+Emerson Martinez,Texas Rangers,2020,RHP,AA
+Jeffeson Medina,Texas Rangers,2020,RHP,HiA
+Pedro Payano,Texas Rangers,2020,RHP,AAA
+Richelson Pena,Texas Rangers,2020,RHP,AA
+Jake Petricka,Texas Rangers,2020,RHP,AAA
+Jen-Ho Tseng,Texas Rangers,2020,RHP,AA
+Esmerling Vasquez,Texas Rangers,2020,RHP,AAA
+Walker Weickel,Texas Rangers,2020,RHP,AA
+James Jones,Texas Rangers,2020,LHP,AA
+Sal Mendez,Texas Rangers,2020,LHP,HiA
+Francisco Villegas,Texas Rangers,2020,LHP,HiA
+Jett Bandy,Texas Rangers,2020,C,AAA
+Chuck Moorman,Texas Rangers,2020,C,AA
+Tony Sanchez,Texas Rangers,2020,C,AA
+Matt Davidson,Texas Rangers,2020,1B,AAA
+Eliezer Alvarez,Texas Rangers,2020,2B,AA
+Christian Lopes,Texas Rangers,2020,2B,AAA
+Juremi Profar,Texas Rangers,2020,3B,AA
+Patrick Wisdom,Texas Rangers,2020,3B,AAA
+Preston Beck,Texas Rangers,2020,OF,AAA
+Jairo Beras,Texas Rangers,2020,OF,HiA
+Zack Granite,Texas Rangers,2020,OF,AAA
+Josh Almonte,Toronto Blue Jays,2020,RHP,AA
+John Axford,Toronto Blue Jays,2020,RHP,AAA
+Danny Barnes,Toronto Blue Jays,2020,RHP,AAA
+Mark Leiter Jr.,Toronto Blue Jays,2020,RHP,AAA
+Willy Ortiz,Toronto Blue Jays,2020,RHP,AA
+Francisco Rios,Toronto Blue Jays,2020,RHP,AAA
+Matt Dermody,Toronto Blue Jays,2020,LHP,AAA
+Shawn Morimando,Toronto Blue Jays,2020,LHP,AAA
+Patrick Cantwell,Toronto Blue Jays,2020,C,AAA
+Michael de la Cruz,Toronto Blue Jays,2020,C,AAA
+Javier Hernandez,Toronto Blue Jays,2020,C,HiA
+Alberto Mineo,Toronto Blue Jays,2020,C,AA
+Andres Sotillo,Toronto Blue Jays,2020,C,AA
+Deiferson Barreto,Toronto Blue Jays,2020,2B,HiA
+Socrates Brito,Toronto Blue Jays,2020,OF,AAA
+Patrick Kivlehan,Toronto Blue Jays,2020,OF,AAA
+Jordan Patterson,Toronto Blue Jays,2020,OF,AAA
+Dalton Pompey,Toronto Blue Jays,2020,OF,AAA
+Dakota Bacus,Washington Nationals,2020,RHP,AAA
+Bryan Bonnell,Washington Nationals,2020,RHP,AA
+Jake Buchanan,Washington Nationals,2020,RHP,AAA
+Scott Copeland,Washington Nationals,2020,RHP,AAA
+Greg Holland,Washington Nationals,2020,RHP,AA
+J.J. Hoover,Washington Nationals,2020,RHP,AAA
+Josh Lucas,Washington Nationals,2020,RHP,AAA
+Kevin McGowan,Washington Nationals,2020,RHP,HiA
+Logan Ondrusek,Washington Nationals,2020,RHP,AAA
+Ronald Pena,Washington Nationals,2020,RHP,AAA
+Derek Self,Washington Nationals,2020,RHP,AAA
+Sam Freeman,Washington Nationals,2020,LHP,AAA
+Jordan Mills,Washington Nationals,2020,LHP,AA
+Jake Lowery,Washington Nationals,2020,C,AA
+Jose Marmolejos,Washington Nationals,2020,1B,AAA
+Brandon Snyder,Washington Nationals,2020,1B,AAA
+T.J. Rivera,Washington Nationals,2020,2B,AA
+Dante Bichette Jr.,Washington Nationals,2020,3B,AA
+Drew Ward,Washington Nationals,2020,3B,AAA
+Osvaldo Abreu,Washington Nationals,2020,SS,HiA
+Bengie Gonzalez,Washington Nationals,2020,SS,AAA
+David Masters,Washington Nationals,2020,SS,AA
+Matt Reynolds,Washington Nationals,2020,SS,AAA
+Luis Sardinas,Washington Nationals,2020,SS,AAA
+Collin Cowgill,Washington Nationals,2020,OF,AAA
+Hunter Jones,Washington Nationals,2020,OF,AA
+Chuck Taylor,Washington Nationals,2020,OF,AAA

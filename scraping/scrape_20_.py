@@ -61,4 +61,4 @@ for team in list_of_comb_teams:
                 
 df = pl.DataFrame(data = all_players)  
 
-print(df.head(10))
+df.write_csv('../files/free_agents/fas_20_.csv')
