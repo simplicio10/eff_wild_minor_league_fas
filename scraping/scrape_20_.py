@@ -1,10 +1,13 @@
 '''
 This code scrapes archived versions of Baseball America Minor League Free Agent
-lists from 2013 to 2015. These webpages are available at the Internet Archive.
+lists published from 2019 (reflecting free agents available for the following season).
 
-The code returns a dictionary with the following format:
-
-'[Player name]: [[Team], [Position], [Level]]'
+The code returns a DataFrame with the following columns:
+-Player Name
+-Team (most recently played for)
+-Free agent class
+-Position
+-Minor League Level (as listed by BA)
 '''
 
 import requests
@@ -27,26 +30,25 @@ content = page.content
 soup = BeautifulSoup(content, 'html.parser')
 article_body = soup.find(class_="page-layout__main").contents
 
-new_list = [line.get_text() for line in article_body]
-new_list = [line.replace('\xa0', ' ') for line in new_list]
-new_list = [x for x in new_list if x not in ['\n']]
+article_body_clean = [line.get_text() for line in article_body]
+article_body_clean = [line.replace('\xa0', ' ') for line in article_body_clean]
+article_body_clean = [x for x in article_body_clean if x not in ['\n']]
 
 list_of_idxs = []
 
-for i in new_list:
+for i in article_body_clean:
     if regex.fullmatch(find_teams, i):
-        idx = new_list.index(i)
+        idx = article_body_clean.index(i)
         list_of_idxs.append(idx)
 
 list_of_comb_teams = []
 
 for team_idx in list_of_idxs:
-    full_string = ' '.join(new_list[team_idx:team_idx + 2])
+    full_string = ' '.join(article_body_clean[team_idx:team_idx + 2])
     list_of_comb_teams.append(full_string)
 
 for team in list_of_comb_teams:
     matches = regex.findall(find_players_by_position, team)
-    result = [f"{position}: {players}" for position, players in matches]
     team_name = regex.search(find_teams, team)
     for position, players in matches:
         player_list = players.split(", ")
@@ -59,6 +61,6 @@ for team in list_of_comb_teams:
                 all_players.append({'player_name': player_name, 'team': player_team, 'fa_class': 2020, 
                                     'position': position, 'minor_league_level': player_level})
                 
-df = pl.DataFrame(data = all_players)  
+df = pl.DataFrame(data=all_players)  
 
 df.write_csv('../files/free_agents/fas_20_.csv')

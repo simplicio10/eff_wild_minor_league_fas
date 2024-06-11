@@ -1,10 +1,14 @@
 '''
 This code scrapes archived versions of Baseball America Minor League Free Agent
-lists from 2013 to 2015. These webpages are available at the Internet Archive.
+lists published from 2013 to 2015 (reflecting free agents available for the following season). 
+These webpages are available at the Internet Archive.
 
-The code returns a dictionary with the following format:
-
-'[Player name]: [[Team], [Position], [Level]]'
+The code returns a DataFrame with the following columns:
+-Player Name
+-Team (most recently played for)
+-Free agent class
+-Position
+-Minor League Level (as listed by BA)
 '''
 
 import requests
@@ -44,7 +48,6 @@ for webpage in webpages:
     #Function creates dictionary of players from all 30 organizations
     for team in free_agents_by_team:
         matches = regex.findall(find_players_by_position, team)
-        result = [f"{position}: {players}" for position, players in matches]
         team_name = regex.search(find_teams, team)
         for position, players in matches:
             player_list = players.split(", ")
