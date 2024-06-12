@@ -1,260 +1,647 @@
 player_name,team,fa_class,position
-Kyle Dowdy ,Cleveland Guardians,2022,RHP
-Heath Fillmyer ,Cleveland Guardians,2022,RHP
-Gianpaul Gonzalez ,Cleveland Guardians,2022,C
-Cameron Hill ,Cleveland Guardians,2022,RHP
-Juan Hillman ,Cleveland Guardians,2022,LHP
-Matt Koch ,Cleveland Guardians,2022,RHP
-Tyler Krieger ,Cleveland Guardians,2022,SS
-Connor Marabell ,Cleveland Guardians,2022,OF
-Andruw Monasterio ,Cleveland Guardians,2022,IF
-Jordan Stephens ,Cleveland Guardians,2022,RHP
-Daniel Young ,Cleveland Guardians,2022,LHP
-Yency Almonte ,Colorado Rockies,2022,RHP
-Wynton Bernard ,Colorado Rockies,2022,OF
-Greg Bird ,Colorado Rockies,2022,1B
-Scott Burcham ,Colorado Rockies,2022,SS
-Ryan Castellani ,Colorado Rockies,2022,RHP
-Ian Clarkin ,Colorado Rockies,2022,LHP
-Logan Cozart ,Colorado Rockies,2022,RHP
-Breiling Eusebio ,Colorado Rockies,2022,LHP
-Conor Fisk ,Colorado Rockies,2022,RHP
-Josh Fuentes ,Colorado Rockies,2022,1B
-Max George ,Colorado Rockies,2022,C
-Jose Gomez ,Colorado Rockies,2022,IF
-Brian Gonzalez ,Colorado Rockies,2022,LHP
-Nelson Gonzalez ,Colorado Rockies,2022,RHP
-Rayan Gonzalez ,Colorado Rockies,2022,RHP
-Javier Guevara ,Colorado Rockies,2022,C
-David Hill ,Colorado Rockies,2022,RHP
-Nick Longhi ,Colorado Rockies,2022,OF
-Manuel Melendez ,Colorado Rockies,2022,OF
-Michael Petersen ,Colorado Rockies,2022,RHP
-Chris Rabago ,Colorado Rockies,2022,C
-Dereck Rodriguez ,Colorado Rockies,2022,RHP
-Zac Rosscup ,Colorado Rockies,2022,LHP
-Tate Scioneaux ,Colorado Rockies,2022,RHP
-Jesus Tinoco ,Colorado Rockies,2022,RHP
-Jack Wynkoop ,Colorado Rockies,2022,LHP
-Jose Appleton ,Detroit Tigers,2022,RHP
-Juan Centeno ,Detroit Tigers,2022,C
-Cale Coshow ,Detroit Tigers,2022,RHP
-Isrrael De La Cruz ,Detroit Tigers,2022,RHP
-Yariel Gonzalez ,Detroit Tigers,2022,2B
-Drew Hutchison ,Detroit Tigers,2022,RHP
-Xavier Javier ,Detroit Tigers,2022,RHP
-Mark Leiter Jr. ,Detroit Tigers,2022,RHP
-Josh Lester ,Detroit Tigers,2022,3B
-Henry Martinez ,Detroit Tigers,2022,RHP
-Gerson Moreno ,Detroit Tigers,2022,RHP
-Pedro Payano ,Detroit Tigers,2022,RHP
-Ricardo Pinto ,Detroit Tigers,2022,RHP
-Wladimir Pinto ,Detroit Tigers,2022,RHP
-Aderlin Rodriguez ,Detroit Tigers,2022,3B
-Robert Ross ,Detroit Tigers,2022,LHP
-Zach Shepherd ,Detroit Tigers,2022,RHP
-Locke St. John ,Detroit Tigers,2022,LHP
-Christin Stewart ,Detroit Tigers,2022,OF
-Drew Ward ,Detroit Tigers,2022,3B
-Drew Butera ,Houston Astros,2022,C
-Riley Ferrell ,Houston Astros,2022,RHP
-Robel Garcia ,Houston Astros,2022,2B
-C.J. Hinojosa ,Houston Astros,2022,SS
-Michael Kelly ,Houston Astros,2022,RHP
-Brandon Lawson ,Houston Astros,2022,RHP
-Jon Olczak ,Houston Astros,2022,RHP
-Nolan Riggs ,Houston Astros,2022,RHP
-Leovanny Rodriguez ,Houston Astros,2022,RHP
-Miguelangel Sierra ,Houston Astros,2022,SS
-Felipe Tejada ,Houston Astros,2022,RHP
-Jacob Wilson ,Houston Astros,2022,2B
-Jason Alexander ,Miami Marlins,2022,RHP
-Ricky Aracena ,Miami Marlins,2022,SS
+Dario Agrazal,Arizona Diamondbacks,2022,RHP
+Edgar Arredondo,Arizona Diamondbacks,2022,RHP
+Mailon Arroyo,Arizona Diamondbacks,2022,RHP
+Luis Alejandro Basabe,Arizona Diamondbacks,2022,IF
+Luis Castillo,Arizona Diamondbacks,2022,RHP
+Michael De La Cruz,Arizona Diamondbacks,2022,C
+Jon Duplantier,Arizona Diamondbacks,2022,RHP
+Matthew Gage,Arizona Diamondbacks,2022,LHP
+Elijah Greene,Arizona Diamondbacks,2022,OF
+Jake Hager,Arizona Diamondbacks,2022,OF
+Ryder Jones,Arizona Diamondbacks,2022,3B
+Christian Lopes,Arizona Diamondbacks,2022,2B
+Kevin McCanna,Arizona Diamondbacks,2022,RHP
+Chester Pimentel,Arizona Diamondbacks,2022,RHP
+Juniel Querecuto,Arizona Diamondbacks,2022,SS
+Henry Ramos,Arizona Diamondbacks,2022,OF
+Jamie Ritchie,Arizona Diamondbacks,2022,C
+Wesley Rodriguez,Arizona Diamondbacks,2022,RHP
+Brandyn Sittinger,Arizona Diamondbacks,2022,RHP
+Jordan Weems,Arizona Diamondbacks,2022,RHP
+Victor Arano,Atlanta Braves,2022,RHP
+Chasen Bradford,Atlanta Braves,2022,RHP
+Ryan Casteel,Atlanta Braves,2022,IF
+Phillip Ervin,Atlanta Braves,2022,OF
+Joseph Fernando,Atlanta Braves,2022,SS
+Jay Flaa,Atlanta Braves,2022,RHP
+Maikel Franco,Atlanta Braves,2022,3B
+Ryan Goins,Atlanta Braves,2022,3B
+Terrance Gore,Atlanta Braves,2022,OF
+Josh Graham,Atlanta Braves,2022,RHP
+Kurt Hoekstra,Atlanta Braves,2022,RHP
+Kevin Josephina,Atlanta Braves,2022,SS
+Trevor Kelley,Atlanta Braves,2022,RHP
+Carlos Martinez,Atlanta Braves,2022,C
+Jeff Mathis,Atlanta Braves,2022,C
+Sean McLaughlin,Atlanta Braves,2022,RHP
+Shean Michel,Atlanta Braves,2022,OF
+Jalen Miller,Atlanta Braves,2022,2B
+Luis Mora,Atlanta Braves,2022,RHP
+Jonathan Morales,Atlanta Braves,2022,C
+Emmanuel Ramirez,Atlanta Braves,2022,RHP
+Wendell Rijo,Atlanta Braves,2022,2B
+Jose Rodriguez,Atlanta Braves,2022,RHP
+Ricardo Rodriguez,Atlanta Braves,2022,C
+Yolmer Sanchez,Atlanta Braves,2022,3B
+Riley Unroe,Atlanta Braves,2022,SS
+Stephen Vogt,Atlanta Braves,2022,C
+Matt Withrow,Atlanta Braves,2022,RHP
+Manuel Barreda,Baltimore Orioles,2022,RHP
+Ty Blach,Baltimore Orioles,2022,LHP
+Nick Ciuffo,Baltimore Orioles,2022,C
+Claudio Custodio,Baltimore Orioles,2022,RHP
+Gray Fenter,Baltimore Orioles,2022,RHP
+Mickey Jannis,Baltimore Orioles,2022,RHP
+Steven Klimek,Baltimore Orioles,2022,RHP
+Dusten Knight,Baltimore Orioles,2022,RHP
+Ryan Ripken,Baltimore Orioles,2022,1B
+Spenser Watkins,Baltimore Orioles,2022,RHP
+Jose Adames,Boston Red Sox,2022,RHP
+Roldani Baldwin,Boston Red Sox,2022,C
+Seth Blair,Boston Red Sox,2022,RHP
+Colten Brewer,Boston Red Sox,2022,RHP
+Matt Carasiti,Boston Red Sox,2022,RHP
+Enmanuel De Jesus,Boston Red Sox,2022,LHP
+Chad De La Guerra,Boston Red Sox,2022,2B
+Jose De Leon,Boston Red Sox,2022,RHP
+Jose Disla,Boston Red Sox,2022,RHP
+Jose Espada,Boston Red Sox,2022,RHP
+Raynel Espinal,Boston Red Sox,2022,RHP
+Michael Gettys,Boston Red Sox,2022,OF
+Stephen Gonsalves,Boston Red Sox,2022,LHP
+Daniel Gossett,Boston Red Sox,2022,RHP
+Zac Grotz,Boston Red Sox,2022,RHP
+Christopher Herrmann,Boston Red Sox,2022,C
+Jose Iglesias,Boston Red Sox,2022,SS
+Matt Kent,Boston Red Sox,2022,LHP
+Jack Lopez,Boston Red Sox,2022,SS
+Tate Matheny,Boston Red Sox,2022,OF
+Joey Meneses,Boston Red Sox,2022,1B
+Johan Mieses,Boston Red Sox,2022,OF
+Yairo Munoz,Boston Red Sox,2022,3B
+Josh Ockimey,Boston Red Sox,2022,1B
+Tyler Olson,Boston Red Sox,2022,LHP
+Yorvin Pantoja,Boston Red Sox,2022,LHP
+Brad Peacock,Boston Red Sox,2022,RHP
+Jhonny Pereda,Boston Red Sox,2022,C
+Denyi Reyes,Boston Red Sox,2022,RHP
+Yacksel Rios,Boston Red Sox,2022,RHP
+Jeremy Rivera,Boston Red Sox,2022,SS
+Jose Almonte,Chicago Cubs,2022,RHP
+Abiatal Avelino,Chicago Cubs,2022,SS
+Joe Biagini,Chicago Cubs,2022,RHP
+Dakota Chalmers,Chicago Cubs,2022,RHP
+Yovanny Cuevas,Chicago Cubs,2022,OF
+Johneshwy Fargas,Chicago Cubs,2022,OF
+Juan Gamez,Chicago Cubs,2022,RHP
+Taylor Gushue,Chicago Cubs,2022,C
+Michael Hauschild,Chicago Cubs,2022,RHP
+P.J. Higgins,Chicago Cubs,2022,C
+Alex Katz,Chicago Cubs,2022,LHP
+Ryan Kellogg,Chicago Cubs,2022,LHP
+Tyler Ladendorf,Chicago Cubs,2022,3B
+Ryan Lawlor,Chicago Cubs,2022,LHP
+Luis Lugo,Chicago Cubs,2022,LHP
+Dillon Maples,Chicago Cubs,2022,RHP
+Jackson McClelland,Chicago Cubs,2022,RHP
+Ian Miller,Chicago Cubs,2022,OF
+Raymond Pena,Chicago Cubs,2022,C
+Marcus Walden,Chicago Cubs,2022,RHP
+Joe Wieland,Chicago Cubs,2022,RHP
+Vincenzo Aiello,Chicago White Sox,2022,RHP
+Tim Beckham,Chicago White Sox,2022,SS
+Will Carter,Chicago White Sox,2022,RHP
+Jimmy Cordero,Chicago White Sox,2022,RHP
+Johan Cruz,Chicago White Sox,2022,SS
+Joe DeCarlo,Chicago White Sox,2022,C
+Samir Duenez,Chicago White Sox,2022,1B
+Carl Edwards,Chicago White Sox,2022,RHP
+Ofreidy Gomez,Chicago White Sox,2022,RHP
+Marco Hernandez,Chicago White Sox,2022,IF
+Kyle Kubat,Chicago White Sox,2022,LHP
+Luis Ledo,Chicago White Sox,2022,RHP
+Mikie Mahtook,Chicago White Sox,2022,OF
+Alejandro Mateo,Chicago White Sox,2022,RHP
+Kevin McCarthy,Chicago White Sox,2022,RHP
+Kodi Medeiros,Chicago White Sox,2022,LHP
+Dilmer Mejia,Chicago White Sox,2022,LHP
+Felix Paulino,Chicago White Sox,2022,RHP
+Matt Reynolds,Chicago White Sox,2022,SS
+Jagger Rusconi,Chicago White Sox,2022,SS
+Peter Tago,Chicago White Sox,2022,RHP
+Ruben Tejada,Chicago White Sox,2022,IF
+Emilio Vargas,Chicago White Sox,2022,RHP
+Tim Adleman,Cincinnati Reds,2022,RHP
+Dylan Baker,Cincinnati Reds,2022,RHP
+Mariel Bautista,Cincinnati Reds,2022,OF
+Brantley Bell,Cincinnati Reds,2022,3B
+Alex Blandino,Cincinnati Reds,2022,2B
+Narciso Crook,Cincinnati Reds,2022,OF
+Jhon De Jesus,Cincinnati Reds,2022,RHP
+Michael De Leon,Cincinnati Reds,2022,SS
+Wilson Garcia,Cincinnati Reds,2022,1B
+Sam Hellinger,Cincinnati Reds,2022,RHP
+Jan Hernandez,Cincinnati Reds,2022,SS
+Nick Howard,Cincinnati Reds,2022,RHP
+Braxton Lee,Cincinnati Reds,2022,OF
+Zach Lee,Cincinnati Reds,2022,RHP
+Diomar Lopez,Cincinnati Reds,2022,RHP
+Michael Mariot,Cincinnati Reds,2022,RHP
+Fredy Medina,Cincinnati Reds,2022,RHP
+Logan Morrison,Cincinnati Reds,2022,1B
+Hector Perez,Cincinnati Reds,2022,RHP
+Julio Pinto,Cincinnati Reds,2022,RHP
+Wennington Romero,Cincinnati Reds,2022,LHP
+Kyle Dowdy,Cleveland Guardians,2022,RHP
+Heath Fillmyer,Cleveland Guardians,2022,RHP
+Gianpaul Gonzalez,Cleveland Guardians,2022,C
+Cameron Hill,Cleveland Guardians,2022,RHP
+Juan Hillman,Cleveland Guardians,2022,LHP
+Matt Koch,Cleveland Guardians,2022,RHP
+Tyler Krieger,Cleveland Guardians,2022,SS
+Connor Marabell,Cleveland Guardians,2022,OF
+Andruw Monasterio,Cleveland Guardians,2022,IF
+Jordan Stephens,Cleveland Guardians,2022,RHP
+Daniel Young,Cleveland Guardians,2022,LHP
+Yency Almonte,Colorado Rockies,2022,RHP
+Wynton Bernard,Colorado Rockies,2022,OF
+Greg Bird,Colorado Rockies,2022,1B
+Scott Burcham,Colorado Rockies,2022,SS
+Ryan Castellani,Colorado Rockies,2022,RHP
+Ian Clarkin,Colorado Rockies,2022,LHP
+Logan Cozart,Colorado Rockies,2022,RHP
+Breiling Eusebio,Colorado Rockies,2022,LHP
+Conor Fisk,Colorado Rockies,2022,RHP
+Josh Fuentes,Colorado Rockies,2022,1B
+Max George,Colorado Rockies,2022,C
+Jose Gomez,Colorado Rockies,2022,IF
+Brian Gonzalez,Colorado Rockies,2022,LHP
+Nelson Gonzalez,Colorado Rockies,2022,RHP
+Rayan Gonzalez,Colorado Rockies,2022,RHP
+Javier Guevara,Colorado Rockies,2022,C
+David Hill,Colorado Rockies,2022,RHP
+Nick Longhi,Colorado Rockies,2022,OF
+Manuel Melendez,Colorado Rockies,2022,OF
+Michael Petersen,Colorado Rockies,2022,RHP
+Chris Rabago,Colorado Rockies,2022,C
+Dereck Rodriguez,Colorado Rockies,2022,RHP
+Zac Rosscup,Colorado Rockies,2022,LHP
+Tate Scioneaux,Colorado Rockies,2022,RHP
+Jesus Tinoco,Colorado Rockies,2022,RHP
+Jack Wynkoop,Colorado Rockies,2022,LHP
+Jose Appleton,Detroit Tigers,2022,RHP
+Juan Centeno,Detroit Tigers,2022,C
+Cale Coshow,Detroit Tigers,2022,RHP
+Isrrael De La Cruz,Detroit Tigers,2022,RHP
+Yariel Gonzalez,Detroit Tigers,2022,2B
+Drew Hutchison,Detroit Tigers,2022,RHP
+Xavier Javier,Detroit Tigers,2022,RHP
+Mark Leiter Jr.,Detroit Tigers,2022,RHP
+Josh Lester,Detroit Tigers,2022,3B
+Henry Martinez,Detroit Tigers,2022,RHP
+Gerson Moreno,Detroit Tigers,2022,RHP
+Pedro Payano,Detroit Tigers,2022,RHP
+Ricardo Pinto,Detroit Tigers,2022,RHP
+Wladimir Pinto,Detroit Tigers,2022,RHP
+Aderlin Rodriguez,Detroit Tigers,2022,3B
+Robert Ross,Detroit Tigers,2022,LHP
+Zach Shepherd,Detroit Tigers,2022,RHP
+Locke St. John,Detroit Tigers,2022,LHP
+Christin Stewart,Detroit Tigers,2022,OF
+Drew Ward,Detroit Tigers,2022,3B
+Drew Butera,Houston Astros,2022,C
+Riley Ferrell,Houston Astros,2022,RHP
+Robel Garcia,Houston Astros,2022,2B
+C.J. Hinojosa,Houston Astros,2022,SS
+Michael Kelly,Houston Astros,2022,RHP
+Brandon Lawson,Houston Astros,2022,RHP
+Jon Olczak,Houston Astros,2022,RHP
+Nolan Riggs,Houston Astros,2022,RHP
+Leovanny Rodriguez,Houston Astros,2022,RHP
+Miguelangel Sierra,Houston Astros,2022,SS
+Felipe Tejada,Houston Astros,2022,RHP
+Jacob Wilson,Houston Astros,2022,2B
+Chance Adams,Kansas City Royals,2022,RHP
+Brandon Barker,Kansas City Royals,2022,RHP
+Garrett Davila,Kansas City Royals,2022,LHP
+Nick Dini,Kansas City Royals,2022,C
+Nathan Esposito,Kansas City Royals,2022,C
+Jeison Guzman,Kansas City Royals,2022,SS
+Jake Kalish,Kansas City Royals,2022,LHP
+Rudy Martin,Kansas City Royals,2022,OF
+Erick Mejia,Kansas City Royals,2022,OF
+Anderson Miller,Kansas City Royals,2022,OF
+Jake Newberry,Kansas City Royals,2022,RHP
+Blake Perkins,Kansas City Royals,2022,OF
+Carlos Sanabria,Kansas City Royals,2022,RHP
+Bubba Starling,Kansas City Royals,2022,OF
+Meibrys Viloria,Kansas City Royals,2022,C
+Nolan Watson,Kansas City Royals,2022,RHP
+Luis Aviles,Los Angeles Angel,2022,SS
+Nathan Bates,Los Angeles Angel,2022,RHP
+Boomer Biegalski,Los Angeles Angel,2022,RHP
+Jake Buchanan,Los Angeles Angel,2022,RHP
+Gavin Cecchini,Los Angeles Angel,2022,2B
+Tyler Danish,Los Angeles Angel,2022,RHP
+Jake Gatewood,Los Angeles Angel,2022,1B
+Carlos Herrera,Los Angeles Angel,2022,SS
+Travis Herrin,Los Angeles Angel,2022,RHP
+James Hoyt,Los Angeles Angel,2022,RHP
+Brian Johnson,Los Angeles Angel,2022,LHP
+Luke Leftwich,Los Angeles Angel,2022,RHP
+Kieran Lovegrove,Los Angeles Angel,2022,RHP
+Mitch Nay,Los Angeles Angel,2022,3B
+Thomas Pannone,Los Angeles Angel,2022,LHP
+Tim Peterson,Los Angeles Angel,2022,RHP
+Jake Petricka,Los Angeles Angel,2022,RHP
+Keinner Pina,Los Angeles Angel,2022,C
+Hansel Rodriguez,Los Angeles Angel,2022,RHP
+Adrian Rondon,Los Angeles Angel,2022,SS
+Franklin Torres,Los Angeles Angel,2022,SS
+Mitch Walding,Los Angeles Angel,2022,SS
+Isranel Wilson,Los Angeles Angel,2022,OF
+Carlos Asuaje,Los Angeles Dodgers,2022,2B
+Anthony Bemboom,Los Angeles Dodgers,2022,C
+Michael Boyle,Los Angeles Dodgers,2022,LHP
+Bryan Brickhouse,Los Angeles Dodgers,2022,RHP
+Romer Cuadrado,Los Angeles Dodgers,2022,OF
+Matthew Davidson,Los Angeles Dodgers,2022,1B
+Nolan Long,Los Angeles Dodgers,2022,RHP
+Hamlet Marte,Los Angeles Dodgers,2022,C
+Brandon Morrow,Los Angeles Dodgers,2022,RHP
+Vidal Nuno,Los Angeles Dodgers,2022,LHP
+James Pazos,Los Angeles Dodgers,2022,LHP
+Yefry Ramirez,Los Angeles Dodgers,2022,RHP
+Cristian Santana,Los Angeles Dodgers,2022,SS
+Andrew Schwaab,Los Angeles Dodgers,2022,RHP
+Markus Solbach,Los Angeles Dodgers,2022,RHP
+Elliot Soto,Los Angeles Dodgers,2022,SS
+Brock Stewart,Los Angeles Dodgers,2022,RHP
+Nick Tropeano,Los Angeles Dodgers,2022,RHP
+Jesus Vargas,Los Angeles Dodgers,2022,RHP
+Aaron Wilkerson,Los Angeles Dodgers,2022,RHP
+Tony Wolters,Los Angeles Dodgers,2022,C
+Jason Alexander,Miami Marlins,2022,RHP
+Ricky Aracena,Miami Marlins,2022,SS
 Cody Carroll,Miami Marlins,2022,RHP
-Chris Chinea ,Miami Marlins,2022,1B
-Galli Cribbs ,Miami Marlins,2022,IF
-Brett Eibner ,Miami Marlins,2022,RHP
-Dustin Fowler ,Miami Marlins,2022,OF
-Alberto Guerrero ,Miami Marlins,2022,RHP
-Alexander Guillen ,Miami Marlins,2022,RHP
-Jorge Guzman ,Miami Marlins,2022,RHP
-Connor Justus ,Miami Marlins,2022,SS
-Zack Kone ,Miami Marlins,2022,SS
-Brandon Leibrandt ,Miami Marlins,2022,LHP
-Luis Marte ,Miami Marlins,2022,SS
-Mason Melotakis ,Miami Marlins,2022,LHP
-Jose Mesa ,Miami Marlins,2022,RHP
-Brian Navarreto ,Miami Marlins,2022,C
-Matt Pobereyko ,Miami Marlins,2022,RHP
-Marcos Rivera ,Miami Marlins,2022,SS
-Magneuris Sierra ,Miami Marlins,2022,OF
-Eddy Tavarez ,Miami Marlins,2022,RHP
-Justin Twine ,Miami Marlins,2022,2B
-Rob Zastryzny ,Miami Marlins,2022,LHP
-Zack Zehner ,Miami Marlins,2022,OF
-R.J. Alvarez ,Milwaukee Brewers,2022,RHP
-Keon Broxton ,Milwaukee Brewers,2022,OF
-Jesus Castillo ,Milwaukee Brewers,2022,RHP
-Leonardo Crawford ,Milwaukee Brewers,2022,LHP
-Derek Fisher ,Milwaukee Brewers,2022,OF
+Chris Chinea,Miami Marlins,2022,1B
+Galli Cribbs,Miami Marlins,2022,IF
+Brett Eibner,Miami Marlins,2022,RHP
+Dustin Fowler,Miami Marlins,2022,OF
+Alberto Guerrero,Miami Marlins,2022,RHP
+Alexander Guillen,Miami Marlins,2022,RHP
+Jorge Guzman,Miami Marlins,2022,RHP
+Connor Justus,Miami Marlins,2022,SS
+Zack Kone,Miami Marlins,2022,SS
+Brandon Leibrandt,Miami Marlins,2022,LHP
+Luis Marte,Miami Marlins,2022,SS
+Mason Melotakis,Miami Marlins,2022,LHP
+Jose Mesa,Miami Marlins,2022,RHP
+Brian Navarreto,Miami Marlins,2022,C
+Matt Pobereyko,Miami Marlins,2022,RHP
+Marcos Rivera,Miami Marlins,2022,SS
+Magneuris Sierra,Miami Marlins,2022,OF
+Eddy Tavarez,Miami Marlins,2022,RHP
+Justin Twine,Miami Marlins,2022,2B
+Rob Zastryzny,Miami Marlins,2022,LHP
+Zack Zehner,Miami Marlins,2022,OF
+R.J. Alvarez,Milwaukee Brewers,2022,RHP
+Keon Broxton,Milwaukee Brewers,2022,OF
+Jesus Castillo,Milwaukee Brewers,2022,RHP
+Leonardo Crawford,Milwaukee Brewers,2022,LHP
+Derek Fisher,Milwaukee Brewers,2022,OF
 Zach Green,Milwaukee Brewers,2022,3B
-Brooks Hall ,Milwaukee Brewers,2022,RHP
-Blaine Hardy ,Milwaukee Brewers,2022,LHP
-Christian Kelley ,Milwaukee Brewers,2022,C
-Matt Lipka ,Milwaukee Brewers,2022,OF
-Mitch Longo ,Milwaukee Brewers,2022,OF
-Tim Lopes ,Milwaukee Brewers,2022,OF
-Alexander Palma ,Milwaukee Brewers,2022,OF
-Daniel Robertson ,Milwaukee Brewers,2022,SS
-Chad Sobotka ,Milwaukee Brewers,2022,RHP
-Patrick Weigel ,Milwaukee Brewers,2022,RHP
-Eric Yardley ,Milwaukee Brewers,2022,RHP
-B.J. Boyd ,Minnesota Twins,2022,OF
-Adam Bray ,Minnesota Twins,2022,RHP
-Jose Brito ,Minnesota Twins,2022,RHP
-Beau Burrows ,Minnesota Twins,2022,RHP
-Dawon Burt ,Minnesota Twins,2022,SS
-Trey Cabbage ,Minnesota Twins,2022,OF
-Leobaldo Cabrera ,Minnesota Twins,2022,OF
-Jonathan Cheshire ,Minnesota Twins,2022,RHP
-Jason Garcia ,Minnesota Twins,2022,RHP
-Sean Gilmartin ,Minnesota Twins,2022,LHP
-Joseph Harvey ,Minnesota Twins,2022,RHP
-Eiker Huizi ,Minnesota Twins,2022,RHP
-Sherman Johnson ,Minnesota Twins,2022,2B
-Adam Lau ,Minnesota Twins,2022,RHP
-Robinson Leyer ,Minnesota Twins,2022,RHP
-Hector Lujan ,Minnesota Twins,2022,RHP
-Drew Maggi ,Minnesota Twins,2022,SS
-Erik Manoah ,Minnesota Twins,2022,RHP
-Robert Milacki ,Minnesota Twins,2022,RHP
-Matt Mullenbach ,Minnesota Twins,2022,RHP
-Michael Nittoli ,Minnesota Twins,2022,RHP
-Chris Nunn ,Minnesota Twins,2022,LHP
-Mitchell Osnowitz ,Minnesota Twins,2022,RHP
-Samuel Perez ,Minnesota Twins,2022,LHP
-Ramon Pineda ,Minnesota Twins,2022,RHP
-Zaquiel Puentes ,Minnesota Twins,2022,RHP
-Orlando Rodriguez ,Minnesota Twins,2022,RHP
-Chandler Shepherd ,Minnesota Twins,2022,RHP
-Drew Stankiewicz ,Minnesota Twins,2022,SS
-Carlos Suniaga ,Minnesota Twins,2022,RHP
-Tomas Telis ,Minnesota Twins,2022,C
-Damek Tomscha ,Minnesota Twins,2022,3B
-Nick Vincent ,Minnesota Twins,2022,RHP
-Justin Washington ,Minnesota Twins,2022,OF
-Tyler Watson ,Minnesota Twins,2022,LHP
-Aaron Whitefield ,Minnesota Twins,2022,OF
-Breckin Williams ,Minnesota Twins,2022,RHP
-Cristian Alvarado ,Oakland Athletics,2022,RHP
-Argenis Angulo ,Oakland Athletics,2022,RHP
-Homer Bailey ,Oakland Athletics,2022,RHP
-Matt Blackham ,Oakland Athletics,2022,RHP
-Ben Bracewell ,Oakland Athletics,2022,RHP
-Edwin Diaz ,Oakland Athletics,2022,SS
-Montana DuRapau ,Oakland Athletics,2022,RHP
-Zack Erwin ,Oakland Athletics,2022,LHP
-Kyle Friedrichs ,Oakland Athletics,2022,RHP
-Jorge Gordon ,Oakland Athletics,2022,C
-Brett Graves ,Oakland Athletics,2022,RHP
-Reymin Guduan ,Oakland Athletics,2022,LHP
-Jesus Lage ,Oakland Athletics,2022,RHP
-Eric Marinez ,Oakland Athletics,2022,RHP
-Jose Mora ,Oakland Athletics,2022,RHP
-Jose Morban ,Oakland Athletics,2022,RHP
-James Naile ,Oakland Athletics,2022,RHP
-Francisco Pena ,Oakland Athletics,2022,C
-Carlos Perez ,Oakland Athletics,2022,C
-Zac Reininger ,Oakland Athletics,2022,RHP
-Jose Rivas ,Oakland Athletics,2022,C
-Jhonny Santos ,Oakland Athletics,2022,OF
-Trey Supak ,Oakland Athletics,2022,RHP
-Oscar Tovar ,Oakland Athletics,2022,RHP
-Mikey White ,Oakland Athletics,2022,SS
-Jesus Zambrano ,Oakland Athletics,2022,RHP
-Edgar Cabral ,Philadelphia Phillies,2022,C
-C.J. Chatham ,Philadelphia Phillies,2022,SS
-Grenny Cumana ,Philadelphia Phillies,2022,UTL
-Rodolfo Duran ,Philadelphia Phillies,2022,C
-Nick Fanti ,Philadelphia Phillies,2022,LHP
-Arquimedes Gamboa ,Philadelphia Phillies,2022,IF
-Taylor Guerrieri ,Philadelphia Phillies,2022,RHP
-Tyler Heineman ,Philadelphia Phillies,2022,C
-Mauricio Llovera ,Philadelphia Phillies,2022,RHP
-David Paulino ,Philadelphia Phillies,2022,RHP
-Cornelius Randolph ,Philadelphia Phillies,2022,OF
+Brooks Hall,Milwaukee Brewers,2022,RHP
+Blaine Hardy,Milwaukee Brewers,2022,LHP
+Christian Kelley,Milwaukee Brewers,2022,C
+Matt Lipka,Milwaukee Brewers,2022,OF
+Mitch Longo,Milwaukee Brewers,2022,OF
+Tim Lopes,Milwaukee Brewers,2022,OF
+Alexander Palma,Milwaukee Brewers,2022,OF
+Daniel Robertson,Milwaukee Brewers,2022,SS
+Chad Sobotka,Milwaukee Brewers,2022,RHP
+Patrick Weigel,Milwaukee Brewers,2022,RHP
+Eric Yardley,Milwaukee Brewers,2022,RHP
+B.J. Boyd,Minnesota Twins,2022,OF
+Adam Bray,Minnesota Twins,2022,RHP
+Jose Brito,Minnesota Twins,2022,RHP
+Beau Burrows,Minnesota Twins,2022,RHP
+Dawon Burt,Minnesota Twins,2022,SS
+Trey Cabbage,Minnesota Twins,2022,OF
+Leobaldo Cabrera,Minnesota Twins,2022,OF
+Jonathan Cheshire,Minnesota Twins,2022,RHP
+Jason Garcia,Minnesota Twins,2022,RHP
+Sean Gilmartin,Minnesota Twins,2022,LHP
+Joseph Harvey,Minnesota Twins,2022,RHP
+Eiker Huizi,Minnesota Twins,2022,RHP
+Sherman Johnson,Minnesota Twins,2022,2B
+Adam Lau,Minnesota Twins,2022,RHP
+Robinson Leyer,Minnesota Twins,2022,RHP
+Hector Lujan,Minnesota Twins,2022,RHP
+Drew Maggi,Minnesota Twins,2022,SS
+Erik Manoah,Minnesota Twins,2022,RHP
+Robert Milacki,Minnesota Twins,2022,RHP
+Matt Mullenbach,Minnesota Twins,2022,RHP
+Michael Nittoli,Minnesota Twins,2022,RHP
+Chris Nunn,Minnesota Twins,2022,LHP
+Mitchell Osnowitz,Minnesota Twins,2022,RHP
+Samuel Perez,Minnesota Twins,2022,LHP
+Ramon Pineda,Minnesota Twins,2022,RHP
+Zaquiel Puentes,Minnesota Twins,2022,RHP
+Orlando Rodriguez,Minnesota Twins,2022,RHP
+Chandler Shepherd,Minnesota Twins,2022,RHP
+Drew Stankiewicz,Minnesota Twins,2022,SS
+Carlos Suniaga,Minnesota Twins,2022,RHP
+Tomas Telis,Minnesota Twins,2022,C
+Damek Tomscha,Minnesota Twins,2022,3B
+Nick Vincent,Minnesota Twins,2022,RHP
+Justin Washington,Minnesota Twins,2022,OF
+Tyler Watson,Minnesota Twins,2022,LHP
+Aaron Whitefield,Minnesota Twins,2022,OF
+Breckin Williams,Minnesota Twins,2022,RHP
+Dustin Beggs,New York Mets,2022,RHP
+Akeem Bostick,New York Mets,2022,RHP
+Luis Carpio,New York Mets,2022,SS
+Martin Cervenka,New York Mets,2022,C
+Cheslor Cuthbert,New York Mets,2022,1B
+Oscar De La Cruz,New York Mets,2022,RHP
+Edgardo Fermin,New York Mets,2022,SS
+Zack Godley,New York Mets,2022,RHP
+Luis Gonzalez,New York Mets,2022,SS
+Drew Jackson,New York Mets,2022,2B
+Franklyn Kilome,New York Mets,2022,RHP
+Wagner Lagrange,New York Mets,2022,OF
+Thomas McIlraith,New York Mets,2022,RHP
+Luc Rennie,New York Mets,2022,RHP
+Jesus Reyes,New York Mets,2022,RHP
+Jared Robinson,New York Mets,2022,RHP
+David Rodriguez,New York Mets,2022,C
+Yoel Romero,New York Mets,2022,SS
+Bradley Roney,New York Mets,2022,RHP
+Alex Sanabia,New York Mets,2022,RHP
+Joe Shaw,New York Mets,2022,RHP
+David Thompson,New York Mets,2022,3B
+Juan Uriarte,New York Mets,2022,C
+Mason Williams,New York Mets,2022,OF
+Vance Worley,New York Mets,2022,RHP
+Trey Amburgey,New York Yankees,2022,OF
+Socrates Brito,New York Yankees,2022,OF
+Kaleb Cowart,New York Yankees,2022,RHP
+Frederick Cuevas,New York Yankees,2022,OF
+Jonathan Davis,New York Yankees,2022,OF
+Juan De Leon,New York Yankees,2022,OF
+Kevin Gadea,New York Yankees,2022,RHP
+Dermis Garcia,New York Yankees,2022,3B
+Wilkerman Garcia,New York Yankees,2022,SS
+Isiah Gilliam,New York Yankees,2022,OF
+Nick Goody,New York Yankees,2022,RHP
+Nick Green,New York Yankees,2022,RHP
+Kyle Holder,New York Yankees,2022,SS
+Jason Lopez,New York Yankees,2022,C
+Thomas Milone,New York Yankees,2022,OF
+Jio Orozco,New York Yankees,2022,RHP
+Freicer Perez,New York Yankees,2022,RHP
+David Sosebee,New York Yankees,2022,RHP
+Jefry Valdez,New York Yankees,2022,RHP
+Brandon Wagner,New York Yankees,2022,3B
+Adam Warren,New York Yankees,2022,RHP
+Cristian Alvarado,Oakland Athletics,2022,RHP
+Argenis Angulo,Oakland Athletics,2022,RHP
+Homer Bailey,Oakland Athletics,2022,RHP
+Matt Blackham,Oakland Athletics,2022,RHP
+Ben Bracewell,Oakland Athletics,2022,RHP
+Edwin Diaz,Oakland Athletics,2022,SS
+Montana DuRapau,Oakland Athletics,2022,RHP
+Zack Erwin,Oakland Athletics,2022,LHP
+Kyle Friedrichs,Oakland Athletics,2022,RHP
+Jorge Gordon,Oakland Athletics,2022,C
+Brett Graves,Oakland Athletics,2022,RHP
+Reymin Guduan,Oakland Athletics,2022,LHP
+Jesus Lage,Oakland Athletics,2022,RHP
+Eric Marinez,Oakland Athletics,2022,RHP
+Jose Mora,Oakland Athletics,2022,RHP
+Jose Morban,Oakland Athletics,2022,RHP
+James Naile,Oakland Athletics,2022,RHP
+Francisco Pena,Oakland Athletics,2022,C
+Carlos Perez,Oakland Athletics,2022,C
+Zac Reininger,Oakland Athletics,2022,RHP
+Jose Rivas,Oakland Athletics,2022,C
+Jhonny Santos,Oakland Athletics,2022,OF
+Trey Supak,Oakland Athletics,2022,RHP
+Oscar Tovar,Oakland Athletics,2022,RHP
+Mikey White,Oakland Athletics,2022,SS
+Jesus Zambrano,Oakland Athletics,2022,RHP
+Edgar Cabral,Philadelphia Phillies,2022,C
+C.J. Chatham,Philadelphia Phillies,2022,SS
+Grenny Cumana,Philadelphia Phillies,2022,UTL
+Rodolfo Duran,Philadelphia Phillies,2022,C
+Nick Fanti,Philadelphia Phillies,2022,LHP
+Arquimedes Gamboa,Philadelphia Phillies,2022,IF
+Taylor Guerrieri,Philadelphia Phillies,2022,RHP
+Tyler Heineman,Philadelphia Phillies,2022,C
+Mauricio Llovera,Philadelphia Phillies,2022,RHP
+David Paulino,Philadelphia Phillies,2022,RHP
+Cornelius Randolph,Philadelphia Phillies,2022,OF
 T.J. Rivera,Philadelphia Phillies,2022,2B
-Brock Stassi ,Philadelphia Phillies,2022,1B
-Charlie Tilson ,Philadelphia Phillies,2022,OF
-Aneurys Zabala ,Philadelphia Phillies,2022,RHP
-Alex Aquino ,Pittsburgh Pirates,2022,RHP
-Tyler Bashlor ,Pittsburgh Pirates,2022,RHP
-Christian Bethancourt ,Pittsburgh Pirates,2022,C
-Chase Dejong ,Pittsburgh Pirates,2022,RHP
-Raul Hernandez ,Pittsburgh Pirates,2022,C
-Kyle Keller ,Pittsburgh Pirates,2022,RHP
-Nathan Kirby ,Pittsburgh Pirates,2022,LHP
-James Marvel ,Pittsburgh Pirates,2022,RHP
-Oddy Nunez ,Pittsburgh Pirates,2022,LHP
-Connor Overton ,Pittsburgh Pirates,2022,RHP
-Shea Spitzbarth ,Pittsburgh Pirates,2022,RHP
-Andrew Susac ,Pittsburgh Pirates,2022,C
-Mike Ahmed ,Seattle Mariners,2022,IF
-Jake Bauers ,Seattle Mariners,2022,1B
-A.J. Bumpass ,Seattle Mariners,2022,OF
-Jordan Cowan ,Seattle Mariners,2022,SS
-Nick Duron ,Seattle Mariners,2022,RHP
-Nate Fisher ,Seattle Mariners,2022,LHP
-Darin Gillies ,Seattle Mariners,2022,RHP
-Moises Gomez ,Seattle Mariners,2022,RHP
-Justin Grimm ,Seattle Mariners,2022,RHP
-Alen Hanson ,Seattle Mariners,2022,SS
-Eric Jones ,Seattle Mariners,2022,C
-Caleb Joseph ,Seattle Mariners,2022,C
-Anthony Lepre ,Seattle Mariners,2022,C
-Luis Liberato ,Seattle Mariners,2022,OF
-Shed Long ,Seattle Mariners,2022,2B
-Ian McKinney ,Seattle Mariners,2022,LHP
-Steven Moyers ,Seattle Mariners,2022,LHP
-Fausto Pediet ,Seattle Mariners,2022,RHP
-Matt Pierpont ,Seattle Mariners,2022,RHP
-Jack Reinheimer ,Seattle Mariners,2022,SS
-Alejandro Requena ,Seattle Mariners,2022,RHP
-Joseph Rosa ,Seattle Mariners,2022,SS
-Brian Schlitter ,Seattle Mariners,2022,RHP
-Kennie Taylor ,Seattle Mariners,2022,OF
-Dillon Thomas ,Seattle Mariners,2022,OF
-Sam Travis ,Seattle Mariners,2022,1B
-Franklin Van Gurp ,Seattle Mariners,2022,RHP
-Logan Verrett ,Seattle Mariners,2022,RHP
-Zach Vincej ,Seattle Mariners,2022,IF
-Zack Weiss ,Seattle Mariners,2022,RHP
-Kyle Wilcox ,Seattle Mariners,2022,RHP
-Jantzen Witte ,Seattle Mariners,2022,3B
-Asher Wojciechowski ,Seattle Mariners,2022,RHP
-Stephen Wrenn ,Seattle Mariners,2022,OF
-Daniel Zamora ,Seattle Mariners,2022,LHP
-Chase Anderson ,Texas Rangers,2022,RHP
-Blake Bass ,Texas Rangers,2022,RHP
-Wes Benjamin ,Texas Rangers,2022,LHP
-Buck Farmer ,Texas Rangers,2022,RHP
-Joe Gatto ,Texas Rangers,2022,RHP
-Pedro Gonzalez ,Texas Rangers,2022,OF
-Trey Hair ,Texas Rangers,2022,2B
-Elier Hernandez ,Texas Rangers,2022,OF
-John Hicks ,Texas Rangers,2022,C
-David Kubiak ,Texas Rangers,2022,RHP
-Jake Lemoine ,Texas Rangers,2022,RHP
-Domingo Leyba ,Texas Rangers,2022,2B
-Jesus Linarez ,Texas Rangers,2022,RHP
-Trace Loehr ,Texas Rangers,2022,SS
-Justin Marsden ,Texas Rangers,2022,RHP
-Sal Mendez ,Texas Rangers,2022,LHP
-Melvin Novoa ,Texas Rangers,2022,C
-Luis Ortiz ,Texas Rangers,2022,RHP
-Jordan Procyshen ,Texas Rangers,2022,C
-Isaias Quiroz ,Texas Rangers,2022,C
-Anderson Tejeda ,Texas Rangers,2022,SS
-Curtis Terry ,Texas Rangers,2022,1B
-Jared Walker ,Texas Rangers,2022,3B
-Collin Wiles ,Texas Rangers,2022,RHP
+Brock Stassi,Philadelphia Phillies,2022,1B
+Charlie Tilson,Philadelphia Phillies,2022,OF
+Aneurys Zabala,Philadelphia Phillies,2022,RHP
+Alex Aquino,Pittsburgh Pirates,2022,RHP
+Tyler Bashlor,Pittsburgh Pirates,2022,RHP
+Christian Bethancourt,Pittsburgh Pirates,2022,C
+Chase Dejong,Pittsburgh Pirates,2022,RHP
+Raul Hernandez,Pittsburgh Pirates,2022,C
+Kyle Keller,Pittsburgh Pirates,2022,RHP
+Nathan Kirby,Pittsburgh Pirates,2022,LHP
+James Marvel,Pittsburgh Pirates,2022,RHP
+Oddy Nunez,Pittsburgh Pirates,2022,LHP
+Connor Overton,Pittsburgh Pirates,2022,RHP
+Shea Spitzbarth,Pittsburgh Pirates,2022,RHP
+Andrew Susac,Pittsburgh Pirates,2022,C
+Fabian Blanco,St. Louis Cardinals,2022,LHP
+Leandro Cedeno,St. Louis Cardinals,2022,OF
+Diego Cordero,St. Louis Cardinals,2022,LHP
+Salvador Justo,St. Louis Cardinals,2022,RHP
+Max Moroff,St. Louis Cardinals,2022,3B
+Dennis Ortega,St. Louis Cardinals,2022,C
+Ian Oxnevad,St. Louis Cardinals,2022,LHP
+Nick Plummer,St. Louis Cardinals,2022,OF
+Ramon Santos,St. Louis Cardinals,2022,RHP
+Jacob Schlesener,St. Louis Cardinals,2022,LHP
+Justin Williams,St. Louis Cardinals,2022,OF
+John Andreoli,San Diego Padres,2022,OF
+Joe Beimel,San Diego Padres,2022,LHP
+Aaron Brooks,San Diego Padres,2022,RHP
+Daniel Camarena,San Diego Padres,2022,LHP
+Ivan Castillo,San Diego Padres,2022,2B
+Allen Cordoba,San Diego Padres,2022,SS
+Miguel Diaz,San Diego Padres,2022,RHP
+Brady Feigl,San Diego Padres,2022,LHP
+Pedro Florimon,San Diego Padres,2022,SS
+Jordan Humphreys,San Diego Padres,2022,RHP
+Gosuke Katoh,San Diego Padres,2022,2B
+Jerry Keel,San Diego Padres,2022,LHP
+Patrick Kivlehan,San Diego Padres,2022,OF
+Kyle Overstreet,San Diego Padres,2022,C
+Alex Powers,San Diego Padres,2022,RHP
+James Reeves,San Diego Padres,2022,LHP
+Webster Rivas,San Diego Padres,2022,C
+Wynston Sawyer,San Diego Padres,2022,C
+Austin Smith,San Diego Padres,2022,RHP
+Tyler Viza,San Diego Padres,2022,RHP
+Luke Westphal,San Diego Padres,2022,LHP
+Arismendy Alcantara,San Francisco Giants,2022,UTL
+Daniel Alvarez,San Francisco Giants,2022,RHP
+Luis Amaya,San Francisco Giants,2022,LHP
+Andres Angulo,San Francisco Giants,2022,C
+Luis Alexander Basabe,San Francisco Giants,2022,OF
+Braden Bishop,San Francisco Giants,2022,OF
+Aaron Blair,San Francisco Giants,2022,RHP
+Silvino Bracho,San Francisco Giants,2022,RHP
+Tyler Cyr,San Francisco Giants,2022,RHP
+Sandro Fabian,San Francisco Giants,2022,OF
+Ronnie Freeman,San Francisco Giants,2022,C
+Gerson Garabito,San Francisco Giants,2022,RHP
+Rico Garcia,San Francisco Giants,2022,RHP
+Ryan Halstead,San Francisco Giants,2022,RHP
+Jasier Herrera,San Francisco Giants,2022,RHP
+Trevor Hildenberger,San Francisco Giants,2022,RHP
+Jason Krizan,San Francisco Giants,2022,OF
+Peter Maris,San Francisco Giants,2022,3B
+Bruce Maxwell,San Francisco Giants,2022,C
+Joe McCarthy,San Francisco Giants,2022,OF
+Akeel Morris,San Francisco Giants,2022,RHP
+Logan Ondrusek,San Francisco Giants,2022,RHP
+Phil Pfeifer,San Francisco Giants,2022,LHP
+Drew Robinson,San Francisco Giants,2022,UTL
+Matt Shoemaker,San Francisco Giants,2022,RHP
+Mitchell Tolman,San Francisco Giants,2022,2B
+Jesus Tona,San Francisco Giants,2022,RHP
+Bryan Torres,San Francisco Giants,2022,C
+Raffi Vizcaino,San Francisco Giants,2022,RHP
+Sam Wolff,San Francisco Giants,2022,RHP
+Mike Ahmed,Seattle Mariners,2022,IF
+Jake Bauers,Seattle Mariners,2022,1B
+A.J. Bumpass,Seattle Mariners,2022,OF
+Jordan Cowan,Seattle Mariners,2022,SS
+Nick Duron,Seattle Mariners,2022,RHP
+Nate Fisher,Seattle Mariners,2022,LHP
+Darin Gillies,Seattle Mariners,2022,RHP
+Moises Gomez,Seattle Mariners,2022,RHP
+Justin Grimm,Seattle Mariners,2022,RHP
+Alen Hanson,Seattle Mariners,2022,SS
+Eric Jones,Seattle Mariners,2022,C
+Caleb Joseph,Seattle Mariners,2022,C
+Anthony Lepre,Seattle Mariners,2022,C
+Luis Liberato,Seattle Mariners,2022,OF
+Shed Long,Seattle Mariners,2022,2B
+Ian McKinney,Seattle Mariners,2022,LHP
+Steven Moyers,Seattle Mariners,2022,LHP
+Fausto Pediet,Seattle Mariners,2022,RHP
+Matt Pierpont,Seattle Mariners,2022,RHP
+Jack Reinheimer,Seattle Mariners,2022,SS
+Alejandro Requena,Seattle Mariners,2022,RHP
+Joseph Rosa,Seattle Mariners,2022,SS
+Brian Schlitter,Seattle Mariners,2022,RHP
+Kennie Taylor,Seattle Mariners,2022,OF
+Dillon Thomas,Seattle Mariners,2022,OF
+Sam Travis,Seattle Mariners,2022,1B
+Franklin Van Gurp,Seattle Mariners,2022,RHP
+Logan Verrett,Seattle Mariners,2022,RHP
+Zach Vincej,Seattle Mariners,2022,IF
+Zack Weiss,Seattle Mariners,2022,RHP
+Kyle Wilcox,Seattle Mariners,2022,RHP
+Jantzen Witte,Seattle Mariners,2022,3B
+Asher Wojciechowski,Seattle Mariners,2022,RHP
+Stephen Wrenn,Seattle Mariners,2022,OF
+Daniel Zamora,Seattle Mariners,2022,LHP
+Chris Betts,Tampa Bay Rays,2022,C
+Jordan Brink,Tampa Bay Rays,2022,RHP
+Angel Felipe,Tampa Bay Rays,2022,RHP
+David Freitas,Tampa Bay Rays,2022,C
+D,Tampa Bay Rays,2022,RHP
+Johnson,Tampa Bay Rays,2022,J
+Dalton Kelly,Tampa Bay Rays,2022,1B
+Nathan Lukes,Tampa Bay Rays,2022,OF
+Chris Mazza,Tampa Bay Rays,2022,RHP
+Luis Moncada,Tampa Bay Rays,2022,LHP
+Brian Moran,Tampa Bay Rays,2022,LHP
+Brett Sullivan,Tampa Bay Rays,2022,C
+Garrett Whitley,Tampa Bay Rays,2022,OF
+Ezequiel Zabaleta,Tampa Bay Rays,2022,RHP
+Chase Anderson,Texas Rangers,2022,RHP
+Blake Bass,Texas Rangers,2022,RHP
+Wes Benjamin,Texas Rangers,2022,LHP
+Buck Farmer,Texas Rangers,2022,RHP
+Joe Gatto,Texas Rangers,2022,RHP
+Pedro Gonzalez,Texas Rangers,2022,OF
+Trey Hair,Texas Rangers,2022,2B
+Elier Hernandez,Texas Rangers,2022,OF
+John Hicks,Texas Rangers,2022,C
+David Kubiak,Texas Rangers,2022,RHP
+Jake Lemoine,Texas Rangers,2022,RHP
+Domingo Leyba,Texas Rangers,2022,2B
+Jesus Linarez,Texas Rangers,2022,RHP
+Trace Loehr,Texas Rangers,2022,SS
+Justin Marsden,Texas Rangers,2022,RHP
+Sal Mendez,Texas Rangers,2022,LHP
+Melvin Novoa,Texas Rangers,2022,C
+Luis Ortiz,Texas Rangers,2022,RHP
+Jordan Procyshen,Texas Rangers,2022,C
+Isaias Quiroz,Texas Rangers,2022,C
+Anderson Tejeda,Texas Rangers,2022,SS
+Curtis Terry,Texas Rangers,2022,1B
+Jared Walker,Texas Rangers,2022,3B
+Collin Wiles,Texas Rangers,2022,RHP
+John Barbato,Toronto Blue Jays,2022,RHP
+Christian Colon,Toronto Blue Jays,2022,2B
+Juan De Paula,Toronto Blue Jays,2022,RHP
+James Dykstra,Toronto Blue Jays,2022,RHP
+Juan Graterol,Toronto Blue Jays,2022,C
+Andres Guerra,Toronto Blue Jays,2022,C
+Hobie Harris,Toronto Blue Jays,2022,RHP
+Jon Harris,Toronto Blue Jays,2022,RHP
+Jommer Hernandez,Toronto Blue Jays,2022,C
+Reilly Hovis,Toronto Blue Jays,2022,RHP
+Nash Knight,Toronto Blue Jays,2022,UTL
+Casey Lawrence,Toronto Blue Jays,2022,RHP
+Justin Maese,Toronto Blue Jays,2022,RHP
+Demi Orimoloye,Toronto Blue Jays,2022,OF
+Gregory Polanco,Toronto Blue Jays,2022,OF
+Reggie Pruitt,Toronto Blue Jays,2022,OF
+Mallex Smith,Toronto Blue Jays,2022,OF
+Richard Urena,Toronto Blue Jays,2022,SS
+Kevin Vicuna,Toronto Blue Jays,2022,SS
+Rodrigo Vigil,Toronto Blue Jays,2022,C
+Jacob Waguespack,Toronto Blue Jays,2022,RHP
+Forrest Wall,Toronto Blue Jays,2022,OF
+Tyler White,Toronto Blue Jays,2022,1B
+Tomas Alastre,Washington Nationals,2022,RHP
+Humberto Arteaga,Washington Nationals,2022,SS
+Dakota Bacus,Washington Nationals,2022,RHP
+Joan Baez,Washington Nationals,2022,RHP
+Aaron Barrett,Washington Nationals,2022,RHP
+Rafael Bautista,Washington Nationals,2022,OF
+Bryan Bonnell,Washington Nationals,2022,RHP
+Ali Castillo,Washington Nationals,2022,SS
+Aldrem Corredor,Washington Nationals,2022,OF
+Bryan Dobzanski,Washington Nationals,2022,RHP
+Osvaldo Duarte,Washington Nationals,2022,SS
+Steven Fuentes,Washington Nationals,2022,RHP
+Destin Hood,Washington Nationals,2022,OF
+Kyle McGowin,Washington Nationals,2022,RHP
+Pearson McMahan,Washington Nationals,2022,RHP
+Diego Moreno,Washington Nationals,2022,RHP
+Carlos Navas,Washington Nationals,2022,RHP
+Daniel Palka,Washington Nationals,2022,OF
+Juan Paulino,Washington Nationals,2022,C
+Ronald Pena,Washington Nationals,2022,RHP
+Raudy Read,Washington Nationals,2022,C
+Jakson Reetz,Washington Nationals,2022,C
+Luis Reyes,Washington Nationals,2022,RHP
+Jefry Rodriguez,Washington Nationals,2022,RHP
+Ian Sagdal,Washington Nationals,2022,SS
+Mario Sanchez,Washington Nationals,2022,RHP
+Nick Wells,Washington Nationals,2022,LHP
+Rhett Wiseman,Washington Nationals,2022,OF

@@ -50,11 +50,9 @@ for team in list_of_comb_teams:
     team_name = regex.search(find_teams, team)
     players = [{'player_name':player_name, 'position':position} for position, player_name, _ in player_matches]
     for player in players:
-        all_players.append({'player_name': player['player_name'], 'team': team_name.group(0).strip(), 'fa_class': 2022, 
+        all_players.append({'player_name': player['player_name'].strip(), 'team': team_name.group(0).strip(), 'fa_class': 2022, 
                             'position': player['position']})
 
 df = pl.DataFrame(data=all_players)
 
-#df.write_csv('../files/free_agents/fas_22.csv')
-teams = pl.DataFrame(df['team'].unique(maintain_order=True))
-teams.write_csv('teams_check_22.csv')
+df.write_csv('../files/free_agents/fas_22.csv')
