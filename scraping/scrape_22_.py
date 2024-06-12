@@ -1,13 +1,12 @@
 '''
 This code scrapes archived versions of Baseball America Minor League Free Agent
-lists published from 2019 (reflecting free agents available for the following season).
+lists published from 2021 to ___reflecting free agents available for the following season).
 
 The code returns a DataFrame with the following columns:
 -Player Name
 -Team (most recently played for)
 -Free agent class
 -Position
--Minor League Level (as listed by BA)
 '''
 
 import requests
@@ -17,10 +16,9 @@ import polars as pl
 
 # Define the regex patterns 
 find_teams = r'\w+?\.?\s\w+\s?(Royals|Dodgers|Angel|Angels|Mets|Yankees|Padres|Giants|Cardinals|Cadinals|Jays|Sox|Rays)?\s?'
-find_players_by_position = r'([A-Z0-9]+):\s*([^:]+?(?=\s*[A-Z0-9]+:|\s*$))'
-find_player = r'(.+?)\s*\((.+?)\)'
+find_players_by_position = r'([A-Z0-9]{1,3}) ([A-Za-z\. ]+?)(?=([A-Z0-9]{1,3}) |$)'
 
-webpage = 'https://www.baseballamerica.com/stories/minor-league-free-agents-2019/'
+webpage = 'https://www.baseballamerica.com/stories/2021-22-minor-league-free-agents-for-all-30-mlb-teams/'
 
 #Create empty list
 all_players = []
@@ -47,26 +45,16 @@ for team_idx in list_of_idxs:
     full_string = ' '.join(article_body_clean[team_idx:team_idx + 2])
     list_of_comb_teams.append(full_string)
 
-teams = []
-
 for team in list_of_comb_teams:
     player_matches = regex.findall(find_players_by_position, team)
     team_name = regex.search(find_teams, team)
-    teams.append(team_name)
-    for position, players in player_matches:
-        player_list = players.split(", ")
-        for player in player_list:
-            match = regex.match(find_player, player)
-            if match:
-                player_team = team_name.group(0).strip()
-                player_name = match.group(1).strip()
-                player_level = match.group(2).strip()
-                all_players.append({'player_name': player_name, 'team': player_team, 'fa_class': 2020, 
-                                    'position': position, 'minor_league_level': player_level})
-                
-df = pl.DataFrame(data=all_players) 
+    players = [{'player_name':player_name, 'position':position} for position, player_name, _ in player_matches]
+    for player in players:
+        all_players.append({'player_name': player['player_name'], 'team': team_name.group(0).strip(), 'fa_class': 2022, 
+                            'position': player['position']})
 
-#df.write_csv('../files/free_agents/fas_20_.csv')
+df = pl.DataFrame(data=all_players)
 
+#df.write_csv('../files/free_agents/fas_22.csv')
 teams = pl.DataFrame(df['team'].unique(maintain_order=True))
-teams.write_csv('teams_check_20.csv')
+teams.write_csv('teams_check_22.csv')
