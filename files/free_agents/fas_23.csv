@@ -1,0 +1,579 @@
+player_name,team,fa_class,position
+Caleb Baragar,Arizona Diamondbacks,2023,LHP
+Leandro Cedeno,Arizona Diamondbacks,2023,OF
+Eduardo Diaz,Arizona Diamondbacks,2023,OF
+Grayson Greiner,Arizona Diamondbacks,2023,C
+Kenny Hernandez,Arizona Diamondbacks,2023,LHP
+Mack Lemieux,Arizona Diamondbacks,2023,LHP
+Drew Stankiewicz,Arizona Diamondbacks,2023,SS
+Cole Tucker,Arizona Diamondbacks,2023,RF
+Andy Yerzy,Arizona Diamondbacks,2023,C
+R.J. Alaniz,Atlanta Braves,2023,RHP
+Thomas Burrows,Atlanta Braves,2023,LHP
+Corbin Clouse,Atlanta Braves,2023,LHP
+Jordan Cowan,Atlanta Braves,2023,SS
+Jason Creasy,Atlanta Braves,2023,RHP
+Victor De Hoyos,Atlanta Braves,2023,C
+Isrrael De La Cruz,Atlanta Braves,2023,RHP
+Jasseel De La Cruz,Atlanta Braves,2023,RHP
+Delino DeShields Jr.,Atlanta Braves,2023,LF
+Tyler Ferguson,Atlanta Braves,2023,RHP
+Yariel Gonzalez,Atlanta Braves,2023,2B
+Odalvi Javier,Atlanta Braves,2023,RHP
+Landon Leach,Atlanta Braves,2023,RHP
+Justin Maese,Atlanta Braves,2023,RHP
+Jake Marisnick,Atlanta Braves,2023,CF
+Juan Mateo,Atlanta Braves,2023,RHP
+Jalen Miller,Atlanta Braves,2023,2B
+Taylor Motter,Atlanta Braves,2023,SS
+Hernan Perez,Atlanta Braves,2023,IF
+A.J. Puckett,Atlanta Braves,2023,RHP
+Jefrey Ramos,Atlanta Braves,2023,OF
+Zade Richardson,Atlanta Braves,2023,C
+Cesar Rodriguez,Atlanta Braves,2023,C
+Lisandro Santos,Atlanta Braves,2023,LHP
+Preston Tucker,Atlanta Braves,2023,RF
+Pat Valaika,Atlanta Braves,2023,2B
+Braulio Vasquez,Atlanta Braves,2023,SS
+Jacob Webb,Atlanta Braves,2023,RHP
+Tyler White,Atlanta Braves,2023,1B
+Andres Angulo,Baltimore Orioles,2023,C
+Brett Cumberland,Baltimore Orioles,2023,C
+Yusniel Diaz,Baltimore Orioles,2023,RF
+Rico Garcia,Baltimore Orioles,2023,RHP
+Chris Givin,Baltimore Orioles,2023,SS
+Brenan Hanifee,Baltimore Orioles,2023,RHP
+Matt Harvey,Baltimore Orioles,2023,RHP
+Louis Head,Baltimore Orioles,2023,RHP
+Jacob Nottingham,Baltimore Orioles,2023,C
+D.J. Stewart,Baltimore Orioles,2023,RF
+Alex Wells,Baltimore Orioles,2023,LHP
+Pedro Castellanos,Boston Red Sox,2023,OF
+Ricardo Cubillan,Boston Red Sox,2023,SS
+Deivy Grullon,Boston Red Sox,2023,C
+Kyle Hart,Boston Red Sox,2023,LHP
+Geoff Hartlieb,Boston Red Sox,2023,RHP
+Brian Keller,Boston Red Sox,2023,RHP
+Brett Kennedy,Boston Red Sox,2023,RHP
+Johan Mieses,Boston Red Sox,2023,OF
+James Norwood,Boston Red Sox,2023,RHP
+Jose Peraza,Boston Red Sox,2023,2B
+Hudson Potts,Boston Red Sox,2023,3B
+Sterling Sharp,Boston Red Sox,2023,RHP
+Caleb Simpson,Boston Red Sox,2023,RHP
+Christin Stewart,Boston Red Sox,2023,LF
+Izzy Wilson,Boston Red Sox,2023,OF
+Jose Albertos,Chicago Cubs,2023,RHP
+James Bourque,Chicago Cubs,2023,RHP
+Erick Castillo,Chicago Cubs,2023,C
+Kervin Castro,Chicago Cubs,2023,RHP
+Narciso Crook,Chicago Cubs,2023,RF
+Donnie Dewees,Chicago Cubs,2023,CF
+Anderson Espinoza,Chicago Cubs,2023,RHP
+Trent Giambrone,Chicago Cubs,2023,2B
+John Hicks,Chicago Cubs,2023,C
+Jonathan Holder,Chicago Cubs,2023,RHP
+Bryan Hudson,Chicago Cubs,2023,LHP
+Dakota Mekkes,Chicago Cubs,2023,RHP
+Alec Mills,Chicago Cubs,2023,RHP
+Tyler Payne,Chicago Cubs,2023,C
+C.D. Pelham,Chicago Cubs,2023,LHP
+Franmil Reyes,Chicago Cubs,2023,RF
+Carlos Sepulveda,Chicago Cubs,2023,IF
+Wyatt Short,Chicago Cubs,2023,LHP
+Jonathan Sierra,Chicago Cubs,2023,OF
+Matt Swarmer,Chicago Cubs,2023,RHP
+Dauris Valdez,Chicago Cubs,2023,RHP
+Harrison Wenson,Chicago Cubs,2023,C
+Brad Wieck,Chicago Cubs,2023,LHP
+Delvin Zinn,Chicago Cubs,2023,SS
+Angel Acevedo,Chicago White Sox,2023,RHP
+Micker Adolfo,Chicago White Sox,2023,RF
+Luis Amaya,Chicago White Sox,2023,LHP
+Skylar Arias,Chicago White Sox,2023,LHP
+Yoan Aybar,Chicago White Sox,2023,LHP
+Scott Blewett,Chicago White Sox,2023,RHP
+Nick Ciuffo,Chicago White Sox,2023,C
+Garrett Davila,Chicago White Sox,2023,LHP
+Xavier Fernandez,Chicago White Sox,2023,C
+Tyler Johnson,Chicago White Sox,2023,RHP
+Kyle Kubat,Chicago White Sox,2023,LHP
+Jhan Marinez,Chicago White Sox,2023,RHP
+Alejandro Mateo,Chicago White Sox,2023,RHP
+Harvin Mendoza,Chicago White Sox,2023,IF
+Luis Moncada,Chicago White Sox,2023,LHP
+Zack Muckenhirn,Chicago White Sox,2023,LHP
+Felix Paulino,Chicago White Sox,2023,RHP
+Zach Remillard,Chicago White Sox,2023,3B
+Franklin Reyes,Chicago White Sox,2023,1B
+Blake Rutherford,Chicago White Sox,2023,RF
+Anderson Severino,Chicago White Sox,2023,LHP
+Felipe Tejada,Chicago White Sox,2023,RHP
+Emilio Vargas,Chicago White Sox,2023,RHP
+Dan Winkler,Chicago White Sox,2023,RHP
+Mike Wright,Chicago White Sox,2023,RHP
+Ranser Amador,Cincinnati Reds,2023,IF
+Brandon Bailey,Cincinnati Reds,2023,RHP
+Parker Brahms,Cincinnati Reds,2023,RHP
+Lorenzo Cedrola,Cincinnati Reds,2023,OF
+Ronnie Dawson,Cincinnati Reds,2023,RF
+Michael De Leon,Cincinnati Reds,2023,SS
+Raynel Espinal,Cincinnati Reds,2023,RHP
+Isiah Gilliam,Cincinnati Reds,2023,OF
+Nick Hanson,Cincinnati Reds,2023,RHP
+Walker Lockett,Cincinnati Reds,2023,RHP
+Diomar Lopez,Cincinnati Reds,2023,RHP
+Deck McGuire,Cincinnati Reds,2023,RHP
+Miguel Medrano,Cincinnati Reds,2023,RHP
+Justin Nicolino,Cincinnati Reds,2023,LHP
+Pedro Payano,Cincinnati Reds,2023,RHP
+Julio Pinto,Cincinnati Reds,2023,RHP
+Stephen Piscotty,Cincinnati Reds,2023,RF
+Juniel Querecuto,Cincinnati Reds,2023,SS
+Leonardo Rivas,Cincinnati Reds,2023,SS
+Chuckie Robinson,Cincinnati Reds,2023,C
+Cristian Santana,Cincinnati Reds,2023,SS
+Trey Wingenter,Cincinnati Reds,2023,RHP
+Wilder Zapata,Cincinnati Reds,2023,RHP
+Trenton Brooks,Cleveland Guardians,2023,LF
+Raymond Burgos,Cleveland Guardians,2023,LHP
+Gavin Collins,Cleveland Guardians,2023,C
+Justin Garza,Cleveland Guardians,2023,RHP
+Ian Hamilton,Cleveland Guardians,2023,RHP
+Jonathan Lopez,Cleveland Guardians,2023,SS
+Oscar Mercado,Cleveland Guardians,2023,CF
+Juan Mota,Cleveland Guardians,2023,RHP
+Bryan Shaw,Cleveland Guardians,2023,RHP
+Mitchell Tolman,Cleveland Guardians,2023,2B
+Wynton Bernard,Colorado Rockies,2023,CF
+Bret Boswell,Colorado Rockies,2023,2B
+Logan Cozart,Colorado Rockies,2023,RHP
+Matt Dennis,Colorado Rockies,2023,RHP
+Frank Duncan,Colorado Rockies,2023,RHP
+Breiling Eusebio,Colorado Rockies,2023,LHP
+Brandon Gold,Colorado Rockies,2023,RHP
+Ashton Goudeau,Colorado Rockies,2023,RHP
+Nate Hadley,Colorado Rockies,2023,RHP
+J,Colorado Rockies,2023,RHP
+Hammer,Colorado Rockies,2023,D
+Tyler Hill,Colorado Rockies,2023,CF
+Zach Lee,Colorado Rockies,2023,RHP
+Tim Lopes,Colorado Rockies,2023,UTL
+Alexander Martinez,Colorado Rockies,2023,RHP
+Zach Neal,Colorado Rockies,2023,RHP
+Corey Oswalt,Colorado Rockies,2023,RHP
+Joel Peguero,Colorado Rockies,2023,RHP
+Carlos Perez,Colorado Rockies,2023,C
+D.J. Peterson,Colorado Rockies,2023,3B
+Riley Smith,Colorado Rockies,2023,RHP
+Taylor Snyder,Colorado Rockies,2023,SS
+Chase Barbary,Detroit Tigers,2023,C
+Nolan Blackwood,Detroit Tigers,2023,RHP
+Luis Camilo,Detroit Tigers,2023,LHP
+Luis Castillo,Detroit Tigers,2023,RHP
+Michael De La Cruz,Detroit Tigers,2023,C
+Bubba Derby,Detroit Tigers,2023,RHP
+J.T. Hintzen,Detroit Tigers,2023,RHP
+Tim Holdgrafer,Detroit Tigers,2023,RHP
+Zac Houston,Detroit Tigers,2023,RHP
+Sam Howard,Detroit Tigers,2023,LHP
+Jose King,Detroit Tigers,2023,SS
+Josh Lester,Detroit Tigers,2023,1B
+Jack Lopez,Detroit Tigers,2023,SS
+Gerson Moreno,Detroit Tigers,2023,RHP
+Joe Navilhon,Detroit Tigers,2023,RHP
+Jermaine Palacios,Detroit Tigers,2023,SS
+Daniel Ponce de Leon,Detroit Tigers,2023,RHP
+Chris Rabago,Detroit Tigers,2023,C
+Victor Reyes,Detroit Tigers,2023,CF
+Elvin Rodriguez,Detroit Tigers,2023,RHP
+Fraudy Rodriguez,Detroit Tigers,2023,C
+Cody Sedlock,Detroit Tigers,2023,RHP
+Markus Solbach,Detroit Tigers,2023,RHP
+Shea Spitzbarth,Detroit Tigers,2023,RHP
+Nick Vincent,Detroit Tigers,2023,RHP
+Jamie Westbrook,Detroit Tigers,2023,2B
+Jose Bravo,Houston Astros,2023,RHP
+Yeremi Ceballos,Houston Astros,2023,LHP
+Alex De Goti,Houston Astros,2023,SS
+Edwin Diaz,Houston Astros,2023,SS
+Chad Donato,Houston Astros,2023,RHP
+Freylin Garcia,Houston Astros,2023,RHP
+Nick Hernandez,Houston Astros,2023,RHP
+Scott Manea,Houston Astros,2023,C
+Colin McKee,Houston Astros,2023,RHP
+Christian Mejias,Houston Astros,2023,RHP
+Jon Olczak,Houston Astros,2023,RHP
+Nolan Riggs,Houston Astros,2023,RHP
+Andre Scrubb,Houston Astros,2023,RHP
+Jose Briceno,Kansas City Royals,2023,C
+Gabriel Cancel,Kansas City Royals,2023,SS
+Ivan Castillo,Kansas City Royals,2023,2B
+Seuly Matias,Kansas City Royals,2023,OF
+Jakson Reetz,Kansas City Royals,2023,C
+Andres Sotillet,Kansas City Royals,2023,RHP
+Gavin Stupienski,Kansas City Royals,2023,C
+Jace Vines,Kansas City Royals,2023,RHP
+Stephen Woods Jr,Kansas City Royals,2023,RHP
+Jose Adames,Los Angeles Dodgers,2023,RHP
+Yadier Alvarez,Los Angeles Dodgers,2023,RHP
+Abiatal Avelino,Los Angeles Dodgers,2023,SS
+Andrew Burns,Los Angeles Dodgers,2023,3B
+Parker Curry,Los Angeles Dodgers,2023,RHP
+Jon Duplantier,Los Angeles Dodgers,2023,RHP
+Omar Estevez,Los Angeles Dodgers,2023,2B
+Sam Gaviglio,Los Angeles Dodgers,2023,RHP
+Keone Kela,Los Angeles Dodgers,2023,RHP
+Hamlet Marte,Los Angeles Dodgers,2023,C
+Jason Martin,Los Angeles Dodgers,2023,LF
+Hansel Robles,Los Angeles Dodgers,2023,RHP
+Stefen Romero,Los Angeles Dodgers,2023,RF
+Tomas Telis,Los Angeles Dodgers,2023,C
+Leonel Valera,Los Angeles Dodgers,2023,SS
+Tony Wolters,Los Angeles Dodgers,2023,C
+Daniel Zamora,Los Angeles Dodgers,2023,LHP
+Guillermo Zuniga,Los Angeles Dodgers,2023,RHP
+Jonathan Aro,Los Angeles Angel,2023,RHP
+B.J. Boyd,Los Angeles Angel,2023,CF
+Ty Buttrey,Los Angeles Angel,2023,RHP
+Grant Dayton,Los Angeles Angel,2023,LHP
+Pedro Diaz,Los Angeles Angel,2023,OF
+Colby Fitch,Los Angeles Angel,2023,C
+Jake Gatewood,Los Angeles Angel,2023,1B
+Jose Gomez,Los Angeles Angel,2023,IF
+Torii Hunter Jr.,Los Angeles Angel,2023,CF
+Jake Kalish,Los Angeles Angel,2023,LHP
+Jack Mayfield,Los Angeles Angel,2023,3B
+Sean McLaughlin,Los Angeles Angel,2023,RHP
+Cristopher Molina,Los Angeles Angel,2023,RHP
+Jake Palomaki,Los Angeles Angel,2023,2B
+Carlos Reina,Los Angeles Angel,2023,C
+Gerardo Reyes,Los Angeles Angel,2023,RHP
+Kean Wong,Los Angeles Angel,2023,2B
+Edwin Yon,Los Angeles Angel,2023,OF
+Luis Aviles,Miami Marlins,2023,SS
+Dylan Bice,Miami Marlins,2023,RHP
+Bryson Brigman,Miami Marlins,2023,SS
+Raul Brito,Miami Marlins,2023,RHP
+Parker Bugg,Miami Marlins,2023,RHP
+Tommy Eveld,Miami Marlins,2023,RHP
+Erik Gonzalez,Miami Marlins,2023,SS
+Jordan Holloway,Miami Marlins,2023,RHP
+Thomas Jones,Miami Marlins,2023,OF
+Matt Kent,Miami Marlins,2023,LHP
+A.J. Ladwig,Miami Marlins,2023,RHP
+Ryan Lavarnway,Miami Marlins,2023,C
+Bryan Mitchell,Miami Marlins,2023,RHP
+Cody Poteet,Miami Marlins,2023,RHP
+Josh Rogers,Miami Marlins,2023,LHP
+Jesus Sanchez,Miami Marlins,2023,RHP
+Christopher Torres,Miami Marlins,2023,SS
+Zack Brown,Milwaukee Brewers,2023,RHP
+Yeison Coca,Milwaukee Brewers,2023,SS
+Hobie Harris,Milwaukee Brewers,2023,RHP
+Matt Lipka,Milwaukee Brewers,2023,CF
+Carlos Luna,Milwaukee Brewers,2023,RHP
+Antonio Pinero,Milwaukee Brewers,2023,SS
+Corey Ray,Milwaukee Brewers,2023,CF
+Pablo Reyes,Milwaukee Brewers,2023,2B
+Miguel Sanchez,Milwaukee Brewers,2023,RHP
+Garrett Whitley,Milwaukee Brewers,2023,CF
+Weston Wilson,Milwaukee Brewers,2023,UTL
+Melvi Acosta,Minnesota Twins,2023,RHP
+John Andreoli,Minnesota Twins,2023,RF
+Braden Bishop,Minnesota Twins,2023,LF
+Jose Brito,Minnesota Twins,2023,RHP
+Leobaldo Cabrera,Minnesota Twins,2023,RF
+Jair Camargo,Minnesota Twins,2023,C
+Zach Featherstone,Minnesota Twins,2023,LHP
+Michael Feliz,Minnesota Twins,2023,RHP
+Daniel Gossett,Minnesota Twins,2023,RHP
+Zach Huffins,Minnesota Twins,2023,CF
+Wander Javier,Minnesota Twins,2023,SS
+Ariel Jurado,Minnesota Twins,2023,RHP
+Steven Klimek,Minnesota Twins,2023,RHP
+Nash Knight,Minnesota Twins,2023,2B
+Bobby Milacki,Minnesota Twins,2023,RHP
+Roy Morales,Minnesota Twins,2023,C
+Matt Mullenbach,Minnesota Twins,2023,RHP
+Brad Peacock,Minnesota Twins,2023,RHP
+Samuel Perez,Minnesota Twins,2023,LHP
+Luis Rijo,Minnesota Twins,2023,RHP
+Orlando Rodriguez,Minnesota Twins,2023,RHP
+Jhon Romero,Minnesota Twins,2023,RHP
+Mario Sanchez,Minnesota Twins,2023,RHP
+Chance Sisco,Minnesota Twins,2023,C
+Cole Sturgeon,Minnesota Twins,2023,OF
+Hunter Wood,Minnesota Twins,2023,RHP
+Manuel Alvarez,New York Mets,2023,RHP
+Raul Beracierta,New York Mets,2023,LF
+Travis Blankenhorn,New York Mets,2023,2B
+Garrison Bryant,New York Mets,2023,RHP
+Oscar Campos,New York Mets,2023,C
+Sam Clay,New York Mets,2023,LHP
+Jose Colina,New York Mets,2023,C
+Nick Dini,New York Mets,2023,C
+Nate Fisher,New York Mets,2023,LHP
+Harol Gonzalez,New York Mets,2023,RHP
+Connor Grey,New York Mets,2023,RHP
+Gregory Guerrero,New York Mets,2023,SS
+Tom Hackimer,New York Mets,2023,RHP
+Travis Jankowski,New York Mets,2023,RF
+Adonis Medina,New York Mets,2023,RHP
+Jose Mena,New York Mets,2023,C
+Mike Montgomery,New York Mets,2023,LHP
+Shervyen Newton,New York Mets,2023,SS
+Carlos Ocampo,New York Mets,2023,RHP
+Michel Otanez,New York Mets,2023,RHP
+Daniel Palka,New York Mets,2023,RF
+Michael Perez,New York Mets,2023,C
+Nick Plummer,New York Mets,2023,LF
+Wilmer Reyes,New York Mets,2023,SS
+Carlos Rincon,New York Mets,2023,LF
+Jose Rodriguez,New York Mets,2023,RHP
+Antonio Santos,New York Mets,2023,RHP
+Jesus Vargas,New York Mets,2023,RHP
+Jordan Yamamoto,New York Mets,2023,RHP
+Joe Zanghi,New York Mets,2023,RHP
+Armando Alvarez,New York Yankees,2023,3B
+Jake Bauers,New York Yankees,2023,1B
+Michael Beltre,New York Yankees,2023,OF
+Matt Bowman,New York Yankees,2023,RHP
+Rob Brantly,New York Yankees,2023,C
+Braden Bristo,New York Yankees,2023,RHP
+Wellington Diaz,New York Yankees,2023,RHP
+Derek Dietrich,New York Yankees,2023,2B
+Tyler Duffey,New York Yankees,2023,RHP
+Rodolfo Duran,New York Yankees,2023,C
+Carlos Espinal,New York Yankees,2023,RHP
+Phillip Evans,New York Yankees,2023,3B
+Wilkerman Garcia,New York Yankees,2023,SS
+Shane Greene,New York Yankees,2023,RHP
+Ryan LaMarre,New York Yankees,2023,LF
+Nolan Martinez,New York Yankees,2023,RHP
+Reggie McClain,New York Yankees,2023,RHP
+Max McDowell,New York Yankees,2023,C
+Jose Mujica,New York Yankees,2023,RHP
+Chris Owings,New York Yankees,2023,OF
+Blake Perkins,New York Yankees,2023,CF
+Emmanuel Ramirez,New York Yankees,2023,RHP
+Richard Rodriguez,New York Yankees,2023,RHP
+Chasen Shreve,New York Yankees,2023,LHP
+Saul Torres,New York Yankees,2023,C
+Skye Bolt,Oakland Athletics,2023,CF
+Aaron Brown,Oakland Athletics,2023,LHP
+Wandisson Charles,Oakland Athletics,2023,RHP
+Ty Damron,Oakland Athletics,2023,LHP
+Vince Fernandez,Oakland Athletics,2023,OF
+Nick Highberger,Oakland Athletics,2023,RHP
+Brent Honeywell Jr,Oakland Athletics,2023,RHP
+Angello Infante,Oakland Athletics,2023,RHP
+Dalton Kelly,Oakland Athletics,2023,1B
+Jake Lemoine,Oakland Athletics,2023,RHP
+Gabriel Maciel,Oakland Athletics,2023,CF
+Billy McKinney,Oakland Athletics,2023,RF
+Matt Milburn,Oakland Athletics,2023,RHP
+Nate Mondou,Oakland Athletics,2023,2B
+Sheldon Neuse,Oakland Athletics,2023,2B
+Chester Pimentel,Oakland Athletics,2023,RHP
+Dalton Sawyer,Oakland Athletics,2023,LHP
+Sam Selman,Oakland Athletics,2023,LHP
+Domingo Tapia,Oakland Athletics,2023,RHP
+Beau Taylor,Oakland Athletics,2023,C
+Collin Wiles,Oakland Athletics,2023,RHP
+Mark Appel,Philadelphia Phillies,2023,RHP
+Trevor Bettencourt,Philadelphia Phillies,2023,RHP
+Jorge Bonifacio,Philadelphia Phillies,2023,RF
+Daniel Brito,Philadelphia Phillies,2023,IF
+Andrew Brown,Philadelphia Phillies,2023,RHP
+Ali Castillo,Philadelphia Phillies,2023,SS
+Joel Cesar,Philadelphia Phillies,2023,RHP
+Aldrem Corredor,Philadelphia Phillies,2023,1B
+Nick Duron,Philadelphia Phillies,2023,RHP
+Kent Emanuel,Philadelphia Phillies,2023,LHP
+Jace Fry,Philadelphia Phillies,2023,LHP
+Ofreidy Gomez,Philadelphia Phillies,2023,RHP
+Jonathan Guzman,Philadelphia Phillies,2023,SS
+Jonathan Hennigan,Philadelphia Phillies,2023,LHP
+James Marvel,Philadelphia Phillies,2023,RHP
+Yairo Munoz,Philadelphia Phillies,2023,3B
+Josh Ockimey,Philadelphia Phillies,2023,1B
+Braeden Ogle,Philadelphia Phillies,2023,LHP
+Dustin Peterson,Philadelphia Phillies,2023,LF
+Wendell Rijo,Philadelphia Phillies,2023,2B
+Daniel Robertson,Philadelphia Phillies,2023,2B
+Bubby Rossman,Philadelphia Phillies,2023,RHP
+Chris Sharpe,Philadelphia Phillies,2023,CF
+Ryan Sherriff,Philadelphia Phillies,2023,LHP
+Josh Stephen,Philadelphia Phillies,2023,OF
+Kevin Vicuna,Philadelphia Phillies,2023,SS
+Justin Williams,Philadelphia Phillies,2023,RF
+Zack Collins,Pittsburgh Pirates,2023,C
+Matt Eckelman,Pittsburgh Pirates,2023,RHP
+Oliver Garcia,Pittsburgh Pirates,2023,RHP
+Travis MacGregor,Pittsburgh Pirates,2023,RHP
+Drew Maggi,Pittsburgh Pirates,2023,2B
+Zach Matson,Pittsburgh Pirates,2023,LHP
+Hunter Owen,Pittsburgh Pirates,2023,RF
+Kevin Padlo,Pittsburgh Pirates,2023,1B
+Eric Stout,Pittsburgh Pirates,2023,LHP
+Carlos Belen,San Diego Padres,2023,RHP
+Heath Fillmyer,San Diego Padres,2023,RHP
+Grant Gavin,San Diego Padres,2023,RHP
+Henry Henry,San Diego Padres,2023,RHP
+C.J. Hinojosa,San Diego Padres,2023,SS
+Reinaldo Ilarraza,San Diego Padres,2023,2B
+Connor Kaiser,San Diego Padres,2023,SS
+Brandon Kintzler,San Diego Padres,2023,RHP
+Domingo Leyba,San Diego Padres,2023,2B
+Kyle Martin,San Diego Padres,2023,1B
+Kelvin Melean,San Diego Padres,2023,SS
+Evan Miller,San Diego Padres,2023,RHP
+Thomas Milone,San Diego Padres,2023,CF
+Jacob Nix,San Diego Padres,2023,RHP
+Webster Rivas,San Diego Padres,2023,C
+Jesse Scholtens,San Diego Padres,2023,RHP
+Ethan Skender,San Diego Padres,2023,2B
+Matt Swilley,San Diego Padres,2023,RHP
+Luke Westphal,San Diego Padres,2023,LHP
+Fernando Abad,Seattle Mariners,2023,LHP
+Kyle Bird,Seattle Mariners,2023,LHP
+Ryan Borucki,Seattle Mariners,2023,LHP
+David Ellingson,Seattle Mariners,2023,RHP
+Taylor Featherston,Seattle Mariners,2023,SS
+Michael Flynn,Seattle Mariners,2023,RHP
+Dariel Gomez,Seattle Mariners,2023,1B
+Zach Green,Seattle Mariners,2023,3B
+Derek Hill,Seattle Mariners,2023,CF
+Rodney Hutchison,Seattle Mariners,2023,RHP
+Connor Jones,Seattle Mariners,2023,RHP
+Rob Kaminsky,Seattle Mariners,2023,LHP
+Chris Mazza,Seattle Mariners,2023,RHP
+Erick Mejia,Seattle Mariners,2023,OF
+Jake Miednik,Seattle Mariners,2023,LHP
+Tommy Milone,Seattle Mariners,2023,LHP
+Cameron Ming,Seattle Mariners,2023,LHP
+Mike Mokma,Seattle Mariners,2023,RHP
+Josh Morgan,Seattle Mariners,2023,SS
+Colby Morris,Seattle Mariners,2023,RHP
+Nick Ramirez,Seattle Mariners,2023,LHP
+Joe Rizzo,Seattle Mariners,2023,3B
+Casey Sadler,Seattle Mariners,2023,RHP
+Braden Shipley,Seattle Mariners,2023,RHP
+Jackson Sigman,Seattle Mariners,2023,RHP
+Riley Unroe,Seattle Mariners,2023,SS
+Phillips Valdez,Seattle Mariners,2023,RHP
+Rodrigo Vigil,Seattle Mariners,2023,C
+Jonathan Villar,Seattle Mariners,2023,2B
+Fran Visamon,Seattle Mariners,2023,RHP
+Konner Wade,Seattle Mariners,2023,RHP
+Forrest Wall,Seattle Mariners,2023,OF
+Austin Warner,Seattle Mariners,2023,LHP
+Patrick Weigel,Seattle Mariners,2023,RHP
+Blake Weiman,Seattle Mariners,2023,LHP
+Taylor Williams,Seattle Mariners,2023,RHP
+Abel Adames,San Francisco Giants,2023,RHP
+Ben Bowden,San Francisco Giants,2023,LHP
+Jake Dahlberg,San Francisco Giants,2023,LHP
+Enmanuel De Jesus,San Francisco Giants,2023,LHP
+Ricardo Genoves,San Francisco Giants,2023,C
+Norwith Gudino,San Francisco Giants,2023,RHP
+Jacob Heyward,San Francisco Giants,2023,LF
+Taylor Jones,San Francisco Giants,2023,1B
+Jason Krizan,San Francisco Giants,2023,1B
+Zack Littell,San Francisco Giants,2023,RHP
+Patrick Mazeika,San Francisco Giants,2023,C
+Ofelky Peralta,San Francisco Giants,2023,RHP
+Jhonny Pereda,San Francisco Giants,2023,C
+Diego Rincones,San Francisco Giants,2023,RF
+Ronnie Williams,San Francisco Giants,2023,RHP
+Austin Allen,St. Louis Cardinals,2023,C
+Roberto Baldoquin,St. Louis Cardinals,2023,SS
+Jacob Bosiokovic,St. Louis Cardinals,2023,RHP
+Clint Coulter,St. Louis Cardinals,2023,OF
+Zach McAllister,St. Louis Cardinals,2023,RHP
+T.J. McFarland,St. Louis Cardinals,2023,LHP
+Ljay Newsome,St. Louis Cardinals,2023,RHP
+Delvin Perez,St. Louis Cardinals,2023,SS
+Tyler Pike,St. Louis Cardinals,2023,LHP
+Johan Quezada,St. Louis Cardinals,2023,RHP
+Domingo Robles,St. Louis Cardinals,2023,LHP
+Julio Rodriguez,St. Louis Cardinals,2023,C
+Enrique Saldana,St. Louis Cardinals,2023,RHP
+Cory Spangenberg,St. Louis Cardinals,2023,3B
+Brady Whalen,St. Louis Cardinals,2023,1B
+Garrett Williams,St. Louis Cardinals,2023,LHP
+Roberto Alvarez,Tampa Bay Rays,2023,C
+Ralph Garza,Tampa Bay Rays,2023,RHP
+Jim Haley,Tampa Bay Rays,2023,3B
+Joe Hudson,Tampa Bay Rays,2023,DH
+Luis Leon,Tampa Bay Rays,2023,C
+Dalton Moats,Tampa Bay Rays,2023,LHP
+Angel Perdomo,Tampa Bay Rays,2023,LHP
+Nathan Perry,Tampa Bay Rays,2023,C
+Cody Reed,Tampa Bay Rays,2023,LHP
+David Rodriguez,Tampa Bay Rays,2023,C
+Aaron Slegers,Tampa Bay Rays,2023,RHP
+Jeremy Walker,Tampa Bay Rays,2023,RHP
+Jimmy Yacabonis,Tampa Bay Rays,2023,RHP
+Justin Anderson,Texas Rangers,2023,RHP
+Miguel Aparicio,Texas Rangers,2023,CF
+Sherten Apostel,Texas Rangers,2023,3B
+Jean Casanova,Texas Rangers,2023,RHP
+Scott Engler,Texas Rangers,2023,RHP
+DeMarcus Evans,Texas Rangers,2023,RHP
+Sandro Fabian,Texas Rangers,2023,RF
+David Garcia,Texas Rangers,2023,C
+Kelvin Gonzalez,Texas Rangers,2023,RHP
+Kevin Gowdy,Texas Rangers,2023,RHP
+Elier Hernandez,Texas Rangers,2023,RF
+Cristian Inoa,Texas Rangers,2023,SS
+Lucas Jacobsen,Texas Rangers,2023,LHP
+Joshua Javier,Texas Rangers,2023,LHP
+James Jones,Texas Rangers,2023,LHP
+Jack Kruger,Texas Rangers,2023,C
+Jesus Linarez,Texas Rangers,2023,RHP
+Fernery Ozuna,Texas Rangers,2023,RHP
+Yohel Pozo,Texas Rangers,2023,C
+Jordan Procyshen,Texas Rangers,2023,C
+Ryder Ryan,Texas Rangers,2023,RHP
+Josh Sale,Texas Rangers,2023,RF
+Nick Tanielu,Texas Rangers,2023,IF
+Tai Tiedemann,Texas Rangers,2023,RHP
+Jesus Tinoco,Texas Rangers,2023,RHP
+Trey Cumbie,Toronto Blue Jays,2023,LHP
+Jose De Leon,Toronto Blue Jays,2023,RHP
+Jake Elliott,Toronto Blue Jays,2023,RHP
+Ryan Gold,Toronto Blue Jays,2023,C
+Brady Lail,Toronto Blue Jays,2023,RHP
+Elvis Luciano,Toronto Blue Jays,2023,RHP
+Eric Stamets,Toronto Blue Jays,2023,SS
+Yoshitomo Tsutsugo,Toronto Blue Jays,2023,1B
+Eric Yardley,Toronto Blue Jays,2023,RHP
+Luis Avilan,Washington Nationals,2023,LHP
+Nick Banks,Washington Nationals,2023,OF
+Tres Barrera,Washington Nationals,2023,C
+Zack Burdi,Washington Nationals,2023,RHP
+Gilberto Chu,Washington Nationals,2023,LHP
+Eris Filpo,Washington Nationals,2023,RHP
+Jecksson Flores,Washington Nationals,2023,SS
+Steven Fuentes,Washington Nationals,2023,RHP
+Edgar Garcia,Washington Nationals,2023,RHP
+Taylor Gushue,Washington Nationals,2023,C
+Ronald Herrera,Washington Nationals,2023,RHP
+Daniel Johnson,Washington Nationals,2023,LF
+Gilbert Lara,Washington Nationals,2023,IF
+Andrew Lee,Washington Nationals,2023,RHP
+Patrick Murphy,Washington Nationals,2023,RHP
+John Nogowski Jr,Washington Nationals,2023,1B
+Francisco Perez,Washington Nationals,2023,LHP
+D,Washington Nationals,2023,CF
+Peters,Washington Nationals,2023,J
+Jefry Rodriguez,Washington Nationals,2023,RHP
+Connor Sadzeck,Washington Nationals,2023,RHP
+Adrian Sanchez,Washington Nationals,2023,IF
+Ramon Santos,Washington Nationals,2023,RHP
+Ike Schlabach,Washington Nationals,2023,LHP
+Andrew Stevenson,Washington Nationals,2023,LF
+Curtis Taylor,Washington Nationals,2023,RHP
+Logan Verrett,Washington Nationals,2023,RHP
