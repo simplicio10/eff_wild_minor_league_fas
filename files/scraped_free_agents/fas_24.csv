@@ -1,5 +1,6 @@
 player_name,team,fa_class,position
-BSergio Alcantara,Arizona D-backs,2024,3B
+Camden Duzenack,Arizona D-backs,2024,2B
+Sergio Alcantara,Arizona D-backs,2024,3B
 Phillip Evans,Arizona D-backs,2024,3B
 Ali Sanchez,Arizona D-backs,2024,C
 Juan Centeno,Arizona D-backs,2024,C
@@ -9,7 +10,7 @@ Stephen Nogosek,Arizona D-backs,2024,RHP
 Austin Adams,Arizona D-backs,2024,RHP
 Michel Otanez,Arizona D-backs,2024,RHP
 Raffi Vizcaino,Arizona D-backs,2024,RHP
-Atlanta Braves Jesus Aguilar,Atlanta Braves,2024,1B
+Jesus Aguilar,Atlanta Braves,2024,1B
 Drew Lugbauer,Atlanta Braves,2024,1B
 Hoy Park,Atlanta Braves,2024,2B
 Hudson Potts,Atlanta Braves,2024,3B
@@ -22,9 +23,9 @@ Dominic Miroglio,Atlanta Braves,2024,C
 Joe Hudson,Atlanta Braves,2024,C
 Arden Pabst,Atlanta Braves,2024,C
 Wiston Cerrato,Atlanta Braves,2024,C
-Magneuris Sierra,Atlanta Braves,2024,C
-FDalton Guthrie,Atlanta Braves,2024,C
-FJacob Pearson,Atlanta Braves,2024,LF
+Magneuris Sierra,Atlanta Braves,2024,CF
+Dalton Guthrie,Atlanta Braves,2024,CF
+Jacob Pearson,Atlanta Braves,2024,LF
 Hayden Deal,Atlanta Braves,2024,LHP
 Nick Margevicius,Atlanta Braves,2024,LHP
 Domingo Robles,Atlanta Braves,2024,LHP
@@ -41,7 +42,7 @@ Alan Rangel,Atlanta Braves,2024,RHP
 Miguel Pena,Atlanta Braves,2024,RHP
 Tyree Thompson,Atlanta Braves,2024,RHP
 Nolan Martinez,Atlanta Braves,2024,RHP
-Baltimore Orioles Lewin Diaz,Baltimore Orioles,2024,1B
+Lewin Diaz,Baltimore Orioles,2024,1B
 Joseph Rosa,Baltimore Orioles,2024,2B
 Gilbert Lara,Baltimore Orioles,2024,3B
 Ramon Rodriguez,Baltimore Orioles,2024,C
@@ -54,10 +55,10 @@ Joey Krehbiel,Baltimore Orioles,2024,RHP
 Adam Stauffer,Baltimore Orioles,2024,RHP
 Wandisson Charles,Baltimore Orioles,2024,RHP
 Kyle Dowdy,Baltimore Orioles,2024,RHP
-Boston Red Sox Tyreque Reed,Boston Red Sox,2024,1B
+Tyreque Reed,Boston Red Sox,2024,1B
 Ronaldo Hernandez,Boston Red Sox,2024,C
-Bradley Zimmer,Boston Red Sox,2024,C
-FNarciso Crook,Boston Red Sox,2024,OF
+Bradley Zimmer,Boston Red Sox,2024,CF
+Narciso Crook,Boston Red Sox,2024,OF
 Tyler Dearden,Boston Red Sox,2024,RF
 Tyler Esplin,Boston Red Sox,2024,RF
 Rio Gomez,Boston Red Sox,2024,LHP
@@ -68,7 +69,7 @@ Dominic LoBrutto,Boston Red Sox,2024,LHP
 Aaron Perry,Boston Red Sox,2024,RHP
 Michael Gettys,Boston Red Sox,2024,RHP
 Sterling Sharp,Boston Red Sox,2024,RHP
-Chicago Cubs P.J. Higgins,Chicago Cubs,2024,1B
+P.J. Higgins,Chicago Cubs,2024,1B
 Yonathan Perlaza,Chicago Cubs,2024,OF
 Stephen Gonsalves,Chicago Cubs,2024,LHP
 Brailyn Marquez,Chicago Cubs,2024,LHP
@@ -78,13 +79,13 @@ Nick Neidert,Chicago Cubs,2024,RHP
 Yovanny Cruz,Chicago Cubs,2024,RHP
 Carlos Guzman,Chicago Cubs,2024,RHP
 Ben Hecht,Chicago Cubs,2024,RHP
-Chicago White Sox Nate Mondou,Chicago White Sox,2024,2B
+Nate Mondou,Chicago White Sox,2024,2B
 Laz Rivera,Chicago White Sox,2024,3B
 Sebastian Rivero,Chicago White Sox,2024,C
 Jhoneiker Betancourt,Chicago White Sox,2024,C
 Xavier Fernandez,Chicago White Sox,2024,C
-Trayce Thompson,Chicago White Sox,2024,C
-FClint Frazier,Chicago White Sox,2024,LF
+Trayce Thompson,Chicago White Sox,2024,CF
+Clint Frazier,Chicago White Sox,2024,LF
 Anderson Comas,Chicago White Sox,2024,OF
 Luis Mieses,Chicago White Sox,2024,RF
 Victor Reyes,Chicago White Sox,2024,RF
@@ -99,7 +100,7 @@ Chris Muller,Chicago White Sox,2024,RHP
 Jordan Holloway,Chicago White Sox,2024,RHP
 J.B. Olson,Chicago White Sox,2024,RHP
 Alejandro Mateo,Chicago White Sox,2024,RHP
-Cincinnati Reds Jason Vosler,Cincinnati Reds,2024,1B
+Jason Vosler,Cincinnati Reds,2024,1B
 Chuckie Robinson,Cincinnati Reds,2024,C
 Jhonny Pereda,Cincinnati Reds,2024,C
 Steven Leyton,Cincinnati Reds,2024,SS
@@ -115,18 +116,18 @@ Frainger Aranguren,Cincinnati Reds,2024,RHP
 Manuel Cachutt,Cincinnati Reds,2024,RHP
 Danis Correa,Cincinnati Reds,2024,RHP
 Mac Sceroler,Cincinnati Reds,2024,RHP
-Cleveland Guardians Sandy Leon,Cleveland Guardians,2024,C
+Sandy Leon,Cleveland Guardians,2024,C
 Matt Turner,Cleveland Guardians,2024,LHP
 Jonathan Teaney,Cleveland Guardians,2024,RHP
 Sergio Morillo,Cleveland Guardians,2024,RHP
 Jerad Eickhoff,Cleveland Guardians,2024,RHP
 Luis Oviedo,Cleveland Guardians,2024,RHP
-Colorado Rockies Jonathan Morales,Colorado Rockies,2024,C
+Jonathan Morales,Colorado Rockies,2024,C
 Bryant Quijada,Colorado Rockies,2024,C
-Daniel Amaral,Colorado Rockies,2024,C
-FYonathan Daza,Colorado Rockies,2024,C
-FWynton Bernard,Colorado Rockies,2024,C
-FDaniel Montano,Colorado Rockies,2024,LF
+Daniel Amaral,Colorado Rockies,2024,CF
+Yonathan Daza,Colorado Rockies,2024,CF
+Wynton Bernard,Colorado Rockies,2024,CF
+Daniel Montano,Colorado Rockies,2024,LF
 Cristopher Navarro,Colorado Rockies,2024,SS
 Helcris Olivarez,Colorado Rockies,2024,LHP
 Josh Rogers,Colorado Rockies,2024,LHP
@@ -138,11 +139,11 @@ Chance Adams,Colorado Rockies,2024,RHP
 Anderson Bido,Colorado Rockies,2024,RHP
 Anderson Pilar,Colorado Rockies,2024,RHP
 Nick Kuzia,Colorado Rockies,2024,RHP
-Detroit Tigers Mario Feliciano,Detroit Tigers,2024,C
+Mario Feliciano,Detroit Tigers,2024,C
 Julio E. Rodriguez,Detroit Tigers,2024,C
 Michael Papierski,Detroit Tigers,2024,C
-DJ Peters,Detroit Tigers,2024,C
-FLuis Watter,Detroit Tigers,2024,IF
+DJ Peters,Detroit Tigers,2024,CF
+Luis Watter,Detroit Tigers,2024,IF
 Nick Solak,Detroit Tigers,2024,LF
 Esney Chacon,Detroit Tigers,2024,OF
 Bryan Encarnacion,Detroit Tigers,2024,SS
@@ -161,7 +162,7 @@ Trey Wingenter,Detroit Tigers,2024,RHP
 Eric Mendez,Detroit Tigers,2024,RHP
 Eiker Huizi,Detroit Tigers,2024,RHP
 Luis Acosta,Detroit Tigers,2024,RHP
-Houston Astros J.J. Matijevic,Houston Astros,2024,1B
+J.J. Matijevic,Houston Astros,2024,1B
 Luis Aviles,Houston Astros,2024,3B
 Rylan Bannon,Houston Astros,2024,3B
 Garrett Wolforth,Houston Astros,2024,C
@@ -176,7 +177,7 @@ Enoli Paredes,Houston Astros,2024,RHP
 Jake Cousins,Houston Astros,2024,RHP
 Matt Ruppenthal,Houston Astros,2024,RHP
 Joe Record,Houston Astros,2024,RHP
-Kansas City Royals Angelo Castellano,Kansas City Royals,2024,3B
+Angelo Castellano,Kansas City Royals,2024,3B
 Jose Briceno,Kansas City Royals,2024,C
 Jorge Bonifacio,Kansas City Royals,2024,OF
 Juan Carlos Negret,Kansas City Royals,2024,RF
@@ -186,14 +187,14 @@ Joe Barlow,Kansas City Royals,2024,RHP
 Brett de Geus,Kansas City Royals,2024,RHP
 Justin Anderson,Kansas City Royals,2024,RHP
 Adrian Alcantara,Kansas City Royals,2024,RHP
-Los Angeles Angels Taylor Jones,Los Angeles Angels,2024,1B
+Taylor Jones,Los Angeles Angels,2024,1B
 Jeremy Arocho,Los Angeles Angels,2024,2B
 Mariano Ricciardi,Los Angeles Angels,2024,2B
 Preston Palmeiro,Los Angeles Angels,2024,2B
 Jose Gomez,Los Angeles Angels,2024,3B
 Kevin Watson,Los Angeles Angels,2024,C
-Jared Oliva,Los Angeles Angels,2024,C
-FCam Williams,Los Angeles Angels,2024,SS
+Jared Oliva,Los Angeles Angels,2024,CF
+Cam Williams,Los Angeles Angels,2024,SS
 Jack Lopez,Los Angeles Angels,2024,SS
 Yhonkervix Castillo,Los Angeles Angels,2024,LHP
 Julian Smith,Los Angeles Angels,2024,LHP
@@ -207,7 +208,7 @@ Evan Marshall,Los Angeles Angels,2024,RHP
 JD Hammer,Los Angeles Angels,2024,RHP
 Jonathan Holder,Los Angeles Angels,2024,RHP
 Robinson Pina,Los Angeles Angels,2024,RHP
-Los Angeles Dodgers Justin Yurchak,Los Angeles Dodgers,2024,1B
+Justin Yurchak,Los Angeles Dodgers,2024,1B
 Bryson Brigman,Los Angeles Dodgers,2024,2B
 Pat Valaika,Los Angeles Dodgers,2024,2B
 Kenneth Betancourt,Los Angeles Dodgers,2024,2B
@@ -216,8 +217,8 @@ David Freitas,Los Angeles Dodgers,2024,C
 Tucker Barnhart,Los Angeles Dodgers,2024,C
 Hamlet Marte,Los Angeles Dodgers,2024,C
 Wladimir Chalo,Los Angeles Dodgers,2024,C
-Steven Duggar,Los Angeles Dodgers,2024,C
-FImanol Vargas,Los Angeles Dodgers,2024,OF
+Steven Duggar,Los Angeles Dodgers,2024,CF
+Imanol Vargas,Los Angeles Dodgers,2024,OF
 Ismael Alcantara,Los Angeles Dodgers,2024,OF
 David Dahl,Los Angeles Dodgers,2024,RF
 Oscar Mercado,Los Angeles Dodgers,2024,RF
@@ -234,7 +235,7 @@ Mark Washington,Los Angeles Dodgers,2024,RHP
 Aldry Acosta,Los Angeles Dodgers,2024,RHP
 Reinaldo De Paula,Los Angeles Dodgers,2024,RHP
 Adolfo Ramirez,Los Angeles Dodgers,2024,RHP
-Miami Marlins Charles Leblanc,Miami Marlins,2024,2B
+Charles Leblanc,Miami Marlins,2024,2B
 Santiago Chavez,Miami Marlins,2024,C
 Jorge Alfaro,Miami Marlins,2024,C
 Austin Allen,Miami Marlins,2024,C
@@ -254,7 +255,7 @@ Colton Hock,Miami Marlins,2024,RHP
 Brady Puckett,Miami Marlins,2024,RHP
 Zach Willeman,Miami Marlins,2024,RHP
 Dylan Bice,Miami Marlins,2024,RHP
-Milwaukee Brewers Payton Henry,Milwaukee Brewers,2024,C
+Payton Henry,Milwaukee Brewers,2024,C
 Fernando Abad,Milwaukee Brewers,2024,LHP
 Karlos Morales,Milwaukee Brewers,2024,LHP
 Jason Alexander,Milwaukee Brewers,2024,RHP
@@ -263,13 +264,13 @@ Tyler Herb,Milwaukee Brewers,2024,RHP
 Caleb Boushley,Milwaukee Brewers,2024,RHP
 Max Lazar,Milwaukee Brewers,2024,RHP
 Cam Robinson,Milwaukee Brewers,2024,RHP
-Minnesota Twins Hernan Perez,Minnesota Twins,2024,2B
+Hernan Perez,Minnesota Twins,2024,2B
 Jeferson Morales,Minnesota Twins,2024,C
 Tony Wolters,Minnesota Twins,2024,C
 Mark Kolozsvary,Minnesota Twins,2024,C
 David Banuelos,Minnesota Twins,2024,C
-Gilberto Celestino,Minnesota Twins,2024,C
-FElliot Soto,Minnesota Twins,2024,SS
+Gilberto Celestino,Minnesota Twins,2024,CF
+Elliot Soto,Minnesota Twins,2024,SS
 Gabriel Yanez,Minnesota Twins,2024,LHP
 Samuel Perez,Minnesota Twins,2024,LHP
 Michael Boyle,Minnesota Twins,2024,LHP
@@ -283,11 +284,11 @@ Curtis Taylor,Minnesota Twins,2024,RHP
 Francis Peguero,Minnesota Twins,2024,RHP
 Alex Scherff,Minnesota Twins,2024,RHP
 Isaac Mattson,Minnesota Twins,2024,RHP
-New York Mets Daniel Palka,New York Mets,2024,1B
+Daniel Palka,New York Mets,2024,1B
 Jose Peraza,New York Mets,2024,2B
 Jose Mena,New York Mets,2024,C
-Lorenzo Cedrola,New York Mets,2024,C
-FTim Locastro,New York Mets,2024,LF
+Lorenzo Cedrola,New York Mets,2024,CF
+Tim Locastro,New York Mets,2024,LF
 Agustin Ruiz,New York Mets,2024,RF
 John Curtiss,New York Mets,2024,RHP
 Peyton Battenfield,New York Mets,2024,RHP
@@ -296,16 +297,16 @@ Marcel Renteria,New York Mets,2024,RHP
 Jose Chacin,New York Mets,2024,RHP
 Connor Grey,New York Mets,2024,RHP
 Oscar Rojas,New York Mets,2024,RHP
-New York Yankees Jake Lamb,New York Yankees,2024,1B
+Jake Lamb,New York Yankees,2024,1B
 Luis Santos,New York Yankees,2024,2B
 Eduardo Torrealba,New York Yankees,2024,2B
 Andres Chaparro,New York Yankees,2024,3B
 Jamie Westbrook,New York Yankees,2024,3B
 Hemmanuel Rosario,New York Yankees,2024,C
 Rodolfo Duran,New York Yankees,2024,C
-Michael Hermosillo,New York Yankees,2024,C
-FJeisson Rosario,New York Yankees,2024,C
-FJesus Bastidas,New York Yankees,2024,SS
+Michael Hermosillo,New York Yankees,2024,CF
+Jeisson Rosario,New York Yankees,2024,CF
+Jesus Bastidas,New York Yankees,2024,SS
 Wilmer Difo,New York Yankees,2024,SS
 Demarcus Evans,New York Yankees,2024,RHP
 Zac Houston,New York Yankees,2024,RHP
@@ -315,7 +316,8 @@ Jesus Liranzo,New York Yankees,2024,RHP
 Harold Cortijo,New York Yankees,2024,RHP
 Gray Fenter,New York Yankees,2024,RHP
 Steven Jennings,New York Yankees,2024,RHP
-CFConner Capel,Oakland A’s,2024,LF
+Austin Beck,Oakland A’s,2024,CF
+Conner Capel,Oakland A’s,2024,LF
 Greg Deichmann,Oakland A’s,2024,OF
 Kevin Richards,Oakland A’s,2024,OF
 Alexander Campos,Oakland A’s,2024,SS
@@ -340,7 +342,7 @@ Tayler Scott,Oakland A’s,2024,RHP
 Osvaldo Berrios,Oakland A’s,2024,RHP
 Serafino Brito,Oakland A’s,2024,RHP
 Christian Fernandez,Oakland A’s,2024,RHP
-Philadelphia Phillies Jim Haley,Philadelphia Phillies,2024,3B
+Jim Haley,Philadelphia Phillies,2024,3B
 Brewer Hicklen,Philadelphia Phillies,2024,LF
 Dustin Peterson,Philadelphia Phillies,2024,LF
 Jhailyn Ortiz,Philadelphia Phillies,2024,RF
@@ -360,7 +362,7 @@ Erich Uelmen,Philadelphia Phillies,2024,RHP
 Drew Hutchison,Philadelphia Phillies,2024,RHP
 Hector Perez,Philadelphia Phillies,2024,RHP
 Jeremy Walker,Philadelphia Phillies,2024,RHP
-Pittsburgh Pirates Mason Martin,Pittsburgh Pirates,2024,1B
+Mason Martin,Pittsburgh Pirates,2024,1B
 Claudio Finol,Pittsburgh Pirates,2024,2B
 Domingo Leyba,Pittsburgh Pirates,2024,2B
 Jacob Gonzalez,Pittsburgh Pirates,2024,3B
@@ -385,7 +387,7 @@ Beau Sulser,Pittsburgh Pirates,2024,RHP
 Chieh Huang,Pittsburgh Pirates,2024,RHP
 Noe Toribio,Pittsburgh Pirates,2024,RHP
 Travis MacGregor,Pittsburgh Pirates,2024,RHP
-San Diego Padres Rangel Ravelo,San Diego Padres,2024,1B
+Rangel Ravelo,San Diego Padres,2024,1B
 Max Schrock,San Diego Padres,2024,2B
 Tim Lopes,San Diego Padres,2024,2B
 Evan Mendoza,San Diego Padres,2024,3B
@@ -419,7 +421,7 @@ Aaron Brooks,San Diego Padres,2024,RHP
 Drew Carlton,San Diego Padres,2024,RHP
 Anderson Espinoza,San Diego Padres,2024,RHP
 Sean Poppen,San Diego Padres,2024,RHP
-San Francisco Giants Yoshi Tsutsugo,San Francisco Giants,2024,1B
+Yoshi Tsutsugo,San Francisco Giants,2024,1B
 Brady Whalen,San Francisco Giants,2024,1B
 Donovan Walton,San Francisco Giants,2024,2B
 Armando Alvarez,San Francisco Giants,2024,3B
@@ -441,7 +443,7 @@ Melvin Adon,San Francisco Giants,2024,RHP
 Ljay Newsome,San Francisco Giants,2024,RHP
 Luis Moreno,San Francisco Giants,2024,RHP
 Sam Delaplane,San Francisco Giants,2024,RHP
-Seattle Mariners Robert Perez Jr.,Seattle Mariners,2024,1B
+Robert Perez Jr.,Seattle Mariners,2024,1B
 Connor Hoover,Seattle Mariners,2024,1B
 Riley Unroe,Seattle Mariners,2024,2B
 Ty Kelly,Seattle Mariners,2024,2B
@@ -451,8 +453,8 @@ Jordan Cowan,Seattle Mariners,2024,3B
 Pedro Severino,Seattle Mariners,2024,C
 CRobert Emery,Seattle Mariners,2024,C
 Josh Morgan,Seattle Mariners,2024,C
-Adam Engel,Seattle Mariners,2024,C
-FWalking Cabrera,Seattle Mariners,2024,LF
+Adam Engel,Seattle Mariners,2024,CF
+Walking Cabrera,Seattle Mariners,2024,LF
 Johnny Adams,Seattle Mariners,2024,SS
 Logan Warmoth,Seattle Mariners,2024,SS
 Kyle Hart,Seattle Mariners,2024,LHP
@@ -482,9 +484,9 @@ Alex Valverde,Seattle Mariners,2024,RHP
 Collin Kober,Seattle Mariners,2024,RHP
 Kyle Tyler,Seattle Mariners,2024,RHP
 Joseph Yabbour,Seattle Mariners,2024,RHP
-St. Louis Cardinals Irving Lopez,St. Louis Cardinals,2024,2B
+Irving Lopez,St. Louis Cardinals,2024,2B
 Jose Martinez,St. Louis Cardinals,2024,RHP
-Tampa Bay Rays Tristan Gray,Tampa Bay Rays,2024,3B
+Tristan Gray,Tampa Bay Rays,2024,3B
 Julio Meza,Tampa Bay Rays,2024,C
 Roberto Alvarez,Tampa Bay Rays,2024,C
 Erik Ostberg,Tampa Bay Rays,2024,C
@@ -496,7 +498,7 @@ Cole Sulser,Tampa Bay Rays,2024,RHP
 Ryan Burr,Tampa Bay Rays,2024,RHP
 Trevor Kelley,Tampa Bay Rays,2024,RHP
 Victor Castaneda,Tampa Bay Rays,2024,RHP
-Texas Rangers Diosbel Arias,Texas Rangers,2024,1B
+Diosbel Arias,Texas Rangers,2024,1B
 Ryan Dorow,Texas Rangers,2024,3B
 Jordan Procyshen,Texas Rangers,2024,C
 Cooper Johnson,Texas Rangers,2024,C
@@ -523,7 +525,7 @@ Aidan Anderson,Texas Rangers,2024,RHP
 Jean Casanova,Texas Rangers,2024,RHP
 Noah Bremer,Texas Rangers,2024,RHP
 Kyle Funkhouser,Texas Rangers,2024,RHP
-Toronto Blue Jays Stevie Berman,Toronto Blue Jays,2024,C
+Stevie Berman,Toronto Blue Jays,2024,C
 Jamie Ritchie,Toronto Blue Jays,2024,C
 Lyle Lin,Toronto Blue Jays,2024,C
 Rafael Lantigua,Toronto Blue Jays,2024,LF
@@ -538,7 +540,7 @@ Roither Hernandez,Toronto Blue Jays,2024,RHP
 Jol Concepcion,Toronto Blue Jays,2024,RHP
 Joe Jones,Toronto Blue Jays,2024,RHP
 Diego Linares,Toronto Blue Jays,2024,RHP
-Washington Nationals Frankie Tostado,Washington Nationals,2024,1B
+Frankie Tostado,Washington Nationals,2024,1B
 Matt Adams,Washington Nationals,2024,1B
 Richie Martin,Washington Nationals,2024,2B
 Jake Noll,Washington Nationals,2024,3B
