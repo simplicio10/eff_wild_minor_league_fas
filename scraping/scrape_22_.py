@@ -16,7 +16,7 @@ import polars as pl
 
 # Define the regex patterns 
 find_teams = r'\w+?\.?\s\w+\s?(Royals|Dodgers|Angel|Angels|Mets|Yankees|Padres|Giants|Cardinals|Cadinals|Jays|Sox|Rays)?\s?'
-find_players_by_position = r'([A-Z0-9]{1,3}) ([A-Za-z\. ]+?)(?=([A-Z0-9]{1,3}) |$)'
+find_players_by_position = r'([A-Z0-9]{1,3}) ([A-Za-z\. ]+?)(?=([A-Z0-9]{2,3}|C) |$)'
 
 webpage = 'https://www.baseballamerica.com/stories/2021-22-minor-league-free-agents-for-all-30-mlb-teams/'
 
@@ -54,6 +54,5 @@ for team in list_of_comb_teams:
                             'position': player['position']})
 
 df = pl.DataFrame(data=all_players)
-print(article_body_clean)
 
-#df.write_csv('../files/free_agents/fas_22.csv')
+df.write_csv('../files/free_agents/scraped/fas_22.csv')
