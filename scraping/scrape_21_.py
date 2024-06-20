@@ -38,8 +38,8 @@ for team in teams:
     players = team_split[1].split(', ') #Create list of all players on team
 
     for player in players:
-        all_players.append({'player_name': player, 'team_name': team_name.strip(), 'fa_class': 2021})
+        all_players.append({'player_name': player, 'team': team_name.strip(), 'fa_class': 2021})
 
 df = pl.DataFrame(data=all_players)
 
-df.write_csv('../files/free_agents/fas_21.csv')
+df.write_csv('../files/free_agents/scraped/fas_21.csv')
