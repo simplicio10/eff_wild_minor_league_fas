@@ -1,7 +1,15 @@
 import polars as pl
+import glob
 from datetime import datetime
-#Read in CSV with scraped player data
-df = pl.read_csv('../files/free_agents/fas_13_15.csv')
+#Read in CSVs with scraped player data
+columns = ['player_name', 'team', 'fa_class', 'position', 'minor_league_level']
+
+dfs = [
+   pl.scan_csv(file, ignore_errors=True)
+   for file in glob.glob('../files/free_agents/scraped/*.csv')
+]
+
+df = pl.concat(dfs, how="diagonal").select(columns).collect()
 #Split off player names into first and last, the lowercase is necessary for pybaseball player id lookup
 names = list(df['player_name'])
 split_names = [name.lower().split(' ', maxsplit=1) for name in names]
@@ -16,6 +24,8 @@ df = df.with_columns(
     pl.Series(last_names).alias('last_name_lower'),
     pl.when((pl.col('position') == 'RHP') | (pl.col('position') == 'LHP')) #Creates general position category for batters and pitchers
     .then(pl.lit('pitcher'))
+    .when((pl.col('position').is_null()))
+    .then(pl.lit('N/A'))
     .otherwise(pl.lit('batter'))
     .alias('normed_position')
 )
@@ -25,8 +35,7 @@ df = df.with_columns(
         pl.Date,
         format='%Y', 
         strict=False
-    ).dt.year()
+    )
 )
 
-df.write_csv('../files/free_agents/fas_13_15_positions.csv')
-    
+df.write_csv('../files/free_agents/final/fas_to_check.csv')

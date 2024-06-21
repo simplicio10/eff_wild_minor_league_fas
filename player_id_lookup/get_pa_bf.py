@@ -1,12 +1,15 @@
+import glob
 from pybaseball import playerid_lookup
 import polars as pl
 
 ben_2015 = [('001', 'axford', 'john'), ('002', 'savery', 'joe'), ('003', 'romero', 'deibinson'), ('004', 'herrera', 'jonathan'), ('005', 'richard', 'clayton'),
             ('006', 'phelps', 'cord'), ('007', 'sizemore', 'scott'), ('008', 'baxter', 'mike'), ('009', 'britton', 'buck')]
 
-stats_batters = pl.read_csv('../files/stats/batting_14_18.csv')
-stats_pitchers = pl.read_csv('../files/stats/pitching_14_18.csv')
-stats = pl.concat([stats_batters, stats_pitchers], how='diagonal')
+dfs = [
+   pl.scan_csv(file, ignore_errors=True)
+   for file in glob.glob('../files/*.csv')
+]
+stats = pl.concat(dfs, how='diagonal')
 stats = stats.rename({'IDfg': 'key_fangraphs'})
 
 def get_id(players_list):
@@ -48,10 +51,10 @@ def get_id(players_list):
 
     return players
 
-df = get_id(ben_2015)
+players = get_id(ben_2015)
 
-df_with_stats = df.join(stats, on='key_fangraphs', how='left')
-df_with_stats.write_csv('../files/stats/test_join.csv')
+players_and_stats = players.join(stats, on='key_fangraphs', how='left')
+players_and_stats.write_csv('../files/free_agents/final/test_join.csv')
 
 
 
