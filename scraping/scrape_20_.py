@@ -66,7 +66,4 @@ for team in list_of_comb_teams:
                 
 df = pl.DataFrame(data=all_players) 
 
-#df.write_csv('../files/free_agents/fas_20_.csv')
-
-teams = pl.DataFrame(df['team'].unique(maintain_order=True))
-teams.write_csv('teams_check_20.csv')
+df.write_csv('../files/free_agents/scraped/fas_20_.csv')
