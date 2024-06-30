@@ -2,59 +2,83 @@ import glob
 from pybaseball import playerid_lookup
 import polars as pl
 
-ben_2015 = [('001', 'axford', 'john'), ('002', 'savery', 'joe'), ('003', 'romero', 'deibinson'), ('004', 'herrera', 'jonathan'), ('005', 'richard', 'clayton'),
-            ('006', 'phelps', 'cord'), ('007', 'sizemore', 'scott'), ('008', 'baxter', 'mike'), ('009', 'britton', 'buck')]
 
-dfs = [
+
+fas_list = pl.read_csv('../files/free_agents/final/fas_to_check.csv', dtypes={'internal_id': pl.String})
+
+partial = fas_list.sample(n=20)
+
+stats = [
    pl.scan_csv(file, ignore_errors=True)
-   for file in glob.glob('../files/*.csv')
+   for file in glob.glob('../files/stats/*.csv')
 ]
-stats = pl.concat(dfs, how='diagonal')
+stats = pl.concat(stats, how='diagonal')
 stats = stats.rename({'IDfg': 'key_fangraphs'})
 
-def get_id(players_list):
+def get_id(df):
 
-    empty_list = []
+    final_players_list = []
 
-    for player in players_list:
+    players = df.select('internal_id', 'first_name_lower', 'last_name_lower').to_dicts()
+
+    for player in players:
         #Default blank entry if player was not in MLB
         no_mlb_entry = {
-        'name_last': player[2],
-        'name_first': player[1],
+        'name_last': player['last_name_lower'],
+        'name_first': player['first_name_lower'],
         'key_mlbam': None,
         'key_retro': None,
         'key_bbref': None,
         'key_fangraphs': None,
         'mlb_played_first': None,
-        'mlb_played_last': None
+        'mlb_played_last': None,
+        'internal_id': player['internal_id']
         }
         #Look up player id in pybaseball
-        id = playerid_lookup(player[1], player[2])
-        #Pybaseball returns a dataframe for the individual player. If the length is greater than 0 (i.e., the player has MLB experience), 
-        #convert the dataframe into Polars
+        id = playerid_lookup(player['last_name_lower'], player['first_name_lower'])
+        #Pybaseball returns a dataframe for the individual player. If the player has MLB experience (len(df) > 0), convert the dataframe into Polars.
         if len(id) > 0:
             valid_id = pl.from_dataframe(id)
-            empty_list.append(valid_id)
+            valid_id = valid_id.with_columns(
+                internal_id=pl.lit(player['internal_id'])
+            )
+            final_players_list.append(valid_id)
         #Otherwise, create a dataframe with null values using the above dictionary
         else:
             invalid_id = pl.from_dict(no_mlb_entry)
-            empty_list.append(invalid_id)
-        #Concatenate the individual player dataframes into a single dataframe
-        players = pl.concat(empty_list)
-        #Filter out the unnecessary columns
-        players = players.select(['name_last', 'name_first', 'key_fangraphs', 
-                                  'mlb_played_first', 'mlb_played_last'])
-        players = players.with_columns([
-            pl.col('mlb_played_first').cast(pl.String),
-            pl.col('mlb_played_last').cast(pl.String)
-        ])
+            final_players_list.append(invalid_id)
+    #Concatenate the individual player dataframes into a single dataframe
+    players = pl.concat(final_players_list, how='diagonal_relaxed')
+    #Filter out the unnecessary columns
+    players = players.select(['internal_id', 'name_last', 'name_first', 'key_fangraphs', 
+                            pl.col('mlb_played_first').cast(pl.String), pl.col('mlb_played_last').cast(pl.String)])
+    #Convert years to Polars date format
+    players = players.with_columns(
+        start_date=pl.col('mlb_played_first')
+            .str.slice(0, length=4)
+            .str.strptime(
+                pl.Date,
+                format='%Y',
+                strict=False
+        ),
+        end_date=pl.col('mlb_played_last')
+            .str.slice(0, length=4)
+            .str.strptime(
+                pl.Date,
+                format='%Y',
+                strict=False
+        ))
 
     return players
 
-players = get_id(ben_2015)
+#players = get_id(fas_list)
 
-players_and_stats = players.join(stats, on='key_fangraphs', how='left')
-players_and_stats.write_csv('../files/free_agents/final/test_join.csv')
+id = get_id(partial)
+
+players_and_stats = id.lazy().collect().join(stats.lazy().collect(), on='key_fangraphs', how='left')
+players_and_stats.write_csv('test_join.csv')
+
+
 
 
 
