@@ -26,7 +26,7 @@ df = df.join(team_names, on='team')
 #Add columns
 df = df.with_columns(
     pl.col('fa_class').cast(pl.String), # Cast free agent year to string value
-    pl.col('player_name').rank(method='ordinal').alias('internal_id'), #Creates a unique ID value for each player
+    pl.col('player_name').rank(method='ordinal').cast(pl.String).alias('internal_id'), #Creates a unique ID value for each player
     pl.Series(first_names).alias('first_name_lower'),
     pl.Series(last_names).alias('last_name_lower'),
     pl.when((pl.col('position') == 'RHP') | (pl.col('position') == 'LHP')) #Creates general position category for batters and pitchers
@@ -60,3 +60,4 @@ df = df.select(
 )
 
 df.write_csv('../files/free_agents/final/fas_to_check.csv')
+
