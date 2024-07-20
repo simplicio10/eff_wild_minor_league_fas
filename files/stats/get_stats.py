@@ -1,6 +1,6 @@
 '''Use pybaseball to import MLB stats for each season and save to csv.
 Includes player's FanGraphs ID, Season, Name, Team, Age, Games Played, and Plate Appearances/Total Batters Faced.
-Saved as two separate csv files due to timeout issues in pybaseball when searching for stats across the full timeframe.'''
+Separated by pitcher v. batter and year due to timeout issues in pybaseball when searching for stats across the full timeframe.'''
 
 from pybaseball import batting_stats, pitching_stats
 import polars as pl
