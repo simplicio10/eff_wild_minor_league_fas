@@ -6,18 +6,24 @@ from pybaseball import batting_stats, pitching_stats
 import polars as pl
 
 batting_14_18 = pl.DataFrame(batting_stats(2014, 2018, qual=0, ind=1))
-batting_14_18 = batting_14_18.select(['IDfg', 'Season', 'Age', 'G', 'PA'])
+batting_14_18 = batting_14_18.select(['IDfg', pl.col('Season').cast(pl.String), 'Age', 'G', 'PA'])
 
 batting_19_23 = pl.DataFrame(batting_stats(2019, 2023, qual=0, ind=1))
-batting_19_23 = batting_19_23.select(['IDfg', 'Season', 'Age', 'G', 'PA'])
+batting_19_23 = batting_19_23.select(['IDfg', pl.col('Season').cast(pl.String), 'Age', 'G', 'PA'])
 
 pitching_14_18 = pl.DataFrame(pitching_stats(2014, 2018, qual=0, ind=1))
-pitching_14_18 = pitching_14_18.select(['IDfg', 'Season', 'Age', 'G', 'TBF'])
+pitching_14_18 = pitching_14_18.select(['IDfg', pl.col('Season').cast(pl.String), 'Age', 'G', 'TBF'])
 
 pitching_19_23 = pl.DataFrame(pitching_stats(2019, 2023, qual=0, ind=1))
-pitching_19_23 = pitching_19_23.select(['IDfg', 'Season', 'Age', 'G', 'TBF'])
+pitching_19_23 = pitching_19_23.select(['IDfg', pl.col('Season').cast(pl.String), 'Age', 'G', 'TBF'])
 
-batting_14_18.write_csv('batting_14_18.csv')
-batting_19_23.write_csv('batting_19_23.csv')
-pitching_14_18.write_csv('pitching_14_18.csv')
-pitching_19_23.write_csv('pitching_19_23.csv')
+all_stats = pl.concat([batting_14_18, batting_19_23, pitching_14_18, pitching_19_23], how='diagonal')
+all_stats = all_stats.with_columns(
+    pl.col('Season')
+    .str.strptime(
+        pl.Date,
+        format='%Y',
+        strict=False   
+    ))
+
+all_stats.write_csv('player_stats.csv')
