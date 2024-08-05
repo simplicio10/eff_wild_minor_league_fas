@@ -1,5 +1,4 @@
-import glob
-from pybaseball import playerid_lookup
+import baseball.custom_player_lookup as playerid_lookup
 import polars as pl
 
 fas_list = pl.read_csv('../files/free_agents/final/fas_to_check.csv', dtypes={'internal_id': pl.String})
@@ -61,22 +60,6 @@ def get_id(df):
     players = players.select(['internal_id', 'full_name', 'team', 'name_last', 'name_first', 'fa_class', 'key_fangraphs', 
                             pl.col('mlb_played_first').cast(pl.String), pl.col('mlb_played_last').cast(pl.String), 
                             'position_cat'])
-    #Convert years to Polars date format
-    players = players.with_columns(
-        pl.col('mlb_played_first')
-            .str.slice(0, length=4)
-            .str.strptime(
-                pl.Date,
-                format='%Y',
-                strict=False
-        ),
-        pl.col('mlb_played_last')
-            .str.slice(0, length=4)
-            .str.strptime(
-                pl.Date,
-                format='%Y',
-                strict=False
-        ))
 
     return players
 
