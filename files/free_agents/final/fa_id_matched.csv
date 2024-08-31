@@ -4,7 +4,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 484,Billy Buckner,ARI,Buckner,Billy,2017,8253,buckne003wil,2007,2014,2004,2016,pitcher,one
 3709,Matt Buschmann,ARI,Buschmann,Matt,2017,3832,buschm001mat,2016,2016,2006,2016,pitcher,one
 3714,Matt Capps,ARI,Capps,Matt,2017,4788,capps-001mat,2005,2012,2002,2016,pitcher,one
-1669,Edward Concepcion,ARI,Concepcion,Edward,2017,,,,,,,pitcher,zero
+1669,Edward Concepcion,ARI,Concepcion,Edward,2017,,concep001edw,,,2006,2013,pitcher,one
 5096,Terry Doyle,ARI,Doyle,Terry,2017,,doyle-005joh,,,2008,2016,pitcher,one
 1632,Edgar Garcia,ARI,Garcia,Edgar,2017,,garcia001edg,,,2005,2022,pitcher,one
 1099,Cole Johnson,ARI,Johnson,Cole,2017,,johnso000col,,,2011,2016,pitcher,one
@@ -41,21 +41,21 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 2201,Ivan Hernandez,BAL,Hernandez,Ivan,2017,,hernan002iva,,,2010,2022,pitcher,one
 1978,Genison Reyes,BAL,Reyes,Genison,2017,,reyes-000gen,,,2011,2016,pitcher,one
 1389,David Richardson,BAL,Richardson,David,2017,,richar007dav,,,2010,2023,pitcher,one
-2392,Janser Severino,BAL,Severino,Janser,2017,,,,,,,pitcher,zero
+2392,Janser Severino,BAL,Severino,Janser,2017,,severi001jan,,,2010,2014,pitcher,one
 2459,Jason Stoffel,BAL,Stoffel,Jason,2017,,stoffe001jas,,,2009,2017,pitcher,one
 2496,Jeff Beliveau,BAL,Beliveau,Jeff,2017,8504,belive001jef,2012,2018,2008,2018,pitcher,one
 293,Andy Oliver,BAL,Oliver,Andy,2017,10257,oliver001and,2010,2011,2009,2017,pitcher,one
 1638,Edgar Olmos,BAL,Olmos,Edgar,2017,10174,olmos-001edg,2013,2015,2008,2018,pitcher,one
-5596,Zach Booker,BAL,Booker,Zach,2017,,,,,,,batter,zero
+5596,Zach Booker,BAL,Booker,Zach,2017,,booker001zac,,,2007,2011,batter,one
 5492,Wynston Sawyer,BAL,Sawyer,Wynston,2017,,sawyer001wyn,,,2010,2019,batter,one
 2737,Joey Terdoslavich,BAL,Terdoslavich,Joey,2017,10593,terdos001jos,2013,2015,2010,2023,batter,one
 1147,Corban Joseph,BAL,Joseph,Corban,2017,5503,joseph001cor,2013,2019,2008,2021,batter,one
 1958,Garabez Rosa,BAL,Rosa,Garabez,2017,,rosa--001gar,,,2007,2023,batter,one
 3849,Michael Almanzar,BAL,Almanzar,Michael,2017,,almanz001mic,,,2008,2018,batter,one
 4658,Ronarsy Ledesma,BAL,Ledesma,Ronarsy,2017,,ledesm001ron,,,2010,2016,batter,one
-4259,Ozzie Martinez,BAL,Martinez,Ozzie,2017,,,,,,,batter,zero
+4259,Ozzie Martinez,BAL,Martinez,Ozzie,2017,,martin003osv,,,1994,2007,batter,one
 4941,Sharlon Schoop,BAL,Schoop,Sharlon,2017,,schoop001sha,,,2005,2023,batter,one
-4821,Sammie Starr,BAL,Starr,Sammie,2017,,,,,,,batter,zero
+4821,Sammie Starr,BAL,Starr,Sammie,2017,,starr-001sam,,,2010,2014,batter,one
 5502,Xavier Avery,BAL,Avery,Xavier,2017,8471,avery-001xav,2012,2012,2008,2018,batter,one
 968,Chris Dickerson,BAL,Dickerson,Chris,2017,7095,dicker002chr,2008,2014,2003,2017,batter,one
 3401,L.J. Hoes,BAL,Hoes,L. J.,2017,6656,hoes--001jer,2012,2015,2008,2017,batter,one
@@ -82,7 +82,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 4425,Rainel Rosario,BOS,Rosario,Rainel,2017,,rosari001rai,,,2006,2024,batter,one
 287,Andury Acevedo,CHC,Acevedo,Andury,2017,,aceved001and,,,2007,2019,pitcher,one
 1909,Frank Batista,CHC,Batista,Frank,2017,,batist003fra,,,2009,2017,pitcher,one
-1094,Cole Brocker,CHC,Brocker,Cole,2017,,,,,,,pitcher,zero
+1094,Cole Brocker,CHC,Brocker,Cole,2017,,brocke000col,,,2014,2015,pitcher,one
 12,Aaron Crow,CHC,Crow,Aaron,2017,10149,crow--001aar,2011,2014,2008,2018,pitcher,one
 5000,Stephen Fife,CHC,Fife,Stephen,2017,8077,fife--001ste,2012,2014,2008,2018,pitcher,one
 3931,Miguel Mejia,CHC,Mejia,Miguel,2017,,mejia-002mig,,,2009,2023,pitcher,one
@@ -145,12 +145,12 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 1176,Craig Stammen,CLE,Stammen,Craig,2017,7274,stamme001cra,2009,2022,2005,2022,pitcher,one
 880,Casey Weathers,CLE,Weathers,Casey,2017,,weathe001cas,,,2007,2017,pitcher,one
 5054,T.J. House,CLE,House,T. J.,2017,9121,house-001tj-,2014,2017,2009,2020,pitcher,one
-3586,Luke Carlin,CLE,Carlin,Luke,2017,,,,,,,batter,zero
+3586,Luke Carlin,CLE,Carlin,Luke,2017,4666,carlin001luk,2008,2012,2002,2015,batter,one
 164,Alex Monsalve,CLE,Monsalve,Alex,2017,,monsal001ale,,,2009,2020,batter,one
 48,Adam Moore,CLE,Moore,Adam,2017,9362,moore-001ada,2009,2018,2006,2019,batter,one
 2060,Guillermo Quiroz,CLE,Quiroz,Guillermo,2017,7989,quiroz001gui,2004,2014,1999,2016,batter,one
-4227,Omir Santos,CLE,Santos,Omir,2017,,,,,,,batter,zero
-3217,Justin Toole,CLE,Toole,Justin,2017,,,,,,,batter,zero
+4227,Omir Santos,CLE,Santos,Omir,2017,3583,santos001omi,2008,2013,2001,2014,batter,one
+3217,Justin Toole,CLE,Toole,Justin,2017,,toole-001jus,,,2009,2015,batter,one
 3862,Michael Choice,CLE,Choice,Michael,2017,11376,choice001mic,2013,2015,2010,2021,batter,one
 1015,Christian Bergman,COL,Bergman,Christian,2017,10925,bergma001chr,2014,2018,2010,2019,pitcher,one
 4977,Simon Castro,COL,Castro,Simón,2017,9243,castro001sim,2013,2017,2006,2018,pitcher,one
@@ -185,7 +185,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 2890,Jordany Valdespin,DET,Valdespin,Jordany,2017,5098,valdes001jor,2012,2015,2007,2023,batter,one
 4330,Pedro Ciriaco,DET,Ciriaco,Pedro,2017,5278,ciriac001ped,2010,2015,2005,2017,batter,one
 5496,Wynton Bernard,DET,Bernard,Wynton,2017,13408,bernar000wyn,2022,2022,2012,2024,batter,one
-154,Alex Fernandez Jr.,DET,Fernandez Jr.,Alex,2017,,,,,,,batter,zero
+154,Alex Fernandez Jr.,DET,Fernandez,Alex,2017,,fernan005ale,,,2015,2017,batter,one
 893,Cesar Valdez,HOU,Valdez,Cesar,2017,,,,,,,pitcher,zero
 1820,Eury de la Rosa,HOU,de la Rosa,Eury,2017,,,,,,,pitcher,zero
 1823,Evan Grills,HOU,Grills,Evan,2017,,grills001eva,,,2010,2022,pitcher,one
@@ -317,7 +317,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 1939,Gabriel Feliz,NYM,Feliz,Gabriel,2017,,feliz-001gab,,,2010,2016,pitcher,one
 1327,Darin Gorski,NYM,Gorski,Darin,2017,,gorski001dar,,,2009,2017,pitcher,one
 932,Chase Huchingson,NYM,Huchingson,Chase,2017,,hutchi005cha,,,2010,2019,pitcher,one
-77,Adrian Abreu,NYM,Abreu,Adrian,2017,,,,,,,batter,zero
+77,Adrian Abreu,NYM,Abreu,Adrian,2017,,abreu-001adr,,,2010,2015,batter,one
 2501,Jeff Glenn,NYM,Glenn,Jeff,2017,,glenn-001jef,,,2010,2018,batter,one
 4486,Raywilly Gomez,NYM,Gomez,Raywilly,2017,,gomez-002ray,,,2008,2016,batter,one
 3632,Marc Krauss,NYM,Krauss,Marc,2017,7577,krauss001mar,2013,2015,2009,2017,batter,one
@@ -355,7 +355,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 3227,K.C. Serna,PHI,Serna,KC,2017,,serna-000cas,,,2011,2017,batter,one
 1029,Christian Marrero,PHI,Marrero,Christian,2017,,marrer001chr,,,2006,2017,batter,one
 3114,Juan Diaz,PIT,Díaz,Juan,2017,9235,diaz--004jua,2012,2012,2006,2016,pitcher,one
-2435,Jason Erickson,PIT,Erickson,Jason,2017,,,,,,,pitcher,zero
+2435,Jason Erickson,PIT,Erickson,Jason,2017,,ericks001jas,,,2009,2011,pitcher,one
 3207,Justin Masterson,PIT,Masterson,Justin,2017,2038,master001jus,2008,2015,2006,2017,pitcher,one
 2640,Jhondaniel Medina,PIT,Medina,Jhondaniel,2017,,medina001jho,,,2010,2022,pitcher,one
 1558,Drew Rossi,PIT,Rossi,Drew,2017,,rossi-000dre,,,2011,2016,pitcher,one
@@ -370,7 +370,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 1416,Deck McGuire,STL,McGuire,Deck,2017,11596,mcguir005wil,2017,2018,2011,2022,pitcher,one
 2214,J.C. Sulbaran,STL,Sulbaran,J. C.,2017,,,,,,,pitcher,zero
 2002,Gerwuins Velazco,STL,Velazco,Gerwuins,2017,,velasc001ger,,,2009,2016,pitcher,one
-5339,Tyler Waldron,STL,Waldron,Tyler,2017,,,,,,,pitcher,zero
+5339,Tyler Waldron,STL,Waldron,Tyler,2017,,waldro001tyl,,,2010,2015,pitcher,one
 3224,Justin Wright,STL,Wright,Justin,2017,,wright001jus,,,2010,2017,pitcher,one
 3990,Mike Ohlman,STL,Ohlman,Mike,2017,10347,ohlman001mic,2017,2017,2009,2019,batter,one
 1689,Efren Navarro,STL,Navarro,Efren,2017,9854,navarr001efr,2011,2018,2007,2024,batter,one
@@ -407,7 +407,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 3779,Matt Reynolds,SFG,Reynolds,Matt,2017,8887,reynol001mat,2010,2016,2007,2018,pitcher,one
 174,Alex Torres,SFG,Torres,Alex,2017,7038,torres002ale,2011,2015,2006,2019,pitcher,one
 2494,Jeff Arnold,SFG,Arnold,Jeff,2017,,arnold001jef,,,2010,2018,batter,one
-5213,Travis Higgs,SFG,Higgs,Travis,2017,,,,,,,batter,zero
+5213,Travis Higgs,SFG,Higgs,Travis,2017,,higgs-000tra,,,2011,2014,batter,one
 5041,Steven Lerud,SFG,Lerud,Steven,2017,113,lerud-001ste,2012,2013,2004,2016,batter,one
 3934,Miguel Olivo,SFG,Olivo,Miguel,2017,1638,olivo-001mig,2002,2014,1998,2017,batter,one
 5191,Tony Sanchez,SFG,Sanchez,Tony,2017,6178,sanche001ton,2013,2017,2009,2019,batter,one
@@ -439,7 +439,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 4264,P.J. Jones,SEA,Jones,P. J.,2017,,jones-000pj-,,,2015,2016,batter,one
 3515,Luis Benoit,SEA,Benoit,Luis,2017,,benoit000lui,,,2013,2016,batter,one
 4299,Patrick Brady,SEA,Brady,Patrick,2017,,brady-002pat,,,2010,2017,batter,one
-4504,Renny Osuna,SEA,Osuna,Renny,2017,,,,,,,batter,zero
+4504,Renny Osuna,SEA,Osuna,Renny,2017,,osuna-001ren,,,2006,2015,batter,one
 478,Benji Gonzalez,SEA,González,Benji,2017,,gonzal004ben,,,2008,2019,batter,one
 3946,Mike Baxter,SEA,Baxter,Mike,2017,4464,baxter001mic,2010,2015,2005,2016,batter,one
 3429,Leon Landry,SEA,Landry,Leon,2017,,landry001leo,,,2010,2017,batter,one
@@ -482,7 +482,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 863,Carson Blair,TEX,Blair,Carson,2017,5429,blair-001car,2015,2015,2008,2017,batter,one
 144,Alex Burg,TEX,Burg,Alex,2017,,burg--001ale,,,2010,2018,batter,one
 3250,Kellin Deglan,TEX,Deglan,Kellin,2017,,deglan001kel,,,2010,2022,batter,one
-819,Carlos Maldonado,TEX,Maldonado,Carlos,2017,,,,,,,batter,zero
+819,Carlos Maldonado,TEX,Maldonado,Carlos,2017,2034,maldon003car,2006,2012,1996,2015,batter,one
 3318,Kevin Torres,TEX,Torres,Kevin,2017,,torres001kev,,,2008,2019,batter,one
 1679,Edwin Garcia,TEX,Garcia,Edwin,2017,,garcia004edw,,,2008,2024,batter,one
 3553,Luis Mendez,TEX,Mendez,Luis,2017,,mendez008lui,,,2014,2016,batter,multiple_passed_bref_check
@@ -501,7 +501,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 2781,John Straka,TOR,Straka,John,2017,,straka000joh,,,2013,2021,pitcher,one
 2757,John Anderson,TOR,Anderson,John,2017,,anders016joh,,,2008,2022,pitcher,one
 5435,Wilkin Castillo,TOR,Castillo,Wilkin,2017,5124,castil001wil,2008,2019,2004,2021,batter,one
-3536,Luis Hurtado,TOR,Hurtado,Luis,2017,,,,,,,batter,zero
+3536,Luis Hurtado,TOR,Hurtado,Luis,2017,,hurtad001lui,,,2006,2012,batter,one
 1797,Erik Kratz,TOR,Kratz,Erik,2017,4403,kratz-001eri,2010,2020,2002,2020,batter,one
 4741,Ryan Lavarnway,TOR,Lavarnway,Ryan,2017,8879,lavarn001rya,2011,2021,2008,2023,batter,one
 871,Casey Kotchman,TOR,Kotchman,Casey,2017,1930,kotchm001cas,2004,2013,2001,2016,batter,one
@@ -524,9 +524,9 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 4810,Sam Runion,WSN,Runion,Sam,2017,,runion001sam,,,2007,2019,pitcher,one
 530,Boone Whiting,WSN,Whiting,Boone,2017,,whitin001boo,,,2010,2016,pitcher,one
 18,Aaron Laffey,WSN,Laffey,Aaron,2017,6248,laffey001aar,2007,2015,2003,2018,pitcher,one
-1468,Devin Ivany,WSN,Ivany,Devin,2017,,,,,,,batter,zero
+1468,Devin Ivany,WSN,Ivany,Devin,2017,,ivany-001dev,,,2004,2013,batter,one
 669,Brian Jeroloman,WSN,Jeroloman,Brian,2017,,jerolo001bri,,,2006,2016,batter,one
-284,Andruth Ramirez,WSN,Ramirez,Andruth,2017,,,,,,,batter,zero
+284,Andruth Ramirez,WSN,Ramirez,Andruth,2017,,ramire002and,,,2008,2013,batter,one
 62,Adderling Ruiz,WSN,Ruiz,Adderling,2017,,ruiz--001add,,,2010,2018,batter,one
 5026,Steve Lombardozzi,WSN,Lombardozzi,Steve,2017,5422,lombar002ste,2011,2017,2008,2022,batter,one
 2973,Jose Lozada,WSN,Lozada,Jose,2017,,lozada001jos,,,2008,2017,batter,one
@@ -636,7 +636,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 261,Andrew Barbosa,MIL,Barbosa,Andrew,2018,,barbos001and,,,2012,2018,pitcher,one
 4499,Rene Garcia,MIL,Garcia,René,2018,,garcia003ren,,,2008,2017,batter,one
 964,Chris Colabello,MIL,Colabello,Chris,2018,13051,colabe001chr,2013,2016,2005,2019,batter,one
-2197,Ivan De Jesus Jr.,MIL,De Jesus Jr.,Ivan,2018,,,,,,,batter,zero
+2197,Ivan De Jesus Jr.,MIL,De Jesús,Iván,2018,9886,dejesu001iva,2011,2016,2005,2023,batter,one
 3903,Michael Reed,MIL,Reed,Michael,2018,13228,reed--002mic,2015,2019,2011,2019,batter,one
 2112,Henry Centeno,MIN,Centeno,Henry,2018,,centen002hen,,,2011,2024,pitcher,one
 1376,David Hurlbut,MIN,Hurlbut,David,2018,,hurlbu001dav,,,2011,2018,pitcher,one
@@ -656,7 +656,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 1255,Daniel Camarena,NYY,Camarena,Daniel,2018,,,,,,,pitcher,zero
 5436,Wilkin Castillo,NYY,Castillo,Wilkin,2018,5124,castil001wil,2008,2019,2004,2021,batter,one
 1524,Donovan Solano,NYY,Solano,Donovan,2018,8623,solano001don,2012,2024,2005,2024,batter,one
-1320,Dante Bichette Jr.,NYY,Bichette Jr.,Dante,2018,,,,,,,batter,zero
+1320,Dante Bichette Jr.,NYY,Bichette,Dante,2018,,bichet000dan,,,2011,2019,batter,one
 1048,Cito Culver,NYY,Culver,Cito,2018,,culver001chr,,,2010,2024,batter,one
 3699,Mason Williams,NYY,Williams,Mason,2018,11859,willia001mas,2015,2021,2010,2021,batter,one
 5570,Yordys Alejo,OAK,Alejo,Yordys,2018,,alejo-000yor,,,2011,2017,pitcher,one
@@ -669,7 +669,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 891,Cesar Ramos,PHI,Ramos,Cesár,2018,3357,ramos-001ces,2009,2016,2005,2017,pitcher,one
 4297,Pat Venditte,PHI,Venditte,Pat,2018,7108,vendit001pat,2015,2020,2008,2020,pitcher,one
 5477,Wilson Garcia,PHI,Garcia,Wilson,2018,,garcia008wil,,,2011,2024,batter,one
-2306,Jake Fox,PHI,Fox,Jake,2018,,,,,,,batter,zero
+2306,Jake Fox,PHI,Fox,Jake,2018,6267,fox---003jac,2007,2011,2003,2016,batter,one
 336,Angelo Mora,PHI,Mora,Angelo,2018,,mora--000ang,,,2011,2019,batter,one
 2086,Harold Martinez,PHI,Martinez,Harold,2018,,martin013har,,,2011,2017,batter,one
 2095,Hector Gomez,PHI,Gomez,Hector,2018,,,,,,,batter,zero
@@ -678,7 +678,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 5387,Wade LeBlanc,PIT,LeBlanc,Wade,2018,5221,leblan001wad,2008,2021,2006,2021,pitcher,one
 4823,Sammy Gonzalez,PIT,Gonzalez,Sammy,2018,,,,,,,batter,zero
 1677,Edwin Espinal,PIT,Espinal,Edwin,2018,,espina000edw,,,2011,2024,batter,one
-3256,Kelson Brown,PIT,Brown,Kelson,2018,,,,,,,batter,zero
+3256,Kelson Brown,PIT,Brown,Kelson,2018,,brown-002kel,,,2010,2015,batter,one
 1315,Danny Ortiz,PIT,Ortiz,Danny,2018,10317,ortiz-003dan,2017,2017,2008,2024,batter,one
 3675,Mark Montgomery,STL,Montgomery,Mark,2018,,montgo000mar,,,2011,2018,pitcher,one
 1944,Gabriel Lino,STL,Lino,Gabriel,2018,,lino--001gab,,,2010,2024,batter,one
@@ -696,9 +696,9 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 5497,Wynton Bernard,SFG,Bernard,Wynton,2018,13408,bernar000wyn,2022,2022,2012,2024,batter,one
 2817,Jonathan Aro,SEA,Aro,Jonathan,2018,14699,aro---000jon,2015,2016,2011,2024,pitcher,one
 403,Aronny Cruz,SEA,Cruz,Aronny,2018,,cruz--000aro,,,2014,2017,pitcher,one
-4107,Nevin Ashley,SEA,Ashley,Nevin,2018,,,,,,,batter,zero
+4107,Nevin Ashley,SEA,Ashley,Nevin,2018,3274,ashley001nev,2015,2015,2006,2016,batter,one
 4708,Ryan Casteel,SEA,Casteel,Ryan,2018,,castee001rya,,,2010,2024,batter,one
-4411,Rafael Fernandez,SEA,Fernandez,Rafael,2018,,,,,,,batter,zero
+4411,Rafael Fernandez,SEA,Fernandez,Rafael,2018,,fernan004raf,,,2011,2016,batter,one
 2740,Joey Wong,SEA,Wong,Joey,2018,,wong--001joe,,,2009,2019,batter,one
 5462,Willie Argo,SEA,Argo,Willie,2018,,argo--002wil,,,2012,2017,batter,one
 2148,Hunter Adkins,TBR,Adkins,Hunter,2018,,adkins000hun,,,2013,2018,pitcher,one
@@ -715,14 +715,14 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 1528,Doug Bernier,TEX,Bernier,Doug,2018,4518,bernie001dou,2008,2015,2002,2017,batter,one
 2398,Jared Hoying,TEX,Hoying,Jared,2018,10882,hoying001jar,2016,2021,2010,2021,batter,one
 3436,Leonel Campos,TOR,Campos,Leonel,2018,12277,campos000leo,2014,2017,2010,2023,pitcher,one
-1983,George Carroll,TOR,Carroll,George,2018,,,,,,,batter,zero
+1983,George Carroll,TOR,Carroll,George,2018,,carrol002geo,,,2011,2013,batter,one
 2799,Jon Berti,TOR,Berti,Jon,2018,12037,berti-001jon,2018,2024,2011,2024,batter,one
 3724,Matt Dean,TOR,Dean,Matt,2018,,dean--000mat,,,2012,2019,batter,one
 4931,Shane Opitz,TOR,Opitz,Shane,2018,,opitz-001sha,,,2010,2019,batter,one
 1338,Darrell Ceciliani,TOR,Ceciliani,Darrell,2018,9954,cecili001dar,2015,2017,2009,2018,batter,one
 1933,Gabriel Arias,WSN,Arias,Gabriel,2018,,arias-001gab,,,2007,2021,pitcher,one
 5122,Tim Collins,WSN,Collins,Tim,2018,3164,collin004tim,2011,2019,2007,2019,pitcher,one
-1469,Devin Ivany,WSN,Ivany,Devin,2018,,,,,,,batter,zero
+1469,Devin Ivany,WSN,Ivany,Devin,2018,,ivany-001dev,,,2004,2013,batter,one
 3784,Matt Skole,WSN,Skole,Matt,2018,12119,skole-000mat,2018,2019,2011,2019,batter,one
 1729,Emmanuel Burriss,WSN,Burriss,Emmanuel,2018,2917,burris001emm,2008,2016,2006,2018,batter,one
 3850,Michael Almanzar,WSN,Almanzar,Michael,2018,,almanz001mic,,,2008,2018,batter,one
@@ -757,9 +757,9 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 1237,Dan Lietz,ATL,Lietz,Dan,2019,,lietz-000dan,,,2013,2018,pitcher,one
 2260,Jacob Lindgren,ATL,Lindgren,Jacob,2019,16215,lindgr000jac,2015,2015,2014,2022,pitcher,one
 5327,Tyler Pike,ATL,Pike,Tyler,2019,,pike--000tyl,,,2012,2023,pitcher,one
-2708,Joe Rogers,ATL,Rogers,Joe,2019,,,,,,,pitcher,zero
+2708,Joe Rogers,ATL,Rogers,Joe,2019,,rogers000joe,,,2012,2017,pitcher,one
 5320,Tyler Marlette,ATL,Marlette,Tyler,2019,,marlet000tyl,,,2011,2018,batter,one
-3994,Mike Snyder,ATL,Snyder,Mike,2019,,,,,,,batter,zero
+3994,Mike Snyder,ATL,Snyder,Mike,2019,,snyder001mic,,,1999,2005,batter,one
 3638,Marcos Almonte,ATL,Almonte,Marcos,2019,,almont002mar,,,2014,2019,batter,one
 806,Carlos Franco,ATL,Franco,Carlos,2019,,franco001car,,,2009,2024,batter,one
 3410,Lane Adams,ATL,Adams,Lane,2019,10767,adams-001lan,2014,2018,2009,2021,batter,one
@@ -774,14 +774,14 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 4754,Ryan O’Rourke,BAL,O’Rourke,Ryan,2019,,,,,,,pitcher,zero
 396,Armando Araiza,BAL,Araiza,Armando,2019,,araiza001jes,,,2010,2023,batter,one
 414,Audry Perez,BAL,Pérez,Audry,2019,9176,perez-001aud,2013,2014,2008,2020,batter,one
-4993,Steel Russell,BAL,Russell,Steel,2019,,,,,,,batter,zero
+4993,Steel Russell,BAL,Russell,Steel,2019,,russel008wil,,,2012,2015,batter,one
 68,Aderlin Rodriguez,BAL,Rodríguez,Aderlin,2019,,rodrig001ade,,,2009,2024,batter,one
 80,Adrian Marin,BAL,Marin,Adrian,2019,,marin-000adr,,,2012,2019,batter,one
 4943,Sharlon Schoop,BAL,Schoop,Sharlon,2019,,schoop001sha,,,2005,2023,batter,one
 1959,Garabez Rosa,BAL,Rosa,Garabez,2019,,rosa--001gar,,,2007,2023,batter,one
 1785,Erick Salcedo,BAL,Salcedo,Erick,2019,,salced001eri,,,2010,2021,batter,one
 4687,Ruben Tejada,BAL,Tejada,Rubén,2019,5519,tejada001rub,2010,2019,2007,2024,batter,one
-3402,L.J. Hoes,BAL,Hoes,L. J.,2019,,,,,,,batter,zero
+3402,L.J. Hoes,BAL,Hoes,L. J.,2019,6656,hoes--001jer,2012,2015,2008,2017,batter,one
 1611,D’Arby Myers,BAL,Myers,D’Arby,2019,,,,,,,batter,zero
 3195,Justin Haley,BOS,Haley,Justin,2019,13572,haley-001jus,2017,2018,2012,2019,pitcher,one
 5521,Yankory Pimentel,BOS,Pimentel,Yankory,2019,,piment000yan,,,2012,2018,pitcher,one
@@ -793,7 +793,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 3981,Mike Miller,BOS,Miller,Mike,2019,13891,miller012mic,2016,2016,2012,2019,batter,one
 303,Aneury Tavarez,BOS,Tavárez,Aneury,2019,,tavare000ane,,,2011,2024,batter,one
 3993,Mike Olt,BOS,Olt,Mike,2019,10698,olt---001mic,2012,2015,2010,2019,batter,one
-2198,Ivan De Jesus Jr.,BOS,De Jesus Jr.,Ivan,2019,,,,,,,batter,zero
+2198,Ivan De Jesus Jr.,BOS,De Jesús,Iván,2019,9886,dejesu001iva,2011,2016,2005,2023,batter,one
 3396,Kyle Wren,BOS,Wren,Kyle,2019,,wren--000kyl,,,2013,2019,batter,one
 1150,Corey Black,CHC,Black,Corey,2019,,black-002cor,,,2012,2018,pitcher,one
 867,Casey Coleman,CHC,Coleman,Casey,2019,8270,colema001cas,2010,2014,2008,2019,pitcher,one
@@ -824,9 +824,9 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 3785,Matt Skole,CHW,Skole,Matt,2019,12119,skole-000mat,2018,2019,2011,2019,batter,one
 2302,Jake Elmore,CHW,Elmore,Jake,2019,7290,elmore001jac,2012,2019,2008,2021,batter,one
 732,Bryant Flete,CHW,Flete,Bryant,2019,,flete-000bry,,,2012,2024,batter,one
-1995,Gerson Montilla,CHW,Montilla,Gerson,2019,,,,,,,batter,zero
+1995,Gerson Montilla,CHW,Montilla,Gerson,2019,,montil001ger,,,2008,2017,batter,one
 4305,Patrick Leonard,CHW,Leonard,Patrick,2019,,leonar000pat,,,2012,2019,batter,one
-5590,Zac Kapstein,CHW,Kapstein,Zac,2019,,,,,,,batter,zero
+5590,Zac Kapstein,CHW,Kapstein,Zach,2019,,kapste001zac,,,2010,2016,batter,one
 4739,Ryan LaMarre,CHW,LaMarre,Ryan,2019,10700,lamarr001rya,2015,2021,2010,2023,batter,one
 5154,Tito Polo,CHW,Polo,Tito,2019,,polo--000tit,,,2012,2024,batter,one
 5228,Trayce Thompson,CHW,Thompson,Trayce,2019,9952,thomps003tra,2015,2023,2009,2024,batter,one
@@ -868,7 +868,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 4095,Nellie Rodriguez,CLE,Rodriguez,Nellie,2019,,rodrig006nel,,,2012,2024,batter,one
 5157,Todd Hankins,CLE,Hankins,Todd,2019,,hankin000tod,,,2011,2018,batter,one
 1551,Drew Maggi,CLE,Maggi,Drew,2019,11381,maggi-001and,2023,2023,2010,2024,batter,one
-4232,Ordomar Valdez,CLE,Valdez,Ordomar,2019,,,,,,,batter,zero
+4232,Ordomar Valdez,CLE,Valdez,Ordomar,2019,,valdez000ord,,,2011,2017,batter,one
 2711,Joe Sever,CLE,Sever,Joe,2019,,sever-000joe,,,2012,2018,batter,one
 4926,Shane Broyles,COL,Broyles,Shane,2019,,broyle000sha,,,2012,2018,pitcher,one
 4836,Santiago Casilla,COL,Casilla,Santiago,2019,2873,casill001san,2004,2018,2001,2018,pitcher,one
@@ -912,14 +912,14 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 904,Chad Huffman,DET,Huffman,Chad,2019,5311,huffma001cha,2010,2017,2006,2018,batter,one
 2444,Jason Krizan,DET,Krizan,Jason,2019,12394,krizan000jas,2022,2022,2011,2022,batter,one
 2126,Herlis Rodriguez,DET,Rodriguez,Herlis,2019,,rodrig002her,,,2011,2024,batter,one
-324,Angel Heredia,HOU,Heredia,Angel,2019,,,,,,,pitcher,zero
+324,Angel Heredia,HOU,Heredia,Angel,2019,,heredi001ang,,,2009,2017,pitcher,one
 3777,Matt Ramsey,HOU,Ramsey,Matt,2019,14460,ramsey002mat,2019,2019,2012,2019,pitcher,one
 1664,Eduardo de Oleo,HOU,de Oleo,Eduardo,2019,,deoleo000edu,,,2011,2023,batter,one
 4454,Randy Cesar,HOU,César,Randy,2019,,cesar-000ran,,,2012,2021,batter,one
 4332,Pedro Fernandez,KCR,Fernandez,Pedro,2019,,fernan003ped,,,2012,2024,pitcher,one
 3530,Luis Hernandez,KCR,Hernandez,Luis,2019,,hernan019lui,,,2016,2018,pitcher,one
-5544,Yimaury Pena,KCR,Pena,Yimaury,2019,,,,,,,pitcher,zero
-3025,Jose Veras,KCR,Veras,Jose,2019,,,,,,,pitcher,zero
+5544,Yimaury Pena,KCR,Pena,Yimaury,2019,,pena--000yim,,,2012,2015,pitcher,one
+3025,Jose Veras,KCR,Veras,Jose,2019,,veras-003jos,,,2013,2017,pitcher,one
 3397,Kyle Zimmer,KCR,Zimmer,Kyle,2019,14169,zimmer000kyl,2019,2021,2012,2022,pitcher,one
 4813,Sam Selman,KCR,Selman,Sam,2019,13397,selman001sam,2019,2022,2012,2023,pitcher,one
 4285,Parker Morin,KCR,Morin,Parker,2019,,morin-000par,,,2012,2019,batter,one
@@ -940,7 +940,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 2203,Ivan Pineyro,LAA,Piñeyro,Ivan,2019,,pineyr000iva,,,2011,2023,pitcher,one
 1660,Eduardo Rivera,LAA,Rivera,Eduardo,2019,,rivera003edu,,,2011,2023,pitcher,one
 1610,Dylan Unsworth,LAA,Unsworth,Dylan,2019,,unswor001dyl,,,2010,2023,pitcher,one
-5340,Tyler Warmoth,LAA,Warmoth,Tyler,2019,,,,,,,pitcher,zero
+5340,Tyler Warmoth,LAA,Warmoth,Tyler,2019,,warmot000tyl,,,2016,2017,pitcher,one
 306,Anfernee Benitez,LAA,Benitez,Anfernee,2019,,benite000anf,,,2012,2022,pitcher,one
 2774,John Lamb,LAA,Lamb,John,2019,8493,lamb--003joh,2015,2018,2009,2018,pitcher,one
 1882,Francisco Arcia,LAA,Arcia,Francisco,2019,10286,arcia-001fra,2018,2018,2007,2024,batter,one
@@ -969,7 +969,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 2119,Henry Ramos,LAD,Ramos,Henry,2019,11481,ramos-001hen,2021,2023,2010,2024,batter,one
 2265,Jacob Scavuzzo,LAD,Scavuzzo,Jacob,2019,,scavuz000jac,,,2012,2019,batter,one
 5223,Travis Taijeron,LAD,Taijeron,Travis,2019,11935,taijer000tra,2017,2017,2011,2019,batter,one
-289,Andy Beltre,MIA,Beltre,Andy,2019,,,,,,,pitcher,zero
+289,Andy Beltre,MIA,Beltre,Andy,2019,,beltre001and,,,2010,2017,pitcher,one
 2892,Jorgan Cavanerio,MIA,Cavanerio,Jorgan,2019,,cavane000jor,,,2011,2024,pitcher,one
 1807,Esmerling de la Rosa,MIA,de la Rosa,Esmerling,2019,,,,,,,pitcher,zero
 3170,Jumbo Diaz,MIA,Díaz,Jumbo,2019,3397,diaz--007jos,2014,2017,2002,2023,pitcher,one
@@ -1048,7 +1048,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 2907,Jorge Saez,NYY,Saez,Jorge,2019,,saez--000jor,,,2012,2019,batter,one
 1253,Daniel Barrios,NYY,Barrios,Daniel,2019,,barrio000dan,,,2012,2018,batter,one
 707,Bruce Caldwell,NYY,Caldwell,Bruce,2019,,caldwe003bru,,,2012,2019,batter,one
-5370,Victor Rey,NYY,Rey,Victor,2019,,,,,,,batter,zero
+5370,Victor Rey,NYY,Rey,Victor,2019,,rey---000vic,,,2012,2017,batter,one
 4508,Rey Navarro,NYY,Navarro,Rey,2019,6008,navarr001rey,2015,2015,2007,2019,batter,one
 3060,Josh Lucas,OAK,Lucas,Josh,2019,11686,lucas-002jos,2017,2019,2010,2023,pitcher,one
 847,Carlos Ramirez,OAK,Ramírez,Carlos,2019,11743,ramire007car,2017,2018,2009,2022,pitcher,one
@@ -1082,7 +1082,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 4729,Ryan Goins,PHI,Goins,Ryan,2019,9807,goins-001rya,2013,2020,2009,2022,batter,one
 2107,Heiker Meneses,PHI,Meneses,Heiker,2019,,menses001hei,,,2008,2022,batter,one
 2577,Jesmuel Valentin,PHI,Valentín,Jesmuel,2019,14548,valent000jes,2018,2018,2012,2024,batter,one
-5445,Will Middlebrooks,PHI,Middlebrooks,Will,2019,,,,,,,batter,zero
+5445,Will Middlebrooks,PHI,Middlebrooks,Will,2019,7002,middle001wil,2012,2017,2008,2017,batter,one
 1112,Collin Cowgill,PHI,Cowgill,Collin,2019,7250,cowgil001col,2011,2016,2008,2019,batter,one
 1316,Danny Ortiz,PHI,Ortiz,Danny,2019,10317,ortiz-003dan,2017,2017,2008,2024,batter,one
 2650,Jiandido Tromp,PHI,Tromp,Jiandido,2019,,tromp-000jia,,,2012,2023,batter,one
@@ -1104,7 +1104,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 2818,Jonathan Aro,SDP,Aro,Jonathan,2019,14699,aro---000jon,2015,2016,2011,2024,pitcher,one
 1795,Erik Johnson,SDP,Johnson,Erik,2019,12520,johnso009eri,2013,2016,2011,2018,pitcher,one
 4923,Seth Simmons,SDP,Simmons,Seth,2019,,simmon000set,,,2011,2019,pitcher,one
-1694,Elias Torres,SDP,Torres,Elias,2019,,,,,,,pitcher,zero
+1694,Elias Torres,SDP,Torres,Elias,2019,,torres000eli,,,2012,2017,pitcher,one
 642,Brett Nicholas,SDP,Nicholas,Brett,2019,11192,nichol001bre,2016,2017,2010,2019,batter,one
 4562,River Stevens,SDP,Stevens,River,2019,,steven000riv,,,2012,2018,batter,one
 1476,Diego Goris,SDP,Goris,Diego,2019,,goris-001die,,,2008,2023,batter,one
@@ -1148,7 +1148,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 1393,David Rollins,SEA,Rollins,David,2019,11928,rollin001dav,2015,2016,2011,2018,pitcher,one
 3633,Marc Rzepczynski,SEA,Rzepczynski,Marc,2019,6612,rzepcz001mar,2009,2018,2007,2022,pitcher,one
 1288,Daniel Schlereth,SEA,Schlereth,Daniel,2019,8739,schler001dan,2009,2012,2008,2019,pitcher,one
-182,Alexander Capriata,SEA,Capriata,Alexander,2019,,,,,,,batter,zero
+182,Alexander Capriata,SEA,Capriata,Alexander,2019,,capria000ale,,,2011,2017,batter,one
 790,Cameron Rupp,SEA,Rupp,Cameron,2019,11146,rupp--001cam,2013,2017,2010,2020,batter,one
 4767,Ryan Scott,SEA,Scott,Ryan,2019,,scott-002rya,,,2013,2019,batter,one
 1313,Danny Muno,SEA,Muno,Danny,2019,,,,,,,batter,zero
@@ -1172,7 +1172,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 4574,Rob Refsnyder,TBR,Refsnyder,Rob,2019,13770,refsny000rob,2015,2024,2012,2024,batter,one
 4398,R.J. Alvarez,TEX,Alvarez,R. J.,2019,13401,alvare000rj-,2014,2022,2012,2022,pitcher,one
 428,Austin Bibens-Dirkx,TEX,Bibens-Dirkx,Austin,2019,9559,bibens001aus,2017,2018,2006,2022,pitcher,one
-1061,Clayton Blackburn,TEX,Blackburn,Clayton,2019,,,,,,,pitcher,zero
+1061,Clayton Blackburn,TEX,Blackburn,Clayton,2019,,blackb000cla,,,2011,2017,pitcher,one
 4683,Royce Bolinger,TEX,Bolinger,Royce,2019,,boling001roy,,,2012,2018,pitcher,one
 948,Chi Chi Gonzalez,TEX,González,Chi Chi,2019,14663,gonzal001ale,2015,2023,2013,2023,pitcher,one
 1438,Deolis Guerra,TEX,Guerra,Deolis,2019,8410,guerra001deo,2015,2021,2006,2024,pitcher,one
@@ -1211,7 +1211,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 3798,Matt Tracy,TOR,Tracy,Matt,2019,12240,tracy-001mat,2015,2015,2011,2018,pitcher,one
 4286,Pat Cantwell,TOR,Cantwell,Pat,2019,,cantwe000pat,,,2012,2019,batter,one
 4909,Sergio Leon,TOR,Leon,Sergio,2019,,leon--004ser,,,2017,2018,batter,one
-2985,Jose Mayorga,TOR,Mayorga,Jose,2019,,,,,,,batter,zero
+2985,Jose Mayorga,TOR,Mayorga,Jose,2019,,mayorg001jos,,,2010,2015,batter,one
 165,Alex Monsalve,TOR,Monsalve,Alex,2019,,monsal001ale,,,2009,2020,batter,one
 613,Brayan Rodriguez,TOR,Rodriguez,Brayan,2019,,rodrig003bra,,,2015,2018,batter,one
 254,Andres Sotillo,TOR,Sotillo,Andres,2019,,sotill000and,,,2012,2019,batter,one
@@ -1229,7 +1229,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 1368,David Goforth,WSN,Goforth,David,2019,12166,gofort001dav,2015,2017,2011,2018,pitcher,one
 2409,Jaron Long,WSN,Long,Jaron,2019,,long--000jar,,,2013,2018,pitcher,one
 4645,Roman Mendez,WSN,Méndez,Román,2019,10307,mendez001rom,2014,2015,2008,2024,pitcher,one
-1040,Christopher Smith,WSN,Smith,Christopher,2019,,,,,,,pitcher,zero
+1040,Christopher Smith,WSN,Smith,Christopher,2019,,smith-010chr,,,2008,2009,pitcher,one
 4377,Phillips Valdez,WSN,Valdéz,Phillips,2019,15605,valdez001phi,2019,2022,2009,2024,pitcher,one
 894,Cesar Vargas,WSN,Vargas,Cesar,2019,,,,,,,pitcher,zero
 3469,Logan Darnell,WSN,Darnell,Logan,2019,11261,darnel001log,2014,2014,2010,2020,pitcher,one
@@ -1304,7 +1304,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 1266,Daniel Gonzalez,BOS,Gonzalez,Daniel,2020,,gonzal010dan,,,2013,2019,pitcher,one
 4615,Robinson Leyer,BOS,Leyer,Robinson,2020,14399,leyer-000rob,2020,2020,2012,2021,pitcher,one
 2533,Jenrry Mejia,BOS,Mejía,Jenrry,2020,8476,mejia-001jen,2010,2015,2007,2024,pitcher,one
-5629,Zach Putnam,BOS,Putnam,Zach,2020,,,,,,,pitcher,zero
+5629,Zach Putnam,BOS,Putnam,Zach,2020,9080,putnam001zac,2011,2017,2008,2017,pitcher,one
 5088,Teddy Stankiewicz,BOS,Stankiewicz,Teddy,2020,,stanki000ted,,,2013,2024,pitcher,one
 2887,Jordan Weems,BOS,Weems,Jordan,2020,13190,weems-000jor,2020,2024,2011,2024,pitcher,one
 1420,Dedgar Jimenez,BOS,Jimenez,Dedgar,2020,,jimene000ded,,,2013,2023,pitcher,one
@@ -1327,13 +1327,13 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 179,Alex Wilson,CHC,Wilson,Alex,2020,9239,wilson001ale,2013,2019,2009,2019,pitcher,one
 3630,Manuel Rondon,CHC,Rondon,Manuel,2020,,rondon000man,,,2013,2024,pitcher,one
 5066,Taylor Davis,CHC,Davis,Taylor,2020,12782,davis-001tay,2017,2021,2011,2022,batter,one
-5446,Will Remillard,CHC,Remillard,Will,2020,,,,,,,batter,zero
-5527,Yasiel Balaguert,CHC,Balaguert,Yasiel,2020,,,,,,,batter,zero
+5446,Will Remillard,CHC,Remillard,Will,2020,,remill000wil,,,2014,2018,batter,one
+5527,Yasiel Balaguert,CHC,Balaguert,Yasiel,2020,,balagu000yas,,,2012,2018,batter,one
 4373,Phillip Evans,CHC,Evans,Phillip,2020,12950,evans-002phi,2017,2021,2011,2024,batter,one
 2013,Gioskar Amaya,CHC,Amaya,Gioskar,2020,,amaya-001gio,,,2010,2020,batter,one
 1500,Dixon Machado,CHC,Machado,Dixon,2020,11472,machad001dix,2015,2022,2009,2024,batter,one
 2793,Johnny Field,CHC,Field,Johnny,2020,15048,field-001joh,2018,2018,2013,2022,batter,one
-998,Chris Pieters,CHC,Pieters,Chris,2020,,,,,,,batter,zero
+998,Chris Pieters,CHC,Pieters,Chris,2020,,pieter000chr,,,2012,2018,batter,one
 3816,Mauricio Cabrera,CHW,Cabrera,Mauricio,2020,12975,cabrer000mau,2016,2016,2011,2023,pitcher,one
 3548,Luis Martinez,CHW,Martinez,Luis,2020,,martin023lui,,,2014,2023,pitcher,one
 3213,Justin O’Conner,CHW,O’Conner,Justin,2020,,,,,,,pitcher,zero
@@ -1344,7 +1344,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 5342,Tyler Watson,CHW,Watson,Tyler,2020,,watson000tyl,,,2014,2019,pitcher,one
 201,Alfredo Gonzalez,CHW,González,Alfredo,2020,14267,gonzal004alf,2018,2018,2009,2024,batter,one
 3814,Matthew Mercedes,CHW,Mercedes,Matthew,2020,,merced002mat,,,2017,2019,batter,one
-1996,Gerson Montilla,CHW,Montilla,Gerson,2020,,,,,,,batter,zero
+1996,Gerson Montilla,CHW,Montilla,Gerson,2020,,montil001ger,,,2008,2017,batter,one
 5259,Trey Michalczewski,CHW,Michalczewski,Trey,2020,,michal000tre,,,2013,2022,batter,one
 4450,Ramon Torres,CHW,Torres,Ramón,2020,14113,torres002ram,2017,2018,2010,2023,batter,one
 3577,Luis Valenzuela,CHW,Valenzuela,Luis,2020,,valenz000lui,,,2012,2023,batter,one
@@ -1357,7 +1357,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 2755,Johendi Jiminian,CIN,Jiminian,Johendí,2020,,jimini001joh,,,2010,2019,pitcher,one
 535,Brad Markey,CIN,Markey,Brad,2020,,markey000bra,,,2014,2024,pitcher,one
 3283,Keury Mella,CIN,Mella,Keury,2020,15964,mella-000keu,2017,2021,2012,2024,pitcher,one
-2809,Jon Moscot,CIN,Moscot,Jon,2020,,,,,,,pitcher,zero
+2809,Jon Moscot,CIN,Moscot,Jon,2020,13849,moscot000jon,2015,2016,2012,2016,pitcher,one
 167,Alex Powers,CIN,Powers,Alex,2020,,powers000ale,,,2013,2022,pitcher,one
 1051,Clate Schmidt,CIN,Schmidt,Clate,2020,,schmid000cla,,,2016,2019,pitcher,one
 2247,Jackson Stephens,CIN,Stephens,Jackson,2020,14420,stephe003jac,2017,2024,2012,2024,pitcher,one
@@ -1397,11 +1397,11 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 4619,Robinson Ramos,CLE,Ramos,Robinson,2020,,ramos-006rob,,,2018,2019,batter,one
 4096,Nellie Rodriguez,CLE,Rodriguez,Nellie,2020,,rodrig006nel,,,2012,2024,batter,one
 3824,Max Moroff,CLE,Moroff,Max,2020,14556,moroff000max,2016,2021,2012,2021,batter,one
-4233,Ordomar Valdez,CLE,Valdez,Ordomar,2020,,,,,,,batter,zero
+4233,Ordomar Valdez,CLE,Valdez,Ordomar,2020,,valdez000ord,,,2011,2017,batter,one
 2909,Jorma Rodriguez,CLE,Rodriguez,Jorma,2020,,rodrig013jor,,,2013,2019,batter,one
 54,Adam Rosales,CLE,Rosales,Adam,2020,9682,rosale001ada,2008,2018,2005,2019,batter,one
 1770,Eric Stamets,CLE,Stamets,Eric,2020,13795,stamet000eri,2019,2019,2012,2022,batter,one
-2885,Jordan Smith,CLE,Smith,Jordan,2020,,,,,,,batter,zero
+2885,Jordan Smith,CLE,Smith,Jordan,2020,,smith-002jor,,,2011,2018,batter,one
 4476,Rayan Gonzalez,COL,González,Rayan,2020,,gonzal001ray,,,2012,2020,pitcher,one
 4866,Scott Griggs,COL,Griggs,Scott,2020,,griggs001sco,,,2012,2019,pitcher,one
 185,Alexander Guillen,COL,Guillen,Alexander,2020,,guille000ado,,,2013,2022,pitcher,one
@@ -1424,7 +1424,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 3808,Matt Wotherspoon,DET,Wotherspoon,Matt,2020,16452,wother000mat,2019,2019,2014,2019,pitcher,one
 3452,Liarvis Breto,DET,Breto,Liarvis,2020,,breto-000lia,,,2012,2024,pitcher,one
 1530,Doug Domnarski,DET,Domnarski,Doug,2020,,domnar000dou,,,2017,2020,pitcher,one
-2953,Jose Fernandez,DET,Fernandez,Jose,2020,,,,,,,pitcher,zero
+2953,Jose Fernandez,DET,Fernandez,Jose,2020,,fernan008jos,,,2010,2018,pitcher,one
 106,Albert Valdez,DET,Valdez,Albert,2020,,valdez002alb,,,2017,2019,pitcher,one
 3232,Kade Scivicque,DET,Scivicque,Kade,2020,,scivic000kad,,,2015,2019,batter,one
 3336,Kody Eaves,DET,Eaves,Kody,2020,,eaves-000cod,,,2012,2019,batter,one
@@ -1433,7 +1433,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 1590,Dustin Peterson,DET,Peterson,Dustin,2020,15189,peters000dus,2018,2019,2013,2024,batter,one
 1750,Erasmo Pinales,HOU,Pinales,Erasmo,2020,,pinale000era,,,2013,2024,pitcher,one
 2023,Granden Goetzman,HOU,Goetzman,Granden,2020,,goetzm000gra,,,2011,2021,batter,one
-5482,Winston Abreu,KCR,Abreu,Winston,2020,,,,,,,pitcher,zero
+5482,Winston Abreu,KCR,Abreu,Winston,2020,582,abreu-001win,2006,2009,1994,2017,pitcher,one
 715,Bryan Brickhouse,KCR,Brickhouse,Bryan,2020,,brickh000bry,,,2012,2022,pitcher,one
 271,Andrew Ferguson,KCR,Ferguson,Andrew,2020,,,,,,,pitcher,zero
 3531,Luis Hernandez,KCR,Hernandez,Luis,2020,,hernan022lui,,,2019,2024,pitcher,one
@@ -1448,19 +1448,19 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 280,Andrew Susac,KCR,Susac,Andrew,2020,13132,susac-001and,2014,2020,2012,2021,batter,one
 2863,Jordan George,KCR,George,Jordan,2020,,george000jor,,,2015,2021,batter,one
 5068,Taylor Featherston,KCR,Featherston,Taylor,2020,12590,feathe000tay,2015,2017,2011,2019,batter,one
-318,Angel Franco,KCR,Franco,Angel,2020,,,,,,,batter,zero
+318,Angel Franco,KCR,Franco,Angel,2020,,franco001ang,,,2007,2017,batter,one
 2489,Jecksson Flores,KCR,Flores,Jecksson,2020,,flores000jec,,,2011,2024,batter,one
 1779,Erich Weiss,KCR,Weiss,Erich,2020,,weiss-000eri,,,2013,2019,batter,one
 936,Chase d’Arnaud,KCR,d’Arnaud,Chase,2020,,,,,,,batter,zero
 1695,Elier Hernandez,KCR,Hernandez,Elier,2020,13750,hernan003eli,2022,2022,2012,2024,batter,one
-3917,Miguel Almonte,LAA,Almonte,Miguel,2020,,,,,,,pitcher,zero
+3917,Miguel Almonte,LAA,Almonte,Miguel,2020,14139,almont000mig,2015,2018,2011,2018,pitcher,one
 1335,Dario Beltre,LAA,Beltre,Dario,2020,,beltre001dar,,,2010,2019,pitcher,one
 4275,Parker Bridwell,LAA,Bridwell,Parker,2020,11502,bridwe001par,2016,2018,2010,2019,pitcher,one
 2589,Jesus Castillo,LAA,Castillo,Jesús,2020,,castil005jes,,,2012,2023,pitcher,one
 1653,Eduardo Del Rosario,LAA,Del Rosario,Eduardo,2020,,delros000edu,,,2013,2019,pitcher,one
 1544,Drew Hutchison,LAA,Hutchison,Drew,2020,10732,hutchi002and,2012,2022,2010,2024,pitcher,one
 3905,Michael Santos,LAA,Santos,Michael,2020,,santos000mic,,,2013,2019,pitcher,one
-1918,Franklin Navarro,LAA,Navarro,Franklin,2020,,,,,,,batter,zero
+1918,Franklin Navarro,LAA,Navarro,Franklin,2020,,navarr002fra,,,2012,2018,batter,one
 4612,Roberto Pena,LAA,Peña,Roberto,2020,,pena--002rob,,,2010,2023,batter,one
 3665,Mario Sanjur,LAA,Sanjur,Mario,2020,,sanjur000mar,,,2013,2019,batter,one
 4768,Ryan Scott,LAA,Scott,Ryan,2020,,scott-002rya,,,2013,2019,batter,one
@@ -1484,7 +1484,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 992,Chris Nunn,LAD,Nunn,Chris,2020,,nunn--000chr,,,2012,2022,pitcher,one
 1674,Edward Paredes,LAD,Paredes,Edward,2020,4168,parede001edw,2017,2018,2006,2022,pitcher,one
 4580,Rob Zastryzny,LAD,Zastryzny,Rob,2020,15094,zastry000rob,2016,2024,2013,2024,pitcher,one
-2971,Jose Lobaton,LAD,Lobaton,Jose,2020,,,,,,,batter,zero
+2971,Jose Lobaton,LAD,Lobaton,Jose,2020,,lobato002jos,,,1993,1999,batter,one
 2880,Jordan Procyshen,LAD,Procyshen,Jordan,2020,,procys000jor,,,2014,2023,batter,one
 499,Blake Gailen,LAD,Gailen,Blake,2020,,gailen001bla,,,2007,2021,batter,one
 2806,Jon Kemmer,LAD,Kemmer,Jon,2020,,kemmer000jon,,,2013,2020,batter,one
@@ -1492,7 +1492,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 997,Chris Parmelee,LAD,Parmelee,Chris,2020,2554,parmel001chr,2011,2016,2006,2019,batter,one
 789,Cameron Perkins,LAD,Perkins,Cameron,2020,13444,perkin001cam,2017,2017,2012,2019,batter,one
 4935,Shane Peterson,LAD,Peterson,Shane,2020,7423,peters002sha,2013,2017,2008,2019,batter,one
-1388,David Popkins,LAD,Popkins,David,2020,,,,,,,batter,zero
+1388,David Popkins,LAD,Popkins,David,2020,,popkin000dav,,,2012,2017,batter,one
 4399,R.J. Alvarez,MIA,Alvarez,R. J.,2020,13401,alvare000rj-,2014,2022,2012,2022,pitcher,one
 2692,Joe Gunkel,MIA,Gunkel,Joe,2020,,gunkel000joe,,,2013,2024,pitcher,one
 2871,Jordan Milbrath,MIA,Milbrath,Jordan,2020,,milbra000jor,,,2013,2021,pitcher,one
@@ -1509,11 +1509,11 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 307,Anfernee Seymour,MIA,Seymour,Anfernee,2020,,seymou000anf,,,2014,2022,batter,one
 3333,Kobie Taylor,MIA,Taylor,Kobie,2020,,taylor000kob,,,2017,2019,batter,one
 4631,Rodrigo Benoit,MIL,Benoit,Rodrigo,2020,,benoit000rod,,,2013,2024,pitcher,one
-2904,Jorge Ortega,MIL,Ortega,Jorge,2020,,,,,,,pitcher,zero
+2904,Jorge Ortega,MIL,Ortega,Jorge,2020,,ortega001jor,,,2011,2018,pitcher,one
 5332,Tyler Spurlin,MIL,Spurlin,Tyler,2020,,spurli000tyl,,,2013,2019,pitcher,one
 5270,Tuffy Gosewisch,MIL,Gosewisch,Tuffy,2020,5277,gosewi001jam,2013,2017,2005,2019,batter,one
 708,Bruce Caldwell,MIL,Caldwell,Bruce,2020,,caldwe003bru,,,2012,2019,batter,one
-5268,Tucker Neuhaus,MIL,Neuhaus,Tucker,2020,,,,,,,batter,zero
+5268,Tucker Neuhaus,MIL,Neuhaus,Tucker,2020,,neuhau000tuc,,,2013,2018,batter,one
 4073,Nate Orf,MIL,Orf,Nate,2020,15407,orf---000nat,2018,2020,2013,2020,batter,one
 3510,Luis Aviles,MIL,Aviles,Luis,2020,,aviles002lui,,,2013,2024,batter,one
 2313,Jake Hager,MIL,Hager,Jake,2020,12198,hager-000jak,2021,2022,2011,2024,batter,one
@@ -1557,7 +1557,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 76,Adonis de la Cruz,NYY,de la Cruz,Adonis,2020,,,,,,,pitcher,zero
 4452,Randall Delgado,NYY,Delgado,Randall,2020,5985,delgad001ran,2011,2018,2007,2024,pitcher,one
 557,Brady Lail,NYY,Lail,Brady,2020,14707,lail--000bra,2019,2021,2012,2022,pitcher,one
-5556,Yoiber Marquina,NYY,Marquina,Yoiber,2020,,,,,,,pitcher,zero
+5556,Yoiber Marquina,NYY,Marquina,Yoiber,2020,,marqui000yoi,,,2013,2018,pitcher,one
 5248,Trevor Rosenthal,NYY,Rosenthal,Trevor,2020,10745,rosent001tre,2012,2020,2009,2023,pitcher,one
 4505,Rex Brothers,NYY,Brothers,Rex,2020,9794,brothe001rex,2011,2021,2009,2022,pitcher,one
 1265,Daniel Coulombe,NYY,Coulombe,Daniel,2020,,,,,,,pitcher,zero
@@ -1581,7 +1581,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 3735,Matt Harvey,OAK,Harvey,Matt,2020,11713,harvey001mat,2012,2021,2011,2022,pitcher,one
 5258,Trey McNutt,OAK,McNutt,Trey,2020,,mcnutt001ken,,,2009,2019,pitcher,one
 2491,Jeferson Mejia,OAK,Mejia,Jeferson,2020,,mejia-000jef,,,2013,2019,pitcher,one
-3932,Miguel Mercedes,OAK,Mercedes,Miguel,2020,,,,,,,pitcher,zero
+3932,Miguel Mercedes,OAK,Mercedes,Miguel,2020,,merced000mig,,,2013,2018,pitcher,one
 3478,Logan Verrett,OAK,Verrett,Logan,2020,12905,verret000log,2015,2017,2012,2022,pitcher,one
 5280,Tyler Alexander,OAK,Alexander,Tyler,2020,,alexan001tyl,,,2013,2024,pitcher,one
 1415,Dean Kiekhefer,OAK,Kiekhefer,Dean,2020,10529,kiekhe001dea,2016,2018,2010,2019,pitcher,one
@@ -1656,7 +1656,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 1713,Elniery Garcia,SEA,García,Elniery,2020,,garcia000eln,,,2012,2023,pitcher,one
 4898,Sean Nolin,SEA,Nolin,Sean,2020,11341,nolin-001sea,2013,2023,2010,2023,pitcher,one
 3793,Matt Tenuta,SEA,Tenuta,Matt,2020,,tenuta000mat,,,2012,2024,pitcher,one
-183,Alexander Capriata,SEA,Capriata,Alexander,2020,,,,,,,batter,zero
+183,Alexander Capriata,SEA,Capriata,Alexander,2020,,capria000ale,,,2011,2017,batter,one
 624,Brennon Kaleiwahea,SEA,Kaleiwahea,Brennon,2020,,,,,,,batter,zero
 2877,Jordan Pacheco,SEA,Pacheco,Jordan,2020,2677,pachec002jor,2011,2016,2007,2021,batter,one
 3249,Kelby Tomlinson,SEA,Tomlinson,Kelby,2020,13005,tomlin000kel,2015,2018,2011,2021,batter,one
@@ -1714,7 +1714,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 3044,Josh Almonte,TOR,Almonte,Josh,2020,,almont000jos,,,2012,2019,pitcher,one
 2763,John Axford,TOR,Axford,John,2020,9059,axford001joh,2009,2021,2007,2021,pitcher,one
 1301,Danny Barnes,TOR,Barnes,Danny,2020,11388,barnes001dan,2016,2018,2010,2021,pitcher,one
-3672,Mark Leiter Jr.,TOR,Leiter Jr.,Mark,2020,,,,,,,pitcher,zero
+3672,Mark Leiter Jr.,TOR,Leiter,Mark,2020,15551,leiter002mar,2017,2024,2013,2024,pitcher,one
 5465,Willy Ortiz,TOR,Ortiz,Willy,2020,,ortiz-005wil,,,2012,2019,pitcher,one
 1903,Francisco Rios,TOR,Rios,Francisco,2020,,rios--002fra,,,2013,2023,pitcher,one
 3726,Matt Dermody,TOR,Dermody,Matt,2020,14844,dermod001mat,2016,2023,2013,2024,pitcher,one
@@ -1724,7 +1724,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 2467,Javier Hernandez,TOR,Hernandez,Javier,2020,,hernan009jav,,,2013,2019,batter,one
 114,Alberto Mineo,TOR,Mineo,Alberto,2020,,mineo-000alb,,,2012,2023,batter,one
 255,Andres Sotillo,TOR,Sotillo,Andres,2020,,sotill000and,,,2012,2019,batter,one
-1422,Deiferson Barreto,TOR,Barreto,Deiferson,2020,,,,,,,batter,zero
+1422,Deiferson Barreto,TOR,Barreto,Deiferson,2020,,barret000dei,,,2012,2017,batter,one
 4986,Socrates Brito,TOR,Brito,Sócrates,2020,12944,brito-001soc,2015,2019,2010,2024,batter,one
 4302,Patrick Kivlehan,TOR,Kivlehan,Patrick,2020,13910,kivleh000pat,2016,2021,2012,2023,batter,one
 2879,Jordan Patterson,TOR,Patterson,Jordan,2020,15119,patter000jor,2016,2016,2013,2020,batter,one
@@ -1746,7 +1746,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 2975,Jose Marmolejos,WSN,Marmolejos,Jose,2020,,,,,,,batter,zero
 599,Brandon Snyder,WSN,Snyder,Brandon,2020,9856,snyder002bra,2010,2018,2005,2021,batter,one
 5057,T.J. Rivera,WSN,Rivera,T. J.,2020,12495,rivera000tj-,2016,2017,2011,2021,batter,one
-1321,Dante Bichette Jr.,WSN,Bichette Jr.,Dante,2020,,,,,,,batter,zero
+1321,Dante Bichette Jr.,WSN,Bichette,Dante,2020,,bichet000dan,,,2011,2019,batter,one
 1566,Drew Ward,WSN,Ward,Drew,2020,,ward--001dre,,,2013,2024,batter,one
 4253,Osvaldo Abreu,WSN,Abreu,Osvaldo,2020,,abreu-000osv,,,2012,2024,batter,one
 473,Bengie Gonzalez,WSN,González,Benji,2020,,gonzal004ben,,,2008,2019,batter,one
@@ -1799,8 +1799,8 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 2617,Jett Bandy,BOS,Bandy,Jett,2021,12508,bandy-001jet,2015,2018,2011,2021,N/A,one
 3106,Juan Centeno,BOS,Centeno,Juan,2021,7168,centen002jua,2013,2019,2007,2024,N/A,one
 1742,Enmanuel De Jesus,BOS,De Jesus,Enmanuel,2021,18554,dejesu001enm,2023,2023,2014,2024,N/A,one
-2634,Jhonathan Diaz,BOS,Diaz,Jonathan,2021,,diaz--003jon,,,2017,2023,N/A,multiple_passed_bref_check
 2634,Jhonathan Diaz,BOS,Díaz,Jhonathan,2021,20298,diaz--002jho,2021,2024,2014,2024,N/A,multiple_passed_bref_check
+2634,Jhonathan Diaz,BOS,Diaz,Jonathan,2021,,diaz--003jon,,,2017,2023,N/A,multiple_passed_bref_check
 5547,Yoel Espinal,BOS,Espinal,Yoel,2021,,espina000yoe,,,2011,2022,N/A,one
 5243,Trevor Hildenberger,BOS,Hildenberger,Trevor,2021,17002,hilden000tre,2017,2021,2014,2023,N/A,one
 4777,Ryder Jones,BOS,Jones,Ryder,2021,15982,jones-001ryd,2017,2018,2013,2023,N/A,one
@@ -1812,15 +1812,15 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 1238,Dan McGrath,BOS,McGrath,Dan,2021,,,,,,,N/A,zero
 2561,Jeremy Rivera,BOS,Rivera,Jeremy,2021,,rivera000jer,,,2014,2023,N/A,one
 277,Andrew Schwaab,BOS,Schwaab,Andrew,2021,,schwaa000and,,,2015,2021,N/A,one
-3316,Kevin Steen,BOS,Steen,Kevin,2021,,,,,,,N/A,zero
+3316,Kevin Steen,BOS,Steen,Kevin,2021,,steen-000kev,,,2014,2016,N/A,one
 1102,Cole Sturgeon,BOS,Sturgeon,Cole,2021,,sturge000col,,,2014,2022,N/A,one
 3339,Konner Wade,BOS,Wade,Konner,2021,14655,wade--001kon,2021,2021,2013,2023,N/A,one
 5165,Tom Windle,BOS,Windle,Tom,2021,,windle001tho,,,2013,2022,N/A,one
 2393,Jantzen Witte,BOS,Witte,Jantzen,2021,,witte-000jan,,,2013,2024,N/A,one
-1151,Corey Black,CHC,Black,Corey,2021,,,,,,,N/A,zero
+1151,Corey Black,CHC,Black,Corey,2021,,black-002cor,,,2012,2018,N/A,one
 1780,Erick Castillo,CHC,Castillo,Erick,2021,12990,castil000eri,2021,2021,2012,2022,N/A,one
 1761,Eric Gonzalez,CHC,Gonzalez,Eric,2021,,gonzal008eri,,,2014,2019,N/A,one
-3592,Luke Hagerty,CHC,Hagerty,Luke,2021,,,,,,,N/A,zero
+3592,Luke Hagerty,CHC,Hagerty,Luke,2021,,hagert001luk,,,2002,2008,N/A,one
 1308,Danny Hultzen,CHC,Hultzen,Danny,2021,12874,hultze001dan,2019,2019,2011,2019,N/A,one
 2202,Ivan Medina,CHC,Medina,Ivan,2021,,medina000iva,,,2014,2022,N/A,one
 2873,Jordan Minch,CHC,Minch,Jordan,2021,,minch-000jor,,,2014,2019,N/A,one
@@ -1828,7 +1828,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 5323,Tyler Olson,CHC,Olson,Tyler,2021,14741,olson-000tyl,2015,2019,2013,2021,N/A,one
 1815,Eugenio Palma,CHC,Palma,Eugenio,2021,,palma-000eug,,,2014,2023,N/A,one
 4348,Pedro Strop,CHC,Strop,Pedro,2021,4070,strop-001ped,2009,2021,2003,2023,N/A,one
-2575,Jerry Vasto,CHC,Vasto,Jerry,2021,,,,,,,N/A,zero
+2575,Jerry Vasto,CHC,Vasto,Jerry,2021,17126,vasto-000jer,2018,2018,2014,2018,N/A,one
 3683,Mark Zagunis,CHC,Zagunis,Mark,2021,16565,zaguni000mar,2017,2019,2014,2022,N/A,one
 4989,Spencer Adams,CHW,Adams,Spencer,2021,,adams-002spe,,,2014,2019,N/A,one
 4433,Ramon Beltre,CHW,Beltre,Ramon,2021,,beltre000ram,,,2014,2019,N/A,one
@@ -1904,11 +1904,11 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 32,Abdiel Saldana,HOU,Saldana,Abdiel,2021,,saldan000abd,,,2014,2024,N/A,one
 4167,Nick Tanielu,HOU,Tanielu,Nick,2021,,taniel000nic,,,2014,2023,N/A,one
 1953,Gabriel Valdez,HOU,Valdez,Gabriel,2021,,valdez000gab,,,2014,2019,N/A,one
-5483,Winston Abreu,KCR,Abreu,Winston,2021,,,,,,,N/A,zero
+5483,Winston Abreu,KCR,Abreu,Winston,2021,582,abreu-001win,2006,2009,1994,2017,N/A,one
 1402,Dawon Burt,KCR,Burt,Dawon,2021,,,,,,,N/A,zero
 216,Allan De San Miguel,KCR,De San Miguel,Allan,2021,,,,,,,N/A,zero
 1540,Drew Ferguson,KCR,Ferguson,Drew,2021,,fergus000dre,,,2015,2021,N/A,one
-319,Angel Franco,KCR,Franco,Angel,2021,,,,,,,N/A,zero
+319,Angel Franco,KCR,Franco,Angel,2021,,franco001ang,,,2007,2017,N/A,one
 1993,Gerson Garabito,KCR,Garabito,Gerson,2021,,garabi000ger,2024,2024,2013,2024,N/A,one
 1128,Conner Greene,KCR,Greene,Conner,2021,16455,greene000con,2021,2021,2013,2024,N/A,one
 400,Arnaldo Hernandez,KCR,Hernandez,Arnaldo,2021,,hernan002arn,,,2014,2024,N/A,one
@@ -1935,7 +1935,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 5358,Victor Acosta,LAA,Acosta,Victor,2021,,acosta002vic,,,2013,2019,N/A,one
 391,Arismendy Alcantara,LAA,Alcántara,Arismendy,2021,10711,alcant003ari,2014,2017,2009,2024,N/A,one
 1884,Francisco Arcia,LAA,Arcia,Francisco,2021,10286,arcia-001fra,2018,2018,2007,2024,N/A,one
-2923,Jose Briceno,LAA,Briceno,Jose,2021,,,,,,,N/A,zero
+2923,Jose Briceno,LAA,Briceno,Jose,2021,,bricen002jos,,,2016,2017,N/A,one
 79,Adrian De Horta,LAA,De Horta,Adrian,2021,,dehort000adr,,,2013,2024,N/A,one
 2690,Joe Gatto,LAA,Gatto,Joe,2021,,gatto-000joe,,,2014,2022,N/A,one
 3878,Michael Hermosillo,LAA,Hermosillo,Michael,2021,16285,hermos000mig,2018,2022,2013,2023,N/A,one
@@ -1962,7 +1962,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 5271,Tuffy Gosewisch,MIL,Gosewisch,Tuffy,2021,5277,gosewi001jam,2013,2017,2005,2019,N/A,one
 4100,Nelson Hernandez,MIL,Hernandez,Nelson,2021,,hernan000nel,,,2014,2023,N/A,one
 984,Chris Lee,MIL,Lee,Chris,2021,,lee---003chr,,,2011,2021,N/A,one
-3163,Julio Mendez,MIL,Mendez,Julio,2021,,,,,,,N/A,zero
+3163,Julio Mendez,MIL,Mendez,Julio,2021,,mendez004jul,,,2014,2017,N/A,one
 4968,Shelby Miller,MIL,Miller,Shelby,2021,10197,miller002she,2012,2024,2009,2024,N/A,one
 1609,Dylan Prohoroff,MIL,Prohoroff,Dylan,2021,,prohor000dyl,,,2016,2021,N/A,one
 5260,Trey Supak,MIL,Supak,Trey,2021,,supak-000tre,,,2014,2024,N/A,one
@@ -2003,7 +2003,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 3825,Max Moroff,NYM,Moroff,Max,2021,14556,moroff000max,2016,2021,2012,2021,N/A,one
 2416,Jarrett Parker,NYM,Parker,Jarrett,2021,11624,parker003jar,2015,2019,2011,2019,N/A,one
 1345,Darwin Ramos,NYM,Ramos,Darwin,2021,,ramos-000dar,,,2013,2022,N/A,one
-4061,Nataneal Ramos,NYM,Ramos,Nataneal,2021,,,,,,,N/A,zero
+4061,Nataneal Ramos,NYM,Ramos,Natanael,2021,,ramos-000nat,,,2011,2017,N/A,one
 3490,Luc Rennie,NYM,Rennie,Luc,2021,,rennie000luc,,,2012,2021,N/A,one
 1904,Francisco Rios,NYM,Rios,Francisco,2021,,rios--002fra,,,2013,2023,N/A,one
 4366,Peter Tago,NYM,Tago,Peter,2021,,,,,,,N/A,zero
@@ -2011,7 +2011,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 1855,Fernando Abad,NYY,Abad,Fernando,2021,4994,abad--001fer,2010,2023,2006,2024,N/A,one
 1502,Domingo Acevedo,NYY,Acevedo,Domingo,2021,17092,aceved000dom,2021,2023,2013,2024,N/A,one
 309,Angel Aguilar,NYY,Aguilar,Angel,2021,,aguila002---,,,2012,2024,N/A,one
-1248,Daniel Alvarez,NYY,Alvarez,Daniel,2021,,,,,,,N/A,zero
+1248,Daniel Alvarez,NYY,Alvarez,Danilo,2021,,alvare003dan,,,2007,2011,N/A,one
 3508,Luis Avilan,NYY,Avilán,Luis,2021,2882,avilan001lui,2012,2021,2006,2022,N/A,one
 4703,Ryan Buchter,NYY,Buchter,Ryan,2021,9456,buchte001rya,2014,2021,2006,2021,N/A,one
 3252,Kellin Deglan,NYY,Deglan,Kellin,2021,,deglan001kel,,,2010,2022,N/A,one
@@ -2028,7 +2028,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 5494,Wynston Sawyer,NYY,Sawyer,Wynston,2021,,sawyer001wyn,,,2010,2019,N/A,one
 234,Anderson Severino,NYY,Severino,Anderson,2021,20582,severi000and,2022,2022,2014,2024,N/A,one
 3090,Josh Thole,NYY,Thole,Josh,2021,9689,thole-001jos,2009,2016,2005,2019,N/A,one
-5199,Tony Zych,NYY,Zych,Tony,2021,,,,,,,N/A,zero
+5199,Tony Zych,NYY,Zych,Tony,2021,12876,zych--001ton,2015,2017,2011,2017,N/A,one
 460,Ben Bracewell,OAK,Bracewell,Ben,2021,,bracew000ben,,,2014,2021,N/A,one
 1757,Eric Campbell,OAK,Campbell,Eric,2021,6938,campbe003eri,2014,2021,2008,2021,N/A,one
 5252,Trey Cochran-Gill,OAK,Cochran-Gill,Trey,2021,,cochra000tre,,,2014,2022,N/A,one
@@ -2092,7 +2092,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 4916,Seth Frankoff,SEA,Frankoff,Seth,2021,11346,franko001jam,2017,2021,2010,2022,N/A,one
 5586,Zac Grotz,SEA,Grotz,Zac,2021,18256,grotz-000zac,2019,2020,2015,2024,N/A,one
 3308,Kevin Munson,SEA,Munson,Kevin,2021,,munson001kev,,,2010,2019,N/A,one
-2703,Joe Odom,SEA,Odom,Joe,2021,,,,,,,N/A,zero
+2703,Joe Odom,SEA,Odom,Joe,2021,,odom--001joe,,,1983,1985,N/A,one
 4769,Ryan Scott,SEA,Scott,Ryan,2021,,scott-002rya,,,2013,2019,N/A,one
 3453,Liarvis Breto,STL,Breto,Liarvis,2021,,breto-000lia,,,2012,2024,N/A,one
 4052,Nabil Crismatt,STL,Crismatt,Nabil,2021,17732,crisma000nab,2020,2024,2012,2024,N/A,one
@@ -2136,9 +2136,9 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 5514,Yadiel Rivera,TEX,Rivera,Yadiel,2021,11863,rivera001yad,2015,2020,2010,2023,N/A,one
 3458,Locke St. John,TEX,St. John,Locke,2021,16850,stjohn000ken,2019,2022,2014,2022,N/A,one
 1806,Esmerling Vasquez,TEX,Vásquez,Esmerling,2021,5280,vasque001esm,2009,2012,2004,2019,N/A,one
-4820,Samir Vivas,TEX,Vivas,Samir,2021,,,,,,,N/A,zero
+4820,Samir Vivas,TEX,Vivas,Samir,2021,,vivas-000sam,,,2014,2018,N/A,one
 1116,Collin Wiles,TEX,Wiles,Collin,2021,15106,wiles-000col,2022,2022,2012,2024,N/A,one
-1423,Deiferson Barreto,TOR,Barreto,Deiferson,2021,,,,,,,N/A,zero
+1423,Deiferson Barreto,TOR,Barreto,Deiferson,2021,,barret000dei,,,2012,2017,N/A,one
 265,Andrew Burns,TOR,Burns,Andrew,2021,,,,,,,N/A,zero
 4301,Patrick Cantwell,TOR,Cantwell,Patrick,2021,,,,,,,N/A,zero
 4725,Ryan Dull,TOR,Dull,Ryan,2021,13974,dull--000rya,2015,2019,2012,2023,N/A,one
@@ -2147,7 +2147,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 1942,Gabriel Guerrero,TOR,Guerrero,Gabriel,2021,14528,guerre000gab,2018,2018,2011,2022,N/A,one
 3598,Mac James,TOR,James,Mac,2021,,james-000mac,,,2014,2019,N/A,one
 2601,Jesus Lopez,TOR,Lopez,Jesus,2021,,lopez-009jes,,,2014,2023,N/A,one
-3989,Mike Nittoli,TOR,Nittoli,Mike,2021,,,,,,,N/A,zero
+3989,Mike Nittoli,TOR,Nittoli,Mike,2021,,nittol001mic,,,1982,1986,N/A,one
 3137,Juan Nunez,TOR,Nunez,Juan,2021,,nunez-006jua,,,2014,2024,N/A,one
 4201,Norberto Obeso,TOR,Obeso,Norberto,2021,,obeso-000nor,,,2014,2024,N/A,one
 5466,Willy Ortiz,TOR,Ortiz,Willy,2021,,ortiz-005wil,,,2012,2019,N/A,one
@@ -2163,7 +2163,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 5074,Taylor Gushue,WSN,Gushue,Taylor,2021,16098,gushue000tay,2021,2021,2014,2022,N/A,one
 2326,Jake Lowery,WSN,Lowery,Jake,2021,,lowery000mar,,,2011,2019,N/A,one
 3778,Matt Reistetter,WSN,Reistetter,Matt,2021,,reiste000mat,,,2013,2019,N/A,one
-64,Adderling Ruiz,WSN,Ruiz,Adderling,2021,,,,,,,N/A,zero
+64,Adderling Ruiz,WSN,Ruiz,Adderling,2021,,ruiz--001add,,,2010,2018,N/A,one
 419,Austen Williams,WSN,Williams,Austen,2021,16309,willia001aus,2018,2019,2014,2019,N/A,one
 2270,Jacob Wilson,WSN,Wilson,Jacob,2021,13254,wilson010jac,2021,2021,2012,2021,N/A,one
 765,Caleb Baragar,ARI,Baragar,Caleb,2023,19231,barage000cal,2020,2021,2016,2024,pitcher,one
@@ -2177,13 +2177,13 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 302,Andy Yerzy,ARI,Yerzy,Andy,2023,,yerzy-000and,,,2016,2024,batter,one
 4396,R.J. Alaniz,ATL,Alaniz,R. J.,2023,10819,alaniz001rub,2019,2021,2010,2024,pitcher,one
 5102,Thomas Burrows,ATL,Burrows,Thomas,2023,,burrow002tho,,,2016,2022,pitcher,one
-1148,Corbin Clouse,ATL,Clouse,Corbin,2023,,,,,,,pitcher,zero
+1148,Corbin Clouse,ATL,Clouse,Corbin,2023,,clouse000cor,,,2016,2021,pitcher,one
 2858,Jordan Cowan,ATL,Cowan,Jordan,2023,,cowan-000jor,,,2013,2022,batter,one
 2432,Jason Creasy,ATL,Creasy,Jason,2023,,creasy000jas,,,2011,2024,pitcher,one
 5362,Victor De Hoyos,ATL,De Hoyos,Victor,2023,,dehoyo000vic,,,2016,2022,batter,one
 2191,Isrrael De La Cruz,ATL,De La Cruz,Isrrael,2023,,delacr000isr,,,2014,2022,pitcher,one
 2464,Jasseel De La Cruz,ATL,De La Cruz,Jasseel,2023,,delacr002jas,,,2015,2023,pitcher,one
-1427,Delino DeShields Jr.,ATL,DeShields Jr.,Delino,2023,,,,,,,batter,zero
+1427,Delino DeShields Jr.,ATL,DeShields,Delino,2023,11379,deshie002del,2015,2021,2010,2024,batter,one
 5292,Tyler Ferguson,ATL,Ferguson,Tyler,2023,,fergus000tyl,2024,2024,2015,2024,pitcher,one
 5524,Yariel Gonzalez,ATL,Gonzalez,Yariel,2023,,gonzal000yar,,,2016,2024,batter,one
 4206,Odalvi Javier,ATL,Javier,Odalvi,2023,,javier000oda,,,2015,2024,pitcher,one
@@ -2272,14 +2272,14 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 5659,Zack Muckenhirn,CHW,Muckenhirn,Zach,2023,20209,mucken000zac,2023,2023,2016,2024,pitcher,one
 1851,Felix Paulino,CHW,Paulino,Félix,2023,,paulin003fel,,,2014,2024,pitcher,one
 5631,Zach Remillard,CHW,Remillard,Zach,2023,19788,remill000zac,2023,2024,2016,2024,batter,one
-1919,Franklin Reyes,CHW,Reyes,Franklin,2023,,,,,,,batter,zero
+1919,Franklin Reyes,CHW,Reyes,Franklin,2023,,reyes-006fra,,,2016,2017,batter,one
 509,Blake Rutherford,CHW,Rutherford,Blake,2023,19957,ruther000bla,2023,2023,2016,2024,batter,one
 235,Anderson Severino,CHW,Severino,Anderson,2023,20582,severi000and,2022,2022,2014,2024,pitcher,one
 1845,Felipe Tejada,CHW,Tejada,Felipe,2023,,tejada001fel,,,2015,2023,pitcher,one
 1727,Emilio Vargas,CHW,Vargas,Emilio,2023,,vargas000emi,,,2013,2024,pitcher,one
 1246,Dan Winkler,CHW,Winkler,Dan,2023,12237,winkle001dan,2015,2021,2011,2022,pitcher,one
 3997,Mike Wright,CHW,Wright,Mike,2023,12586,wright000den,2015,2021,2011,2024,pitcher,one
-4461,Ranser Amador,CIN,Amador,Ranser,2023,,,,,,,batter,zero
+4461,Ranser Amador,CIN,Amador,Ranser,2023,,amador000ran,,,2017,2021,batter,one
 571,Brandon Bailey,CIN,Bailey,Brandon,2023,19582,bailey004bra,2020,2020,2016,2023,pitcher,one
 4274,Parker Brahms,CIN,Brahms,Parker,2023,,brahms000par,,,2021,2024,pitcher,one
 3484,Lorenzo Cedrola,CIN,Cedrola,Lorenzo,2023,,cedrol000lor,,,2015,2024,batter,one
@@ -2317,7 +2317,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 3465,Logan Cozart,COL,Cozart,Logan,2023,,cozart000log,,,2015,2022,pitcher,one
 3725,Matt Dennis,COL,Dennis,Matt,2023,,dennis000mat,,,2016,2022,pitcher,one
 1910,Frank Duncan,COL,Duncan,Frank,2023,,duncan005fra,,,2014,2024,pitcher,one
-616,Breiling Eusebio,COL,Eusebio,Breiling,2023,,,,,,,pitcher,zero
+616,Breiling Eusebio,COL,Eusebio,Breiling,2023,,eusebi000bre,,,2014,2021,pitcher,one
 581,Brandon Gold,COL,Gold,Brandon,2023,,gold--000bra,,,2016,2022,pitcher,one
 411,Ashton Goudeau,COL,Goudeau,Ashton,2023,15139,goudea000ash,2020,2022,2012,2024,pitcher,one
 4070,Nate Hadley,COL,Hadley,Nate,2023,,hadley000nat,,,2019,2023,pitcher,one
@@ -2370,9 +2370,9 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 1108,Colin McKee,HOU,McKee,Colin,2023,,mckee-000col,,,2016,2022,pitcher,one
 1034,Christian Mejias,HOU,Mejias,Christian,2023,,mejias001chr,,,2016,2023,pitcher,one
 2810,Jon Olczak,HOU,Olczak,Jon,2023,,olczak000jon,,,2015,2023,pitcher,one
-4198,Nolan Riggs,HOU,Riggs,Nolan,2023,,,,,,,pitcher,zero
+4198,Nolan Riggs,HOU,Riggs,Nolan,2023,,riggs-000nol,,,2014,2021,pitcher,one
 239,Andre Scrubb,HOU,Scrubb,Andre,2023,20329,scrubb000and,2020,2021,2016,2024,pitcher,one
-2924,Jose Briceno,KCR,Briceno,Jose,2023,,,,,,,batter,zero
+2924,Jose Briceno,KCR,Briceno,Jose,2023,,bricen002jos,,,2016,2017,batter,one
 1937,Gabriel Cancel,KCR,Cancel,Gabriel,2023,,cancel000gab,,,2015,2024,batter,one
 2195,Ivan Castillo,KCR,Castillo,Ivan,2023,15971,castil000---,2021,2021,2012,2024,batter,one
 4924,Seuly Matias,KCR,Matias,Seuly,2023,,matias000seu,,,2016,2024,batter,one
@@ -2380,12 +2380,12 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 253,Andres Sotillet,KCR,Sotillet,Andres,2023,,sotill001and,,,2016,2023,pitcher,one
 1977,Gavin Stupienski,KCR,Stupienski,Gavin,2023,,stupie000gav,,,2016,2024,batter,one
 2231,Jace Vines,KCR,Vines,Jace,2023,,vines-000jac,,,2016,2023,pitcher,one
-5013,Stephen Woods Jr,KCR,Woods Jr,Stephen,2023,,,,,,,pitcher,zero
+5013,Stephen Woods Jr,KCR,Woods,Stephen,2023,,woods-003ste,,,2016,2024,pitcher,one
 2913,Jose Adames,LAD,Adames,Jose,2023,,adames002jos,,,2011,2024,pitcher,one
 5515,Yadier Alvarez,LAD,Alvarez,Eddy,2023,16959,alvare003---,2020,2022,2014,2024,pitcher,one
 34,Abiatal Avelino,LAD,Avelino,Abiatal,2023,15496,avelin000abi,2018,2019,2012,2024,batter,one
 266,Andrew Burns,LAD,Burns,Andrew,2023,,,,,,,batter,zero
-4278,Parker Curry,LAD,Curry,Parker,2023,,,,,,,pitcher,zero
+4278,Parker Curry,LAD,Curry,Parker,2023,,curry-000par,,,2017,2019,pitcher,one
 2801,Jon Duplantier,LAD,Duplantier,Jon,2023,19546,duplan000jon,2019,2021,2016,2024,pitcher,one
 4223,Omar Estevez,LAD,Estévez,Omar,2023,,esteve000oma,,,2014,2022,batter,one
 4799,Sam Gaviglio,LAD,Gaviglio,Sam,2023,12778,gavigl001sam,2017,2020,2011,2023,pitcher,one
@@ -2407,7 +2407,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 1092,Colby Fitch,LAA,Fitch,Colby,2023,,fitch-000col,,,2017,2022,batter,one
 2309,Jake Gatewood,LAA,Gatewood,Jake,2023,,gatewo000jac,,,2014,2024,batter,one
 2961,Jose Gomez,LAA,Gomez,Jose,2023,,gomez-017jos,,,2014,2023,batter,one
-5200,Torii Hunter Jr.,LAA,Hunter Jr.,Torii,2023,,,,,,,batter,zero
+5200,Torii Hunter Jr.,LAA,Hunter,Torii,2023,,hunter002tor,,,2017,2022,batter,one
 2317,Jake Kalish,LAA,Kalish,Jake,2023,,kalish000jak,,,2015,2023,pitcher,one
 2238,Jack Mayfield,LAA,Mayfield,Jack,2023,15402,mayfie000dav,2019,2022,2013,2024,batter,one
 4894,Sean McLaughlin,LAA,McLaughlin,Sean,2023,,mclaug000sea,,,2015,2022,pitcher,one
@@ -2426,7 +2426,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 1791,Erik Gonzalez,MIA,González,Erik,2023,13369,gonzal004eri,2016,2022,2009,2024,batter,one
 2867,Jordan Holloway,MIA,Holloway,Jordan,2023,20631,hollow000jor,2020,2022,2014,2024,pitcher,one
 5103,Thomas Jones,MIA,Jones,Thomas,2023,,jones-018tho,,,2016,2024,batter,one
-3742,Matt Kent,MIA,Kent,Matt,2023,,,,,,,pitcher,zero
+3742,Matt Kent,MIA,Kent,Mat,2023,,kent--002mat,,,1998,2008,pitcher,one
 2,A.J. Ladwig,MIA,Ladwig,A. J.,2023,16266,ladwig000ada,2022,2022,2014,2022,pitcher,one
 4743,Ryan Lavarnway,MIA,Lavarnway,Ryan,2023,8879,lavarn001rya,2011,2021,2008,2023,batter,one
 727,Bryan Mitchell,MIA,Mitchell,Bryan,2023,11479,mitche001bry,2014,2021,2010,2022,pitcher,one
@@ -2530,7 +2530,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 5275,Ty Damron,OAK,Damron,Ty,2023,,damron000ty-,,,2016,2022,pitcher,one
 5379,Vince Fernandez,OAK,Fernandez,Vince,2023,,fernan000vin,,,2016,2023,batter,one
 4141,Nick Highberger,OAK,Highberger,Nick,2023,,highbe000nic,,,2016,2022,pitcher,one
-625,Brent Honeywell Jr,OAK,Honeywell Jr,Brent,2023,,,,,,,pitcher,zero
+625,Brent Honeywell Jr,OAK,Honeywell,Brent,2023,16466,honeyw002bre,2021,2024,2014,2024,pitcher,one
 332,Angello Infante,OAK,Infante,Angello,2023,,infant000ang,,,2016,2022,pitcher,one
 1219,Dalton Kelly,OAK,Kelly,Dalton,2023,,kelly-002dal,,,2015,2022,batter,one
 2322,Jake Lemoine,OAK,Lemoine,Jake,2023,,,,,,,pitcher,zero
@@ -2549,7 +2549,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 5239,Trevor Bettencourt,PHI,Bettencourt,Trevor,2023,,betten000tre,,,2016,2024,pitcher,one
 2896,Jorge Bonifacio,PHI,Bonifacio,Jorge,2023,12174,bonifa001jor,2017,2021,2010,2024,batter,one
 1254,Daniel Brito,PHI,Brito,Daniel,2023,,brito-000dan,,,2015,2023,batter,one
-264,Andrew Brown,PHI,Brown,Andrew,2023,,,,,,,pitcher,zero
+264,Andrew Brown,PHI,Brown,Andrew,2023,,brown-007and,,,2016,2021,pitcher,one
 207,Ali Castillo,PHI,Castillo,Ali,2023,,castil001ali,,,2008,2024,batter,one
 2721,Joel Cesar,PHI,Cesar,Joel,2023,,toribi001joe,,,2016,2024,pitcher,one
 123,Aldrem Corredor,PHI,Corredor,Aldrem,2023,,corred000ald,,,2013,2024,batter,one
@@ -2569,7 +2569,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 742,Bubby Rossman,PHI,Rossman,Bubby,2023,17179,rossma000bub,2022,2022,2014,2024,pitcher,one
 1007,Chris Sharpe,PHI,Sharpe,Chris,2023,,sharpe000chr,,,2017,2022,batter,one
 4770,Ryan Sherriff,PHI,Sherriff,Ryan,2023,12249,sherri001rya,2017,2023,2011,2023,pitcher,one
-3087,Josh Stephen,PHI,Stephen,Josh,2023,,,,,,,batter,zero
+3087,Josh Stephen,PHI,Stephen,Josh,2023,,stephe005jos,,,2016,2021,batter,one
 3321,Kevin Vicuna,PHI,Vicuña,Kevin,2023,,vicuna000kev,,,2015,2024,batter,one
 3222,Justin Williams,PHI,Williams,Justin,2023,15490,willia004jus,2018,2021,2013,2024,batter,one
 5648,Zack Collins,PIT,Collins,Zack,2023,19181,collin002zac,2019,2023,2016,2023,batter,one
@@ -2604,7 +2604,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 3353,Kyle Bird,SEA,Bird,Kyle,2023,16618,bird--000kyl,2019,2019,2014,2022,pitcher,one
 4700,Ryan Borucki,SEA,Borucki,Ryan,2023,16350,boruck000rya,2018,2024,2012,2024,pitcher,one
 1362,David Ellingson,SEA,Ellingson,David,2023,,elling000dav,,,2016,2022,pitcher,one
-5069,Taylor Featherston,SEA,Featherston,Taylor,2023,,,,,,,batter,zero
+5069,Taylor Featherston,SEA,Featherston,Taylor,2023,12590,feathe000tay,2015,2017,2011,2019,batter,one
 3871,Michael Flynn,SEA,Flynn,Michael,2023,,flynn-007mic,,,2018,2024,pitcher,one
 1324,Dariel Gomez,SEA,Gomez,Dariel,2023,,gomez-000dar,,,2015,2024,batter,one
 5605,Zach Green,SEA,Green,Zach,2023,14973,green-000zac,2019,2019,2012,2022,batter,one
@@ -2616,7 +2616,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 1783,Erick Mejia,SEA,Mejia,Erick,2023,15817,mejia-000eri,2019,2020,2012,2024,batter,one
 2328,Jake Miednik,SEA,Miednik,Jake,2023,,miedni000jak,,,2018,2024,pitcher,one
 5180,Tommy Milone,SEA,Milone,Tommy,2023,7608,milone001tom,2011,2023,2008,2024,pitcher,one
-787,Cameron Ming,SEA,Ming,Cameron,2023,,,,,,,pitcher,zero
+787,Cameron Ming,SEA,Ming,Cameron,2023,,ming--000cam,,,2017,2019,pitcher,one
 3983,Mike Mokma,SEA,Mokma,Mike,2023,,mokma-000mik,,,2021,2022,pitcher,one
 3065,Josh Morgan,SEA,Morgan,Josh,2023,,morgan005jos,,,2014,2024,batter,one
 1093,Colby Morris,SEA,Morris,Colby,2023,,morris002col,,,2019,2023,pitcher,one
@@ -2627,7 +2627,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 2246,Jackson Sigman,SEA,Sigman,Jackson,2023,,sigman000jac,,,2017,2024,pitcher,one
 4557,Riley Unroe,SEA,Unroe,Riley,2023,,unroe-001ril,,,2013,2024,batter,one
 4378,Phillips Valdez,SEA,Valdéz,Phillips,2023,15605,valdez001phi,2019,2022,2009,2024,pitcher,one
-4635,Rodrigo Vigil,SEA,Vigil,Rodrigo,2023,,,,,,,batter,zero
+4635,Rodrigo Vigil,SEA,Vigil,Rodrigo,2023,,vigil-001rod,,,2010,2021,batter,one
 2854,Jonathan Villar,SEA,Villar,Jonathan,2023,10071,villan001jon,2013,2022,2008,2024,batter,one
 1877,Fran Visamon,SEA,Visamon,Fran,2023,,visamo000fra,,,2022,2022,pitcher,one
 3340,Konner Wade,SEA,Wade,Konner,2023,14655,wade--001kon,2021,2021,2013,2023,pitcher,one
@@ -2693,7 +2693,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 1696,Elier Hernandez,TEX,Hernandez,Elier,2023,13750,hernan003eli,2022,2022,2012,2024,batter,one
 1183,Cristian Inoa,TEX,Inoa,Cristian,2023,,inoa--000cri,,,2016,2023,batter,one
 3492,Lucas Jacobsen,TEX,Jacobsen,Lucas,2023,,jacobs000luc,,,2016,2023,pitcher,one
-3096,Joshua Javier,TEX,Javier,Joshua,2023,,,,,,,pitcher,zero
+3096,Joshua Javier,TEX,Javier,Joshua,2023,,javier003jos,,,2016,2021,pitcher,one
 2364,James Jones,TEX,Jones,James,2023,9767,jones-023jam,2014,2015,2009,2023,pitcher,one
 2232,Jack Kruger,TEX,Kruger,Jack,2023,19634,kruger000jac,2021,2021,2016,2022,batter,one
 2596,Jesus Linarez,TEX,Linarez,Jesus,2023,,linare002jes,,,2014,2023,pitcher,one
@@ -2706,7 +2706,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 5060,Tai Tiedemann,TEX,Tiedemann,Tai,2023,,tiedem000tai,,,2016,2024,pitcher,one
 2609,Jesus Tinoco,TEX,Tinoco,Jesús,2023,16300,tinoco000jes,2019,2024,2012,2024,pitcher,one
 5253,Trey Cumbie,TOR,Cumbie,Trey,2023,,cumbie000tre,,,2018,2023,pitcher,one
-2940,Jose De Leon,TOR,De Leon,Jose,2023,,,,,,,pitcher,zero
+2940,Jose De Leon,TOR,De Leon,Jose,2023,,deleon012jos,,,2015,2018,pitcher,one
 2301,Jake Elliott,TOR,Elliott,Jake,2023,,elliot000jak,,,2016,2022,pitcher,one
 4731,Ryan Gold,TOR,Gold,Ryan,2023,,gold--000rya,,,2016,2022,batter,one
 558,Brady Lail,TOR,Lail,Brady,2023,14707,lail--000bra,2019,2021,2012,2022,pitcher,one
@@ -2729,7 +2729,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 2009,Gilbert Lara,WSN,Lara,Gilbert,2023,,lara--002gil,,,2015,2023,batter,one
 273,Andrew Lee,WSN,Lee,Andrew,2023,,lee---005and,,,2015,2023,pitcher,one
 4309,Patrick Murphy,WSN,Murphy,Patrick,2023,19712,murphy011pat,2020,2022,2014,2024,pitcher,one
-2779,John Nogowski Jr,WSN,Nogowski Jr,John,2023,,,,,,,batter,zero
+2779,John Nogowski Jr,WSN,Nogowski,John,2023,16852,nogows000joh,2020,2021,2014,2024,batter,one
 1902,Francisco Perez,WSN,Pérez,Francisco,2023,21018,perez-018fra,2021,2023,2015,2024,pitcher,one
 1205,DJ Peters,WSN,Peters,DJ,2023,19348,peters000dj-,2021,2021,2016,2024,batter,one
 2523,Jefry Rodriguez,WSN,Rodríguez,Jefry,2023,17018,rodrig003jef,2018,2021,2012,2022,pitcher,one
@@ -2804,7 +2804,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 3717,Matt Carasiti,BOS,Carasiti,Matt,2022,13276,carasi001mat,2016,2024,2012,2024,pitcher,one
 1744,Enmanuel De Jesus,BOS,De Jesus,Enmanuel,2022,18554,dejesu001enm,2023,2023,2014,2024,pitcher,one
 900,Chad De La Guerra,BOS,De La Guerra,Chad,2022,,delagu000cha,,,2015,2022,batter,one
-2941,Jose De Leon,BOS,De Leon,Jose,2022,,,,,,,pitcher,zero
+2941,Jose De Leon,BOS,De Leon,Jose,2022,,deleon012jos,,,2015,2018,pitcher,one
 2946,Jose Disla,BOS,Disla,Jose,2022,,disla-000jos,,,2013,2021,pitcher,one
 2950,Jose Espada,BOS,Espada,Jose,2022,21131,espada002jos,2023,2023,2015,2024,pitcher,one
 4484,Raynel Espinal,BOS,Espinal,Raynel,2022,19516,espina000ray,2021,2022,2013,2024,pitcher,one
@@ -2814,7 +2814,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 5587,Zac Grotz,BOS,Grotz,Zac,2022,18256,grotz-000zac,2019,2020,2015,2024,pitcher,one
 1039,Christopher Herrmann,BOS,Herrmann,Christopher,2022,,,,,,,batter,zero
 2968,Jose Iglesias,BOS,Iglesias,Jose,2022,10231,iglesi001jos,2011,2024,2006,2024,batter,one
-3743,Matt Kent,BOS,Kent,Matt,2022,,,,,,,pitcher,zero
+3743,Matt Kent,BOS,Kent,Mat,2022,,kent--002mat,,,1998,2008,pitcher,one
 2236,Jack Lopez,BOS,López,Jack,2022,13663,lopez-002jac,2021,2021,2012,2024,batter,one
 5061,Tate Matheny,BOS,Matheny,Tate,2022,,mathen000tat,,,2015,2021,batter,one
 2734,Joey Meneses,BOS,Meneses,Joey,2022,14366,menese000joe,2022,2024,2011,2024,batter,one
@@ -2878,7 +2878,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 607,Brantley Bell,CIN,Bell,Brantley,2022,,bell--000bra,,,2015,2024,batter,one
 142,Alex Blandino,CIN,Blandino,Alex,2022,16271,blandi000ale,2018,2021,2014,2024,batter,one
 4055,Narciso Crook,CIN,Crook,Narciso,2022,17473,crook-000nar,2022,2022,2014,2024,batter,one
-2630,Jhon De Jesus,CIN,De Jesus,Jhon,2022,,,,,,,pitcher,zero
+2630,Jhon De Jesus,CIN,De Jesus,Jhon,2022,,dejesu000jho,,,2015,2019,pitcher,one
 3869,Michael De Leon,CIN,De León,Michael,2022,,deleon000mic,,,2014,2024,batter,one
 5479,Wilson Garcia,CIN,Garcia,Wilson,2022,,garcia008wil,,,2011,2024,batter,one
 4800,Sam Hellinger,CIN,Hellinger,Sam,2022,,hellin000sam,,,2019,2022,pitcher,one
@@ -2892,7 +2892,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 3472,Logan Morrison,CIN,Morrison,Logan,2022,9205,morris001log,2010,2020,2006,2022,batter,one
 2103,Hector Perez,CIN,Perez,Hector,2022,18592,perez-008hec,2020,2023,2015,2024,pitcher,one
 3166,Julio Pinto,CIN,Pinto,Julio,2022,,pinto-002jul,,,2013,2024,pitcher,one
-5414,Wennington Romero,CIN,Romero,Wennington,2022,,,,,,,pitcher,zero
+5414,Wennington Romero,CIN,Romero,Wennington,2022,,romero000wen,,,2015,2019,pitcher,one
 3359,Kyle Dowdy,CLE,Dowdy,Kyle,2022,19285,dowdy-000kyl,2019,2022,2016,2023,pitcher,one
 2093,Heath Fillmyer,CLE,Fillmyer,Heath,2022,17466,fillmy000hea,2018,2019,2014,2022,pitcher,one
 2007,Gianpaul Gonzalez,CLE,Gonzalez,Gianpaul,2022,,gonzal000gia,,,2014,2021,batter,one
@@ -2918,7 +2918,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 2962,Jose Gomez,COL,Gomez,Jose,2022,,gomez-017jos,,,2014,2023,batter,one
 666,Brian Gonzalez,COL,Gonzalez,Brian,2022,,gonzal000bri,,,2014,2023,pitcher,one
 4099,Nelson Gonzalez,COL,Gonzalez,Nelson,2022,,gonzal001nel,,,2007,2023,pitcher,one
-4478,Rayan Gonzalez,COL,Gonzalez,Rayan,2022,,,,,,,pitcher,zero
+4478,Rayan Gonzalez,COL,González,Rayan,2022,,gonzal001ray,,,2012,2020,pitcher,one
 2466,Javier Guevara,COL,Guevara,Javier,2022,,guevar000jav,,,2015,2021,batter,one
 1372,David Hill,COL,Hill,David,2022,,hill--007dav,,,2015,2021,pitcher,one
 4150,Nick Longhi,COL,Longhi,Nick,2022,,longhi000nic,,,2013,2024,batter,one
@@ -2937,7 +2937,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 5525,Yariel Gonzalez,DET,Gonzalez,Yariel,2022,,gonzal000yar,,,2016,2024,batter,one
 1545,Drew Hutchison,DET,Hutchison,Drew,2022,10732,hutchi002and,2012,2022,2010,2024,pitcher,one
 5509,Xavier Javier,DET,Javier,Xavier,2022,,javier000xav,,,2015,2021,pitcher,one
-3673,Mark Leiter Jr.,DET,Leiter Jr.,Mark,2022,,,,,,,pitcher,zero
+3673,Mark Leiter Jr.,DET,Leiter,Mark,2022,15551,leiter002mar,2017,2024,2013,2024,pitcher,one
 3059,Josh Lester,DET,Lester,Josh,2022,17737,lester000jos,2022,2023,2015,2024,batter,one
 2116,Henry Martinez,DET,Martinez,Henry,2022,,martin004hen,,,2014,2022,pitcher,one
 2000,Gerson Moreno,DET,Moreno,Gerson,2022,,moreno002ger,,,2013,2024,pitcher,one
@@ -2958,7 +2958,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 590,Brandon Lawson,HOU,Lawson,Brandon,2022,,lawson002bra,,,2016,2022,pitcher,one
 2811,Jon Olczak,HOU,Olczak,Jon,2022,,olczak000jon,,,2015,2023,pitcher,one
 4199,Nolan Riggs,HOU,Riggs,Nolan,2022,,riggs-000nol,,,2014,2021,pitcher,one
-3440,Leovanny Rodriguez,HOU,Rodriguez,Leovanny,2022,,,,,,,pitcher,zero
+3440,Leovanny Rodriguez,HOU,Rodriguez,Leovanny,2022,,rodrig008leo,,,2015,2019,pitcher,one
 3942,Miguelangel Sierra,HOU,Sierra,Miguelangel,2022,,sierra002mig,,,2015,2024,batter,one
 1846,Felipe Tejada,HOU,Tejada,Felipe,2022,,tejada001fel,,,2015,2023,pitcher,one
 2271,Jacob Wilson,HOU,Wilson,Jacob,2022,13254,wilson010jac,2021,2021,2012,2021,batter,one
@@ -3009,7 +3009,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 3812,Matthew Davidson,LAD,Davidson,Matthew,2022,,,,,,,batter,zero
 4194,Nolan Long,LAD,Long,Nolan,2022,,long--000nol,,,2015,2024,pitcher,one
 2076,Hamlet Marte,LAD,Marte,Hamlet,2022,,marte-000ham,,,2011,2023,batter,one
-595,Brandon Morrow,LAD,Morrow,Brandon,2022,,,,,,,pitcher,zero
+595,Brandon Morrow,LAD,Morrow,Brandon,2022,9346,morrow001bra,2007,2018,2006,2018,pitcher,one
 5376,Vidal Nuno,LAD,Nuño,Vidal,2022,9674,nuno--001vid,2013,2018,2009,2024,pitcher,one
 2374,James Pazos,LAD,Pazos,James,2022,13323,pazos-001jam,2015,2020,2012,2023,pitcher,one
 5530,Yefry Ramirez,LAD,Ramírez,Yefry,2022,15655,ramire000yef,2018,2021,2011,2024,pitcher,one
@@ -3064,7 +3064,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 4314,Patrick Weigel,MIL,Weigel,Patrick,2022,17792,weigel000pat,2020,2021,2015,2024,pitcher,one
 1777,Eric Yardley,MIL,Yardley,Eric,2022,15538,yardle000eri,2019,2021,2013,2022,pitcher,one
 442,B.J. Boyd,MIN,Boyd,BJ,2022,,boyd--000bj-,,,2012,2023,batter,one
-38,Adam Bray,MIN,Bray,Adam,2022,,,,,,,pitcher,zero
+38,Adam Bray,MIN,Bray,Adam,2022,,bray--000ada,,,2015,2019,pitcher,one
 2927,Jose Brito,MIN,Brito,Jose,2022,,brito-009jos,,,2018,2023,pitcher,one
 452,Beau Burrows,MIN,Burrows,Beau,2022,18873,burrow000bea,2020,2021,2015,2024,pitcher,one
 1403,Dawon Burt,MIN,Burt,Dawon,2022,,,,,,,batter,zero
@@ -3142,7 +3142,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 5109,Thomas Milone,NYY,Milone,Thomas,2022,,milone000tho,,,2013,2022,batter,one
 2675,Jio Orozco,NYY,Orozco,Jio,2022,,orozco000jio,,,2015,2024,pitcher,one
 1928,Freicer Perez,NYY,Perez,Freicer,2022,,perez-006fre,,,2015,2021,pitcher,one
-1396,David Sosebee,NYY,Sosebee,David,2022,,,,,,,pitcher,zero
+1396,David Sosebee,NYY,Sosebee,David,2022,,sosebe000dav,,,2015,2019,pitcher,one
 2525,Jefry Valdez,NYY,Valdez,Jefry,2022,,valdez000jef,,,2015,2022,pitcher,one
 603,Brandon Wagner,NYY,Wagner,Brandon,2022,,wagner000bra,,,2015,2022,batter,one
 57,Adam Warren,NYY,Warren,Adam,2022,9029,warren001ada,2012,2019,2009,2021,pitcher,one
@@ -3226,12 +3226,12 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 168,Alex Powers,SDP,Powers,Alex,2022,,powers000ale,,,2013,2022,pitcher,one
 2375,James Reeves,SDP,Reeves,James,2022,,reeves006jam,,,2015,2023,pitcher,one
 5403,Webster Rivas,SDP,Rivas,Webster,2022,14636,rivas-001web,2021,2021,2010,2024,batter,one
-5495,Wynston Sawyer,SDP,Sawyer,Wynston,2022,,,,,,,batter,zero
+5495,Wynston Sawyer,SDP,Sawyer,Wynston,2022,,sawyer001wyn,,,2010,2019,batter,one
 437,Austin Smith,SDP,Smith,Austin,2022,,smith-006aus,,,2015,2022,pitcher,one
 5337,Tyler Viza,SDP,Viza,Tyler,2022,,viza--000tyl,,,2013,2024,pitcher,one
 3596,Luke Westphal,SDP,Westphal,Luke,2022,,westph000luk,,,2013,2024,pitcher,one
 392,Arismendy Alcantara,SFG,Alcántara,Arismendy,2022,10711,alcant003ari,2014,2017,2009,2024,batter,one
-1249,Daniel Alvarez,SFG,Alvarez,Daniel,2022,,,,,,,pitcher,zero
+1249,Daniel Alvarez,SFG,Alvarez,Danilo,2022,,alvare003dan,,,2007,2011,pitcher,one
 3506,Luis Amaya,SFG,Amaya,Luis,2022,,amaya-000lui,,,2015,2023,pitcher,one
 241,Andres Angulo,SFG,Angulo,Andres,2022,,angulo000and,,,2015,2023,batter,one
 3503,Luis Alexander Basabe,SFG,Basabe,Luis Alexander,2022,17839,basabe000lui,2020,2020,2013,2022,batter,one
@@ -3260,7 +3260,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 730,Bryan Torres,SFG,Torres,Bryan,2022,,torres000bry,,,2015,2024,batter,one
 4423,Raffi Vizcaino,SFG,Vizcaíno,Raffi,2022,,vizcai000raf,,,2013,2024,pitcher,one
 4816,Sam Wolff,SFG,Wolff,Sam,2022,,wolff-001sam,,,2013,2021,pitcher,one
-3944,Mike Ahmed,SEA,Ahmed,Mike,2022,,,,,,,batter,zero
+3944,Mike Ahmed,SEA,Ahmed,Mike,2022,,ahmed-000mic,,,2013,2019,batter,one
 2289,Jake Bauers,SEA,Bauers,Jake,2022,15194,bauers000jak,2018,2024,2013,2024,batter,one
 1,A.J. Bumpass,SEA,Bumpass,A. J.,2022,,bumpas000aj-,,,2019,2022,batter,one
 2859,Jordan Cowan,SEA,Cowan,Jordan,2022,,cowan-000jor,,,2013,2022,batter,one
@@ -3271,14 +3271,14 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 3194,Justin Grimm,SEA,Grimm,Justin,2022,11720,grimm-001jus,2012,2022,2011,2022,pitcher,one
 140,Alen Hanson,SEA,Hanson,Alen,2022,12926,hanson001ale,2016,2019,2010,2024,batter,one
 1766,Eric Jones,SEA,Jones,Eric,2022,,jones-006eri,,,2019,2022,batter,one
-774,Caleb Joseph,SEA,Joseph,Caleb,2022,,,,,,,batter,zero
+774,Caleb Joseph,SEA,Joseph,Caleb,2022,7087,joseph001cal,2014,2020,2008,2020,batter,one
 354,Anthony Lepre,SEA,Lepre,Anthony,2022,,lepre-000dar,,,2019,2021,batter,one
 3542,Luis Liberato,SEA,Liberato,Luis,2022,17307,libera000lui,2022,2022,2013,2024,batter,one
 4967,Shed Long,SEA,Long,Shed,2022,16542,long--000she,2019,2021,2013,2024,batter,one
 2164,Ian McKinney,SEA,McKinney,Ian,2022,,mckinn000ian,,,2013,2024,pitcher,one
 5043,Steven Moyers,SEA,Moyers,Steven,2022,,,,,,,pitcher,zero
 1840,Fausto Pediet,SEA,Pediet,Fausto,2022,,pediet000fau,,,2019,2021,pitcher,one
-3772,Matt Pierpont,SEA,Pierpont,Matt,2022,,,,,,,pitcher,zero
+3772,Matt Pierpont,SEA,Pierpont,Matt,2022,,pierpo000mat,,,2013,2019,pitcher,one
 2242,Jack Reinheimer,SEA,Reinheimer,Jack,2022,14938,reinhe001jac,2017,2018,2013,2024,batter,one
 135,Alejandro Requena,SEA,Requena,Alejandro,2022,,requen000ale,,,2014,2022,pitcher,one
 3040,Joseph Rosa,SEA,Rosa,Joseph,2022,,rosa--001jos,,,2015,2024,batter,one
@@ -3288,7 +3288,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 4815,Sam Travis,SEA,Travis,Sam,2022,16263,travis000sam,2017,2019,2014,2024,batter,one
 1921,Franklin Van Gurp,SEA,Van Gurp,Franklin,2022,,vangur000fra,,,2017,2024,pitcher,one
 3480,Logan Verrett,SEA,Verrett,Logan,2022,12905,verret000log,2015,2017,2012,2022,pitcher,one
-5641,Zach Vincej,SEA,Vincej,Zach,2022,,,,,,,batter,zero
+5641,Zach Vincej,SEA,Vincej,Zach,2022,13269,vincej000zac,2017,2018,2012,2019,batter,one
 5661,Zack Weiss,SEA,Weiss,Zack,2022,15444,weiss-001zac,2018,2023,2013,2024,pitcher,one
 2394,Jantzen Witte,SEA,Witte,Jantzen,2022,,witte-000jan,,,2013,2024,batter,one
 409,Asher Wojciechowski,SEA,Wojciechowski,Asher,2022,10836,wojcie001ran,2015,2021,2010,2022,pitcher,one
@@ -3366,7 +3366,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 718,Bryan Dobzanski,WSN,Dobzanski,Bryan,2022,,dobzan000bry,,,2014,2021,pitcher,one
 4256,Osvaldo Duarte,WSN,Duarte,Osvaldo,2022,,duarte000osv,,,2014,2021,batter,one
 5035,Steven Fuentes,WSN,Fuentes,Steven,2022,,fuente001ste,,,2014,2024,pitcher,one
-1463,Destin Hood,WSN,Hood,Destin,2022,,,,,,,batter,zero
+1463,Destin Hood,WSN,Hood,Destin,2022,9887,hood--001des,2016,2016,2008,2019,batter,one
 3385,Kyle McGowin,WSN,McGowin,Kyle,2022,15071,mcgowi000kyl,2018,2021,2013,2024,pitcher,one
 4324,Pearson McMahan,WSN,McMahan,Pearson,2022,,mcmaha000pea,,,2017,2024,pitcher,one
 1479,Diego Moreno,WSN,Moreno,Diego,2022,6238,moreno001die,2015,2017,2007,2023,pitcher,one
@@ -3416,7 +3416,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 42,Adam Kolarek,ATL,Kolarek,Adam,2024,10843,kolare001ada,2017,2023,2010,2024,pitcher,one
 679,Brian Moran,ATL,Moran,Brian,2024,9646,moran-001bri,2019,2022,2009,2024,pitcher,one
 1319,Danny Young,ATL,Young,Danny,2024,18439,young-003dan,2022,2024,2015,2024,pitcher,one
-2994,Jose Montilla,ATL,Montilla,Jose,2024,,,,,,,pitcher,zero
+2994,Jose Montilla,ATL,Montilla,Jose,2024,,montil002jos,,,1995,1998,pitcher,one
 453,Beau Burrows,ATL,Burrows,Beau,2024,18873,burrow000bea,2020,2021,2015,2024,pitcher,one
 4914,Seth Elledge,ATL,Elledge,Seth,2024,19766,elledg000set,2020,2021,2017,2024,pitcher,one
 2027,Grant Holmes,ATL,Holmes,Grant,2024,,holmes000gra,2024,2024,2014,2024,pitcher,one
@@ -3430,7 +3430,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 2010,Gilbert Lara,BAL,Lara,Gilbert,2024,,lara--002gil,,,2015,2023,batter,one
 4446,Ramon Rodriguez,BAL,Rodriguez,Ramón,2024,,rodrig019ram,,,2016,2024,batter,one
 5151,Tim Susnara,BAL,Susnara,Tim,2024,,susnar000tim,,,2017,2023,batter,one
-1400,Davis Tavarez,BAL,Tavarez,Davis,2024,,,,,,,batter,zero
+1400,Davis Tavarez,BAL,Tavárez,Davis,2024,,tavare003dav,,,2017,2022,batter,one
 1409,Daz Cameron,BAL,Cameron,Daz,2024,18353,camero000daz,2020,2024,2015,2024,batter,one
 40,Adam Hall,BAL,Hall,Adam,2024,,hall--005ada,,,2017,2024,batter,one
 5056,T.J. McFarland,BAL,McFarland,T. J.,2024,3237,mcfarl001tj-,2013,2024,2008,2024,pitcher,one
@@ -3448,9 +3448,9 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 4208,Oddanier Mosqueda,BOS,Mosqueda,Oddanier,2024,,mosque000odd,,,2016,2024,pitcher,one
 621,Brendan Nail,BOS,Nail,Brendan,2024,,nail--000bre,,,2017,2024,pitcher,one
 4981,Skylar Arias,BOS,Arias,Skylar,2024,,,,,,,pitcher,zero
-1512,Dominic LoBrutto,BOS,LoBrutto,Dominic,2024,,,,,,,pitcher,zero
+1512,Dominic LoBrutto,BOS,LoBrutto,Dominic,2024,,lobrut000dom,,,2017,2021,pitcher,one
 27,Aaron Perry,BOS,Perry,Aaron,2024,,perry-001aar,,,2019,2024,pitcher,one
-3875,Michael Gettys,BOS,Gettys,Michael,2024,,,,,,,pitcher,zero
+3875,Michael Gettys,BOS,Gettys,Michael,2024,,gettys000mic,,,2014,2022,pitcher,one
 5016,Sterling Sharp,BOS,Sharp,Sterling,2024,19671,sharp-002ste,2020,2020,2016,2024,pitcher,one
 4263,P.J. Higgins,CHC,Higgins,P. J.,2024,18433,higgin000pj-,2021,2022,2015,2024,batter,one
 5565,Yonathan Perlaza,CHC,Perlaza,Yonathan,2024,,perlaz000yon,,,2016,2024,batter,one
@@ -3501,7 +3501,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 3600,Mac Sceroler,CIN,Sceroler,Mac,2024,22218,scerol000mac,2021,2021,2017,2023,pitcher,one
 4833,Sandy Leon,CLE,León,Sandy,2024,5273,leon--001san,2012,2023,2007,2024,batter,one
 3802,Matt Turner,CLE,Turner,Matt,2024,,turner003mat,,,2017,2024,pitcher,one
-2852,Jonathan Teaney,CLE,Teaney,Jonathan,2024,,,,,,,pitcher,zero
+2852,Jonathan Teaney,CLE,Teaney,Jonathan,2024,,teaney000jon,,,2017,2019,pitcher,one
 4910,Sergio Morillo,CLE,Morillo,Sergio,2024,,morill000ser,,,2017,2023,pitcher,one
 2535,Jerad Eickhoff,CLE,Eickhoff,Jerad,2024,12664,eickho001jer,2015,2022,2011,2023,pitcher,one
 3562,Luis Oviedo,CLE,Oviedo,Luis,2024,21728,oviedo000lui,2021,2021,2016,2024,pitcher,one
@@ -3536,7 +3536,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 3821,Max Green,DET,Green,Max,2024,,green-000max,,,2017,2024,pitcher,one
 1180,Cristhian Tortosa,DET,Tortosa,Cristhian,2024,,tortos000cri,,,2016,2023,pitcher,one
 1715,Elvis Alvarado,DET,Alvarado,Elvis,2024,,alvara000elv,,,2017,2024,pitcher,one
-313,Angel De Jesus,DET,De Jesus,Angel,2024,,,,,,,pitcher,zero
+313,Angel De Jesus,DET,De Jesus,Angel,2024,,dejesu001ang,,,2008,2011,pitcher,one
 2117,Henry Montilla,DET,Montilla,Henry,2024,,montil000hen,,,2022,2023,pitcher,one
 2050,Gregoris Chalas,DET,Chalas,Gregoris,2024,,chalas000gre,,,2018,2023,pitcher,one
 546,Braden Bristo,DET,Bristo,Braden,2024,20494,bristo000bra,2023,2023,2016,2023,pitcher,one
@@ -3550,18 +3550,18 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 4781,Rylan Bannon,HOU,Bannon,Rylan,2024,19768,bannon000ryl,2022,2023,2017,2024,batter,one
 1971,Garrett Wolforth,HOU,Wolforth,Garrett,2024,,wolfor000gar,,,2019,2023,batter,one
 272,Andrew Knapp,HOU,Knapp,Andrew,2024,14942,knapp-001and,2017,2022,2013,2024,batter,one
-3138,Juan Pablo Lopez,HOU,Lopez,Juan Pablo,2024,,,,,,,pitcher,zero
+3138,Juan Pablo Lopez,HOU,Lopez,Juan Pablo,2024,,lopez-016jua,,,2017,2022,pitcher,one
 1499,Diosmerky Taveras,HOU,Taveras,Diosmerky,2024,,tavera000dio,,,2017,2024,pitcher,one
 325,Angel Macuare,HOU,Macuare,Angel,2024,,macuar000ang,,,2017,2024,pitcher,one
 4665,Ronny Garcia,HOU,Garcia,Ronny,2024,,garcia004ron,,,2017,2023,pitcher,one
-1987,Gerardo Bojorquez,HOU,Bojorquez,Gerardo,2024,,,,,,,pitcher,zero
+1987,Gerardo Bojorquez,HOU,Bojorquez,Gerardo,2024,,bojorq000ger,,,2016,2022,pitcher,one
 2125,Heribert Garcia,HOU,Garcia,Heribert,2024,,garcia003her,,,2018,2023,pitcher,one
 1746,Enoli Paredes,HOU,Paredes,Enoli,2024,20447,parede000eno,2020,2024,2016,2024,pitcher,one
 2297,Jake Cousins,HOU,Cousins,Jake,2024,21620,cousin000jak,2021,2024,2017,2024,pitcher,one
 3782,Matt Ruppenthal,HOU,Ruppenthal,Matt,2024,,ruppen000mat,,,2017,2023,pitcher,one
 2705,Joe Record,HOU,Record,Joe,2024,,record000joe,,,2019,2024,pitcher,one
 335,Angelo Castellano,KCR,Castellano,Angelo,2024,,castel000ang,,,2012,2024,batter,one
-2925,Jose Briceno,KCR,Briceno,Jose,2024,,,,,,,batter,zero
+2925,Jose Briceno,KCR,Briceno,Jose,2024,,bricen002jos,,,2016,2017,batter,one
 2897,Jorge Bonifacio,KCR,Bonifacio,Jorge,2024,12174,bonifa001jor,2017,2021,2010,2024,batter,one
 3103,Juan Carlos Negret,KCR,Negret,Juan Carlos,2024,,negret000jua,,,2017,2024,batter,one
 4040,Morgan McCullough,KCR,McCullough,Morgan,2024,,mccull000mor,,,2019,2024,batter,one
@@ -3579,7 +3579,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 2401,Jared Oliva,LAA,Oliva,Jared,2024,19968,oliva-000jar,2020,2021,2017,2024,batter,one
 783,Cam Williams,LAA,Williams,Cam,2024,,willia001cam,,,2021,2024,batter,one
 2237,Jack Lopez,LAA,López,Jack,2024,13663,lopez-002jac,2021,2021,2012,2024,batter,one
-5543,Yhonkervix Castillo,LAA,Castillo,Yhonkervix,2024,,,,,,,pitcher,zero
+5543,Yhonkervix Castillo,LAA,Castillo,Yhonkervix,2024,,castil000yho,,,2021,2022,pitcher,one
 3157,Julian Smith,LAA,Smith,Julian,2024,,smith-003jul,,,2019,2024,pitcher,one
 2635,Jhonathan Diaz,LAA,Díaz,Jhonathan,2024,20298,diaz--002jho,2021,2024,2014,2024,pitcher,one
 2319,Jake Kalish,LAA,Kalish,Jake,2024,,kalish000jak,,,2015,2023,pitcher,one
@@ -3587,7 +3587,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 2783,John Swanda,LAA,Swanda,John,2024,,swanda000joh,,,2017,2024,pitcher,one
 1101,Cole Percival,LAA,Percival,Cole,2024,,perciv000col,,,2021,2024,pitcher,one
 1865,Fernando Romero,LAA,Romero,Fernando,2024,15885,romero000fer,2018,2019,2012,2023,pitcher,one
-1824,Evan Marshall,LAA,Marshall,Evan,2024,,,,,,,pitcher,zero
+1824,Evan Marshall,LAA,Marshall,Evan,2024,12297,marsha000eva,2014,2021,2011,2021,pitcher,one
 2228,JD Hammer,LAA,Hammer,J. D.,2024,19548,hammer000jd-,2019,2021,2016,2023,pitcher,one
 2833,Jonathan Holder,LAA,Holder,Jonathan,2024,16588,holder000jon,2016,2020,2014,2023,pitcher,one
 4618,Robinson Pina,LAA,Pina,Robinson,2024,,pina--000rob,,,2017,2024,pitcher,one
@@ -3625,7 +3625,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 676,Brian Miller,MIA,Miller,Brian,2024,20047,miller006bri,2021,2021,2017,2023,batter,one
 2537,Jerar Encarnacion,MIA,Encarnación,Jerar,2024,21871,encarn000yer,2022,2022,2016,2024,batter,one
 757,C.J. Hinojosa,MIA,Hinojosa,C. J.,2024,,hinojo001cj-,,,2015,2024,batter,one
-1467,Devin Hairston,MIA,Hairston,Devin,2024,,,,,,,batter,zero
+1467,Devin Hairston,MIA,Hairston,Devin,2024,,hairst000dev,,,2017,2022,batter,one
 3018,Jose Salvador,MIA,Salvador,Jose,2024,,salvad000jos,,,2018,2023,pitcher,one
 1745,Enmanuel De Jesus,MIA,De Jesus,Enmanuel,2024,18554,dejesu001enm,2023,2023,2014,2024,pitcher,one
 5451,Will Stewart,MIA,Stewart,Will,2024,,stewar010wil,,,2015,2024,pitcher,one
@@ -3657,7 +3657,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 1954,Gabriel Yanez,MIN,Yanez,Gabriel,2024,,yanez-000gab,,,2017,2024,pitcher,one
 4826,Samuel Perez,MIN,Perez,Samuel,2024,,perez-004sam,,,2018,2024,pitcher,one
 3857,Michael Boyle,MIN,Boyle,Michael,2024,,boyle-001mic,,,2015,2024,pitcher,one
-5666,Zaquiel Puentes,MIN,Puentes,Zaquiel,2024,,,,,,,pitcher,zero
+5666,Zaquiel Puentes,MIN,Puentes,Zaquiel,2024,,puente000zaq,,,2018,2022,pitcher,one
 1038,Christopher Dishmey,MIN,Dishmey,Christopher,2024,,dishme000chr,,,2021,2023,pitcher,one
 514,Blayne Enlow,MIN,Enlow,Blayne,2024,,enlow-000bla,,,2017,2024,pitcher,one
 4310,Patrick Murphy,MIN,Murphy,Patrick,2024,19712,murphy011pat,2020,2022,2014,2024,pitcher,one
@@ -3668,7 +3668,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 172,Alex Scherff,MIN,Scherff,Alex,2024,,scherf000ale,,,2018,2024,pitcher,one
 2178,Isaac Mattson,MIN,Mattson,Isaac,2024,20385,mattso000isa,2021,2021,2017,2024,pitcher,one
 1284,Daniel Palka,NYM,Palka,Daniel,2024,14897,palka-001dan,2018,2019,2013,2024,batter,one
-3005,Jose Peraza,NYM,Peraza,Jose,2024,,,,,,,batter,zero
+3005,Jose Peraza,NYM,Peraza,Jose,2024,,peraza006jos,,,2019,2022,batter,one
 2987,Jose Mena,NYM,Mena,Jose,2024,,,,,,,batter,zero
 3485,Lorenzo Cedrola,NYM,Cedrola,Lorenzo,2024,,cedrol000lor,,,2015,2024,batter,one
 5139,Tim Locastro,NYM,Locastro,Tim,2024,15124,locast000tim,2017,2023,2013,2024,batter,one
@@ -3678,7 +3678,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 1437,Denyi Reyes,NYM,Reyes,Denyi,2024,20526,reyes-002den,2022,2023,2015,2024,pitcher,one
 3635,Marcel Renteria,NYM,Rentería,Marcel,2024,,renter000mar,,,2017,2023,pitcher,one
 2934,Jose Chacin,NYM,Chacin,Jose,2024,,,,,,,pitcher,zero
-1130,Connor Grey,NYM,Grey,Connor,2024,,,,,,,pitcher,zero
+1130,Connor Grey,NYM,Grey,Connor,2024,,grey--000con,,,2016,2022,pitcher,one
 4244,Oscar Rojas,NYM,Rojas,Oscar,2024,,rojas-003osc,,,2017,2024,pitcher,one
 2321,Jake Lamb,NYY,Lamb,Jake,2024,13329,lamb--002jac,2014,2023,2012,2024,batter,one
 3571,Luis Santos,NYY,Santos,Luis,2024,,santos007lui,,,2017,2024,batter,one
@@ -3723,13 +3723,13 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 4202,Norge Ruiz,OAK,Ruíz,Norge,2024,19580,ruiz--000nor,2022,2022,2012,2023,pitcher,one
 5065,Tayler Scott,OAK,Scott,Tayler,2024,13652,scott-000tay,2019,2024,2011,2024,pitcher,one
 4254,Osvaldo Berrios,OAK,Berrios,Osvaldo,2024,,berrio000osv,,,2017,2024,pitcher,one
-4906,Serafino Brito,OAK,Brito,Serafino,2024,,,,,,,pitcher,zero
+4906,Serafino Brito,OAK,Brito,Serafino,2024,,brito-000ser,,,2019,2022,pitcher,one
 1025,Christian Fernandez,OAK,Fernandez,Christian,2024,,fernan000chr,,,2016,2023,pitcher,one
 2657,Jim Haley,PHI,Haley,Jim,2024,,haley-000jim,,,2016,2024,batter,one
 650,Brewer Hicklen,PHI,Hicklen,Brewer,2024,20450,hickle000bre,2022,2022,2017,2024,batter,one
 1592,Dustin Peterson,PHI,Peterson,Dustin,2024,15189,peters000dus,2018,2019,2013,2024,batter,one
 2621,Jhailyn Ortiz,PHI,Ortiz,Jhailyn,2024,,ortiz-000jha,,,2016,2023,batter,one
-5452,Will Toffey,PHI,Toffey,Will,2024,,,,,,,batter,zero
+5452,Will Toffey,PHI,Toffey,Will,2024,,toffey000wil,,,2017,2022,batter,one
 4173,Nick Ward,PHI,Ward,Nick,2024,,ward--000nic,,,2018,2024,batter,one
 4585,Robbie Glendinning,PHI,Glendinning,Robbie,2024,,glendi000rob,,,2017,2024,batter,one
 2648,Jhordany Mezquita,PHI,Mezquita,Jhordany,2024,,mezqui000jho,,,2017,2024,pitcher,one
@@ -3795,7 +3795,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 1687,Efrain Contreras,SDP,Contreras,Efrain,2024,,contre005efr,,,2018,2024,pitcher,one
 2114,Henry Henry,SDP,Henry,Henry,2024,,henry-002hen,,,2016,2024,pitcher,one
 1686,Edwuin Bencomo,SDP,Bencomo,Edwuin,2024,,bencom000edw,,,2016,2023,pitcher,one
-5471,Wilmer Font,SDP,Font,Wilmer,2024,,,,,,,pitcher,zero
+5471,Wilmer Font,SDP,Font,Wilmer,2024,5257,font--001wil,2012,2020,2007,2022,pitcher,one
 1762,Eric Hanhold,SDP,Hanhold,Eric,2024,18332,hanhol000eri,2018,2021,2015,2024,pitcher,one
 4140,Nick Hernandez,SDP,Hernandez,Nick,2024,19281,hernan007nic,2023,2024,2016,2024,pitcher,one
 2338,Jake Sanchez,SDP,Sanchez,Jake,2024,,sanche000jac,,,2012,2024,pitcher,one
@@ -3825,19 +3825,19 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 3457,Ljay Newsome,SFG,Newsome,Ljay,2024,19942,newson000lja,2020,2021,2015,2024,pitcher,one
 3559,Luis Moreno,SFG,Moreno,Luis,2024,,moreno002lui,,,2017,2024,pitcher,one
 4795,Sam Delaplane,SFG,Delaplane,Sam,2024,,delapl000sam,,,2017,2024,pitcher,one
-4600,Robert Perez Jr.,SEA,Perez Jr.,Robert,2024,,,,,,,batter,zero
+4600,Robert Perez Jr.,SEA,Perez,Robert,2024,,perez-011rob,,,2017,2024,batter,one
 1131,Connor Hoover,SEA,Hoover,Connor,2024,,hoover000con,,,2017,2023,batter,one
 4559,Riley Unroe,SEA,Unroe,Riley,2024,,unroe-001ril,,,2013,2024,batter,one
-5276,Ty Kelly,SEA,Kelly,Ty,2024,,,,,,,batter,zero
+5276,Ty Kelly,SEA,Kelly,Ty,2024,7740,kelly-001tyl,2016,2018,2009,2022,batter,one
 2339,Jake Scheiner,SEA,Scheiner,Jake,2024,,schein000jak,,,2017,2024,batter,one
 4587,Robbie Tenerowicz,SEA,Tenerowicz,Robbie,2024,,tenero000rob,,,2016,2024,batter,one
-2860,Jordan Cowan,SEA,Cowan,Jordan,2024,,,,,,,batter,zero
+2860,Jordan Cowan,SEA,Cowan,Jordan,2024,,cowan-000jor,,,2013,2022,batter,one
 4347,Pedro Severino,SEA,Severino,Pedro,2024,14523,severi000ped,2015,2022,2011,2023,batter,one
 760,CRobert Emery,SEA,Emery,CRobert,2024,,,,,,,batter,zero
 3066,Josh Morgan,SEA,Morgan,Josh,2024,,morgan005jos,,,2014,2024,batter,one
 39,Adam Engel,SEA,Engel,Adam,2024,15082,engel-000ada,2017,2023,2013,2023,batter,one
 5392,Walking Cabrera,SEA,Cabrera,Walking,2024,,cabrer002wal,,,2017,2023,batter,one
-2789,Johnny Adams,SEA,Adams,Johnny,2024,,,,,,,batter,zero
+2789,Johnny Adams,SEA,Adams,Johnny,2024,,adams-009joh,,,2017,2021,batter,one
 3481,Logan Warmoth,SEA,Warmoth,Logan,2024,,warmot000log,,,2017,2024,batter,one
 3367,Kyle Hart,SEA,Hart,Kyle,2024,19646,hart--000kyl,2020,2020,2016,2024,pitcher,one
 512,Blake Weiman,SEA,Weiman,Blake,2024,,weiman000bla,,,2017,2024,pitcher,one
@@ -3849,7 +3849,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 3261,Kelvin Nunez,SEA,Nunez,Kelvin,2024,,nunez-002kel,,,2017,2023,pitcher,one
 4791,Sam Carlson,SEA,Carlson,Sam,2024,,carlso000sam,,,2017,2024,pitcher,one
 4123,Nick Davila,SEA,Davila,Nick,2024,,davill000nic,,,2021,2024,pitcher,one
-549,Braden Shipley,SEA,Shipley,Braden,2024,,,,,,,pitcher,zero
+549,Braden Shipley,SEA,Shipley,Braden,2024,15158,shiple000bra,2016,2018,2013,2022,pitcher,one
 5086,Taylor Williams,SEA,Williams,Taylor,2024,14899,willia000tay,2017,2021,2013,2024,pitcher,one
 4176,Nick Wittgren,SEA,Wittgren,Nick,2024,15594,wittgr000nic,2016,2023,2012,2024,pitcher,one
 879,Casey Sadler,SEA,Sadler,Casey,2024,11209,sadler001cas,2014,2021,2010,2023,pitcher,one
@@ -3875,13 +3875,12 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 2745,Johan Lopez,TBR,Lopez,Johan,2024,,lopez-004joh,,,2017,2023,batter,one
 489,Billy Hamilton,TBR,Hamilton,Billy,2024,10199,hamilt002bil,2013,2023,2009,2024,batter,one
 1477,Diego Infante,TBR,Infante,Diego,2024,,infant000die,,,2017,2024,batter,one
-2972,Jose Lopez,TBR,Lopez,Jose,2024,,,,,,,pitcher,zero
 1104,Cole Sulser,TBR,Sulser,Cole,2024,15256,sulser000col,2019,2024,2013,2024,pitcher,one
 4706,Ryan Burr,TBR,Burr,Ryan,2024,17536,burr--000rya,2018,2024,2015,2024,pitcher,one
 5247,Trevor Kelley,TBR,Kelley,Trevor,2024,18454,kelley000tre,2019,2023,2015,2024,pitcher,one
 5360,Victor Castaneda,TBR,Castaneda,Victor,2024,,castan000vic,,,2017,2024,pitcher,one
 1498,Diosbel Arias,TEX,Arias,Diosbel,2024,,arias-000dio,,,2013,2024,batter,one
-4724,Ryan Dorow,TEX,Dorow,Ryan,2024,,,,,,,batter,zero
+4724,Ryan Dorow,TEX,Dorow,Ryan,2024,23559,dorow-000rya,2021,2021,2017,2022,batter,one
 2883,Jordan Procyshen,TEX,Procyshen,Jordan,2024,,procys000jor,,,2014,2023,batter,one
 1146,Cooper Johnson,TEX,Johnson,Cooper,2024,,johnso000coo,,,2019,2024,batter,one
 3805,Matt Whatley,TEX,Whatley,Matt,2024,,whatle000mat,,,2017,2024,batter,one
@@ -3892,11 +3891,10 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 3493,Lucas Jacobsen,TEX,Jacobsen,Lucas,2024,,jacobs000luc,,,2016,2023,pitcher,one
 3045,Josh Dye,TEX,Dye,Josh,2024,,dye---000jos,,,2018,2023,pitcher,one
 3134,Juan Mejia,TEX,Mejia,Juan,2024,,mejia-006jua,,,2017,2023,pitcher,one
-3097,Joshua Javier,TEX,Javier,Joshua,2024,,,,,,,pitcher,zero
+3097,Joshua Javier,TEX,Javier,Joshua,2024,,javier003jos,,,2016,2021,pitcher,one
 1305,Danny Duffy,TEX,Duffy,Danny,2024,3542,duffy-001dan,2011,2021,2007,2024,pitcher,one
 4597,Robert Dugger,TEX,Dugger,Robert,2024,19191,dugger000rob,2019,2022,2016,2024,pitcher,one
 5346,Tyler Zombro,TEX,Zombro,Tyler,2024,,zombro000tyl,,,2017,2023,pitcher,one
-4164,Nick Snyder,TEX,Snyder,Nick,2024,,,,,,,pitcher,zero
 1867,Fernery Ozuna,TEX,Ozuna,Fernery,2024,,ozuna-000fer,,,2013,2023,pitcher,one
 3354,Kyle Cody,TEX,Cody,Kyle,2024,19686,cody--000kyl,2020,2021,2016,2024,pitcher,one
 1668,Edwar Colina,TEX,Colina,Edwar,2024,20589,colina002edw,2020,2020,2016,2023,pitcher,one
@@ -3918,7 +3916,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 1932,Gabe Klobosits,TOR,Klobosits,Gabe,2024,19881,klobos000gab,2021,2021,2017,2024,pitcher,one
 5638,Zach Thompson,TOR,Thompson,Zach,2024,16094,thomps002zac,2021,2022,2014,2023,pitcher,one
 3806,Matt Wisler,TOR,Wisler,Matt,2024,12804,wisler000mat,2015,2022,2011,2023,pitcher,one
-4640,Roither Hernandez,TOR,Hernandez,Roither,2024,,,,,,,pitcher,zero
+4640,Roither Hernandez,TOR,Hernandez,Roither,2024,,hernan000roi,,,2017,2021,pitcher,one
 2797,Jol Concepcion,TOR,Concepcion,Jol,2024,,concep000jol,,,2017,2023,pitcher,one
 2697,Joe Jones,TOR,Jones,Joe,2024,,jones-006joe,,,2017,2024,pitcher,one
 1478,Diego Linares,TOR,Linares,Diego,2024,,linare000die,,,2021,2023,pitcher,one
@@ -3988,7 +3986,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 3619,Manny Delcarmen,BAL,Delcarmen,Manny,2014,3180,delcar001man,2005,2010,2001,2018,pitcher,one
 1275,Daniel McCutchen,BAL,McCutchen,Daniel,2014,263,mccutc001dan,2009,2014,2006,2016,pitcher,one
 3000,Jose Nivar,BAL,Nivar,Jose,2014,,nivar-001jos,,,2007,2018,pitcher,one
-5048,Stu Pomeranz*,BAL,Pomeranz,Stu,2014,,,,,,,pitcher,zero
+5048,Stu Pomeranz*,BAL,Pomeranz,Stu,2014,6382,pomera001stu,2012,2012,2003,2012,pitcher,one
 55,Adam Russell,BAL,Russell,Adam,2014,7334,russel001ada,2008,2011,2004,2014,pitcher,one
 5667,Zech Zinicola,BAL,Zinicola,Zech,2014,,zinico001zec,,,2006,2019,pitcher,one
 3670,Mark Hendrickson,BAL,Hendrickson,Mark,2014,1574,hendri001mar,2002,2011,1998,2014,pitcher,one
@@ -4005,7 +4003,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 5518,Yamaico Navarro,BAL,Navarro,Yamaico,2014,5665,navarr001yam,2010,2013,2006,2023,batter,one
 4185,Niuman Romero,BAL,Romero,Niuman,2014,5063,romero001niu,2009,2010,2005,2023,batter,one
 1982,George Barber,BAL,Barber,George,2014,,barber002geo,,,2010,2014,batter,one
-4851,Scott Beerer,BAL,Beerer,Scott,2014,,,,,,,batter,zero
+4851,Scott Beerer,BAL,Beerer,Scott,2014,,beerer001sco,,,2003,2012,batter,one
 3370,Kyle Hudson,BAL,Hudson,Kyle,2014,3658,hudson001kyl,2011,2011,2008,2015,batter,one
 5231,Trayvon Robinson,BAL,Robinson,Trayvon,2014,9875,robins001tra,2011,2012,2005,2024,batter,one
 345,Anthony Carter,BOS,Carter,Anthony,2014,,carter001ant,,,2006,2022,pitcher,one
@@ -4084,7 +4082,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 2571,Jerry Gil,CLE,Gil,Jerry,2014,2207,gil---001jer,2004,2007,2000,2015,pitcher,one
 1891,Francisco Jimenez,CLE,Jimenez,Francisco,2014,,jimene005fra,,,2007,2013,pitcher,one
 2213,J.C. Romero,CLE,Romero,J. C.,2014,754,romero002jua,1999,2012,1997,2017,pitcher,one
-3720,Matt Colantonio,CLE,Colantonio,Matt,2014,,,,,,,batter,zero
+3720,Matt Colantonio,CLE,Colantonio,Matt,2014,,colant000mat,,,2011,2012,batter,one
 3746,Matt LaPorta,CLE,LaPorta,Matt,2014,2280,laport001mat,2009,2012,2007,2014,batter,one
 3533,Luis Hernandez,CLE,Hernández,Luis,2014,3206,hernan003lui,2007,2012,2002,2017,batter,one
 4077,Nate Spears,CLE,Spears,Nate,2014,6026,spears001nat,2011,2012,2003,2015,batter,one
@@ -4151,7 +4149,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 944,Che-Hsuan Lin,HOU,Lin,Che-Hsuan,2014,3734,lin---001che,2012,2012,2007,2024,batter,one
 2421,Jason Bergmann,KCR,Bergmann,Jason,2014,4640,bergma001jas,2005,2010,2002,2013,pitcher,one
 4841,Santiago Garrido,KCR,Garrido,Santiago,2014,,garrid001san,,,2007,2017,pitcher,one
-1471,Devon Lowery*,KCR,Lowery,Devon,2014,,,,,,,pitcher,zero
+1471,Devon Lowery*,KCR,Lowery,Devon,2014,3500,lowery001dev,2008,2008,2001,2010,pitcher,one
 1063,Clayton Mortensen,KCR,Mortensen,Clayton,2014,3166,morten001cla,2009,2013,2007,2017,pitcher,one
 3169,Julio Rodriguez,KCR,Rodriguez,Julio,2014,,rodrig007jul,,,2007,2016,pitcher,one
 4811,Sam Runion,KCR,Runion,Sam,2014,,runion001sam,,,2007,2019,pitcher,one
@@ -4168,7 +4166,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 365,Anthony Seratelli,KCR,Seratelli,Anthony,2014,,serate001ant,,,2006,2015,batter,one
 4946,Sharlon Schoop*,KCR,Schoop,Sharlon,2014,,schoop001sha,,,2005,2023,batter,one
 2015,Gorkys Hernandez,KCR,Hernández,Gorkys,2014,4146,hernan002gor,2012,2019,2006,2023,batter,one
-922,Charles Thomas*,KCR,Thomas,Charles,2014,,,,,,,batter,zero
+922,Charles Thomas*,KCR,Thomas,Charles,2014,,thomas006cha,,,2009,2012,batter,one
 1643,Edinson Rincon,KCR,Rincon,Edinson,2014,,rincon001edi,,,2007,2015,batter,one
 4230,Orangel Arenas,LAA,Arenas,Orangel,2014,,arenas001ora,,,2007,2016,pitcher,one
 3417,Lay Batista,LAA,Batista,Lay,2014,,batist001lay,,,2007,2017,pitcher,one
@@ -4199,7 +4197,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 359,Anthony Ortega,LAD,Ortega,Anthony,2014,6745,ortega001ant,2009,2009,2006,2022,pitcher,one
 3768,Matt Palmer,LAD,Palmer,Matt,2014,4457,palmer001jon,2008,2012,2002,2014,pitcher,one
 3666,Mario Santiago*,LAD,Santiago,Mario,2014,,santia001mar,,,2005,2019,pitcher,one
-1292,Daniel Tamares,LAD,Tamares,Daniel,2014,,,,,,,pitcher,zero
+1292,Daniel Tamares,LAD,Tamares,Daniel,2014,,tamare001dan,,,2007,2011,pitcher,one
 3579,Luis Vasquez,LAD,Vasquez,Luis,2014,,vasque003lui,,,2007,2019,pitcher,one
 4901,Sean White,LAD,White,Sean,2014,5564,white-001sea,2007,2010,2003,2013,pitcher,one
 3264,Kelvin de la Cruz,LAD,de la Cruz,Kelvin,2014,,,,,,,pitcher,zero
@@ -4215,7 +4213,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 4338,Pedro Guerrero,LAD,Guerrero,Pedro,2014,,guerre003ped,,,2006,2013,batter,one
 4750,Ryan Mount,LAD,Mount,Ryan,2014,,mount-001rya,,,2005,2013,batter,one
 3704,Matt Angle,LAD,Angle,Matt,2014,8136,angle-001mat,2011,2011,2007,2015,batter,one
-5188,Tony Gwynn Jr.,LAD,Gwynn Jr.,Tony,2014,,,,,,,batter,zero
+5188,Tony Gwynn Jr.,LAD,Gwynn,Tony,2014,6141,gwynn-002ant,2006,2014,2003,2015,batter,one
 2559,Jeremy Moore,LAD,Moore,Jeremy,2014,7307,moore-001jer,2011,2011,2005,2014,batter,one
 2815,Jonathan Albaladejo,MIA,Albaladejo,Jonathan,2014,3521,albala001jon,2007,2012,2001,2019,pitcher,one
 2933,Jose Ceda,MIA,Ceda,Jose,2014,,,,,,,pitcher,zero
@@ -4229,7 +4227,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 3300,Kevin Kouzmanoff,MIA,Kouzmanoff,Kevin,2014,5995,kouzma001kev,2006,2014,2003,2014,batter,one
 416,Audy Ciriaco,MIA,Ciriaco,Audy,2014,,ciriac001aud,,,2005,2021,batter,one
 977,Chris Gutierrez,MIA,Gutierrez,Chris,2014,,gutier001chr,,,2005,2013,batter,one
-4669,Rony Peralta,MIA,Peralta,Rony,2014,,,,,,,batter,zero
+4669,Rony Peralta,MIA,Peralta,Rony,2014,,peralt001ron,,,2008,2012,batter,one
 3885,Michael Main,MIA,Main,Michael,2014,,main--001mic,,,2007,2013,batter,one
 2340,Jake Smolinski,MIA,Smolinski,Jake,2014,5408,smolin001jak,2014,2018,2007,2019,batter,one
 1917,Frankie de la Cruz,MIL,de la Cruz,Frankie,2014,,,,,,,pitcher,zero
@@ -4285,7 +4283,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 584,Brandon Hicks,NYM,Hicks,Brandon,2014,4003,hicks-001bra,2010,2014,2007,2016,batter,one
 3076,Josh Rodriguez,NYM,Rodriguez,Joshua,2014,5716,rodrig033jos,2011,2011,2006,2024,batter,one
 2380,Jamie Hoffmann,NYM,Hoffmann,Jamie,2014,6461,hoffma004jam,2009,2011,2004,2013,batter,one
-1163,Cory Arbiso,NYY,Arbiso,Cory,2014,,,,,,,pitcher,zero
+1163,Cory Arbiso,NYY,Arbiso,Cory,2014,,arbiso001cor,,,2008,2012,pitcher,one
 4796,Sam Demel,NYY,Demel,Sam,2014,868,demel-001sam,2010,2012,2007,2014,pitcher,one
 5575,Yoshinori Tateyama,NYY,Tateyama,Yoshinori,2014,11651,tateya001yos,2011,2012,1999,2014,pitcher,one
 526,Bobby Wilson,NYY,Wilson,Bobby,2014,6564,wilson014rob,2008,2019,2003,2019,batter,one
@@ -4320,7 +4318,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 3818,Mauricio Robles,PHI,Robles,Mauricio,2014,8895,robles001mau,2013,2013,2006,2019,pitcher,one
 2044,Greg Smith,PHI,Smith,Greg,2014,3455,smith-009gre,2008,2010,2005,2016,pitcher,one
 2782,John Suomi,PHI,Suomi,John,2014,,suomi-001joh,,,2000,2013,batter,one
-4961,Shawn Williams*,PHI,Williams,Shawn,2014,,,,,,,batter,zero
+4961,Shawn Williams*,PHI,Williams,Shawn,2014,,willia003sha,,,2006,2012,batter,one
 3794,Matt Tolbert,PHI,Tolbert,Matt,2014,7365,tolber001chr,2008,2011,2004,2014,batter,one
 3047,Josh Fields,PHI,Fields,Josh,2014,7490,fields001jos,2006,2010,2004,2015,batter,one
 3916,Miguel Abreu,PHI,Abreu,Miguel,2014,,abreu-002mig,,,2005,2014,batter,one
@@ -4329,7 +4327,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 1358,David Bromberg,PIT,Bromberg,David,2014,,brombe001dav,,,2006,2014,pitcher,one
 700,Brooks Brown,PIT,Brown,Brooks,2014,5679,brown-001bro,2014,2015,2006,2015,pitcher,one
 1788,Erik Cordier,PIT,Cordier,Erik,2014,4086,cordie001eri,2014,2015,2004,2017,pitcher,one
-2436,Jason Erickson,PIT,Erickson,Jason,2014,,,,,,,pitcher,zero
+2436,Jason Erickson,PIT,Erickson,Jason,2014,,ericks001jas,,,2009,2011,pitcher,one
 2020,Graham Godfrey,PIT,Godfrey,Graham,2014,3128,godfre001gra,2011,2012,2007,2014,pitcher,one
 1531,Doug Mathis,PIT,Mathis,Doug,2014,3944,mathis001dou,2008,2010,2005,2015,pitcher,one
 3572,Luis Sanz,PIT,Sanz,Luis,2014,,sanz--001lui,,,2006,2016,pitcher,one
@@ -4344,14 +4342,14 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 3936,Miguel Perez,PIT,Pérez,Miguel,2014,3262,perez-002mig,2005,2005,2002,2013,batter,one
 212,Ali Solis,PIT,Solís,Alí,2014,8848,solis-001rom,2012,2014,2006,2024,batter,one
 4695,Russ Canzler,PIT,Canzler,Russ,2014,8265,canzle001rus,2011,2012,2004,2015,batter,one
-2199,Ivan De Jesus Jr.,PIT,De Jesus Jr.,Ivan,2014,,,,,,,batter,zero
+2199,Ivan De Jesus Jr.,PIT,De Jesús,Iván,2014,9886,dejesu001iva,2011,2016,2005,2023,batter,one
 4246,Oscar Tejeda,PIT,Tejeda,Oscar,2014,,tejeda001osc,,,2007,2015,batter,one
 2396,Jared Goedert,PIT,Goedert,Jared,2014,,goeder001jar,,,2006,2014,batter,one
 654,Brian Bocock,PIT,Bocock,Brian,2014,3534,bocock001bri,2008,2010,2006,2014,batter,one
 632,Brett Carroll,PIT,Carroll,Brett,2014,8066,carrol001bre,2007,2012,2004,2014,batter,one
-4005,Miles Durham*,PIT,Durham,Miles,2014,,,,,,,batter,zero
+4005,Miles Durham*,PIT,Durham,Miles,2014,,durham001mil,,,2006,2012,batter,one
 1341,Darren Ford,PIT,Ford,Darren,2014,109,ford--002dar,2010,2011,2005,2019,batter,one
-357,Anthony Norman*,PIT,Norman,Anthony,2014,,,,,,,batter,zero
+357,Anthony Norman*,PIT,Norman,Anthony,2014,,norman001ant,,,2007,2012,batter,one
 4533,Richard Castillo,STL,Castillo,Richard,2014,,castil001ric,,,2007,2018,pitcher,one
 4438,Ramon Delgado,STL,Delgado,Ramon,2014,,delgad001ram,,,2007,2017,pitcher,one
 1460,Deryk Hooker,STL,Hooker,Deryk,2014,,hooker001der,,,2007,2016,pitcher,one
@@ -4392,7 +4390,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 5020,Steve Edlefsen,SFG,Edlefsen,Steve,2014,2185,edlefs001ste,2011,2012,2007,2014,pitcher,one
 1346,Daryl Maday,SFG,Maday,Daryl,2014,,maday-001dar,,,2007,2013,pitcher,one
 2808,Jon Meloan*,SFG,Meloan,Jon,2014,3355,meloan001jon,2007,2009,2005,2014,pitcher,one
-4764,Ryan Sadowski*,SFG,Sadowski,Ryan,2014,,,,,,,pitcher,zero
+4764,Ryan Sadowski*,SFG,Sadowski,Ryan,2014,5916,sadows001rya,2009,2009,2003,2012,pitcher,one
 3698,Mason Tobin,SFG,Tobin,Mason,2014,2534,tobin-001mas,2011,2011,2007,2014,pitcher,one
 5315,Tyler LaTorre,SFG,LaTorre,Tyler,2014,,latorr001tyl,,,2006,2016,batter,one
 3681,Mark Wagner,SFG,Wagner,Mark,2014,,wagner002mar,,,2005,2013,batter,one
@@ -4402,7 +4400,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 4982,Skyler Stromsmoe,SFG,Stromsmoe,Skyler,2014,,stroms001sky,,,2007,2015,batter,one
 2816,Jonathan Arias,SEA,Arias,Jonathan,2014,,arias-001jon,,,2006,2015,pitcher,one
 4035,Moises Hernandez,SEA,Hernandez,Moises,2014,,hernan001moi,,,2003,2015,pitcher,one
-626,Brent Johnson*,SEA,Johnson,Brent,2014,,,,,,,pitcher,zero
+626,Brent Johnson*,SEA,Johnson,Brent,2014,,johnso001bre,,,2004,2009,pitcher,one
 5009,Stephen Shackleford,SEA,Shackleford,Stephen,2014,,shackl001ste,,,2010,2016,pitcher,one
 686,Brian Sweeney,SEA,Sweeney,Brian,2014,1801,sweene001bri,2003,2010,1996,2013,pitcher,one
 4345,Pedro Reyes,SEA,Reyes,Pedro,2014,,reyes-003ped,,,2010,2013,pitcher,one
@@ -4485,18 +4483,18 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 3086,Josh Smoker*,WSN,Smoker,Josh,2014,10285,smoker001jos,2016,2018,2007,2019,pitcher,one
 670,Brian Jeroloman,WSN,Jeroloman,Brian,2014,,jerolo001bri,,,2006,2016,batter,one
 820,Carlos Maldonado,WSN,Maldonado,Carlos,2014,2034,maldon003car,2006,2012,1996,2015,batter,one
-4893,Sean McCauley*,WSN,McCauley,Sean,2014,,,,,,,batter,zero
-454,Beau Seabury*,WSN,Seabury,Beau,2014,,,,,,,batter,zero
+4893,Sean McCauley*,WSN,McCauley,Sean,2014,,mccaul001sea,,,2007,2009,batter,one
+454,Beau Seabury*,WSN,Seabury,Beau,2014,,seabur001bea,,,2007,2012,batter,one
 986,Chris Marrero,WSN,Marrero,Chris,2014,2852,marrer002chr,2011,2017,2006,2019,batter,one
 2667,Jimmy VanOstrand,WSN,VanOstrand,Jimmy,2014,,,,,,,batter,zero
 3876,Michael Gilmartin,WSN,Gilmartin,Michael,2014,,,,,,,batter,zero
 5447,Will Rhymes,WSN,Rhymes,Will,2014,9802,rhymes001wil,2010,2012,2005,2014,batter,one
 796,Carlos Alvarez,WSN,Alvarez,Carlos,2014,,gonzal001esm,,,2007,2014,batter,one
-3841,Melvin Dorta*,WSN,Dorta,Melvin,2014,,,,,,,batter,zero
+3841,Melvin Dorta*,WSN,Dorta,Melvin,2014,2562,dorta-001mel,2006,2006,2001,2011,batter,one
 852,Carlos Rivero,WSN,Rivero,Carlos,2014,1136,rivero001car,2014,2014,2006,2023,batter,one
 3071,Josh R. Johnson,WSN,R. Johnson,Josh,2014,,,,,,,batter,zero
 2536,Jerad Head,WSN,Head,Jerad,2014,8517,head--001jer,2011,2011,2006,2013,batter,one
-2456,Jason Michaels*,WSN,Michaels,Jason,2014,,,,,,,batter,zero
+2456,Jason Michaels*,WSN,Michaels,Jason,2014,1399,michae001jas,2001,2011,1998,2012,batter,one
 1001,Chris Rahl,WSN,Rahl,Chris,2014,,rahl--001chr,,,2005,2014,batter,one
 1754,Eric Brooks,ARI,Brooks,Eric,2015,,brooks002eri,,,2012,2014,pitcher,one
 2021,Graham Godfrey,ARI,Godfrey,Graham,2015,3128,godfre001gra,2011,2012,2007,2014,pitcher,one
@@ -4527,7 +4525,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 4529,Rich Poythress,ATL,Poythress,Rich,2015,,poythr002ric,,,2009,2014,batter,one
 1520,Donnie Murphy,ATL,Murphy,Donnie,2015,4704,murphy003don,2004,2014,2002,2015,batter,one
 4891,Sean Kazmar,ATL,Kazmar,Sean,2015,7349,kazmar001sea,2008,2021,2004,2021,batter,one
-4260,Ozzie Martinez,ATL,Martinez,Ozzie,2015,,,,,,,batter,zero
+4260,Ozzie Martinez,ATL,Martinez,Ozzie,2015,,martin003osv,,,1994,2007,batter,one
 2066,Gustavo Nunez,ATL,Nunez,Gustavo,2015,,nunez-001gus,,,2007,2024,batter,one
 576,Brandon Boggs,ATL,Boggs,Brandon,2015,8021,boggs-001bra,2008,2011,2004,2015,batter,one
 2582,Jesse Beal,BAL,Beal,Jesse,2015,,beal--001jes,,,2008,2017,pitcher,one
@@ -4539,8 +4537,8 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 690,Brock Huntzinger,BAL,Huntzinger,Brock,2015,,huntzi001bro,,,2007,2016,pitcher,one
 5023,Steve Johnson,BAL,Johnson,Steve,2015,4053,johnso006ste,2012,2016,2005,2018,pitcher,one
 1828,Evan Meek,BAL,Meek,Evan,2015,5109,meek--001eva,2008,2014,2003,2016,pitcher,one
-4445,Ramon Ramirez,BAL,Ramírez,Ramón,2015,7986,ramire003ram,2006,2014,2002,2021,pitcher,multiple_passed_bref_check
 4445,Ramon Ramirez,BAL,Ramirez,Ramon,2015,,ramire007ram,,,2014,2015,pitcher,multiple_passed_bref_check
+4445,Ramon Ramirez,BAL,Ramírez,Ramón,2015,7986,ramire003ram,2006,2014,2002,2021,pitcher,multiple_passed_bref_check
 4112,Nick Additon,BAL,Additon,Nick,2015,,addito001nic,,,2007,2019,pitcher,one
 2439,Jason Gurka,BAL,Gurka,Jason,2015,8007,gurka-001jas,2015,2017,2008,2022,pitcher,one
 983,Chris Jones,BAL,Jones,Chris,2015,,jones-010chr,,,2007,2016,pitcher,one
@@ -4570,7 +4568,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 4995,Stefan Welch,BOS,Welch,Stefan,2015,,welch-001ste,,,2007,2018,batter,one
 3198,Justin Henry,BOS,Henry,Justin,2015,,henry-001jus,,,2007,2014,batter,one
 3660,Mario Martinez,BOS,Martinez,Mario,2015,,martin009mar,,,2007,2017,batter,one
-2200,Ivan De Jesus Jr.,BOS,De Jesus Jr.,Ivan,2015,,,,,,,batter,zero
+2200,Ivan De Jesus Jr.,BOS,De Jesús,Iván,2015,9886,dejesu001iva,2011,2016,2005,2023,batter,one
 4722,Ryan Dent,BOS,Dent,Ryan,2015,,dent--001rya,,,2007,2019,batter,one
 1458,Derrik Gibson,BOS,Gibson,Derrik,2015,,gibson002der,,,2008,2018,batter,one
 2831,Jonathan Herrera,BOS,Herrera,Jonathan,2015,4182,herrer001jon,2008,2015,2003,2017,batter,one
@@ -4640,7 +4638,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 1716,Elvis Araujo,CLE,Araújo,Elvis,2015,12854,araujo001elv,2015,2016,2008,2024,pitcher,one
 1596,Dusty Brown,CLE,Brown,Dusty,2015,3420,brown-001dus,2009,2011,2001,2014,batter,one
 3588,Luke Carlin,CLE,Carlin,Luke,2015,4666,carlin001luk,2008,2012,2002,2015,batter,one
-3721,Matt Colantonio,CLE,Colantonio,Matt,2015,,,,,,,batter,zero
+3721,Matt Colantonio,CLE,Colantonio,Matt,2015,,colant000mat,,,2011,2012,batter,one
 975,Chris Gimenez,CLE,Gimenez,Chris,2015,7324,gimene001chr,2009,2018,2004,2018,batter,one
 37,Adam Abraham,CLE,Abraham,Adam,2015,,abraha001ada,,,2008,2014,batter,one
 4697,Russell Branyan,CLE,Branyan,Russell,2015,370,branya001rus,1998,2011,1994,2014,batter,one
@@ -4734,7 +4732,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 1539,Drew Carpenter,LAD,Carpenter,Drew,2015,9533,carpen001and,2008,2012,2006,2015,pitcher,one
 4797,Sam Demel,LAD,Demel,Sam,2015,868,demel-001sam,2010,2012,2007,2014,pitcher,one
 5002,Stephen Fife,LAD,Fife,Stephen,2015,8077,fife--001ste,2012,2014,2008,2018,pitcher,one
-491,Bladimir Franco,LAD,Franco,Bladimir,2015,,,,,,,pitcher,zero
+491,Bladimir Franco,LAD,Franco,Bladimir,2015,,franco001bla,,,2008,2013,pitcher,one
 2065,Gustavo Gomez,LAD,Gomez,Gustavo,2015,,gomez-001gus,,,2008,2014,pitcher,one
 5539,Yeuri Gonzalez,LAD,Gonzalez,Yeuri,2015,,gonzal001yeu,,,2010,2015,pitcher,one
 3055,Josh Judy,LAD,Judy,Josh,2015,1975,judy--001jos,2011,2011,2007,2019,pitcher,one
@@ -4770,7 +4768,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 1702,Elih Villanueva,MIA,Villanueva,Elih,2015,8796,villan002eli,2011,2011,2008,2024,pitcher,one
 184,Alexander Carreras,MIA,Carreras,Alexander,2015,,carrer000ale,,,2008,2014,pitcher,one
 2367,James Leverton,MIA,Leverton,James,2015,,levert001jam,,,2008,2014,pitcher,one
-2931,Jose Ceballos,MIA,Ceballos,Jose,2015,,,,,,,batter,zero
+2931,Jose Ceballos,MIA,Ceballos,Jose,2015,,ceball001jos,,,2007,2013,batter,one
 5427,Wilfredo Gimenez,MIA,Gimenez,Wilfredo,2015,,gimene001wil,,,2008,2023,batter,one
 3573,Luis Sanz,MIA,Sanz,Luis,2015,,sanz--002lui,,,2008,2014,batter,one
 3391,Kyle Skipworth,MIA,Skipworth,Kyle,2015,5298,skipwo001kyl,2013,2013,2008,2016,batter,one
@@ -4913,10 +4911,10 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 2406,Jarek Cunningham,PIT,Cunningham,Jarek,2015,,cunnin001jar,,,2008,2016,batter,one
 4594,Robert Andino,PIT,Andino,Robert,2015,4900,andino001rob,2005,2016,2002,2017,batter,one
 1413,Dean Anna,PIT,Anna,Dean,2015,8353,anna--001dea,2014,2015,2008,2018,batter,one
-2042,Greg Picart,PIT,Picart,Greg,2015,,,,,,,batter,zero
-4004,Miles Durham,PIT,Durham,Miles,2015,,,,,,,batter,zero
-434,Austin McClune,PIT,McClune,Austin,2015,,,,,,,batter,zero
-356,Anthony Norman,PIT,Norman,Anthony,2015,,,,,,,batter,zero
+2042,Greg Picart,PIT,Picart,Greg,2015,,picart001gre,,,2004,2012,batter,one
+4004,Miles Durham,PIT,Durham,Miles,2015,,durham001mil,,,2006,2012,batter,one
+434,Austin McClune,PIT,McClune,Austin,2015,,mcclun001aus,,,2006,2010,batter,one
+356,Anthony Norman,PIT,Norman,Anthony,2015,,norman001ant,,,2007,2012,batter,one
 297,Andy Vasquez,PIT,Vasquez,Andy,2015,,vasque001and,,,2007,2022,batter,one
 1353,David Aardsma,STL,Aardsma,David,2015,1902,aardsm001dav,2004,2015,2003,2017,pitcher,one
 2916,Jose Almarante,STL,Almarante,Jose,2015,,estali001edu,,,2008,2019,pitcher,one
@@ -4994,7 +4992,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 2844,Jonathan Quinonez,TBR,Quinonez,Jonathan,2015,,quinon001jon,,,2008,2014,batter,one
 4474,Ray Olmedo,TBR,Olmedo,Ray,2015,1718,olmedo001rai,2003,2012,1999,2015,batter,one
 3186,Justin Christian,TBR,Christian,Justin,2015,8297,christ001jus,2008,2012,2003,2015,batter,one
-2356,James Darnell,TBR,Darnell,James,2015,,,,,,,batter,zero
+2356,James Darnell,TBR,Darnell,James,2015,9060,darnel001jam,2011,2012,2008,2013,batter,one
 2560,Jeremy Moore,TBR,Moore,Jeremy,2015,7307,moore-001jer,2011,2011,2005,2014,batter,one
 200,Alfredo Figaro,TEX,Fígaro,Alfredo,2015,8404,figaro001alf,2009,2014,2006,2018,pitcher,one
 5472,Wilmer Font,TEX,Font,Wilmer,2015,5257,font--001wil,2012,2020,2007,2022,pitcher,one
@@ -5050,7 +5048,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 4010,Mitch Canham,WSN,Canham,Mitch,2015,,canham001mit,,,2007,2015,batter,one
 671,Brian Jeroloman,WSN,Jeroloman,Brian,2015,,jerolo001bri,,,2006,2016,batter,one
 162,Alex Marquez,WSN,Marquez,Alex,2015,,marque001ale,,,2010,2016,batter,one
-3840,Melvin Dorta,WSN,Dorta,Melvin,2015,,,,,,,batter,zero
+3840,Melvin Dorta,WSN,Dorta,Melvin,2015,2562,dorta-001mel,2006,2006,2001,2011,batter,one
 5448,Will Rhymes,WSN,Rhymes,Will,2015,9802,rhymes001wil,2010,2012,2005,2014,batter,one
 589,Brandon Laird,WSN,Laird,Brandon,2015,5476,laird-001bra,2011,2013,2007,2022,batter,one
 4247,Oscar Tejeda,WSN,Tejeda,Oscar,2015,,tejeda001osc,,,2007,2015,batter,one
@@ -5082,10 +5080,10 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 2043,Greg Ross,ATL,Ross,Greg,2016,,ross--000gre,,,2011,2017,pitcher,one
 262,Andrew Barbosa,ATL,Barbosa,Andrew,2016,,barbos001and,,,2012,2018,pitcher,one
 2046,Greg Smith,ATL,Smith,Greg,2016,3455,smith-009gre,2008,2010,2005,2016,pitcher,one
-3030,Jose Yepez,ATL,Yepez,Jose,2016,,,,,,,batter,zero
+3030,Jose Yepez,ATL,Yepez,Jose,2016,,yepez-002jos,,,1987,1987,batter,one
 3286,Kevin Ahrens,ATL,Ahrens,Kevin,2016,,ahrens001kev,,,2007,2017,batter,one
 4892,Sean Kazmar,ATL,Kazmar,Sean,2016,7349,kazmar001sea,2008,2021,2004,2021,batter,one
-4589,Robby Hefflinger,ATL,Hefflinger,Robby,2016,,,,,,,batter,zero
+4589,Robby Hefflinger,ATL,Hefflinger,Robby,2016,,heffli003rob,,,2009,2014,batter,one
 885,Cedric Hunter,ATL,Hunter,Cedric,2016,2833,hunter001ced,2011,2016,2006,2019,batter,one
 4046,Mycal Jones,ATL,Jones,Mycal,2016,,jones-001myc,,,2009,2016,batter,one
 2583,Jesse Beal,BAL,Beal,Jesse,2016,,beal--001jes,,,2008,2017,pitcher,one
@@ -5097,7 +5095,6 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 3738,Matt Hobgood,BAL,Hobgood,Matt,2016,,hobgoo001mat,,,2009,2015,pitcher,one
 3269,Kenn Kasparek,BAL,Kasparek,Kenn,2016,,kaspar001ken,,,2008,2015,pitcher,one
 5456,Williams Louico,BAL,Louico,Williams,2016,,princi001wil,,,2008,2015,pitcher,one
-2984,Jose Mateo,BAL,Mateo,Jose,2016,,,,,,,pitcher,zero
 3999,Mikey O’Brien,BAL,O’Brien,Mikey,2016,,,,,,,pitcher,zero
 3634,Marcel Prado,BAL,Prado,Marcel,2016,,prado-003mar,,,2006,2016,pitcher,one
 275,Andrew Robinson,BAL,Robinson,Andrew,2016,,robins014jam,,,2010,2017,pitcher,one
@@ -5110,10 +5107,10 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 4657,Ronan Pacheco,BAL,Pacheco,Ronan,2016,,pachec002ron,,,2008,2015,pitcher,one
 2639,Jhonathan Ramos,BAL,Ramos,Jhonathan,2016,,ramos-001jho,,,2007,2022,pitcher,one
 1091,Cody Wheeler,BAL,Wheeler,Cody,2016,,wheele001cod,,,2010,2016,pitcher,one
-5597,Zach Booker,BAL,Booker,Zach,2016,,,,,,,batter,zero
-4956,Shawn McGill,BAL,McGill,Shawn,2016,,,,,,,batter,zero
+5597,Zach Booker,BAL,Booker,Zach,2016,,booker001zac,,,2007,2011,batter,one
+4956,Shawn McGill,BAL,McGill,Shawn,2016,,mcgill001sha,,,2006,2013,batter,one
 4680,Rossmel Perez,BAL,Perez,Rossmel,2016,,perez-001ros,,,2006,2016,batter,one
-2727,Joel Polanco,BAL,Polanco,Joel,2016,,,,,,,batter,zero
+2727,Joel Polanco,BAL,Polanco,Joel,2016,,polanc002joe,,,2011,2014,batter,one
 602,Brandon Snyder,BAL,Snyder,Brandon,2016,9856,snyder002bra,2010,2018,2005,2021,batter,one
 1459,Derrik Gibson,BAL,Gibson,Derrik,2016,,gibson002der,,,2008,2018,batter,one
 4945,Sharlon Schoop,BAL,Schoop,Sharlon,2016,,schoop001sha,,,2005,2023,batter,one
@@ -5131,12 +5128,12 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 3551,Luis Martinez,BOS,Martinez,Luis,2016,2481,martin011lui,2011,2012,2007,2015,batter,one
 2147,Humberto Quintero,BOS,Quintero,Humberto,2016,1824,quinte001hum,2003,2014,1999,2016,batter,one
 3789,Matt Spring,BOS,Spring,Matt,2016,,spring001mat,,,2004,2015,batter,one
-2714,Joe Thurston,BOS,Thurston,Joe,2016,,,,,,,batter,zero
+2714,Joe Thurston,BOS,Thurston,Joe,2016,673,thurst001jos,2002,2011,1999,2014,batter,one
 1583,Dustin Lawley,BOS,Lawley,Dustin,2016,,lawley000dus,,,2011,2016,batter,one
 3661,Mario Martinez,BOS,Martinez,Mario,2016,,martin009mar,,,2007,2017,batter,one
 853,Carlos Rivero,BOS,Rivero,Carlos,2016,1136,rivero001car,2014,2014,2006,2023,batter,one
 4248,Oscar Tejeda,BOS,Tejeda,Oscar,2016,,tejeda001osc,,,2007,2015,batter,one
-1535,Dreily Guerrero,BOS,Guerrero,Dreily,2016,,,,,,,batter,zero
+1535,Dreily Guerrero,BOS,Guerrero,Dreily,2016,,guerre001dre,,,2009,2014,batter,one
 3284,Keury de la Cruz,BOS,de la Cruz,Keury,2016,,,,,,,batter,zero
 834,Carlos Peguero,BOS,Peguero,Carlos,2016,8760,peguer001car,2011,2015,2006,2023,batter,one
 2848,Jonathan Roof,BOS,Roof,Jonathan,2016,,roof--001jon,,,2010,2016,batter,one
@@ -5195,8 +5192,8 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 3688,Marquez Smith,CIN,Smith,Marquez,2016,,smith-017mar,,,2007,2016,batter,one
 3346,Kris Negron,CIN,Negron,Kris,2016,,,,,,,batter,zero
 5412,Wendell Soto,CIN,Soto,Wendell,2016,,soto--001wen,,,2010,2015,batter,one
-3175,Junior Arias,CIN,Arias,Junior,2016,,arias-002jun,,,2012,2016,batter,multiple_passed_bref_check
 3175,Junior Arias,CIN,Arias,Junior,2016,,arias-001jun,,,2009,2016,batter,multiple_passed_bref_check
+3175,Junior Arias,CIN,Arias,Junior,2016,,arias-002jun,,,2012,2016,batter,multiple_passed_bref_check
 2428,Jason Bourgeois,CIN,Bourgeois,Jason,2016,2225,bourge001jas,2008,2015,2000,2018,batter,one
 3147,Juan Silva,CIN,Silva,Juan,2016,,silva-002jua,,,2009,2018,batter,one
 920,Charles Brewer,CLE,Brewer,Charles,2016,9155,brewer001cha,2013,2013,2009,2017,pitcher,one
@@ -5211,8 +5208,8 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 166,Alex Monsalve,CLE,Monsalve,Alex,2016,,monsal001ale,,,2009,2020,batter,one
 50,Adam Moore,CLE,Moore,Adam,2016,9362,moore-001ada,2009,2018,2006,2019,batter,one
 4753,Ryan Ortiz,CLE,Ortiz,Ryan,2016,,ortiz-001rya,,,2009,2015,batter,one
-4229,Omir Santos,CLE,Santos,Omir,2016,,,,,,,batter,zero
-3296,Kevin Howard,CLE,Howard,Kevin,2016,,,,,,,batter,zero
+4229,Omir Santos,CLE,Santos,Omir,2016,3583,santos001omi,2008,2013,2001,2014,batter,one
+3296,Kevin Howard,CLE,Howard,Kevin,2016,,howard001kev,,,2003,2014,batter,one
 4761,Ryan Rohlinger,CLE,Rohlinger,Ryan,2016,2621,rohlin001rya,2008,2011,2006,2015,batter,one
 3218,Justin Toole,CLE,Toole,Justin,2016,,toole-001jus,,,2009,2015,batter,one
 418,Audy Ciriaco,CLE,Ciriaco,Audy,2016,,ciriac001aud,,,2005,2021,batter,one
@@ -5247,7 +5244,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 3940,Miguel Vargas,DET,Vargas,Miguel,2016,,vargas004mig,,,2014,2015,pitcher,one
 5101,Thad Weber,DET,Weber,Thad,2016,8036,weber-001tha,2012,2013,2008,2017,pitcher,one
 3094,Josh Zeid,DET,Zeid,Josh,2016,6527,zeid--001jos,2013,2014,2009,2017,pitcher,one
-2778,John Murrian,DET,Murrian,John,2016,,,,,,,batter,zero
+2778,John Murrian,DET,Murrian,John,2016,,murria001joh,,,2009,2013,batter,one
 3967,Mike Hessman,DET,Hessman,Mike,2016,1808,hessma001mic,2003,2010,1996,2015,batter,one
 193,Alexi Casilla,DET,Casilla,Alexi,2016,5248,casill001ale,2006,2014,2004,2019,batter,one
 5385,Wade Gaynor,DET,Gaynor,Wade,2016,,gaynor001wad,,,2009,2015,batter,one
@@ -5259,7 +5256,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 2674,Jio Mier,HOU,Mier,Jio,2016,,,,,,,batter,zero
 658,Brian Broderick,KCR,Broderick,Brian,2016,3773,broder001bri,2011,2011,2007,2015,pitcher,one
 4317,Paul Clemens,KCR,Clemens,Paul,2016,8037,clemen001pau,2013,2016,2008,2019,pitcher,one
-4643,Roman Colon,KCR,Colon,Roman,2016,,,,,,,pitcher,zero
+4643,Roman Colon,KCR,Colón,Román,2016,2242,colon-001rom,2004,2012,1997,2014,pitcher,one
 1064,Clayton Mortensen,KCR,Mortensen,Clayton,2016,3166,morten001cla,2009,2013,2007,2017,pitcher,one
 476,Benino Pruneda,KCR,Pruneda,Benino,2016,,pruned001ben,,,2007,2017,pitcher,one
 1853,Felix Santiago,KCR,Santiago,Felix,2016,,santia000fel,,,2013,2021,pitcher,one
@@ -5269,14 +5266,14 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 974,Chris Dwyer,KCR,Dwyer,Chris,2016,10045,dwyer-001chr,2013,2013,2009,2015,pitcher,one
 5266,Troy Patton,KCR,Patton,Troy,2016,8368,patton001tro,2007,2014,2004,2015,pitcher,one
 2209,J.C. Boscan,KCR,Boscán,J. C.,2016,2324,boscan001jea,2010,2013,1997,2015,batter,one
-4727,Ryan Eigsti,KCR,Eigsti,Ryan,2016,,,,,,,batter,zero
+4727,Ryan Eigsti,KCR,Eigsti,Ryan,2016,,eigsti001rya,,,2007,2012,batter,one
 872,Casey Kotchman,KCR,Kotchman,Casey,2016,1930,kotchm001cas,2004,2013,2001,2016,batter,one
 4412,Rafael Furcal,KCR,Furcal,Rafael,2016,88,furcal001raf,2000,2014,1997,2015,batter,one
 161,Alex Liddi,KCR,Liddi,Alex,2016,5411,liddi-001ale,2011,2013,2006,2024,batter,one
 4432,Ramon A. Castro,KCR,A. Castro,Ramon,2016,,,,,,,batter,zero
 321,Angel Franco,KCR,Franco,Angel,2016,,franco001ang,,,2007,2017,batter,one
 1950,Gabriel Noriega,KCR,Noriega,Gabriel,2016,,norieg001gab,,,2008,2024,batter,one
-4018,Mitch Maier,KCR,Maier,Mitch,2016,,,,,,,batter,zero
+4018,Mitch Maier,KCR,Maier,Mitch,2016,5588,maier-001mit,2006,2012,2003,2014,batter,one
 1986,Geovanny Acosta,LAA,Acosta,Geovanny,2016,,acosta000geo,,,2014,2016,pitcher,one
 1269,Daniel Hurtado,LAA,Hurtado,Daniel,2016,,hurtad001dan,,,2009,2020,pitcher,one
 2558,Jeremy McBryde,LAA,McBryde,Jeremy,2016,,mcbryd001jer,,,2007,2016,pitcher,one
@@ -5291,7 +5288,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 61,Adam Wilk,LAA,Wilk,Adam,2016,8421,wilk--001ada,2011,2017,2009,2018,pitcher,one
 2958,Jose Gil,LAA,Gil,Jose,2016,,gil---003jos,,,2005,2017,batter,one
 4488,Raywilly Gomez,LAA,Gomez,Raywilly,2016,,gomez-002ray,,,2008,2016,batter,one
-5591,Zac Livingston,LAA,Livingston,Zac,2016,,,,,,,batter,zero
+5591,Zac Livingston,LAA,Livingston,Zac,2016,,living000zac,,,2012,2013,batter,one
 3535,Luis Hernandez,LAA,Hernández,Luis,2016,3206,hernan003lui,2007,2012,2002,2017,batter,one
 1556,Drew Maggi,LAA,Maggi,Drew,2016,11381,maggi-001and,2023,2023,2010,2024,batter,one
 501,Blake Gailen,LAA,Gailen,Blake,2016,,gailen001bla,,,2007,2021,batter,one
@@ -5337,7 +5334,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 1648,Eduar Quinonez,MIA,Quinonez,Eduar,2016,,quinon001edu,,,2007,2019,pitcher,one
 4757,Ryan Reid,MIA,Reid,Ryan,2016,9385,reid--001rya,2013,2013,2006,2016,pitcher,one
 5206,Travis Blackley,MIA,Blackley,Travis,2016,3234,blackl001tra,2004,2013,2001,2020,pitcher,one
-5331,Tyler Robertson,MIA,Robertson,Tyler,2016,,,,,,,pitcher,zero
+5331,Tyler Robertson,MIA,Robertson,Tyler,2016,3223,robert001tyl,2012,2013,2006,2014,pitcher,one
 4294,Pat Urckfitz,MIA,Urckfitz,Pat,2016,,urckfi001pat,,,2008,2015,pitcher,one
 1836,Fabian Williamson,MIA,Williamson,Fabian,2016,,willia001fab,,,2007,2023,pitcher,one
 572,Brandon Bantz,MIA,Bantz,Brandon,2016,9442,bantz-001bra,2013,2013,2009,2015,batter,one
@@ -5365,7 +5362,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 4834,Sandy Martinez,MIL,Martinez,Sandy,2016,,martin005san,,,2010,2015,batter,one
 3719,Matt Clark,MIL,Clark,Matt,2016,8793,clark-002mat,2014,2014,2008,2021,batter,one
 4358,Pete Orr,MIL,Orr,Pete,2016,2748,orr---001pet,2005,2013,2000,2015,batter,one
-2070,Hainley Statia,MIL,Statia,Hainley,2016,,,,,,,batter,zero
+2070,Hainley Statia,MIL,Statia,Hainley,2016,,statia001hai,,,2005,2014,batter,one
 5070,Taylor Green,MIL,Green,Taylor,2016,9147,green-001tay,2011,2012,2006,2015,batter,one
 2134,Hernan Perez,MIL,Pérez,Hernán,2016,5751,perez-001her,2012,2021,2008,2024,batter,one
 3046,Josh Fellhauer,MIL,Fellhauer,Josh,2016,,fellha001jos,,,2009,2015,batter,one
@@ -5373,7 +5370,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 3475,Logan Schafer,MIL,Schafer,Logan,2016,7937,schafe001log,2011,2016,2008,2017,batter,one
 3855,Michael Bowden,MIN,Bowden,Michael,2016,4440,bowden001mic,2008,2013,2005,2021,pitcher,one
 3668,Mark Hamburger,MIN,Hamburger,Mark,2016,5329,hambur001mar,2011,2011,2007,2018,pitcher,one
-444,B.J. Hermsen,MIN,Hermsen,B. J.,2016,,,,,,,pitcher,zero
+444,B.J. Hermsen,MIN,Hermsen,B. J.,2016,,hermse001bj-,,,2009,2014,pitcher,one
 1200,D.J. Johnson,MIN,Johnson,DJ,2016,12578,johnso009dan,2018,2021,2010,2021,pitcher,one
 3441,Lester Oliveros,MIN,Oliveros,Lester,2016,9167,oliver001les,2011,2014,2006,2023,pitcher,one
 85,Adrian Salcedo,MIN,Salcedo,Adrian,2016,,salced001adr,,,2008,2022,pitcher,one
@@ -5411,7 +5408,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 2685,Joe Benson,NYM,Benson,Joe,2016,2845,benson001wil,2011,2011,2006,2019,batter,one
 2008,Gilbert Gomez,NYM,Gomez,Gilbert,2016,,gomez-002gil,,,2009,2017,batter,one
 288,Andury Acevedo,NYY,Acevedo,Andury,2016,,aceved001and,,,2007,2019,pitcher,one
-4878,Scottie Allen,NYY,Allen,Scottie,2016,,,,,,,pitcher,zero
+4878,Scottie Allen,NYY,Allen,Scottie,2016,,allen-003sco,,,2009,2013,pitcher,one
 2728,Joel de la Cruz,NYY,de la Cruz,Joel,2016,,,,,,,pitcher,zero
 1480,Diego Moreno,NYY,Moreno,Diego,2016,6238,moreno001die,2015,2017,2007,2023,pitcher,one
 5441,Wilking Rodriguez,NYY,Rodríguez,Wilking,2016,8801,rodrig007wil,2014,2014,2007,2024,pitcher,one
@@ -5437,7 +5434,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 2655,Jim Fuller,OAK,Fuller,Jim,2016,,fuller004jam,,,2008,2023,pitcher,one
 865,Carson Blair,OAK,Blair,Carson,2016,5429,blair-001car,2015,2015,2008,2017,batter,one
 340,Anthony Aliotti,OAK,Aliotti,Anthony,2016,,aliott001ant,,,2009,2015,batter,one
-1127,Conner Crumbliss,OAK,Crumbliss,Conner,2016,,,,,,,batter,zero
+1127,Conner Crumbliss,OAK,Crumbliss,Conner,2016,,crumbl001con,,,2009,2014,batter,one
 4759,Ryan Roberts,OAK,Roberts,Ryan,2016,5653,robert002rya,2006,2014,2003,2015,batter,one
 122,Alden Carrithers,OAK,Carrithers,Alden,2016,,carrit001ald,,,2008,2015,batter,one
 629,Brent Morel,OAK,Morel,Brent,2016,6402,morel-001bre,2010,2015,2008,2017,batter,one
@@ -5451,7 +5448,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 370,Anthony Vasquez,PHI,Vasquez,Anthony,2016,6577,vasque002ant,2011,2011,2009,2021,pitcher,one
 5461,Willians Astudillo,PHI,Astudillo,Willians,2016,15608,astudi001wil,2018,2022,2009,2024,batter,one
 4501,Rene Garcia,PHI,Garcia,René,2016,,garcia003ren,,,2008,2017,batter,one
-3342,Koyie Hill,PHI,Hill,Koyie,2016,,,,,,,batter,zero
+3342,Koyie Hill,PHI,Hill,Koyie,2016,1829,hill--001koy,2003,2014,2000,2014,batter,one
 699,Brodie Greene,PHI,Greene,Brodie,2016,,greene001bro,,,2010,2015,batter,one
 5303,Tyler Henson,PHI,Henson,Tyler,2016,,henson001bob,,,2006,2015,batter,one
 5325,Tyler Pastornicky,PHI,Pastornicky,Tyler,2016,6777,pastor001tyl,2012,2014,2008,2015,batter,one
@@ -5526,13 +5523,13 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 1059,Clay Rapada,SFG,Rapada,Clay,2016,4831,rapada001cla,2007,2013,2002,2015,pitcher,one
 4548,Ricky Romero,SFG,Romero,Ricky,2016,3403,romero001ric,2009,2013,2005,2017,pitcher,one
 4181,Nik Turley,SFG,Turley,Nik,2016,5530,turley001nik,2017,2020,2008,2024,pitcher,one
-1938,Gabriel Cornier,SFG,Cornier,Gabriel,2016,,,,,,,batter,zero
+1938,Gabriel Cornier,SFG,Cornier,Gabriel,2016,,cornie001gab,,,2009,2014,batter,one
 2252,Jackson Williams,SFG,Williams,Jackson,2016,8524,willia007jac,2014,2015,2007,2018,batter,one
 585,Brandon Hicks,SFG,Hicks,Brandon,2016,4003,hicks-001bra,2010,2014,2007,2016,batter,one
 4984,Skyler Stromsmoe,SFG,Stromsmoe,Skyler,2016,,stroms001sky,,,2007,2015,batter,one
 3110,Juan Ciriaco,SFG,Ciriaco,Juan,2016,,ciriac001jua,,,2003,2017,batter,one
 860,Carlos Triunfel,SFG,Triunfel,Carlos,2016,193,triunf001car,2012,2014,2007,2018,batter,one
-5528,Ydwin Villegas,SFG,Villegas,Ydwin,2016,,,,,,,batter,zero
+5528,Ydwin Villegas,SFG,Villegas,Ydwin,2016,,villeg001ydw,,,2008,2014,batter,one
 1740,Engel Beltre,SFG,Beltré,Engel,2016,4918,beltre001eng,2013,2013,2007,2024,batter,one
 1342,Darren Ford,SFG,Ford,Darren,2016,109,ford--002dar,2010,2011,2005,2019,batter,one
 2592,Jesus Galindo,SFG,Galindo,Jesus,2016,,galind001jes,,,2009,2019,batter,one
@@ -5558,7 +5555,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 377,Arby Fields,SEA,Fields,Arby,2016,,fields001arb,,,2013,2018,batter,one
 752,Burt Reynolds,SEA,Reynolds,Burt,2016,,reynol001bur,,,2008,2019,batter,one
 2947,Jose Dominguez,TBR,Dominguez,Jose,2016,,doming010jos,,,2015,2016,pitcher,one
-1720,Ely Echarry,TBR,Echarry,Ely,2016,,,,,,,pitcher,zero
+1720,Ely Echarry,TBR,Echarry,Ely,2016,,echarr001eli,,,2009,2014,pitcher,one
 552,Bradin Hagens,TBR,Hagens,Bradin,2016,7422,hagens001bra,2014,2014,2009,2024,pitcher,one
 3753,Matt Lollis,TBR,Lollis,Matt,2016,,lollis001mat,,,2009,2016,pitcher,one
 2625,Jhan Marinez,TBR,Mariñez,Jhan,2016,5830,marine001jha,2010,2018,2006,2024,pitcher,one
@@ -5577,7 +5574,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 4596,Robert Coello,TEX,Coello,Robert,2016,1149,coello001rob,2010,2013,2007,2016,pitcher,one
 2520,Jefri Hernandez,TEX,Hernandez,Jefri,2016,,hernan001jef,,,2008,2020,pitcher,one
 4370,Phil Irwin,TEX,Irwin,Phil,2016,9489,irwin-001phi,2013,2014,2009,2015,pitcher,one
-2443,Jason Knapp,TEX,Knapp,Jason,2016,,,,,,,pitcher,zero
+2443,Jason Knapp,TEX,Knapp,Jason,2016,,knapp-001jas,,,2008,2014,pitcher,one
 1383,David Martinez,TEX,Martínez,David,2016,8893,martin013dav,2013,2014,2005,2022,pitcher,one
 2993,Jose Monegro,TEX,Monegro,Jose,2016,,monegr002jos,,,2008,2016,pitcher,one
 1623,Eddy Morrobel,TEX,Morrobel,Eddy,2016,,morrob001edd,,,2010,2015,pitcher,one
@@ -5613,7 +5610,7 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 4850,Scott Barnes,TOR,Barnes,Scott,2016,8718,barnes001sco,2012,2013,2008,2018,pitcher,one
 1120,Colt Hynes,TOR,Hynes,Colt,2016,7560,hynes-001col,2013,2015,2007,2017,pitcher,one
 3564,Luis Perez,TOR,Pérez,Luis,2016,6389,perez-007lui,2011,2013,2006,2018,pitcher,one
-3537,Luis Hurtado,TOR,Hurtado,Luis,2016,,,,,,,batter,zero
+3537,Luis Hurtado,TOR,Hurtado,Luis,2016,,hurtad001lui,,,2006,2012,batter,one
 1984,George Kottaras,TOR,Kottaras,George,2016,5506,kottar001geo,2008,2014,2003,2016,batter,one
 4899,Sean Ochinko,TOR,Ochinko,Sean,2016,,ochink001sea,,,2009,2015,batter,one
 5277,Ty Kelly,TOR,Kelly,Ty,2016,7740,kelly-001tyl,2016,2018,2009,2022,batter,one
@@ -5630,7 +5627,6 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 706,Bruce Billings,WSN,Billings,Bruce,2016,3044,billin001bru,2011,2014,2007,2018,pitcher,one
 4319,Paul Demny,WSN,Demny,Paul,2016,,demny-001pau,,,2008,2016,pitcher,one
 4568,Rob Gilliam,WSN,Gilliam,Rob,2016,,,,,,,pitcher,zero
-3128,Juan Gutierrez,WSN,Gutierrez,Juan,2016,,,,,,,pitcher,zero
 2503,Jeff Howell,WSN,Howell,Jeff,2016,,howell001jef,,,2005,2016,pitcher,one
 1141,Connor Overton,WSN,Overton,Connor,2016,18376,overto000con,2021,2023,2014,2024,pitcher,one
 3311,Kevin Perez,WSN,Perez,Kevin,2016,,perez-000kev,,,2013,2022,pitcher,one
@@ -5644,6 +5640,6 @@ internal_id,full_name,team,name_last,name_first,fa_class,key_fangraphs,key_bbref
 3658,Mario Lisson,WSN,Lisson,Mario,2016,,lisson001mar,,,2002,2017,batter,one
 4877,Scott Sizemore,WSN,Sizemore,Scott,2016,2881,sizemo001sco,2010,2014,2006,2016,batter,one
 3072,Josh R. Johnson,WSN,R. Johnson,Josh,2016,,,,,,,batter,zero
-5189,Tony Gwynn Jr.,WSN,Gwynn Jr.,Tony,2016,,,,,,,batter,zero
+5189,Tony Gwynn Jr.,WSN,Gwynn,Tony,2016,6141,gwynn-002ant,2006,2014,2003,2015,batter,one
 1330,Darin Mastroianni,WSN,Mastroianni,Darin,2016,7316,mastro001dar,2011,2016,2007,2016,batter,one
 1455,Derrick Robinson,WSN,Robinson,Derrick,2016,2784,robins001der,2013,2013,2006,2017,batter,one
