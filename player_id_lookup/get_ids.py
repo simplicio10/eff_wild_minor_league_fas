@@ -1,24 +1,11 @@
 import polars as pl
 import sys
-import random
 sys.path.insert(0, '/home/salviati/projects/baseball/custom_player_lookup/script')
 import id_lookup_tool as player_id_lookup
 
 fas_list = pl.scan_csv('../files/free_agents/final/fas_to_check_cleaned.csv', schema_overrides={'internal_id': pl.String})
 stats = pl.scan_csv('../files/stats/player_stats.csv')
 stats = stats.rename({'IDfg': 'key_fangraphs'})
-
-#Testing
-# Use a random filter to create a sample LazyFrame
-total_rows = fas_list.collect().shape[0]
-sample_size = 25
-random.seed(42)  # for reproducibility
-random_indices = set(random.sample(range(total_rows), sample_size))
-
-partial = fas_list.with_row_index().filter(
-    pl.col("index")
-    .is_in(random_indices)
-    ).drop("index")
 
 def process_valid_id(valid_id, player) -> pl.LazyFrame:
     if valid_id.collect().height > 1:
@@ -149,14 +136,73 @@ def get_id(df) -> pl.LazyFrame:
 
     players = pl.concat(final_players_list, how='diagonal_relaxed')
     players = players.select(['internal_id', 'full_name', 'team', 'name_last', 'name_first', 'fa_class', 'key_fangraphs', 
-                            'key_bbref_minors','mlb_played_first', 'mlb_played_last', 'pro_played_first', 'pro_played_last',
+                            'key_bbref_minors', 'mlb_played_first', 'mlb_played_last', 'pro_played_first', 'pro_played_last',
                             'position', 'position_cat', 'chadwick_returned'])
 
     return players
 
-id = get_id(partial)
-id.collect().write_csv('../files/free_agents/final/lazy_test.csv')
+missing_pro_fields = pl.scan_csv('../files/free_agents/final/fa_id_matched_updated.csv', schema_overrides={
+    'key_bbref_minors': pl.String,
+    'key_fangraphs': pl.String})
 
+
+fas_to_update = pl.scan_csv('../files/free_agents/final/fa_id_matched_updated.csv')
+fas_to_update_filtered = fas_to_update.filter(pl.col('chadwick_returned') == 'zero')
+ids_to_update = fas_to_update_filtered.collect().select('key_bbref_minors').to_series().to_list()
+cols_to_update = ['pro_played_first', 
+                'pro_played_last', 
+                'mlb_played_first', 
+                'mlb_played_last', 
+                'key_fangraphs']
+
+def update_row(minor_key_list: list):
+    results = []
+    for key in minor_key_list:
+        result = pl.DataFrame(player_id_lookup.player_lookup_by_milb_id(key))
+        result = result.with_columns([pl.struct(cols_to_update).alias('pro_info')
+    ])
+        result = result.with_columns([
+            pl.col('pro_info').struct.field(cols_to_update[0]).alias(cols_to_update[0]),
+            pl.col('pro_info').struct.field(cols_to_update[1]).alias(cols_to_update[1]),
+            pl.col('pro_info').struct.field(cols_to_update[2]).alias(cols_to_update[2]),
+            pl.col('pro_info').struct.field(cols_to_update[3]).alias(cols_to_update[3]),
+            pl.col('pro_info').struct.field(cols_to_update[4]).alias(cols_to_update[4])
+        ]).drop('pro_info')
+
+        results.append(result)
+    final_results = pl.concat(results)
+
+    return final_results.lazy()
+
+filtered_data = update_row(ids_to_update)
+filtered_data = filtered_data.select('key_bbref_minors', 
+                                     cols_to_update[0],
+                                     cols_to_update[1],
+                                     cols_to_update[2],
+                                     cols_to_update[3],
+                                     cols_to_update[4])
+
+fas_to_update = (
+    fas_to_update
+    .join(
+        filtered_data,
+        left_on='key_bbref_minors',
+        right_on='key_bbref_minors',
+        how='left',
+        suffix='_update'
+    )
+    .with_columns([
+        pl.when(pl.col(f'{col}_update').is_not_null())
+        .then(pl.col(f'{col}_update'))
+        .otherwise(pl.col(col))
+        .alias(col)
+        for col in cols_to_update
+    ])
+    .drop([f'{col}_update' for col in cols_to_update])
+    .unique(maintain_order=True)
+)
+
+fas_to_update.collect().write_csv('../files/free_agents/final/fa_ids_complete.csv')
 
 '''players_and_stats = id.lazy().collect().join(stats.lazy().collect(), on='key_fangraphs', how='left')
 players_and_stats = players_and_stats.with_columns(
@@ -170,11 +216,7 @@ players_and_stats = players_and_stats.with_columns(
         .alias('played_in_mlb')
     )'''
 
-#players_and_stats.write_csv('check_100.csv')
-#print(players_and_stats)
 
-#diaz = player_id_lookup.player_info_lookup('Diaz', 'Edwin', year_active=2021, check_accents=True)
-#smith = player_id_lookup.player_info_lookup('Smith', 'Josh')
 
 
 
