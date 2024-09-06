@@ -24,11 +24,10 @@ find_player = r'(.+?)\s*\((.+?)\)'
 all_players = []
 
 webpages = [
-    'https://www.baseballamerica.com/stories/minor-league-free-agents-2016/',
-    'https://www.baseballamerica.com/stories/minor-league-free-agents-2018/'
+    'https://www.baseballamerica.com/stories/minor-league-free-agents-2017/',
     ]
 
-fa_class = 2017
+fa_class = 2018
 
 #Scrape webpage to isolate a list of Minor League Free Agents for each team
 for webpage in webpages:
@@ -48,7 +47,7 @@ for webpage in webpages:
         player_matches = regex.findall(find_players_by_position, team)
         team_name = regex.search(find_teams, team)
         for position, players in player_matches:
-            player_list = players.split(", ")
+            player_list = players.split("|")
             for player in player_list:
                 match = regex.match(find_player, player)
                 if match:
@@ -63,5 +62,5 @@ for webpage in webpages:
 
 df = pl.DataFrame(data=all_players)
 
-#df.write_csv('../files/free_agents/fas_17_19.csv')
-print(df)
+#df.write_csv('../files/free_agents/scraped/fas_18_.csv')
+print(df.select('team').unique(maintain_order=True))
