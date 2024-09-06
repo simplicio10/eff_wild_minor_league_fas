@@ -1,0 +1,573 @@
+player_name,team,fa_class,position,minor_league_level
+Tyler Badamo,Arizona Diamondbacks,2018,RHP,SS
+J.R. Bradley,Arizona Diamondbacks,2018,RHP,AA
+Erik Davis,Arizona Diamondbacks,2018,RHP,AAA
+Damian Defrank,Arizona Diamondbacks,2018,RHP,R
+Miller Diaz,Arizona Diamondbacks,2018,RHP,AA
+Julio Perez,Arizona Diamondbacks,2018,RHP,Lo A
+Ivan Pineyro,Arizona Diamondbacks,2018,RHP,AA
+Tyler Vail,Arizona Diamondbacks,2018,RHP,SS
+Eric Jokisch,Arizona Diamondbacks,2018,LHP,AAA
+Aaron Laffey,Arizona Diamondbacks,2018,LHP,AAA
+Cesilio Pimentel,Arizona Diamondbacks,2018,LHP,R
+Willians Astudillo,Arizona Diamondbacks,2018,C,AAA
+Oscar Hernandez,Arizona Diamondbacks,2018,C,AA
+Angel Franco,Arizona Diamondbacks,2018,2B,AAA
+Danny Lockhart,Arizona Diamondbacks,2018,2B,AA
+Travis Denker,Arizona Diamondbacks,2018,3B,AA
+Jorge Flores,Arizona Diamondbacks,2018,SS,Hi A
+Vladimir Frias,Arizona Diamondbacks,2018,SS,AA
+Oswaldo Arcia,Arizona Diamondbacks,2018,OF,AAA
+Emilio Bonifacio,Arizona Diamondbacks,2018,OF,AAA
+Zach Borenstein,Arizona Diamondbacks,2018,OF,AAA
+Kelly Dugan,Arizona Diamondbacks,2018,OF,AA
+Enrique Burgos,Atlanta Braves,2018,RHP,AAA
+Rhiner Cruz,Atlanta Braves,2018,RHP,AAA
+Kris Medlen,Atlanta Braves,2018,RHP,AAA
+Danny Reynolds,Atlanta Braves,2018,RHP,AAA
+Joe Rogers,Atlanta Braves,2018,LHP,Hi A
+Joey Meneses,Atlanta Braves,2018,1B,AA
+Kyle Kubitza,Atlanta Braves,2018,3B,AAA
+Sean Kazmar,Atlanta Braves,2018,SS,AAA
+Emerson Landoni,Atlanta Braves,2018,SS,AAA
+Matt Tuiasosopo,Atlanta Braves,2018,OF,AAA
+Nate Adcock,Baltimore Orioles,2018,RHP,AAA
+Andrew Bellatti,Baltimore Orioles,2018,RHP,AAA
+Bobby Bundy,Baltimore Orioles,2018,RHP,AAA
+Jason Garcia,Baltimore Orioles,2018,RHP,AA
+Jefri Hernandez,Baltimore Orioles,2018,RHP,AA
+Scott McGough,Baltimore Orioles,2018,RHP,AA
+Richard Rodriguez,Baltimore Orioles,2018,RHP,AAA
+Franderlin Romero,Baltimore Orioles,2018,RHP,AA
+Karl Triana,Baltimore Orioles,2018,RHP,AA
+Austin Urban,Baltimore Orioles,2018,RHP,AA
+Tyler Wilson,Baltimore Orioles,2018,RHP,AAA
+Jayson Aquino,Baltimore Orioles,2018,LHP,AAA
+Tim Berry,Baltimore Orioles,2018,LHP,AA
+Andrew Faulkner,Baltimore Orioles,2018,LHP,AAA
+Raudel Lazo,Baltimore Orioles,2018,LHP,AA
+Lucas Luetge,Baltimore Orioles,2018,LHP,AAA
+Paco Rodriguez,Baltimore Orioles,2018,LHP,AAA
+Chris O’Brien,Baltimore Orioles,2018,C,AAA
+Audry Perez,Baltimore Orioles,2018,C,AA
+Aderlin Rodriguez,Baltimore Orioles,2018,1B,AA
+Sharlon Schoop,Baltimore Orioles,2018,2B,AAA
+Alex Castellanos,Baltimore Orioles,2018,3B,AAA
+Chris Johnson,Baltimore Orioles,2018,3B,AAA
+Garabez Rosa,Baltimore Orioles,2018,3B,AA
+Robert Andino,Baltimore Orioles,2018,SS,AAA
+Glynn Davis,Baltimore Orioles,2018,OF,AA
+Chris Dickerson,Baltimore Orioles,2018,OF,AAA
+Logan Schafer,Baltimore Orioles,2018,OF,AAA
+David Washington,Baltimore Orioles,2018,OF,AAA
+Jacob Dahlstrand,Boston Red Sox,2018,RHP,AA
+Shawn Haviland,Boston Red Sox,2018,RHP,AAA
+Mitchell Osnowitz,Boston Red Sox,2018,RHP,SS
+Elih Villanueva,Boston Red Sox,2018,RHP,AA
+Edgar Olmos,Boston Red Sox,2018,LHP,AAA
+Dan Butler,Boston Red Sox,2018,C,AAA
+Tim Roberson,Boston Red Sox,2018,C,AAA
+Conrad Gregor,Boston Red Sox,2018,1B,Hi A
+Heiker Meneses,Boston Red Sox,2018,2B,AAA
+Matt Dominguez,Boston Red Sox,2018,3B,AAA
+Mike Olt,Boston Red Sox,2018,3B,AA
+Ryan Court,Boston Red Sox,2018,SS,AAA
+Brian Bogusevic,Boston Red Sox,2018,OF,AAA
+Steve Selsky,Boston Red Sox,2018,OF,AAA
+Henry Urrutia,Boston Red Sox,2018,OF,AA
+Scott Carroll,Chicago Cubs,2018,RHP,AAA
+Williams Perez,Chicago Cubs,2018,RHP,AAA
+Jemile Weeks,Chicago Cubs,2018,2B,AAA
+Chris Dominguez,Chicago Cubs,2018,3B,AAA
+Mike Freeman,Chicago Cubs,2018,SS,AAA
+Ozzie Martinez,Chicago Cubs,2018,SS,AAA
+Elliot Soto,Chicago Cubs,2018,SS,AAA
+John Andreoli,Chicago Cubs,2018,OF,AAA
+Ryan Kalish,Chicago Cubs,2018,OF,SS
+Trey Martin,Chicago Cubs,2018,OF,AA
+Steve Johnson,Chicago White Sox,2018,RHP,AAA
+Kelvis Valerio,Chicago White Sox,2018,RHP,Hi A
+Matt Purke,Chicago White Sox,2018,LHP,AAA
+Scott Snodgress,Chicago White Sox,2018,LHP,AA
+Roberto Pena,Chicago White Sox,2018,C,AAA
+Ronald Bueno,Chicago White Sox,2018,2B,AAA
+Tyler Ladendorf,Chicago White Sox,2018,2B,AAA
+Jose Vinicio,Chicago White Sox,2018,SS,AA
+Jason Bourgeois,Chicago White Sox,2018,OF,AAA
+Hunter Jones,Chicago White Sox,2018,OF,AA
+Geoff Broussard,Cincinnati Reds,2018,RHP,AA
+Alejandro Chacin,Cincinnati Reds,2018,RHP,AAA
+Carlos Gonzalez,Cincinnati Reds,2018,RHP,AAA
+Vin Mazzaro,Cincinnati Reds,2018,RHP,AAA
+Nefi Ogando,Cincinnati Reds,2018,RHP,AAA
+Austin Ross,Cincinnati Reds,2018,RHP,AA
+Robert Stock,Cincinnati Reds,2018,RHP,AA
+Domingo Tapia,Cincinnati Reds,2018,RHP,AA
+Ismael Guillon,Cincinnati Reds,2018,LHP,AAA
+Jose Duarte,Cincinnati Reds,2018,C,AAA
+Arismendy Alcantara,Cincinnati Reds,2018,2B,AA
+Angelo Gumbs,Cincinnati Reds,2018,2B,AA
+Hernan Iribarren,Cincinnati Reds,2018,2B,AAA
+Juan Perez,Cincinnati Reds,2018,SS,AAA
+Jonathan Reynoso,Cincinnati Reds,2018,OF,AA
+Adam Brett Walker,Cincinnati Reds,2018,OF,AAA
+Robbie Aviles,Cleveland Indians,2018,RHP,AA
+Travis Banwart,Cleveland Indians,2018,RHP,AAA
+Joe Colon,Cleveland Indians,2018,RHP,AAA
+Carlos Frias,Cleveland Indians,2018,RHP,AAA
+Perci Garner,Cleveland Indians,2018,RHP,AA
+Jarrett Grube,Cleveland Indians,2018,RHP,AAA
+Jeff Johnson,Cleveland Indians,2018,RHP,AAA
+Enosil Tejeda,Cleveland Indians,2018,RHP,AAA
+Tim Cooney,Cleveland Indians,2018,LHP,AAA
+Luis Lugo,Cleveland Indians,2018,LHP,AA
+Chris Narveson,Cleveland Indians,2018,LHP,AAA
+Martin Cervenka,Cleveland Indians,2018,C,Hi A
+Juan de la Cruz,Cleveland Indians,2018,C,AA
+Adam Moore,Cleveland Indians,2018,C,AAA
+Claudio Bautista,Cleveland Indians,2018,2B,Hi A
+Michael Martinez,Cleveland Indians,2018,2B,AAA
+Josh Wilson,Cleveland Indians,2018,2B,AAA
+Yonathan Mendoza,Cleveland Indians,2018,SS,AA
+Ronny Rodriguez,Cleveland Indians,2018,SS,AAA
+David Lough,Cleveland Indians,2018,OF,AAA
+Luigi Rodriguez,Cleveland Indians,2018,OF,AA
+Jordan Smith,Cleveland Indians,2018,OF,AAA
+Huascar Brazoban,Colorado Rockies,2018,RHP,AA
+Barry Enright,Colorado Rockies,2018,RHP,AAA
+Edison Frias,Colorado Rockies,2018,RHP,AA
+Johendi Jiminian,Colorado Rockies,2018,RHP,AA
+C.C. Lee,Colorado Rockies,2018,RHP,AAA
+Luis Niebla,Colorado Rockies,2018,RHP,AA
+Nick Additon,Colorado Rockies,2018,LHP,AA
+Ryan Carpenter,Colorado Rockies,2018,LHP,AAA
+Evan Grills,Colorado Rockies,2018,LHP,AA
+Will Lamb,Colorado Rockies,2018,LHP,AA
+Helmis Rodriguez,Colorado Rockies,2018,LHP,Hi A
+Austin Wright,Colorado Rockies,2018,LHP,SS
+Hamlet Marte,Colorado Rockies,2018,C,Hi A
+Ryan Howard,Colorado Rockies,2018,1B,AAA
+Rafael Ynoa,Colorado Rockies,2018,2B,AAA
+Cristhian Adames,Colorado Rockies,2018,SS,AAA
+Daniel Castro,Colorado Rockies,2018,SS,AAA
+Juan Ciriaco,Colorado Rockies,2018,SS,AA
+Wilson Soriano,Colorado Rockies,2018,SS,Hi A
+Stephen Cardullo,Colorado Rockies,2018,OF,AAA
+Rosell Herrera,Colorado Rockies,2018,OF,AAA
+Dillon Thomas,Colorado Rockies,2018,OF,AAA
+R.J. Alaniz,Detroit Tigers,2018,RHP,AAA
+Jeff Ferrell,Detroit Tigers,2018,RHP,AAA
+Myles Jaye,Detroit Tigers,2018,RHP,AAA
+Logan Kensing,Detroit Tigers,2018,RHP,AAA
+Angel Nesbitt,Detroit Tigers,2018,RHP,AA
+Matt Crouse,Detroit Tigers,2018,LHP,AAA
+Anthony Gose,Detroit Tigers,2018,LHP,Hi A
+Kyle Ryan,Detroit Tigers,2018,LHP,AAA
+Anthony Vasquez,Detroit Tigers,2018,LHP,AAA
+Miguel Gonzalez,Detroit Tigers,2018,C,AAA
+Efren Navarro,Detroit Tigers,2018,1B,AAA
+Omar Infante,Detroit Tigers,2018,2B,AAA
+Logan Watkins,Detroit Tigers,2018,2B,AA
+Zack Cox,Detroit Tigers,2018,3B,AA
+Brendan Ryan,Detroit Tigers,2018,SS,AAA
+Jim Adduci,Detroit Tigers,2018,OF,AAA
+Tyler Collins,Detroit Tigers,2018,OF,AAA
+Jason Krizan,Detroit Tigers,2018,OF,AAA
+Steven Moya,Detroit Tigers,2018,OF,AA
+Kevin Comer,Houston Astros,2018,RHP,AAA
+Jumbo Diaz,Houston Astros,2018,RHP,AAA
+David Martinez,Houston Astros,2018,RHP,AAA
+Eduardo de Oleo,Houston Astros,2018,C,AAA
+Reid Brignac,Houston Astros,2018,2B,AAA
+Colin Walsh,Houston Astros,2018,3B,AAA
+Rico Noel,Houston Astros,2018,OF,AAA
+Christian Binford,Kansas City Royals,2018,RHP,AAA
+Yender Caramo,Kansas City Royals,2018,RHP,AAA
+Malcom Culver,Kansas City Royals,2018,RHP,AAA
+Mark Peterson,Kansas City Royals,2018,RHP,AAA
+Jared Schlehuber,Kansas City Royals,2018,RHP,R
+Chris Withrow,Kansas City Royals,2018,RHP,AAA
+Luis Rico,Kansas City Royals,2018,LHP,Hi A
+Brayan Pena,Kansas City Royals,2018,C,AAA
+Dean Anna,Kansas City Royals,2018,2B,AAA
+Ruben Sosa,Kansas City Royals,2018,2B,AAA
+Garin Cecchini,Kansas City Royals,2018,3B,AAA
+Mauricio Ramos,Kansas City Royals,2018,3B,AA
+Zach Walters,Kansas City Royals,2018,3B,AAA
+Austin Adams,Los Angeles Angel,2018,RHP,AAA
+Abel de los Santos,Los Angeles Angel,2018,RHP,AAA
+Luis E. Diaz,Los Angeles Angel,2018,RHP,AAA
+Drew Gagnon,Los Angeles Angel,2018,RHP,AAA
+Ivan Hernandez,Los Angeles Angel,2018,RHP,AA
+Sam Holland,Los Angeles Angel,2018,RHP,Hi A
+Eric Karch,Los Angeles Angel,2018,RHP,Hi A
+Jhondaniel Medina,Los Angeles Angel,2018,RHP,AA
+David Perez,Los Angeles Angel,2018,RHP,R
+Brooks Pounders,Los Angeles Angel,2018,RHP,AAA
+Manny Banuelos,Los Angeles Angel,2018,LHP,AAA
+Cody Ege,Los Angeles Angel,2018,LHP,AAA
+Kevin Grendell,Los Angeles Angel,2018,LHP,AA
+Jason Gurka,Los Angeles Angel,2018,LHP,AAA
+John Lamb,Los Angeles Angel,2018,LHP,AAA
+Francisco Arcia,Los Angeles Angel,2018,C,AAA
+Dustin Ackley,Los Angeles Angel,2018,1B,AAA
+Nick Franklin,Los Angeles Angel,2018,2B,AAA
+Rey Navarro,Los Angeles Angel,2018,SS,AAA
+Forrestt Allday,Los Angeles Angel,2018,OF,AA
+Scott Barlow,Los Angeles Dodgers,2018,RHP,AA
+Fabio Castillo,Los Angeles Dodgers,2018,RHP,AAA
+Eddie Gamboa,Los Angeles Dodgers,2018,RHP,AAA
+Steve Geltz,Los Angeles Dodgers,2018,RHP,AAA
+David Hale,Los Angeles Dodgers,2018,RHP,AAA
+Jair Jurrjens,Los Angeles Dodgers,2018,RHP,AAA
+Justin Masterson,Los Angeles Dodgers,2018,RHP,AAA
+Juan Noriega,Los Angeles Dodgers,2018,RHP,AA
+Oliver Polanco,Los Angeles Dodgers,2018,RHP,DSL
+Tim Shibuya,Los Angeles Dodgers,2018,RHP,AA
+Andrew Thurman,Los Angeles Dodgers,2018,RHP,Hi A
+Madison Younginer,Los Angeles Dodgers,2018,RHP,AAA
+Jeremy Bleich,Los Angeles Dodgers,2018,LHP,AAA
+Ike Davis,Los Angeles Dodgers,2018,LHP,AAA
+Jack Murphy,Los Angeles Dodgers,2018,C,AAA
+Sean O’Connell,Los Angeles Dodgers,2018,C,AA
+Wynston Sawyer,Los Angeles Dodgers,2018,C,AA
+Bobby Wilson,Los Angeles Dodgers,2018,C,AAA
+Shawn Zarraga,Los Angeles Dodgers,2018,C,AAA
+O’Koyea Dickson,Los Angeles Dodgers,2018,1B,AAA
+Drew Maggi,Los Angeles Dodgers,2018,SS,AAA
+Todd Cunningham,Los Angeles Dodgers,2018,OF,AAA
+Quincy Latimore,Los Angeles Dodgers,2018,OF,Hi A
+Ryan Beckman,Miami Marlins,2018,RHP,AA
+Omar Bencomo,Miami Marlins,2018,RHP,AAA
+Scott Copeland,Miami Marlins,2018,RHP,AAA
+William Cuevas,Miami Marlins,2018,RHP,AAA
+Brandon Cunniff,Miami Marlins,2018,RHP,AAA
+Felipe Gonzalez,Miami Marlins,2018,RHP,AA
+Tyler Higgins,Miami Marlins,2018,RHP,AA
+Clayton Mortensen,Miami Marlins,2018,RHP,AAA
+Keyvius Sampson,Miami Marlins,2018,RHP,AAA
+Mike Kickham,Miami Marlins,2018,LHP,AAA
+Jared Lakind,Miami Marlins,2018,LHP,AA
+Kyle Lobstein,Miami Marlins,2018,LHP,AAA
+Kelvin Marte,Miami Marlins,2018,LHP,AAA
+Victor Payano,Miami Marlins,2018,LHP,AAA
+Daniel Schlereth,Miami Marlins,2018,LHP,AA
+Matt Tomshaw,Miami Marlins,2018,LHP,AA
+Ramon Cabrera,Miami Marlins,2018,C,AAA
+Cam Maron,Miami Marlins,2018,C,AA
+Dustin Geiger,Miami Marlins,2018,1B,AA
+Christian Colon,Miami Marlins,2018,2B,AAA
+Jake Elmore,Miami Marlins,2018,2B,AAA
+Grant Green,Miami Marlins,2018,2B,AAA
+Cleuluis Rondon,Miami Marlins,2018,SS,AA
+K.C. Serna,Miami Marlins,2018,SS,AA
+Brandon Barnes,Miami Marlins,2018,OF,AAA
+Destin Hood,Miami Marlins,2018,OF,AAA
+Chris Parmelee,Miami Marlins,2018,OF,AAA
+Eury Perez,Miami Marlins,2018,OF,AAA
+Yefri Perez,Miami Marlins,2018,OF,AA
+Moises Sierra,Miami Marlins,2018,OF,AAA
+Yhonathan Barrios,Milwaukee Brewers,2018,RHP,AAA
+Parker Berberet,Milwaukee Brewers,2018,RHP,Hi A
+Hiram Burgos,Milwaukee Brewers,2018,RHP,AAA
+Tyler Cravy,Milwaukee Brewers,2018,RHP,AA
+Travis Hissong,Milwaukee Brewers,2018,RHP,AA
+Matt Ramsey,Milwaukee Brewers,2018,RHP,AA
+Forrest Snow,Milwaukee Brewers,2018,RHP,AA
+Angel Ventura,Milwaukee Brewers,2018,RHP,AAA
+Andrew Barbosa,Milwaukee Brewers,2018,LHP,AAA
+Sean Nolin,Milwaukee Brewers,2018,LHP,AAA
+Nick Ramirez,Milwaukee Brewers,2018,LHP,AAA
+Rene Garcia,Milwaukee Brewers,2018,C,AA
+Dustin Houle,Milwaukee Brewers,2018,C,AA
+Chris Colabello,Milwaukee Brewers,2018,1B,AAA
+Ivan De Jesus Jr.,Milwaukee Brewers,2018,SS,AAA
+Nick Noonan,Milwaukee Brewers,2018,SS,AAA
+Gabriel Noriega,Milwaukee Brewers,2018,SS,AA
+Yadiel Rivera,Milwaukee Brewers,2018,SS,AAA
+Michael Reed,Milwaukee Brewers,2018,OF,AA
+Henry Centeno,Minnesota Twins,2018,RHP,Hi A
+Chris Heston,Minnesota Twins,2018,RHP,AAA
+Kam Mickolio,Minnesota Twins,2018,RHP,AAA
+Yohan Pino,Minnesota Twins,2018,RHP,AAA
+Dereck Rodriguez,Minnesota Twins,2018,RHP,AA
+David Hurlbut,Minnesota Twins,2018,LHP,AAA
+Ryan O’Rourke,Minnesota Twins,2018,LHP,AAA
+Matt Tracy,Minnesota Twins,2018,LHP,AA
+Carlos Paulino,Minnesota Twins,2018,C,AAA
+Yeison Perez,Minnesota Twins,2018,C,DSL
+Davinson Pimentel,Minnesota Twins,2018,C,DSL
+Matt Hague,Minnesota Twins,2018,1B,AAA
+Jonathan Rodriguez,Minnesota Twins,2018,1B,AA
+Andy Wilkins,Minnesota Twins,2018,1B,AA
+Tommy Field,Minnesota Twins,2018,2B,AAA
+Niko Goodrum,Minnesota Twins,2018,2B,AAA
+Leonardo Reginatto,Minnesota Twins,2018,SS,AAA
+J.B. Shuck,Minnesota Twins,2018,OF,AAA
+Ryan Strausborger,Minnesota Twins,2018,OF,AA
+Jonathan Albaladejo,New York Mets,2018,RHP,AAA
+Mitch Atkins,New York Mets,2018,RHP,AAA
+Blake Beavan,New York Mets,2018,RHP,AA
+Wilfredo Boscan,New York Mets,2018,RHP,AAA
+Cory Burns,New York Mets,2018,RHP,AA
+Erik Goeddel,New York Mets,2018,RHP,AAA
+Donovan Hand,New York Mets,2018,RHP,R
+Luis Mateo,New York Mets,2018,RHP,AAA
+Craig Missigman,New York Mets,2018,RHP,Hi A
+Pedro Perez,New York Mets,2018,RHP,R
+Tyler Pill,New York Mets,2018,RHP,AAA
+Ben Rowen,New York Mets,2018,RHP,AAA
+Neil Wagner,New York Mets,2018,RHP,AAA
+Beck Wheeler,New York Mets,2018,RHP,AAA
+Alberto Baldonado,New York Mets,2018,LHP,AAA
+Kevin Canelon,New York Mets,2018,LHP,Hi A
+Tom Gorzelanny,New York Mets,2018,LHP,AAA
+Xorge Carrillo,New York Mets,2018,C,AAA
+Victor Moscote,New York Mets,2018,C,Hi A
+Natanael Ramos,New York Mets,2018,C,Lo A
+Cody Decker,New York Mets,2018,1B,AAA
+J.C. Rodriguez,New York Mets,2018,2B,Hi A
+Jio Mier,New York Mets,2018,SS,AAA
+Gustavo Nunez,New York Mets,2018,SS,AA
+Josh Rodriguez,New York Mets,2018,SS,AAA
+Victor Cruzado,New York Mets,2018,OF,AAA
+Travis Snider,New York Mets,2018,OF,AAA
+Travis Taijeron,New York Mets,2018,OF,AAA
+Colten Brewer,New York Yankees,2018,RHP,AA
+Juan Jimenez,New York Yankees,2018,RHP,R
+Tyler Jones,New York Yankees,2018,RHP,Hi A
+Jose Pena,New York Yankees,2018,RHP,AAA
+Eduardo Rivera,New York Yankees,2018,RHP,SS
+Daniel Camarena,New York Yankees,2018,LHP,AA
+Joe Mantiply,New York Yankees,2018,LHP,AAA
+Eric Wooten,New York Yankees,2018,LHP,AA
+Wilkin Castillo,New York Yankees,2018,C,AAA
+Kellin Deglan,New York Yankees,2018,C,AA
+Eddy Rodriguez,New York Yankees,2018,C,AAA
+Wes Wilson,New York Yankees,2018,C,Hi A
+Donovan Solano,New York Yankees,2018,2B,AAA
+Dante Bichette Jr.,New York Yankees,2018,3B,AA
+Cito Culver,New York Yankees,2018,SS,AAA
+Mason Williams,New York Yankees,2018,OF,AAA
+Yordys Alejo,Oakland Athletics,2018,RHP,Lo A
+Logan Bawcom,Oakland Athletics,2018,RHP,AAA
+Chris Jensen,Oakland Athletics,2018,RHP,AAA
+Aaron Kurcz,Oakland Athletics,2018,RHP,AA
+Carlos Navas,Oakland Athletics,2018,RHP,AA
+Tyler Sturdevant,Oakland Athletics,2018,RHP,AA
+Felix Doubront,Oakland Athletics,2018,LHP,AAA
+Brandon Mann,Oakland Athletics,2018,LHP,AA
+Patrick Schuster,Oakland Athletics,2018,LHP,AAA
+Matt McBride,Oakland Athletics,2018,C,AAA
+Andy Paz,Oakland Athletics,2018,C,AA
+Argenis Raga,Oakland Athletics,2018,C,Hi A
+Chris Carter,Oakland Athletics,2018,1B,AAA
+Viosergy Rosa,Oakland Athletics,2018,1B,AA
+Jermaine Curtis,Oakland Athletics,2018,3B,AA
+Kenny Wilson,Oakland Athletics,2018,OF,AAA
+Michael Mariot,Philadelphia Phillies,2018,RHP,AAA
+Colton Murray,Philadelphia Phillies,2018,RHP,AA
+Miguel Nunez,Philadelphia Phillies,2018,RHP,AA
+Jesen Therrien,Philadelphia Phillies,2018,RHP,AAA
+Cesar Ramos,Philadelphia Phillies,2018,LHP,AAA
+Pat Venditte,Philadelphia Phillies,2018,LHP,AAA
+Wilson Garcia,Philadelphia Phillies,2018,C,Hi A
+Chace Numata,Philadelphia Phillies,2018,C,AA
+Nick Rickles,Philadelphia Phillies,2018,C,AAA
+Jake Fox,Philadelphia Phillies,2018,1B,AA
+Brock Stassi,Philadelphia Phillies,2018,1B,AAA
+Angelo Mora,Philadelphia Phillies,2018,2B,AAA
+Harold Martinez,Philadelphia Phillies,2018,3B,AA
+Hector Gomez,Philadelphia Phillies,2018,SS,AAA
+Christian Marrero,Philadelphia Phillies,2018,OF,AAA
+Herlis Rodriguez,Philadelphia Phillies,2018,OF,AAA
+Brandon Cumpton,Pittsburgh Pirates,2018,RHP,AAA
+Luis Heredia,Pittsburgh Pirates,2018,RHP,AA
+Jason Stoffel,Pittsburgh Pirates,2018,RHP,AAA
+Wade LeBlanc,Pittsburgh Pirates,2018,LHP,AAA
+Sammy Gonzalez,Pittsburgh Pirates,2018,C,Hi A
+Tomas Morales,Pittsburgh Pirates,2018,C,AA
+Jackson Williams,Pittsburgh Pirates,2018,C,AAA
+Edwin Espinal,Pittsburgh Pirates,2018,1B,AAA
+Carlos Munoz,Pittsburgh Pirates,2018,1B,Hi A
+Joey Terdoslavich,Pittsburgh Pirates,2018,1B,AAA
+Kelson Brown,Pittsburgh Pirates,2018,SS,R
+Anderson Feliz,Pittsburgh Pirates,2018,SS,AAA
+Alfredo Reyes,Pittsburgh Pirates,2018,SS,Hi A
+Danny Ortiz,Pittsburgh Pirates,2018,OF,AAA
+Jonathan Schwind,Pittsburgh Pirates,2018,OF,AA
+Mark Montgomery,St. Louis Cardinals,2018,RHP,AAA
+Miguel Socolovich,St. Louis Cardinals,2018,RHP,AAA
+Josh Zeid,St. Louis Cardinals,2018,RHP,AAA
+Gabriel Lino,St. Louis Cardinals,2018,C,AAA
+Alberto Rosario,St. Louis Cardinals,2018,C,AAA
+Anthony Garcia,St. Louis Cardinals,2018,OF,AA
+Nick Martini,St. Louis Cardinals,2018,OF,AAA
+C.J. McElroy,St. Louis Cardinals,2018,OF,AA
+Christian Bethancourt,San Diego Padres,2018,RHP,Hi A
+Yimmi Brasoban,San Diego Padres,2018,RHP,AA
+Jake Esch,San Diego Padres,2018,RHP,AA
+Erik Johnson,San Diego Padres,2018,RHP,AAA
+Mike Kelly,San Diego Padres,2018,RHP,AA
+Matt Magill,San Diego Padres,2018,RHP,AAA
+Andre Rienzo,San Diego Padres,2018,RHP,AAA
+Bryan Rodriguez,San Diego Padres,2018,RHP,AAA
+Cesar Vargas,San Diego Padres,2018,RHP,Hi A
+Tony Cruz,San Diego Padres,2018,C,AAA
+Casey McElroy,San Diego Padres,2018,2B,AAA
+Noah Perio,San Diego Padres,2018,2B,AA
+Diego Goris,San Diego Padres,2018,3B,AAA
+Chris Bono,San Diego Padres,2018,OF,R
+Nick Buss,San Diego Padres,2018,OF,AAA
+Edwin Moreno,San Diego Padres,2018,OF,Hi A
+Rafael Ortega,San Diego Padres,2018,OF,AAA
+Carlos Alvarado,San Francisco Giants,2018,RHP,AA
+Collin Balester,San Francisco Giants,2018,RHP,AAA
+Vic Black,San Francisco Giants,2018,RHP,AA
+Yordy Cabrera,San Francisco Giants,2018,RHP,Lo A
+Cody Hall,San Francisco Giants,2018,RHP,AA
+Stephen Johnson,San Francisco Giants,2018,RHP,AA
+Casey Kelly,San Francisco Giants,2018,RHP,AAA
+Julio Pena,San Francisco Giants,2018,RHP,Lo A
+Seth Rosin,San Francisco Giants,2018,RHP,AA
+Jarret Martin,San Francisco Giants,2018,LHP,AA
+Nate Reed,San Francisco Giants,2018,LHP,AA
+Matt Reynolds,San Francisco Giants,2018,LHP,AAA
+Kraig Sitton,San Francisco Giants,2018,LHP,AAA
+Myles Schroder,San Francisco Giants,2018,C,AA
+Eliezer Zambrano,San Francisco Giants,2018,C,AA
+Cristian Paulino,San Francisco Giants,2018,3B,Hi A
+Ali Castillo,San Francisco Giants,2018,SS,AAA
+Carlos Garcia,San Francisco Giants,2018,SS,AA
+Rando Moreno,San Francisco Giants,2018,SS,AA
+Juniel Querecuto,San Francisco Giants,2018,SS,AAA
+Wynton Bernard,San Francisco Giants,2018,OF,AAA
+Shawon Dunston Jr.,San Francisco Giants,2018,OF,Lo A
+Slade Heathcott,San Francisco Giants,2018,OF,AAA
+Ryan Lollis,San Francisco Giants,2018,OF,AAA
+Jonathan Aro,Seattle Mariners,2018,RHP,AAA
+Ralston Cash,Seattle Mariners,2018,RHP,AA
+Tyler Cloyd,Seattle Mariners,2018,RHP,AAA
+Justin De Fratus,Seattle Mariners,2018,RHP,AA
+Ronald Dominguez,Seattle Mariners,2018,RHP,Lo A
+Bryan Evans,Seattle Mariners,2018,RHP,AA
+Ryne Harper,Seattle Mariners,2018,RHP,AAA
+Ryan Kelly,Seattle Mariners,2018,RHP,AA
+Tyler Knigge,Seattle Mariners,2018,RHP,AA
+Casey Lawrence,Seattle Mariners,2018,RHP,AAA
+Evan Marshall,Seattle Mariners,2018,RHP,AAA
+Brian McAfee,Seattle Mariners,2018,RHP,SS
+Micah Owings,Seattle Mariners,2018,RHP,AA
+Blake Perry,Seattle Mariners,2018,RHP,AA
+Fabian Roman,Seattle Mariners,2018,RHP,SS
+Dylan Unsworth,Seattle Mariners,2018,RHP,AA
+Aaron West,Seattle Mariners,2018,RHP,AA
+Aronny Cruz,Seattle Mariners,2018,LHP,DSL
+Kyle Hunter,Seattle Mariners,2018,LHP,AA
+Dean Kiekhefer,Seattle Mariners,2018,LHP,AAA
+Ashur Tolliver,Seattle Mariners,2018,LHP,AA
+Nevin Ashley,Seattle Mariners,2018,C,AAA
+Steven Baron,Seattle Mariners,2018,C,AA
+Alexander Capriata,Seattle Mariners,2018,C,AAA
+Marcus Littlewood,Seattle Mariners,2018,C,AA
+Tyler Marlette,Seattle Mariners,2018,C,AA
+Arturo Nieto,Seattle Mariners,2018,C,Hi A
+Yojhan Quevedo,Seattle Mariners,2018,C,Lo A
+Ryan Casteel,Seattle Mariners,2018,1B,AA
+Rafael Fernandez,Seattle Mariners,2018,2B,Hi A
+Shawn O’Malley,Seattle Mariners,2018,2B,AAA
+Nelson Ward,Seattle Mariners,2018,2B,AA
+Gianfranco Wawoe,Seattle Mariners,2018,2B,Hi A
+Joey Wong,Seattle Mariners,2018,SS,AAA
+Willie Argo,Seattle Mariners,2018,OF,AA
+Kyle Waldrop,Seattle Mariners,2018,OF,AAA
+Hunter Adkins,Tampa Bay Rays,2018,RHP,AA
+Jeff Ames,Tampa Bay Rays,2018,RHP,AAA
+Fernando Baez,Tampa Bay Rays,2018,RHP,Hi A
+Mike Broadway,Tampa Bay Rays,2018,RHP,AAA
+Jairo Munoz,Tampa Bay Rays,2018,RHP,Hi A
+Kyle Winkler,Tampa Bay Rays,2018,RHP,AA
+Logan Darnell,Tampa Bay Rays,2018,LHP,AA
+Grayson Garvin,Tampa Bay Rays,2018,LHP,AA
+Michael Roth,Tampa Bay Rays,2018,LHP,AAA
+Jonny Venters,Tampa Bay Rays,2018,LHP,AAA
+Curt Casali,Tampa Bay Rays,2018,C,AAA
+Michael McKenry,Tampa Bay Rays,2018,C,AAA
+Justin O’Conner,Tampa Bay Rays,2018,C,AAA
+Ryan Brett,Tampa Bay Rays,2018,2B,AAA
+Patrick Leonard,Tampa Bay Rays,2018,3B,AAA
+Jake Hager,Tampa Bay Rays,2018,SS,AAA
+Granden Goetzman,Tampa Bay Rays,2018,OF,Hi A
+Cesar Puello,Tampa Bay Rays,2018,OF,AAA
+Austin Bibens-Dirkx,Texas Rangers,2018,RHP,AAA
+Paolo Espino,Texas Rangers,2018,RHP,AAA
+Richelson Pena,Texas Rangers,2018,RHP,AA
+Jose Valdespina,Texas Rangers,2018,RHP,Hi A
+Kelvin Vasquez,Texas Rangers,2018,RHP,Hi A
+Allen Webster,Texas Rangers,2018,RHP,AAA
+Dario Alvarez,Texas Rangers,2018,LHP,AAA
+Adam Loewen,Texas Rangers,2018,LHP,AAA
+Jimmy Reyes,Texas Rangers,2018,LHP,AAA
+Brett Hayes,Texas Rangers,2018,C,AAA
+A.J. Jimenez,Texas Rangers,2018,C,AAA
+Steve Lerud,Texas Rangers,2018,C,AA
+Kevin Torres,Texas Rangers,2018,C,AAA
+Eric Aguilera,Texas Rangers,2018,1B,AA
+Doug Bernier,Texas Rangers,2018,SS,AAA
+Elio Castillo,Texas Rangers,2018,SS,Hi A
+Luis Marte,Texas Rangers,2018,SS,AA
+Luis Mendez,Texas Rangers,2018,SS,Hi A
+Jared Hoying,Texas Rangers,2018,OF,AAA
+Matt Lipka,Texas Rangers,2018,OF,Hi A
+Leonel Campos,Toronto Blue Jays,2018,RHP,AAA
+Daniel Canellas,Toronto Blue Jays,2018,RHP,Lo A
+Adonys Cardona,Toronto Blue Jays,2018,RHP,Hi A
+Taylor Cole,Toronto Blue Jays,2018,RHP,AAA
+Blake McFarland,Toronto Blue Jays,2018,RHP,AA
+Luis Santos,Toronto Blue Jays,2018,RHP,AAA
+Bo Schultz,Toronto Blue Jays,2018,RHP,AAA
+Chris Smith,Toronto Blue Jays,2018,RHP,AAA
+Murphy Smith,Toronto Blue Jays,2018,RHP,AAA
+John Stilson,Toronto Blue Jays,2018,RHP,AAA
+John Straka,Toronto Blue Jays,2018,RHP,Hi A
+Kender Villegas,Toronto Blue Jays,2018,RHP,AA
+Philip Walby,Toronto Blue Jays,2018,RHP,Hi A
+George Carroll,Toronto Blue Jays,2018,C,Hi A
+Luis Liriano,Toronto Blue Jays,2018,C,DSL
+Rafael Lopez,Toronto Blue Jays,2018,C,AAA
+Jose Mayorga,Toronto Blue Jays,2018,C,AAA
+Alex Monsalve,Toronto Blue Jays,2018,C,AA
+Jon Berti,Toronto Blue Jays,2018,2B,AAA
+Christian Lopes,Toronto Blue Jays,2018,2B,AAA
+Matt Dean,Toronto Blue Jays,2018,3B,AA
+Shane Opitz,Toronto Blue Jays,2018,SS,AAA
+Gregorio Petit,Toronto Blue Jays,2018,SS,AAA
+Darrell Ceciliani,Toronto Blue Jays,2018,OF,AAA
+Derrick Loveless,Toronto Blue Jays,2018,OF,AA
+Jose Tabata,Toronto Blue Jays,2018,OF,AAA
+Gabriel Arias,Washington Nationals,2018,RHP,AAA
+Taylor Hill,Washington Nationals,2018,RHP,AA
+Kevin Jepsen,Washington Nationals,2018,RHP,AAA
+Jaron Long,Washington Nationals,2018,RHP,AAA
+Rafael Martin,Washington Nationals,2018,RHP,AAA
+Gilberto Mendez,Washington Nationals,2018,RHP,Hi A
+Sean O’Sullivan,Washington Nationals,2018,RHP,AAA
+Neil Ramirez,Washington Nationals,2018,RHP,AAA
+Andrew Robinson,Washington Nationals,2018,RHP,AA
+Cody Satterwhite,Washington Nationals,2018,RHP,AAA
+Kyle Schepel,Washington Nationals,2018,RHP,AA
+Tim Collins,Washington Nationals,2018,LHP,AA
+Neal Cotts,Washington Nationals,2018,LHP,AAA
+Braulio Lara,Washington Nationals,2018,LHP,AA
+Devin Ivany,Washington Nationals,2018,C,AA
+Andruth Ramirez,Washington Nationals,2018,C,AAA
+Matt Skole,Washington Nationals,2018,1B,AAA
+Brandon Snyder,Washington Nationals,2018,1B,AAA
+Neftali Soto,Washington Nationals,2018,1B,AAA
+Emmanuel Burriss,Washington Nationals,2018,2B,AAA
+Corban Joseph,Washington Nationals,2018,2B,AA
+Michael Almanzar,Washington Nationals,2018,3B,AAA
+Mario Lisson,Washington Nationals,2018,3B,AA
+Benji Gonzalez,Washington Nationals,2018,SS,AAA
+Joey Butler,Washington Nationals,2018,OF,AAA
+Chad Huffman,Washington Nationals,2018,OF,AAA
