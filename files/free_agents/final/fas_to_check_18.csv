@@ -1,0 +1,573 @@
+internal_id,player_name,first_name,last_name,team,fa_class,position,normed_position,minor_league_level
+525,Tyler Badamo,Tyler,Badamo,ARI,2018,RHP,pitcher,SS
+239,J.R. Bradley,J.R.,Bradley,ARI,2018,RHP,pitcher,AA
+189,Erik Davis,Erik,Davis,ARI,2018,RHP,pitcher,AAA
+130,Damian Defrank,Damian,Defrank,ARI,2018,RHP,pitcher,R
+399,Miller Diaz,Miller,Diaz,ARI,2018,RHP,pitcher,AA
+309,Julio Perez,Julio,Perez,ARI,2018,RHP,pitcher,Lo A
+236,Ivan Pineyro,Ivan,Pineyro,ARI,2018,RHP,pitcher,AA
+536,Tyler Vail,Tyler,Vail,ARI,2018,RHP,pitcher,SS
+186,Eric Jokisch,Eric,Jokisch,ARI,2018,LHP,pitcher,AAA
+3,Aaron Laffey,Aaron,Laffey,ARI,2018,LHP,pitcher,AAA
+90,Cesilio Pimentel,Cesilio,Pimentel,ARI,2018,LHP,pitcher,R
+552,Willians Astudillo,Willians,Astudillo,ARI,2018,C,batter,AAA
+428,Oscar Hernandez,Oscar,Hernandez,ARI,2018,C,batter,AA
+30,Angel Franco,Angel,Franco,ARI,2018,2B,batter,AAA
+136,Danny Lockhart,Danny,Lockhart,ARI,2018,2B,batter,AA
+520,Travis Denker,Travis,Denker,ARI,2018,3B,batter,AA
+293,Jorge Flores,Jorge,Flores,ARI,2018,SS,batter,Hi A
+544,Vladimir Frias,Vladimir,Frias,ARI,2018,SS,batter,AA
+429,Oswaldo Arcia,Oswaldo,Arcia,ARI,2018,OF,batter,AAA
+181,Emilio Bonifacio,Emilio,Bonifacio,ARI,2018,OF,batter,AAA
+570,Zach Borenstein,Zach,Borenstein,ARI,2018,OF,batter,AAA
+319,Kelly Dugan,Kelly,Dugan,ARI,2018,OF,batter,AA
+184,Enrique Burgos,Enrique,Burgos,ATL,2018,RHP,pitcher,AAA
+455,Rhiner Cruz,Rhiner,Cruz,ATL,2018,RHP,pitcher,AAA
+333,Kris Medlen,Kris,Medlen,ATL,2018,RHP,pitcher,AAA
+138,Danny Reynolds,Danny,Reynolds,ATL,2018,RHP,pitcher,AAA
+275,Joe Rogers,Joe,Rogers,ATL,2018,LHP,pitcher,Hi A
+277,Joey Meneses,Joey,Meneses,ATL,2018,1B,batter,AA
+335,Kyle Kubitza,Kyle,Kubitza,ATL,2018,3B,batter,AAA
+487,Sean Kazmar,Sean,Kazmar,ATL,2018,SS,batter,AAA
+180,Emerson Landoni,Emerson,Landoni,ATL,2018,SS,batter,AAA
+382,Matt Tuiasosopo,Matt,Tuiasosopo,ATL,2018,OF,batter,AAA
+407,Nate Adcock,Nate,Adcock,BAL,2018,RHP,pitcher,AAA
+23,Andrew Bellatti,Andrew,Bellatti,BAL,2018,RHP,pitcher,AAA
+57,Bobby Bundy,Bobby,Bundy,BAL,2018,RHP,pitcher,AAA
+256,Jason Garcia,Jason,Garcia,BAL,2018,RHP,pitcher,AA
+264,Jefri Hernandez,Jefri,Hernandez,BAL,2018,RHP,pitcher,AA
+485,Scott McGough,Scott,McGough,BAL,2018,RHP,pitcher,AA
+456,Richard Rodriguez,Richard,Rodriguez,BAL,2018,RHP,pitcher,AAA
+203,Franderlin Romero,Franderlin,Romero,BAL,2018,RHP,pitcher,AA
+317,Karl Triana,Karl,Triana,BAL,2018,RHP,pitcher,AA
+47,Austin Urban,Austin,Urban,BAL,2018,RHP,pitcher,AA
+537,Tyler Wilson,Tyler,Wilson,BAL,2018,RHP,pitcher,AAA
+260,Jayson Aquino,Jayson,Aquino,BAL,2018,LHP,pitcher,AAA
+509,Tim Berry,Tim,Berry,BAL,2018,LHP,pitcher,AA
+24,Andrew Faulkner,Andrew,Faulkner,BAL,2018,LHP,pitcher,AAA
+451,Raudel Lazo,Raudel,Lazo,BAL,2018,LHP,pitcher,AA
+348,Lucas Luetge,Lucas,Luetge,BAL,2018,LHP,pitcher,AAA
+432,Paco Rodriguez,Paco,Rodriguez,BAL,2018,LHP,pitcher,AAA
+102,Chris O’Brien,Chris,O’Brien,BAL,2018,C,batter,AAA
+43,Audry Perez,Audry,Perez,BAL,2018,C,batter,AA
+9,Aderlin Rodriguez,Aderlin,Rodriguez,BAL,2018,1B,batter,AA
+493,Sharlon Schoop,Sharlon,Schoop,BAL,2018,2B,batter,AAA
+14,Alex Castellanos,Alex,Castellanos,BAL,2018,3B,batter,AAA
+100,Chris Johnson,Chris,Johnson,BAL,2018,3B,batter,AAA
+207,Garabez Rosa,Garabez,Rosa,BAL,2018,3B,batter,AA
+460,Robert Andino,Robert,Andino,BAL,2018,SS,batter,AAA
+213,Glynn Davis,Glynn,Davis,BAL,2018,OF,batter,AA
+96,Chris Dickerson,Chris,Dickerson,BAL,2018,OF,batter,AAA
+346,Logan Schafer,Logan,Schafer,BAL,2018,OF,batter,AAA
+147,David Washington,David,Washington,BAL,2018,OF,batter,AAA
+242,Jacob Dahlstrand,Jacob,Dahlstrand,BOS,2018,RHP,pitcher,AA
+494,Shawn Haviland,Shawn,Haviland,BOS,2018,RHP,pitcher,AAA
+401,Mitchell Osnowitz,Mitchell,Osnowitz,BOS,2018,RHP,pitcher,SS
+177,Elih Villanueva,Elih,Villanueva,BOS,2018,RHP,pitcher,AA
+169,Edgar Olmos,Edgar,Olmos,BOS,2018,LHP,pitcher,AAA
+131,Dan Butler,Dan,Butler,BOS,2018,C,batter,AAA
+512,Tim Roberson,Tim,Roberson,BOS,2018,C,batter,AAA
+123,Conrad Gregor,Conrad,Gregor,BOS,2018,1B,batter,Hi A
+222,Heiker Meneses,Heiker,Meneses,BOS,2018,2B,batter,AAA
+371,Matt Dominguez,Matt,Dominguez,BOS,2018,3B,batter,AAA
+398,Mike Olt,Mike,Olt,BOS,2018,3B,batter,AA
+472,Ryan Court,Ryan,Court,BOS,2018,SS,batter,AAA
+68,Brian Bogusevic,Brian,Bogusevic,BOS,2018,OF,batter,AAA
+504,Steve Selsky,Steve,Selsky,BOS,2018,OF,batter,AAA
+225,Henry Urrutia,Henry,Urrutia,BOS,2018,OF,batter,AA
+483,Scott Carroll,Scott,Carroll,CHC,2018,RHP,pitcher,AAA
+551,Williams Perez,Williams,Perez,CHC,2018,RHP,pitcher,AAA
+265,Jemile Weeks,Jemile,Weeks,CHC,2018,2B,batter,AAA
+97,Chris Dominguez,Chris,Dominguez,CHC,2018,3B,batter,AAA
+395,Mike Freeman,Mike,Freeman,CHC,2018,SS,batter,AAA
+430,Ozzie Martinez,Ozzie,Martinez,CHC,2018,SS,batter,AAA
+179,Elliot Soto,Elliot,Soto,CHC,2018,SS,batter,AAA
+281,John Andreoli,John,Andreoli,CHC,2018,OF,batter,AAA
+474,Ryan Kalish,Ryan,Kalish,CHC,2018,OF,batter,SS
+524,Trey Martin,Trey,Martin,CHC,2018,OF,batter,AA
+502,Steve Johnson,Steve,Johnson,CHW,2018,RHP,pitcher,AAA
+323,Kelvis Valerio,Kelvis,Valerio,CHW,2018,RHP,pitcher,Hi A
+376,Matt Purke,Matt,Purke,CHW,2018,LHP,pitcher,AAA
+486,Scott Snodgress,Scott,Snodgress,CHW,2018,LHP,pitcher,AA
+462,Roberto Pena,Roberto,Pena,CHW,2018,C,batter,AAA
+463,Ronald Bueno,Ronald,Bueno,CHW,2018,2B,batter,AAA
+532,Tyler Ladendorf,Tyler,Ladendorf,CHW,2018,2B,batter,AAA
+299,Jose Vinicio,Jose,Vinicio,CHW,2018,SS,batter,AA
+255,Jason Bourgeois,Jason,Bourgeois,CHW,2018,OF,batter,AAA
+231,Hunter Jones,Hunter,Jones,CHW,2018,OF,batter,AA
+209,Geoff Broussard,Geoff,Broussard,CIN,2018,RHP,pitcher,AA
+13,Alejandro Chacin,Alejandro,Chacin,CIN,2018,RHP,pitcher,AAA
+80,Carlos Gonzalez,Carlos,Gonzalez,CIN,2018,RHP,pitcher,AAA
+542,Vin Mazzaro,Vin,Mazzaro,CIN,2018,RHP,pitcher,AAA
+410,Nefi Ogando,Nefi,Ogando,CIN,2018,RHP,pitcher,AAA
+46,Austin Ross,Austin,Ross,CIN,2018,RHP,pitcher,AA
+461,Robert Stock,Robert,Stock,CIN,2018,RHP,pitcher,AA
+157,Domingo Tapia,Domingo,Tapia,CIN,2018,RHP,pitcher,AA
+233,Ismael Guillon,Ismael,Guillon,CIN,2018,LHP,pitcher,AAA
+294,Jose Duarte,Jose,Duarte,CIN,2018,C,batter,AAA
+39,Arismendy Alcantara,Arismendy,Alcantara,CIN,2018,2B,batter,AA
+33,Angelo Gumbs,Angelo,Gumbs,CIN,2018,2B,batter,AA
+227,Hernan Iribarren,Hernan,Iribarren,CIN,2018,2B,batter,AAA
+306,Juan Perez,Juan,Perez,CIN,2018,SS,batter,AAA
+288,Jonathan Reynoso,Jonathan,Reynoso,CIN,2018,OF,batter,AA
+6,Adam Brett Walker,Adam,Brett Walker,CIN,2018,OF,batter,AAA
+459,Robbie Aviles,Robbie,Aviles,CLE,2018,RHP,pitcher,AA
+519,Travis Banwart,Travis,Banwart,CLE,2018,RHP,pitcher,AAA
+273,Joe Colon,Joe,Colon,CLE,2018,RHP,pitcher,AAA
+78,Carlos Frias,Carlos,Frias,CLE,2018,RHP,pitcher,AAA
+439,Perci Garner,Perci,Garner,CLE,2018,RHP,pitcher,AA
+254,Jarrett Grube,Jarrett,Grube,CLE,2018,RHP,pitcher,AAA
+263,Jeff Johnson,Jeff,Johnson,CLE,2018,RHP,pitcher,AAA
+183,Enosil Tejeda,Enosil,Tejeda,CLE,2018,RHP,pitcher,AAA
+511,Tim Cooney,Tim,Cooney,CLE,2018,LHP,pitcher,AAA
+353,Luis Lugo,Luis,Lugo,CLE,2018,LHP,pitcher,AA
+101,Chris Narveson,Chris,Narveson,CLE,2018,LHP,pitcher,AAA
+367,Martin Cervenka,Martin,Cervenka,CLE,2018,C,batter,Hi A
+307,Juan de la Cruz,Juan,de la Cruz,CLE,2018,C,batter,AA
+8,Adam Moore,Adam,Moore,CLE,2018,C,batter,AAA
+112,Claudio Bautista,Claudio,Bautista,CLE,2018,2B,batter,Hi A
+387,Michael Martinez,Michael,Martinez,CLE,2018,2B,batter,AAA
+301,Josh Wilson,Josh,Wilson,CLE,2018,2B,batter,AAA
+567,Yonathan Mendoza,Yonathan,Mendoza,CLE,2018,SS,batter,AA
+465,Ronny Rodriguez,Ronny,Rodriguez,CLE,2018,SS,batter,AAA
+144,David Lough,David,Lough,CLE,2018,OF,batter,AAA
+349,Luigi Rodriguez,Luigi,Rodriguez,CLE,2018,OF,batter,AA
+292,Jordan Smith,Jordan,Smith,CLE,2018,OF,batter,AAA
+229,Huascar Brazoban,Huascar,Brazoban,COL,2018,RHP,pitcher,AA
+49,Barry Enright,Barry,Enright,COL,2018,RHP,pitcher,AAA
+170,Edison Frias,Edison,Frias,COL,2018,RHP,pitcher,AA
+280,Johendi Jiminian,Johendi,Jiminian,COL,2018,RHP,pitcher,AA
+74,C.C. Lee,C.C.,Lee,COL,2018,RHP,pitcher,AAA
+357,Luis Niebla,Luis,Niebla,COL,2018,RHP,pitcher,AA
+416,Nick Additon,Nick,Additon,COL,2018,LHP,pitcher,AA
+470,Ryan Carpenter,Ryan,Carpenter,COL,2018,LHP,pitcher,AAA
+193,Evan Grills,Evan,Grills,COL,2018,LHP,pitcher,AA
+549,Will Lamb,Will,Lamb,COL,2018,LHP,pitcher,AA
+223,Helmis Rodriguez,Helmis,Rodriguez,COL,2018,LHP,pitcher,Hi A
+48,Austin Wright,Austin,Wright,COL,2018,LHP,pitcher,SS
+219,Hamlet Marte,Hamlet,Marte,COL,2018,C,batter,Hi A
+473,Ryan Howard,Ryan,Howard,COL,2018,1B,batter,AAA
+447,Rafael Ynoa,Rafael,Ynoa,COL,2018,2B,batter,AAA
+127,Cristhian Adames,Cristhian,Adames,COL,2018,SS,batter,AAA
+134,Daniel Castro,Daniel,Castro,COL,2018,SS,batter,AAA
+303,Juan Ciriaco,Juan,Ciriaco,COL,2018,SS,batter,AA
+555,Wilson Soriano,Wilson,Soriano,COL,2018,SS,batter,Hi A
+499,Stephen Cardullo,Stephen,Cardullo,COL,2018,OF,batter,AAA
+466,Rosell Herrera,Rosell,Herrera,COL,2018,OF,batter,AAA
+156,Dillon Thomas,Dillon,Thomas,COL,2018,OF,batter,AAA
+442,R.J. Alaniz,R.J.,Alaniz,DET,2018,RHP,pitcher,AAA
+262,Jeff Ferrell,Jeff,Ferrell,DET,2018,RHP,pitcher,AAA
+404,Myles Jaye,Myles,Jaye,DET,2018,RHP,pitcher,AAA
+345,Logan Kensing,Logan,Kensing,DET,2018,RHP,pitcher,AAA
+31,Angel Nesbitt,Angel,Nesbitt,DET,2018,RHP,pitcher,AA
+369,Matt Crouse,Matt,Crouse,DET,2018,LHP,pitcher,AAA
+36,Anthony Gose,Anthony,Gose,DET,2018,LHP,pitcher,Hi A
+337,Kyle Ryan,Kyle,Ryan,DET,2018,LHP,pitcher,AAA
+37,Anthony Vasquez,Anthony,Vasquez,DET,2018,LHP,pitcher,AAA
+391,Miguel Gonzalez,Miguel,Gonzalez,DET,2018,C,batter,AAA
+175,Efren Navarro,Efren,Navarro,DET,2018,1B,batter,AAA
+427,Omar Infante,Omar,Infante,DET,2018,2B,batter,AAA
+347,Logan Watkins,Logan,Watkins,DET,2018,2B,batter,AA
+572,Zack Cox,Zack,Cox,DET,2018,3B,batter,AA
+66,Brendan Ryan,Brendan,Ryan,DET,2018,SS,batter,AAA
+270,Jim Adduci,Jim,Adduci,DET,2018,OF,batter,AAA
+527,Tyler Collins,Tyler,Collins,DET,2018,OF,batter,AAA
+258,Jason Krizan,Jason,Krizan,DET,2018,OF,batter,AAA
+506,Steven Moya,Steven,Moya,DET,2018,OF,batter,AA
+327,Kevin Comer,Kevin,Comer,HOU,2018,RHP,pitcher,AAA
+310,Jumbo Diaz,Jumbo,Diaz,HOU,2018,RHP,pitcher,AAA
+145,David Martinez,David,Martinez,HOU,2018,RHP,pitcher,AAA
+172,Eduardo de Oleo,Eduardo,de Oleo,HOU,2018,C,batter,AAA
+452,Reid Brignac,Reid,Brignac,HOU,2018,2B,batter,AAA
+119,Colin Walsh,Colin,Walsh,HOU,2018,3B,batter,AAA
+458,Rico Noel,Rico,Noel,HOU,2018,OF,batter,AAA
+107,Christian Binford,Christian,Binford,KCR,2018,RHP,pitcher,AAA
+562,Yender Caramo,Yender,Caramo,KCR,2018,RHP,pitcher,AAA
+361,Malcom Culver,Malcom,Culver,KCR,2018,RHP,pitcher,AAA
+366,Mark Peterson,Mark,Peterson,KCR,2018,RHP,pitcher,AAA
+251,Jared Schlehuber,Jared,Schlehuber,KCR,2018,RHP,pitcher,R
+105,Chris Withrow,Chris,Withrow,KCR,2018,RHP,pitcher,AAA
+358,Luis Rico,Luis,Rico,KCR,2018,LHP,pitcher,Hi A
+65,Brayan Pena,Brayan,Pena,KCR,2018,C,batter,AAA
+149,Dean Anna,Dean,Anna,KCR,2018,2B,batter,AAA
+467,Ruben Sosa,Ruben,Sosa,KCR,2018,2B,batter,AAA
+208,Garin Cecchini,Garin,Cecchini,KCR,2018,3B,batter,AAA
+383,Mauricio Ramos,Mauricio,Ramos,KCR,2018,3B,batter,AA
+571,Zach Walters,Zach,Walters,KCR,2018,3B,batter,AAA
+44,Austin Adams,Austin,Adams,LAA,2018,RHP,pitcher,AAA
+5,Abel de los Santos,Abel,de los Santos,LAA,2018,RHP,pitcher,AAA
+350,Luis E. Diaz,Luis,E. Diaz,LAA,2018,RHP,pitcher,AAA
+161,Drew Gagnon,Drew,Gagnon,LAA,2018,RHP,pitcher,AAA
+235,Ivan Hernandez,Ivan,Hernandez,LAA,2018,RHP,pitcher,AA
+480,Sam Holland,Sam,Holland,LAA,2018,RHP,pitcher,Hi A
+187,Eric Karch,Eric,Karch,LAA,2018,RHP,pitcher,Hi A
+269,Jhondaniel Medina,Jhondaniel,Medina,LAA,2018,RHP,pitcher,AA
+146,David Perez,David,Perez,LAA,2018,RHP,pitcher,R
+71,Brooks Pounders,Brooks,Pounders,LAA,2018,RHP,pitcher,AAA
+362,Manny Banuelos,Manny,Banuelos,LAA,2018,LHP,pitcher,AAA
+116,Cody Ege,Cody,Ege,LAA,2018,LHP,pitcher,AAA
+328,Kevin Grendell,Kevin,Grendell,LAA,2018,LHP,pitcher,AA
+257,Jason Gurka,Jason,Gurka,LAA,2018,LHP,pitcher,AAA
+282,John Lamb,John,Lamb,LAA,2018,LHP,pitcher,AAA
+202,Francisco Arcia,Francisco,Arcia,LAA,2018,C,batter,AAA
+163,Dustin Ackley,Dustin,Ackley,LAA,2018,1B,batter,AAA
+418,Nick Franklin,Nick,Franklin,LAA,2018,2B,batter,AAA
+454,Rey Navarro,Rey,Navarro,LAA,2018,SS,batter,AAA
+201,Forrestt Allday,Forrestt,Allday,LAA,2018,OF,batter,AA
+482,Scott Barlow,Scott,Barlow,LAD,2018,RHP,pitcher,AA
+196,Fabio Castillo,Fabio,Castillo,LAD,2018,RHP,pitcher,AAA
+167,Eddie Gamboa,Eddie,Gamboa,LAD,2018,RHP,pitcher,AAA
+501,Steve Geltz,Steve,Geltz,LAD,2018,RHP,pitcher,AAA
+142,David Hale,David,Hale,LAD,2018,RHP,pitcher,AAA
+243,Jair Jurrjens,Jair,Jurrjens,LAD,2018,RHP,pitcher,AAA
+313,Justin Masterson,Justin,Masterson,LAD,2018,RHP,pitcher,AAA
+305,Juan Noriega,Juan,Noriega,LAD,2018,RHP,pitcher,AA
+425,Oliver Polanco,Oliver,Polanco,LAD,2018,RHP,pitcher,DSL
+513,Tim Shibuya,Tim,Shibuya,LAD,2018,RHP,pitcher,AA
+26,Andrew Thurman,Andrew,Thurman,LAD,2018,RHP,pitcher,Hi A
+360,Madison Younginer,Madison,Younginer,LAD,2018,RHP,pitcher,AAA
+266,Jeremy Bleich,Jeremy,Bleich,LAD,2018,LHP,pitcher,AAA
+232,Ike Davis,Ike,Davis,LAD,2018,LHP,pitcher,AAA
+240,Jack Murphy,Jack,Murphy,LAD,2018,C,batter,AAA
+489,Sean O’Connell,Sean,O’Connell,LAD,2018,C,batter,AA
+556,Wynston Sawyer,Wynston,Sawyer,LAD,2018,C,batter,AA
+58,Bobby Wilson,Bobby,Wilson,LAD,2018,C,batter,AAA
+496,Shawn Zarraga,Shawn,Zarraga,LAD,2018,C,batter,AAA
+431,O’Koyea Dickson,O’Koyea,Dickson,LAD,2018,1B,batter,AAA
+162,Drew Maggi,Drew,Maggi,LAD,2018,SS,batter,AAA
+514,Todd Cunningham,Todd,Cunningham,LAD,2018,OF,batter,AAA
+441,Quincy Latimore,Quincy,Latimore,LAD,2018,OF,batter,Hi A
+468,Ryan Beckman,Ryan,Beckman,MIA,2018,RHP,pitcher,AA
+426,Omar Bencomo,Omar,Bencomo,MIA,2018,RHP,pitcher,AAA
+484,Scott Copeland,Scott,Copeland,MIA,2018,RHP,pitcher,AAA
+550,William Cuevas,William,Cuevas,MIA,2018,RHP,pitcher,AAA
+61,Brandon Cunniff,Brandon,Cunniff,MIA,2018,RHP,pitcher,AAA
+197,Felipe Gonzalez,Felipe,Gonzalez,MIA,2018,RHP,pitcher,AA
+529,Tyler Higgins,Tyler,Higgins,MIA,2018,RHP,pitcher,AA
+113,Clayton Mortensen,Clayton,Mortensen,MIA,2018,RHP,pitcher,AAA
+331,Keyvius Sampson,Keyvius,Sampson,MIA,2018,RHP,pitcher,AAA
+397,Mike Kickham,Mike,Kickham,MIA,2018,LHP,pitcher,AAA
+250,Jared Lakind,Jared,Lakind,MIA,2018,LHP,pitcher,AA
+336,Kyle Lobstein,Kyle,Lobstein,MIA,2018,LHP,pitcher,AAA
+321,Kelvin Marte,Kelvin,Marte,MIA,2018,LHP,pitcher,AAA
+541,Victor Payano,Victor,Payano,MIA,2018,LHP,pitcher,AAA
+135,Daniel Schlereth,Daniel,Schlereth,MIA,2018,LHP,pitcher,AA
+380,Matt Tomshaw,Matt,Tomshaw,MIA,2018,LHP,pitcher,AA
+449,Ramon Cabrera,Ramon,Cabrera,MIA,2018,C,batter,AAA
+76,Cam Maron,Cam,Maron,MIA,2018,C,batter,AA
+164,Dustin Geiger,Dustin,Geiger,MIA,2018,1B,batter,AA
+108,Christian Colon,Christian,Colon,MIA,2018,2B,batter,AAA
+245,Jake Elmore,Jake,Elmore,MIA,2018,2B,batter,AAA
+215,Grant Green,Grant,Green,MIA,2018,2B,batter,AAA
+114,Cleuluis Rondon,Cleuluis,Rondon,MIA,2018,SS,batter,AA
+315,K.C. Serna,K.C.,Serna,MIA,2018,SS,batter,AA
+59,Brandon Barnes,Brandon,Barnes,MIA,2018,OF,batter,AAA
+153,Destin Hood,Destin,Hood,MIA,2018,OF,batter,AAA
+103,Chris Parmelee,Chris,Parmelee,MIA,2018,OF,batter,AAA
+192,Eury Perez,Eury,Perez,MIA,2018,OF,batter,AAA
+560,Yefri Perez,Yefri,Perez,MIA,2018,OF,batter,AA
+402,Moises Sierra,Moises,Sierra,MIA,2018,OF,batter,AAA
+563,Yhonathan Barrios,Yhonathan,Barrios,MIL,2018,RHP,pitcher,AAA
+434,Parker Berberet,Parker,Berberet,MIL,2018,RHP,pitcher,Hi A
+228,Hiram Burgos,Hiram,Burgos,MIL,2018,RHP,pitcher,AAA
+528,Tyler Cravy,Tyler,Cravy,MIL,2018,RHP,pitcher,AA
+521,Travis Hissong,Travis,Hissong,MIL,2018,RHP,pitcher,AA
+377,Matt Ramsey,Matt,Ramsey,MIL,2018,RHP,pitcher,AA
+200,Forrest Snow,Forrest,Snow,MIL,2018,RHP,pitcher,AA
+32,Angel Ventura,Angel,Ventura,MIL,2018,RHP,pitcher,AAA
+22,Andrew Barbosa,Andrew,Barbosa,MIL,2018,LHP,pitcher,AAA
+488,Sean Nolin,Sean,Nolin,MIL,2018,LHP,pitcher,AAA
+421,Nick Ramirez,Nick,Ramirez,MIL,2018,LHP,pitcher,AAA
+453,Rene Garcia,Rene,Garcia,MIL,2018,C,batter,AA
+165,Dustin Houle,Dustin,Houle,MIL,2018,C,batter,AA
+95,Chris Colabello,Chris,Colabello,MIL,2018,1B,batter,AAA
+234,Ivan De Jesus Jr.,Ivan,De Jesus Jr.,MIL,2018,SS,batter,AAA
+420,Nick Noonan,Nick,Noonan,MIL,2018,SS,batter,AAA
+206,Gabriel Noriega,Gabriel,Noriega,MIL,2018,SS,batter,AA
+559,Yadiel Rivera,Yadiel,Rivera,MIL,2018,SS,batter,AAA
+389,Michael Reed,Michael,Reed,MIL,2018,OF,batter,AA
+224,Henry Centeno,Henry,Centeno,MIN,2018,RHP,pitcher,Hi A
+98,Chris Heston,Chris,Heston,MIN,2018,RHP,pitcher,AAA
+316,Kam Mickolio,Kam,Mickolio,MIN,2018,RHP,pitcher,AAA
+565,Yohan Pino,Yohan,Pino,MIN,2018,RHP,pitcher,AAA
+151,Dereck Rodriguez,Dereck,Rodriguez,MIN,2018,RHP,pitcher,AA
+143,David Hurlbut,David,Hurlbut,MIN,2018,LHP,pitcher,AAA
+477,Ryan O’Rourke,Ryan,O’Rourke,MIN,2018,LHP,pitcher,AAA
+381,Matt Tracy,Matt,Tracy,MIN,2018,LHP,pitcher,AA
+83,Carlos Paulino,Carlos,Paulino,MIN,2018,C,batter,AAA
+561,Yeison Perez,Yeison,Perez,MIN,2018,C,batter,DSL
+148,Davinson Pimentel,Davinson,Pimentel,MIN,2018,C,batter,DSL
+372,Matt Hague,Matt,Hague,MIN,2018,1B,batter,AAA
+289,Jonathan Rodriguez,Jonathan,Rodriguez,MIN,2018,1B,batter,AA
+29,Andy Wilkins,Andy,Wilkins,MIN,2018,1B,batter,AA
+517,Tommy Field,Tommy,Field,MIN,2018,2B,batter,AAA
+423,Niko Goodrum,Niko,Goodrum,MIN,2018,2B,batter,AAA
+341,Leonardo Reginatto,Leonardo,Reginatto,MIN,2018,SS,batter,AAA
+237,J.B. Shuck,J.B.,Shuck,MIN,2018,OF,batter,AAA
+478,Ryan Strausborger,Ryan,Strausborger,MIN,2018,OF,batter,AA
+286,Jonathan Albaladejo,Jonathan,Albaladejo,NYM,2018,RHP,pitcher,AAA
+400,Mitch Atkins,Mitch,Atkins,NYM,2018,RHP,pitcher,AAA
+53,Blake Beavan,Blake,Beavan,NYM,2018,RHP,pitcher,AA
+547,Wilfredo Boscan,Wilfredo,Boscan,NYM,2018,RHP,pitcher,AAA
+125,Cory Burns,Cory,Burns,NYM,2018,RHP,pitcher,AA
+190,Erik Goeddel,Erik,Goeddel,NYM,2018,RHP,pitcher,AAA
+158,Donovan Hand,Donovan,Hand,NYM,2018,RHP,pitcher,R
+355,Luis Mateo,Luis,Mateo,NYM,2018,RHP,pitcher,AAA
+126,Craig Missigman,Craig,Missigman,NYM,2018,RHP,pitcher,Hi A
+438,Pedro Perez,Pedro,Perez,NYM,2018,RHP,pitcher,R
+534,Tyler Pill,Tyler,Pill,NYM,2018,RHP,pitcher,AAA
+51,Ben Rowen,Ben,Rowen,NYM,2018,RHP,pitcher,AAA
+413,Neil Wagner,Neil,Wagner,NYM,2018,RHP,pitcher,AAA
+50,Beck Wheeler,Beck,Wheeler,NYM,2018,RHP,pitcher,AAA
+11,Alberto Baldonado,Alberto,Baldonado,NYM,2018,LHP,pitcher,AAA
+326,Kevin Canelon,Kevin,Canelon,NYM,2018,LHP,pitcher,Hi A
+515,Tom Gorzelanny,Tom,Gorzelanny,NYM,2018,LHP,pitcher,AAA
+558,Xorge Carrillo,Xorge,Carrillo,NYM,2018,C,batter,AAA
+540,Victor Moscote,Victor,Moscote,NYM,2018,C,batter,Hi A
+406,Natanael Ramos,Natanael,Ramos,NYM,2018,C,batter,Lo A
+115,Cody Decker,Cody,Decker,NYM,2018,1B,batter,AAA
+238,J.C. Rodriguez,J.C.,Rodriguez,NYM,2018,2B,batter,Hi A
+272,Jio Mier,Jio,Mier,NYM,2018,SS,batter,AAA
+218,Gustavo Nunez,Gustavo,Nunez,NYM,2018,SS,batter,AA
+300,Josh Rodriguez,Josh,Rodriguez,NYM,2018,SS,batter,AAA
+539,Victor Cruzado,Victor,Cruzado,NYM,2018,OF,batter,AAA
+522,Travis Snider,Travis,Snider,NYM,2018,OF,batter,AAA
+523,Travis Taijeron,Travis,Taijeron,NYM,2018,OF,batter,AAA
+121,Colten Brewer,Colten,Brewer,NYY,2018,RHP,pitcher,AA
+304,Juan Jimenez,Juan,Jimenez,NYY,2018,RHP,pitcher,R
+530,Tyler Jones,Tyler,Jones,NYY,2018,RHP,pitcher,Hi A
+296,Jose Pena,Jose,Pena,NYY,2018,RHP,pitcher,AAA
+171,Eduardo Rivera,Eduardo,Rivera,NYY,2018,RHP,pitcher,SS
+132,Daniel Camarena,Daniel,Camarena,NYY,2018,LHP,pitcher,AA
+274,Joe Mantiply,Joe,Mantiply,NYY,2018,LHP,pitcher,AAA
+188,Eric Wooten,Eric,Wooten,NYY,2018,LHP,pitcher,AA
+548,Wilkin Castillo,Wilkin,Castillo,NYY,2018,C,batter,AAA
+318,Kellin Deglan,Kellin,Deglan,NYY,2018,C,batter,AA
+168,Eddy Rodriguez,Eddy,Rodriguez,NYY,2018,C,batter,AAA
+546,Wes Wilson,Wes,Wilson,NYY,2018,C,batter,Hi A
+159,Donovan Solano,Donovan,Solano,NYY,2018,2B,batter,AAA
+139,Dante Bichette Jr.,Dante,Bichette Jr.,NYY,2018,3B,batter,AA
+111,Cito Culver,Cito,Culver,NYY,2018,SS,batter,AAA
+368,Mason Williams,Mason,Williams,NYY,2018,OF,batter,AAA
+569,Yordys Alejo,Yordys,Alejo,OAK,2018,RHP,pitcher,Lo A
+343,Logan Bawcom,Logan,Bawcom,OAK,2018,RHP,pitcher,AAA
+99,Chris Jensen,Chris,Jensen,OAK,2018,RHP,pitcher,AAA
+2,Aaron Kurcz,Aaron,Kurcz,OAK,2018,RHP,pitcher,AA
+82,Carlos Navas,Carlos,Navas,OAK,2018,RHP,pitcher,AA
+535,Tyler Sturdevant,Tyler,Sturdevant,OAK,2018,RHP,pitcher,AA
+198,Felix Doubront,Felix,Doubront,OAK,2018,LHP,pitcher,AAA
+62,Brandon Mann,Brandon,Mann,OAK,2018,LHP,pitcher,AA
+437,Patrick Schuster,Patrick,Schuster,OAK,2018,LHP,pitcher,AAA
+375,Matt McBride,Matt,McBride,OAK,2018,C,batter,AAA
+28,Andy Paz,Andy,Paz,OAK,2018,C,batter,AA
+38,Argenis Raga,Argenis,Raga,OAK,2018,C,batter,Hi A
+94,Chris Carter,Chris,Carter,OAK,2018,1B,batter,AAA
+543,Viosergy Rosa,Viosergy,Rosa,OAK,2018,1B,batter,AA
+267,Jermaine Curtis,Jermaine,Curtis,OAK,2018,3B,batter,AA
+325,Kenny Wilson,Kenny,Wilson,OAK,2018,OF,batter,AAA
+386,Michael Mariot,Michael,Mariot,PHI,2018,RHP,pitcher,AAA
+122,Colton Murray,Colton,Murray,PHI,2018,RHP,pitcher,AA
+392,Miguel Nunez,Miguel,Nunez,PHI,2018,RHP,pitcher,AA
+268,Jesen Therrien,Jesen,Therrien,PHI,2018,RHP,pitcher,AAA
+88,Cesar Ramos,Cesar,Ramos,PHI,2018,LHP,pitcher,AAA
+435,Pat Venditte,Pat,Venditte,PHI,2018,LHP,pitcher,AAA
+554,Wilson Garcia,Wilson,Garcia,PHI,2018,C,batter,Hi A
+91,Chace Numata,Chace,Numata,PHI,2018,C,batter,AA
+422,Nick Rickles,Nick,Rickles,PHI,2018,C,batter,AAA
+247,Jake Fox,Jake,Fox,PHI,2018,1B,batter,AA
+70,Brock Stassi,Brock,Stassi,PHI,2018,1B,batter,AAA
+34,Angelo Mora,Angelo,Mora,PHI,2018,2B,batter,AAA
+220,Harold Martinez,Harold,Martinez,PHI,2018,3B,batter,AA
+221,Hector Gomez,Hector,Gomez,PHI,2018,SS,batter,AAA
+110,Christian Marrero,Christian,Marrero,PHI,2018,OF,batter,AAA
+226,Herlis Rodriguez,Herlis,Rodriguez,PHI,2018,OF,batter,AAA
+60,Brandon Cumpton,Brandon,Cumpton,PIT,2018,RHP,pitcher,AAA
+351,Luis Heredia,Luis,Heredia,PIT,2018,RHP,pitcher,AA
+259,Jason Stoffel,Jason,Stoffel,PIT,2018,RHP,pitcher,AAA
+545,Wade LeBlanc,Wade,LeBlanc,PIT,2018,LHP,pitcher,AAA
+481,Sammy Gonzalez,Sammy,Gonzalez,PIT,2018,C,batter,Hi A
+516,Tomas Morales,Tomas,Morales,PIT,2018,C,batter,AA
+241,Jackson Williams,Jackson,Williams,PIT,2018,C,batter,AAA
+173,Edwin Espinal,Edwin,Espinal,PIT,2018,1B,batter,AAA
+81,Carlos Munoz,Carlos,Munoz,PIT,2018,1B,batter,Hi A
+278,Joey Terdoslavich,Joey,Terdoslavich,PIT,2018,1B,batter,AAA
+320,Kelson Brown,Kelson,Brown,PIT,2018,SS,batter,R
+20,Anderson Feliz,Anderson,Feliz,PIT,2018,SS,batter,AAA
+17,Alfredo Reyes,Alfredo,Reyes,PIT,2018,SS,batter,Hi A
+137,Danny Ortiz,Danny,Ortiz,PIT,2018,OF,batter,AAA
+290,Jonathan Schwind,Jonathan,Schwind,PIT,2018,OF,batter,AA
+365,Mark Montgomery,Mark,Montgomery,STL,2018,RHP,pitcher,AAA
+393,Miguel Socolovich,Miguel,Socolovich,STL,2018,RHP,pitcher,AAA
+302,Josh Zeid,Josh,Zeid,STL,2018,RHP,pitcher,AAA
+205,Gabriel Lino,Gabriel,Lino,STL,2018,C,batter,AAA
+12,Alberto Rosario,Alberto,Rosario,STL,2018,C,batter,AAA
+35,Anthony Garcia,Anthony,Garcia,STL,2018,OF,batter,AA
+419,Nick Martini,Nick,Martini,STL,2018,OF,batter,AAA
+75,C.J. McElroy,C.J.,McElroy,STL,2018,OF,batter,AA
+106,Christian Bethancourt,Christian,Bethancourt,SDP,2018,RHP,pitcher,Hi A
+564,Yimmi Brasoban,Yimmi,Brasoban,SDP,2018,RHP,pitcher,AA
+246,Jake Esch,Jake,Esch,SDP,2018,RHP,pitcher,AA
+191,Erik Johnson,Erik,Johnson,SDP,2018,RHP,pitcher,AAA
+396,Mike Kelly,Mike,Kelly,SDP,2018,RHP,pitcher,AA
+374,Matt Magill,Matt,Magill,SDP,2018,RHP,pitcher,AAA
+21,Andre Rienzo,Andre,Rienzo,SDP,2018,RHP,pitcher,AAA
+73,Bryan Rodriguez,Bryan,Rodriguez,SDP,2018,RHP,pitcher,AAA
+89,Cesar Vargas,Cesar,Vargas,SDP,2018,RHP,pitcher,Hi A
+518,Tony Cruz,Tony,Cruz,SDP,2018,C,batter,AAA
+86,Casey McElroy,Casey,McElroy,SDP,2018,2B,batter,AAA
+424,Noah Perio,Noah,Perio,SDP,2018,2B,batter,AA
+155,Diego Goris,Diego,Goris,SDP,2018,3B,batter,AAA
+93,Chris Bono,Chris,Bono,SDP,2018,OF,batter,R
+417,Nick Buss,Nick,Buss,SDP,2018,OF,batter,AAA
+174,Edwin Moreno,Edwin,Moreno,SDP,2018,OF,batter,Hi A
+446,Rafael Ortega,Rafael,Ortega,SDP,2018,OF,batter,AAA
+77,Carlos Alvarado,Carlos,Alvarado,SFG,2018,RHP,pitcher,AA
+120,Collin Balester,Collin,Balester,SFG,2018,RHP,pitcher,AAA
+538,Vic Black,Vic,Black,SFG,2018,RHP,pitcher,AA
+568,Yordy Cabrera,Yordy,Cabrera,SFG,2018,RHP,pitcher,Lo A
+117,Cody Hall,Cody,Hall,SFG,2018,RHP,pitcher,AA
+500,Stephen Johnson,Stephen,Johnson,SFG,2018,RHP,pitcher,AA
+84,Casey Kelly,Casey,Kelly,SFG,2018,RHP,pitcher,AAA
+308,Julio Pena,Julio,Pena,SFG,2018,RHP,pitcher,Lo A
+491,Seth Rosin,Seth,Rosin,SFG,2018,RHP,pitcher,AA
+253,Jarret Martin,Jarret,Martin,SFG,2018,LHP,pitcher,AA
+408,Nate Reed,Nate,Reed,SFG,2018,LHP,pitcher,AA
+378,Matt Reynolds,Matt,Reynolds,SFG,2018,LHP,pitcher,AAA
+332,Kraig Sitton,Kraig,Sitton,SFG,2018,LHP,pitcher,AAA
+405,Myles Schroder,Myles,Schroder,SFG,2018,C,batter,AA
+176,Eliezer Zambrano,Eliezer,Zambrano,SFG,2018,C,batter,AA
+128,Cristian Paulino,Cristian,Paulino,SFG,2018,3B,batter,Hi A
+18,Ali Castillo,Ali,Castillo,SFG,2018,SS,batter,AAA
+79,Carlos Garcia,Carlos,Garcia,SFG,2018,SS,batter,AA
+450,Rando Moreno,Rando,Moreno,SFG,2018,SS,batter,AA
+311,Juniel Querecuto,Juniel,Querecuto,SFG,2018,SS,batter,AAA
+557,Wynton Bernard,Wynton,Bernard,SFG,2018,OF,batter,AAA
+497,Shawon Dunston Jr.,Shawon,Dunston Jr.,SFG,2018,OF,batter,Lo A
+498,Slade Heathcott,Slade,Heathcott,SFG,2018,OF,batter,AAA
+476,Ryan Lollis,Ryan,Lollis,SFG,2018,OF,batter,AAA
+287,Jonathan Aro,Jonathan,Aro,SEA,2018,RHP,pitcher,AAA
+448,Ralston Cash,Ralston,Cash,SEA,2018,RHP,pitcher,AA
+526,Tyler Cloyd,Tyler,Cloyd,SEA,2018,RHP,pitcher,AAA
+312,Justin De Fratus,Justin,De Fratus,SEA,2018,RHP,pitcher,AA
+464,Ronald Dominguez,Ronald,Dominguez,SEA,2018,RHP,pitcher,Lo A
+72,Bryan Evans,Bryan,Evans,SEA,2018,RHP,pitcher,AA
+479,Ryne Harper,Ryne,Harper,SEA,2018,RHP,pitcher,AAA
+475,Ryan Kelly,Ryan,Kelly,SEA,2018,RHP,pitcher,AA
+531,Tyler Knigge,Tyler,Knigge,SEA,2018,RHP,pitcher,AA
+85,Casey Lawrence,Casey,Lawrence,SEA,2018,RHP,pitcher,AAA
+194,Evan Marshall,Evan,Marshall,SEA,2018,RHP,pitcher,AAA
+69,Brian McAfee,Brian,McAfee,SEA,2018,RHP,pitcher,SS
+384,Micah Owings,Micah,Owings,SEA,2018,RHP,pitcher,AA
+55,Blake Perry,Blake,Perry,SEA,2018,RHP,pitcher,AA
+195,Fabian Roman,Fabian,Roman,SEA,2018,RHP,pitcher,SS
+166,Dylan Unsworth,Dylan,Unsworth,SEA,2018,RHP,pitcher,AA
+4,Aaron West,Aaron,West,SEA,2018,RHP,pitcher,AA
+40,Aronny Cruz,Aronny,Cruz,SEA,2018,LHP,pitcher,DSL
+334,Kyle Hunter,Kyle,Hunter,SEA,2018,LHP,pitcher,AA
+150,Dean Kiekhefer,Dean,Kiekhefer,SEA,2018,LHP,pitcher,AAA
+42,Ashur Tolliver,Ashur,Tolliver,SEA,2018,LHP,pitcher,AA
+415,Nevin Ashley,Nevin,Ashley,SEA,2018,C,batter,AAA
+505,Steven Baron,Steven,Baron,SEA,2018,C,batter,AA
+16,Alexander Capriata,Alexander,Capriata,SEA,2018,C,batter,AAA
+363,Marcus Littlewood,Marcus,Littlewood,SEA,2018,C,batter,AA
+533,Tyler Marlette,Tyler,Marlette,SEA,2018,C,batter,AA
+41,Arturo Nieto,Arturo,Nieto,SEA,2018,C,batter,Hi A
+566,Yojhan Quevedo,Yojhan,Quevedo,SEA,2018,C,batter,Lo A
+471,Ryan Casteel,Ryan,Casteel,SEA,2018,1B,batter,AA
+443,Rafael Fernandez,Rafael,Fernandez,SEA,2018,2B,batter,Hi A
+495,Shawn O’Malley,Shawn,O’Malley,SEA,2018,2B,batter,AAA
+414,Nelson Ward,Nelson,Ward,SEA,2018,2B,batter,AA
+211,Gianfranco Wawoe,Gianfranco,Wawoe,SEA,2018,2B,batter,Hi A
+279,Joey Wong,Joey,Wong,SEA,2018,SS,batter,AAA
+553,Willie Argo,Willie,Argo,SEA,2018,OF,batter,AA
+339,Kyle Waldrop,Kyle,Waldrop,SEA,2018,OF,batter,AAA
+230,Hunter Adkins,Hunter,Adkins,TBR,2018,RHP,pitcher,AA
+261,Jeff Ames,Jeff,Ames,TBR,2018,RHP,pitcher,AAA
+199,Fernando Baez,Fernando,Baez,TBR,2018,RHP,pitcher,Hi A
+394,Mike Broadway,Mike,Broadway,TBR,2018,RHP,pitcher,AAA
+244,Jairo Munoz,Jairo,Munoz,TBR,2018,RHP,pitcher,Hi A
+340,Kyle Winkler,Kyle,Winkler,TBR,2018,RHP,pitcher,AA
+344,Logan Darnell,Logan,Darnell,TBR,2018,LHP,pitcher,AA
+216,Grayson Garvin,Grayson,Garvin,TBR,2018,LHP,pitcher,AA
+390,Michael Roth,Michael,Roth,TBR,2018,LHP,pitcher,AAA
+291,Jonny Venters,Jonny,Venters,TBR,2018,LHP,pitcher,AAA
+129,Curt Casali,Curt,Casali,TBR,2018,C,batter,AAA
+388,Michael McKenry,Michael,McKenry,TBR,2018,C,batter,AAA
+314,Justin O’Conner,Justin,O’Conner,TBR,2018,C,batter,AAA
+469,Ryan Brett,Ryan,Brett,TBR,2018,2B,batter,AAA
+436,Patrick Leonard,Patrick,Leonard,TBR,2018,3B,batter,AAA
+248,Jake Hager,Jake,Hager,TBR,2018,SS,batter,AAA
+214,Granden Goetzman,Granden,Goetzman,TBR,2018,OF,batter,Hi A
+87,Cesar Puello,Cesar,Puello,TBR,2018,OF,batter,AAA
+45,Austin Bibens-Dirkx,Austin,Bibens-Dirkx,TEX,2018,RHP,pitcher,AAA
+433,Paolo Espino,Paolo,Espino,TEX,2018,RHP,pitcher,AAA
+457,Richelson Pena,Richelson,Pena,TEX,2018,RHP,pitcher,AA
+298,Jose Valdespina,Jose,Valdespina,TEX,2018,RHP,pitcher,Hi A
+322,Kelvin Vasquez,Kelvin,Vasquez,TEX,2018,RHP,pitcher,Hi A
+19,Allen Webster,Allen,Webster,TEX,2018,RHP,pitcher,AAA
+140,Dario Alvarez,Dario,Alvarez,TEX,2018,LHP,pitcher,AAA
+7,Adam Loewen,Adam,Loewen,TEX,2018,LHP,pitcher,AAA
+271,Jimmy Reyes,Jimmy,Reyes,TEX,2018,LHP,pitcher,AAA
+67,Brett Hayes,Brett,Hayes,TEX,2018,C,batter,AAA
+1,A.J. Jimenez,A.J.,Jimenez,TEX,2018,C,batter,AAA
+503,Steve Lerud,Steve,Lerud,TEX,2018,C,batter,AA
+330,Kevin Torres,Kevin,Torres,TEX,2018,C,batter,AAA
+185,Eric Aguilera,Eric,Aguilera,TEX,2018,1B,batter,AA
+160,Doug Bernier,Doug,Bernier,TEX,2018,SS,batter,AAA
+178,Elio Castillo,Elio,Castillo,TEX,2018,SS,batter,Hi A
+354,Luis Marte,Luis,Marte,TEX,2018,SS,batter,AA
+356,Luis Mendez,Luis,Mendez,TEX,2018,SS,batter,Hi A
+249,Jared Hoying,Jared,Hoying,TEX,2018,OF,batter,AAA
+373,Matt Lipka,Matt,Lipka,TEX,2018,OF,batter,Hi A
+342,Leonel Campos,Leonel,Campos,TOR,2018,RHP,pitcher,AAA
+133,Daniel Canellas,Daniel,Canellas,TOR,2018,RHP,pitcher,Lo A
+10,Adonys Cardona,Adonys,Cardona,TOR,2018,RHP,pitcher,Hi A
+507,Taylor Cole,Taylor,Cole,TOR,2018,RHP,pitcher,AAA
+54,Blake McFarland,Blake,McFarland,TOR,2018,RHP,pitcher,AA
+359,Luis Santos,Luis,Santos,TOR,2018,RHP,pitcher,AAA
+56,Bo Schultz,Bo,Schultz,TOR,2018,RHP,pitcher,AAA
+104,Chris Smith,Chris,Smith,TOR,2018,RHP,pitcher,AAA
+403,Murphy Smith,Murphy,Smith,TOR,2018,RHP,pitcher,AAA
+283,John Stilson,John,Stilson,TOR,2018,RHP,pitcher,AAA
+284,John Straka,John,Straka,TOR,2018,RHP,pitcher,Hi A
+324,Kender Villegas,Kender,Villegas,TOR,2018,RHP,pitcher,AA
+440,Philip Walby,Philip,Walby,TOR,2018,RHP,pitcher,Hi A
+210,George Carroll,George,Carroll,TOR,2018,C,batter,Hi A
+352,Luis Liriano,Luis,Liriano,TOR,2018,C,batter,DSL
+444,Rafael Lopez,Rafael,Lopez,TOR,2018,C,batter,AAA
+295,Jose Mayorga,Jose,Mayorga,TOR,2018,C,batter,AAA
+15,Alex Monsalve,Alex,Monsalve,TOR,2018,C,batter,AA
+285,Jon Berti,Jon,Berti,TOR,2018,2B,batter,AAA
+109,Christian Lopes,Christian,Lopes,TOR,2018,2B,batter,AAA
+370,Matt Dean,Matt,Dean,TOR,2018,3B,batter,AA
+492,Shane Opitz,Shane,Opitz,TOR,2018,SS,batter,AAA
+217,Gregorio Petit,Gregorio,Petit,TOR,2018,SS,batter,AAA
+141,Darrell Ceciliani,Darrell,Ceciliani,TOR,2018,OF,batter,AAA
+152,Derrick Loveless,Derrick,Loveless,TOR,2018,OF,batter,AA
+297,Jose Tabata,Jose,Tabata,TOR,2018,OF,batter,AAA
+204,Gabriel Arias,Gabriel,Arias,WSN,2018,RHP,pitcher,AAA
+508,Taylor Hill,Taylor,Hill,WSN,2018,RHP,pitcher,AA
+329,Kevin Jepsen,Kevin,Jepsen,WSN,2018,RHP,pitcher,AAA
+252,Jaron Long,Jaron,Long,WSN,2018,RHP,pitcher,AAA
+445,Rafael Martin,Rafael,Martin,WSN,2018,RHP,pitcher,AAA
+212,Gilberto Mendez,Gilberto,Mendez,WSN,2018,RHP,pitcher,Hi A
+490,Sean O’Sullivan,Sean,O’Sullivan,WSN,2018,RHP,pitcher,AAA
+412,Neil Ramirez,Neil,Ramirez,WSN,2018,RHP,pitcher,AAA
+25,Andrew Robinson,Andrew,Robinson,WSN,2018,RHP,pitcher,AA
+118,Cody Satterwhite,Cody,Satterwhite,WSN,2018,RHP,pitcher,AAA
+338,Kyle Schepel,Kyle,Schepel,WSN,2018,RHP,pitcher,AA
+510,Tim Collins,Tim,Collins,WSN,2018,LHP,pitcher,AA
+409,Neal Cotts,Neal,Cotts,WSN,2018,LHP,pitcher,AAA
+64,Braulio Lara,Braulio,Lara,WSN,2018,LHP,pitcher,AA
+154,Devin Ivany,Devin,Ivany,WSN,2018,C,batter,AA
+27,Andruth Ramirez,Andruth,Ramirez,WSN,2018,C,batter,AAA
+379,Matt Skole,Matt,Skole,WSN,2018,1B,batter,AAA
+63,Brandon Snyder,Brandon,Snyder,WSN,2018,1B,batter,AAA
+411,Neftali Soto,Neftali,Soto,WSN,2018,1B,batter,AAA
+182,Emmanuel Burriss,Emmanuel,Burriss,WSN,2018,2B,batter,AAA
+124,Corban Joseph,Corban,Joseph,WSN,2018,2B,batter,AA
+385,Michael Almanzar,Michael,Almanzar,WSN,2018,3B,batter,AAA
+364,Mario Lisson,Mario,Lisson,WSN,2018,3B,batter,AA
+52,Benji Gonzalez,Benji,Gonzalez,WSN,2018,SS,batter,AAA
+276,Joey Butler,Joey,Butler,WSN,2018,OF,batter,AAA
+92,Chad Huffman,Chad,Huffman,WSN,2018,OF,batter,AAA
