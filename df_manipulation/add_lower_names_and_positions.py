@@ -5,14 +5,16 @@ import glob
 columns = ['player_name', 'team', 'fa_class', 'position', 'minor_league_level']
 
 #Combine and concatenate dataframes
-dfs = [
+'''dfs = [
    pl.scan_csv(file, ignore_errors=True)
    for file in glob.glob('../files/free_agents/scraped/*.csv')
 ]
-df = pl.concat(dfs, how="diagonal").select(columns).collect()
+df = pl.concat(dfs, how="diagonal").select(columns).collect()'''
+
+df = pl.read_csv('../files/free_agents/scraped/fas_18_.csv')
 
 #Split off player names into first and last, the lowercase is necessary for pybaseball player id lookup
-names = list(df['player_name'])
+names = df.select('player_name').to_series().to_list()
 split_names = [name.split(' ', maxsplit=1) for name in names]
 
 #Create list of player first and last names
@@ -51,5 +53,5 @@ df = df.select(
  
 )
 
-df.write_csv('../files/free_agents/final/fas_to_check.csv')
+df.write_csv('../files/free_agents/final/fas_to_check_18.csv')
 
