@@ -1,19 +1,19 @@
 import polars as pl
 import sys
-sys.path.insert(0, '/home/salviati/projects/baseball/custom_player_lookup/script')
+sys.path.insert(0, '/home/directory/subfolders/custom_player_lookup/script')
 import id_lookup_tool as player_id_lookup
 
-fas_list = pl.scan_csv('../files/free_agents/final/fas_to_check_cleaned.csv', schema_overrides={'internal_id': pl.String})
-stats = pl.scan_csv('../files/stats/player_stats.csv')
-stats = stats.rename({'IDfg': 'key_fangraphs'})
+#fas_list = pl.scan_csv('filepath', schema_overrides={'internal_id': pl.String})
 
 def process_valid_id(valid_id, player) -> pl.LazyFrame:
+    
     if valid_id.collect().height > 1:
         valid_id = valid_id.with_columns(
             full_name=pl.lit(player['player_name']),
             team=pl.lit(player['team']),
             internal_id=pl.lit(player['internal_id']),
             fa_class=pl.lit(player['fa_class']),
+            position=pl.lit(player['position']),
             position_cat=pl.lit(player['normed_position']),
             chadwick_returned=pl.lit('multiple_passed_bref_check')
         )
@@ -23,6 +23,7 @@ def process_valid_id(valid_id, player) -> pl.LazyFrame:
             team=pl.lit(player['team']),
             internal_id=pl.lit(player['internal_id']),
             fa_class=pl.lit(player['fa_class']),
+            position=pl.lit(player['position']),
             position_cat=pl.lit(player['normed_position']),
             chadwick_returned=pl.lit('one')
         )
@@ -32,6 +33,7 @@ def process_valid_id(valid_id, player) -> pl.LazyFrame:
             team=pl.lit(player['team']),
             internal_id=pl.lit(player['internal_id']),
             fa_class=pl.lit(player['fa_class']),
+            position=pl.lit(player['position']),
             position_cat=pl.lit(player['normed_position']),
             chadwick_returned=pl.lit('multiple_failed_bref_check')
         )
@@ -141,12 +143,10 @@ def get_id(df) -> pl.LazyFrame:
 
     return players
 
-missing_pro_fields = pl.scan_csv('../files/free_agents/final/fa_id_matched_updated.csv', schema_overrides={
-    'key_bbref_minors': pl.String,
-    'key_fangraphs': pl.String})
+#df = get_id(fas_list)
+#df.collect().write_csv('fa_id_matched_18.csv')
 
-
-fas_to_update = pl.scan_csv('../files/free_agents/final/fa_id_matched_updated.csv')
+fas_to_update = pl.scan_csv('filepath')
 fas_to_update_filtered = fas_to_update.filter(pl.col('chadwick_returned') == 'zero')
 ids_to_update = fas_to_update_filtered.collect().select('key_bbref_minors').to_series().to_list()
 cols_to_update = ['pro_played_first', 
@@ -202,19 +202,8 @@ fas_to_update = (
     .unique(maintain_order=True)
 )
 
-fas_to_update.collect().write_csv('../files/free_agents/final/fa_ids_complete.csv')
+#fas_to_update.collect().write_csv('filepath')
 
-'''players_and_stats = id.lazy().collect().join(stats.lazy().collect(), on='key_fangraphs', how='left')
-players_and_stats = players_and_stats.with_columns(
-    pl.when(pl.col('fa_class') == pl.col('Season'))
-        .then(pl.lit(True, dtype=bool))
-        .otherwise(pl.lit(False, dtype=bool))
-        .alias('played_in_fa_season'),
-    pl.when(pl.col('mlb_played_first').is_not_null())
-        .then(pl.lit(True, dtype=bool))
-        .otherwise(pl.lit(False, dtype=bool))
-        .alias('played_in_mlb')
-    )'''
 
 
 
