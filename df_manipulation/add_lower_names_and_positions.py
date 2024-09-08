@@ -1,17 +1,9 @@
 import polars as pl
-import glob
-
 #Read in CSVs with scraped player data
 columns = ['player_name', 'team', 'fa_class', 'position', 'minor_league_level']
 
 #Combine and concatenate dataframes
-'''dfs = [
-   pl.scan_csv(file, ignore_errors=True)
-   for file in glob.glob('../files/free_agents/scraped/*.csv')
-]
-df = pl.concat(dfs, how="diagonal").select(columns).collect()'''
-
-df = pl.read_csv('../files/free_agents/scraped/fas_18_.csv')
+df = pl.scan_csv('filepath') #Use asterisk to glob CSVs
 
 #Split off player names into first and last, the lowercase is necessary for pybaseball player id lookup
 names = df.select('player_name').to_series().to_list()
@@ -22,7 +14,7 @@ first_names = [name[0] for name in split_names]
 last_names = [name[1].strip('*') for name in split_names]
 
 #Add column with abbreviated team names
-team_names = pl.read_csv('team_abbreviations.csv')
+team_names = pl.scan_csv('team_abbreviations.csv')
 df = df.join(team_names, on='team')
 
 #Add columns
@@ -53,5 +45,5 @@ df = df.select(
  
 )
 
-df.write_csv('../files/free_agents/final/fas_to_check_18.csv')
+#df.collect().write_csv('filepath')
 
