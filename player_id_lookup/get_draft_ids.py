@@ -5,7 +5,7 @@ import id_lookup_tool as player_id_lookup
 
 players = pl.scan_csv('../files/free_agents/final/fas_final.csv')
 players = players.rename({'fa_class': 'draft_year'})
-draft_results = pl.scan_csv('../files/draft_results/combined_results_check.csv')
+draft_results = pl.scan_csv('../files/draft_results/draft_results_w_ids.csv')
 draft_results = draft_results.with_columns([
     pl.col('player').str.splitn(by=' ', n=2)
     .alias('name_struct')
