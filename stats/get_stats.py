@@ -26,4 +26,3 @@ for year in years:
     all_stats = pl.concat([all_stats, batting_lazy.collect(), pitching_lazy.collect()], how='diagonal')
 
 
-all_stats.write_csv('player_stats.csv')
