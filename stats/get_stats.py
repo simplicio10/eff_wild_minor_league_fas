@@ -6,7 +6,7 @@ from pybaseball import batting_stats, pitching_stats
 import polars as pl
 
 #years = list(range(1993, 2024, 5))
-all_stats = pl.scan_csv('../files/stats/player_stats.csv', schema_overrides={'Season': pl.String})
+all_stats = pl.scan_csv('../files/stats/player_stats_1.csv', schema_overrides={'Season': pl.String})
 
 '''for year in years:
     idx = years.index(year)
@@ -43,5 +43,5 @@ def get_annual_stats(year):
     return new_stats
 
 stats_update = get_annual_stats(year_24)
-stats_update.collect().write_csv('../files/stats/player_stats_updated.csv')
+stats_update.collect().write_csv('../files/stats/player_stats_2.csv')
 
